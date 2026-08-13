@@ -18,7 +18,7 @@ const CONFIG = {
   API_KEY: "cDZHYzlZa0JadVREZDJCendQbXY6SkJlTzNjLV9TRENyQk1RdnFKZGRQdw==",
 
   // Tribunais consultados. Acrescente "trf1" p/ servidores federais (1ª Região = GO e TO).
-  TRIBUNAIS: ["tjgo", "tjto"],
+  TRIBUNAIS: ["tjgo", "tjto", "trf1"],
 
   MAX_POR_GRUPO: 300,   // processos por grupo de busca, por tribunal (100 por página)
   ANO_MINIMO: 2019,     // traz só ajuizados a partir deste ano
@@ -42,6 +42,14 @@ const TRIBUNAL_INFO = {
   TJTO: { uf: "TO", estado: "Tocantins", justica: "Estadual", label: "Tocantins · TJTO" },
   TRF1: { uf: "1ª Reg.", estado: "Justiça Federal", justica: "Federal", label: "Federal · TRF1" },
 };
+
+/* TRF1 cobre a 1ª Região inteira. Como o codigoMunicipioIBGE não é o IBGE real,
+   isolamos GO/TO pela CIDADE no nome do órgão julgador (subseções federais). */
+const CIDADES_TRF1_GOTO = ["Goiânia", "Aparecida de Goiânia", "Anápolis", "Luziânia", "Uruaçu",
+  "Rio Verde", "Formosa", "Itumbiara", "Jataí", "Catalão", "Porangatu", "Posse", "Mineiros",
+  "Quirinópolis", "Goianésia", "Palmas", "Araguaína", "Gurupi", "Porto Nacional", "Guaraí",
+  "Colinas do Tocantins", "Dianópolis", "Paraíso do Tocantins", "Tocantinópolis"];
+const GEO_TRF1 = { bool: { should: CIDADES_TRF1_GOTO.map((c) => ({ match_phrase: { "orgaoJulgador.nome": c } })), minimum_should_match: 1 } };
 
 /* Palavras-chave p/ classificar a frente pelo assunto ------------------------- */
 const KW = {
@@ -153,6 +161,7 @@ function classificar(assuntosTxt, classeCod, tribunal, frenteForcada) {
   const estadual = tribunal === "TJGO" || tribunal === "TJTO";
   if (ehConsorcio) { trilha = "Consórcio"; prioridade = true; }
   else if (frentes.has("servidores") && estadual) { trilha = "Servidores estaduais"; prioridade = true; }
+  else if (frentes.has("servidores") && tribunal === "TRF1") { trilha = "Servidores federais"; prioridade = true; }
   else if (frentes.has("seguros")) { trilha = "Seguros"; }
   else if (frentes.has("consumidor")) { trilha = "Consumidor"; }
   return { frentes: [...frentes], trilha, prioridade };
@@ -173,35 +182,40 @@ function classificar(assuntosTxt, classeCod, tribunal, frenteForcada) {
 
   for (const alias of CONFIG.TRIBUNAIS) {
     console.log("\n[" + alias.toUpperCase() + "]");
+    const ehTRF1 = alias === "trf1";
+    const geoF = ehTRF1 ? [GEO_TRF1] : []; // no TRF1, restringe a GO/TO pela cidade do órgão
 
-    // 1) Servidores estaduais: execuções coletivas + MS coletivo + ação coletiva
-    let f = { bool: { must: [{ terms: { "classe.codigo": [...CLASSES_COLETIVAS_EXEC, ...CLASSE_MS_COLETIVO, ...CLASSE_ACAO_COLETIVA] } }],
-      filter: [{ range: { dataAjuizamento: { gte: anoGte } } }] } };
+    // 1) Coletivas + MS coletivo (+ ACP no federal): base de servidores
+    const classesG1 = [...CLASSES_COLETIVAS_EXEC, ...CLASSE_MS_COLETIVO, ...CLASSE_ACAO_COLETIVA, ...(ehTRF1 ? CLASSE_ACP : [])];
+    let f = { bool: { must: [{ terms: { "classe.codigo": classesG1 } }],
+      filter: [{ range: { dataAjuizamento: { gte: anoGte } } }, ...geoF] } };
     let r = await coletarGrupo(alias, f, null);
-    console.log("  - Coletivas/MS (servidores): " + r.length); brutos.push(...r);
+    console.log("  - Coletivas/MS" + (ehTRF1 ? "/ACP" : "") + " (servidores): " + r.length); brutos.push(...r);
 
-    // 2) CONSÓRCIO: ACP / coletiva / execução coletiva com assunto de consórcio ou propaganda enganosa
-    f = { bool: {
-      must: [{ terms: { "classe.codigo": [...CLASSE_ACP, ...CLASSE_ACAO_COLETIVA, ...CLASSES_COLETIVAS_EXEC] } }],
-      should: termosConsorcio.map((tt)=>({ match_phrase: { "assuntos.nome": tt } })), minimum_should_match: 1,
-      filter: [{ range: { dataAjuizamento: { gte: anoGte } } }] } };
-    r = await coletarGrupo(alias, f, "consumidor");
-    console.log("  - Consórcio (ACP/CDC): " + r.length); brutos.push(...r);
+    if (!ehTRF1) {
+      // 2) CONSÓRCIO: ACP / coletiva / execução coletiva com assunto de consórcio ou propaganda enganosa
+      f = { bool: {
+        must: [{ terms: { "classe.codigo": [...CLASSE_ACP, ...CLASSE_ACAO_COLETIVA, ...CLASSES_COLETIVAS_EXEC] } }],
+        should: termosConsorcio.map((tt)=>({ match_phrase: { "assuntos.nome": tt } })), minimum_should_match: 1,
+        filter: [{ range: { dataAjuizamento: { gte: anoGte } } }] } };
+      r = await coletarGrupo(alias, f, "consumidor");
+      console.log("  - Consórcio (ACP/CDC): " + r.length); brutos.push(...r);
 
-    // 3) Consumidor geral (ACP)
-    f = { bool: {
-      must: [{ terms: { "classe.codigo": [...CLASSE_ACP, ...CLASSE_ACAO_COLETIVA] } }],
-      should: termosConsumo.map((tt)=>({ match_phrase: { "assuntos.nome": tt } })), minimum_should_match: 1,
-      filter: [{ range: { dataAjuizamento: { gte: anoGte } } }] } };
-    r = await coletarGrupo(alias, f, "consumidor");
-    console.log("  - Consumidor geral (ACP): " + r.length); brutos.push(...r);
+      // 3) Consumidor geral (ACP)
+      f = { bool: {
+        must: [{ terms: { "classe.codigo": [...CLASSE_ACP, ...CLASSE_ACAO_COLETIVA] } }],
+        should: termosConsumo.map((tt)=>({ match_phrase: { "assuntos.nome": tt } })), minimum_should_match: 1,
+        filter: [{ range: { dataAjuizamento: { gte: anoGte } } }] } };
+      r = await coletarGrupo(alias, f, "consumidor");
+      console.log("  - Consumidor geral (ACP): " + r.length); brutos.push(...r);
 
-    // 4) Seguros (assunto)
-    f = { bool: { must: [{ match_phrase: { "assuntos.nome": "Seguro" } }],
-      filter: [{ terms: { "classe.codigo": [...CLASSES_COLETIVAS_EXEC, ...CLASSE_ACP, ...CLASSE_ACAO_COLETIVA, 156, 436, 7] } },
-        { range: { dataAjuizamento: { gte: anoGte } } }] } };
-    r = await coletarGrupo(alias, f, "seguros");
-    console.log("  - Seguros (assunto): " + r.length); brutos.push(...r);
+      // 4) Seguros (assunto)
+      f = { bool: { must: [{ match_phrase: { "assuntos.nome": "Seguro" } }],
+        filter: [{ terms: { "classe.codigo": [...CLASSES_COLETIVAS_EXEC, ...CLASSE_ACP, ...CLASSE_ACAO_COLETIVA, 156, 436, 7] } },
+          { range: { dataAjuizamento: { gte: anoGte } } }] } };
+      r = await coletarGrupo(alias, f, "seguros");
+      console.log("  - Seguros (assunto): " + r.length); brutos.push(...r);
+    }
   }
 
   /* ----- normalizar + deduplicar + ranquear ----- */
@@ -369,6 +383,7 @@ td.sc{color:var(--mut);font-size:12px}
 .fase-conh{color:var(--conh);background:var(--conh-bg)}
 .t-Consorcio{color:var(--t-consorcio);background:var(--t-consorcio-bg)}
 .t-Servidores{color:var(--t-serv);background:var(--t-serv-bg)}
+.t-ServidoresFed{color:#1aa99a;background:rgba(26,169,154,.16)}
 .t-Consumidor{color:var(--t-cons);background:var(--t-cons-bg)}
 .t-Seguros{color:var(--t-seg);background:var(--t-seg-bg)}
 .t-Outros{color:var(--t-out);background:var(--t-out-bg)}
@@ -395,6 +410,7 @@ const BODY = `
       <option value="prioritarios">🎯 Prioritários (padrão)</option>
       <option value="Consórcio">Consórcio (ACP / CDC)</option>
       <option value="Servidores estaduais">Servidores estaduais GO/TO</option>
+      <option value="Servidores federais">Servidores federais (TRF1)</option>
       <option value="Consumidor">Consumidor (geral)</option>
       <option value="Seguros">Seguros</option>
       <option value="">Todos</option>
@@ -441,6 +457,7 @@ const BODY = `
   var cards=[["b",M.total||D.length,"processos",""],
     ["prio",pt["Consórcio"]||0,"Consórcio (ACP / CDC)","var(--t-consorcio)"],
     ["prio",pt["Servidores estaduais"]||0,"Servidores estaduais","var(--t-serv)"],
+    ["prio",pt["Servidores federais"]||0,"Servidores federais","#1aa99a"],
     ["b",pf["Execução (coletiva)"]||0,"em execução coletiva","var(--exec)"],
     ["b",M.prioritarios||0,"prioritários no total","var(--acc)"]];
   g("cards").innerHTML=cards.map(function(c){
@@ -456,7 +473,7 @@ const BODY = `
 
   function link(r){return "https://www.google.com/search?q="+encodeURIComponent('"'+r.numeroFmt+'"');}
   function faseCls(f){return f.indexOf("Execu")===0?"fase-exec":(f.indexOf("Liquid")===0?"fase-liq":"fase-conh");}
-  function trilhaCls(t){return "t-"+({"Consórcio":"Consorcio","Servidores estaduais":"Servidores","Consumidor":"Consumidor","Seguros":"Seguros"}[t]||"Outros");}
+  function trilhaCls(t){return "t-"+({"Consórcio":"Consorcio","Servidores estaduais":"Servidores","Servidores federais":"ServidoresFed","Consumidor":"Consumidor","Seguros":"Seguros"}[t]||"Outros");}
 
   function filtrar(){
     var s=(q.value||"").toLowerCase(),tr=fTrilha.value,tb2=fTrib.value,fa=fFase.value,tj=fTransito.checked;
@@ -501,7 +518,7 @@ const BODY = `
       if(sortK===k)sortDir*=-1;else{sortK=k;sortDir=(k==="score"||k==="ajuizadoSort")?-1:1;}render();});
   });
   g("foot").innerHTML="<b>Como usar:</b> clique no número do processo para localizar as partes (seguradora, administradora de consórcio, sindicato) na consulta pública — a API do CNJ não fornece o nome das partes. "
-    +"O ranking (★) prioriza as trilhas de Consórcio e Servidores estaduais, depois fase de cumprimento, recência e trânsito em julgado.";
+    +"O ranking (★) prioriza as trilhas de Consórcio e Servidores (estaduais e federais), depois fase de cumprimento, recência e trânsito em julgado.";
   render();
 })();
 </script>
