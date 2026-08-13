@@ -69,6 +69,23 @@ async function buscar(alias, body) {
   if (!res.ok) throw new Error("HTTP " + res.status + " (" + alias + ") " + (await res.text()).slice(0, 160));
   return res.json();
 }
+// Repete a consulta em erros transitórios (503/DNS, 429, 5xx, timeouts) antes de desistir do grupo.
+async function buscarComRetry(alias, body, tentativas = 4) {
+  let ultimoErro;
+  for (let t = 0; t < tentativas; t++) {
+    try { return await buscar(alias, body); }
+    catch (e) {
+      ultimoErro = e;
+      const msg = String((e && e.message) || e);
+      const transitorio = /HTTP (429|500|502|503|504|529)|DNS|fetch failed|ECONN|ETIMEDOUT|EAI_AGAIN|socket|network|timeout/i.test(msg);
+      if (!transitorio || t === tentativas - 1) throw e;
+      const espera = 800 * Math.pow(2, t); // 0.8s, 1.6s, 3.2s
+      console.log("   ~ retry " + (t + 1) + "/" + (tentativas - 1) + " (" + msg.slice(0, 60) + ") em " + espera + "ms");
+      await new Promise((ok) => setTimeout(ok, espera));
+    }
+  }
+  throw ultimoErro;
+}
 async function coletarGrupo(alias, filtro, frenteForcada) {
   const out = [];
   let searchAfter = null;
@@ -81,7 +98,7 @@ async function coletarGrupo(alias, filtro, frenteForcada) {
       query: filtro, sort: [{ dataAjuizamento: { order: "desc" } }],
     };
     if (searchAfter) body.search_after = searchAfter;
-    let r; try { r = await buscar(alias, body); } catch (e) { console.log("   ! " + e.message); break; }
+    let r; try { r = await buscarComRetry(alias, body); } catch (e) { console.log("   ! " + e.message); break; }
     const hits = (r.hits && r.hits.hits) || [];
     if (!hits.length) break;
     for (const h of hits) out.push({ src: h._source, frenteForcada });
