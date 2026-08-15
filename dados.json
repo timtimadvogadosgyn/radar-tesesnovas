@@ -1,6 +1,6 @@
 {
   "meta": {
-    "geradoEm": "14/08/2026, 11:06:58",
+    "geradoEm": "15/08/2026, 11:04:24",
     "total": 1836,
     "prioritarios": 1032,
     "tribunaisVazios": [],
@@ -18,8 +18,8 @@
       "Outros": 61
     },
     "porFase": {
-      "Execução (coletiva)": 982,
-      "Conhecimento": 850,
+      "Execução (coletiva)": 981,
+      "Conhecimento": 851,
       "Execução (individual)": 4
     }
   },
@@ -22449,35 +22449,6 @@
       "score": 414
     },
     {
-      "numero": "00075205820268272722",
-      "numeroFmt": "0007520-58.2026.8.27.2722",
-      "tribunal": "TJTO",
-      "tribunalLabel": "Tocantins · TJTO",
-      "uf": "TO",
-      "justica": "Estadual",
-      "grau": "G1",
-      "classeCod": 15160,
-      "classe": "Cumprimento de Sentença de Ações Coletivas",
-      "assuntos": [
-        "Reajuste de Remuneração, Soldo, Proventos ou Pensão"
-      ],
-      "assuntosTxt": "Reajuste de Remuneração, Soldo, Proventos ou Pensão",
-      "orgao": "Juizo da 1ª Vara da Fazenda e Registros Públicos de Gurupi",
-      "sistema": "Projudi",
-      "ajuizadoBR": "26/05/2026",
-      "ajuizadoSort": "20260526",
-      "ultMov": "Confirmada",
-      "ultMovData": "2026-07-02",
-      "transito": false,
-      "frentes": [
-        "servidores"
-      ],
-      "trilha": "Servidores estaduais",
-      "prioridade": true,
-      "fase": "Execução (coletiva)",
-      "score": 414
-    },
-    {
       "numero": "10548594620264013500",
       "numeroFmt": "1054859-46.2026.4.01.3500",
       "tribunal": "TRF1",
@@ -29007,6 +28978,35 @@
         "consumidor"
       ],
       "trilha": "Consórcio",
+      "prioridade": true,
+      "fase": "Conhecimento",
+      "score": 344
+    },
+    {
+      "numero": "00175347020268272700",
+      "numeroFmt": "0017534-70.2026.8.27.2700",
+      "tribunal": "TJTO",
+      "tribunalLabel": "Tocantins · TJTO",
+      "uf": "TO",
+      "justica": "Estadual",
+      "grau": "G2",
+      "classeCod": 119,
+      "classe": "Mandado de Segurança Coletivo",
+      "assuntos": [
+        "Providência"
+      ],
+      "assuntosTxt": "Providência",
+      "orgao": "DES. MARCOS ANTONIO DE SOUSA",
+      "sistema": "Projudi",
+      "ajuizadoBR": "07/08/2026",
+      "ajuizadoSort": "20260807",
+      "ultMov": "Disponibilização no Diário da Justiça Eletrônico",
+      "ultMovData": "2026-08-12",
+      "transito": false,
+      "frentes": [
+        "servidores"
+      ],
+      "trilha": "Servidores estaduais",
       "prioridade": true,
       "fase": "Conhecimento",
       "score": 344
