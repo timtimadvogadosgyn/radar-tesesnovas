@@ -1,25 +1,25 @@
 {
   "meta": {
-    "geradoEm": "28/08/2026, 11:06:42",
-    "total": 1902,
-    "prioritarios": 1095,
+    "geradoEm": "29/08/2026, 11:05:44",
+    "total": 1901,
+    "prioritarios": 1087,
     "tribunaisVazios": [],
     "porTribunal": {
       "TJGO": 965,
       "TJTO": 638,
-      "TRF1": 299
+      "TRF1": 298
     },
     "porTrilha": {
       "Servidores estaduais": 539,
       "Consórcio": 313,
-      "Servidores federais": 243,
+      "Servidores federais": 235,
       "Consumidor": 144,
       "Seguros": 599,
-      "Outros": 64
+      "Outros": 71
     },
     "porFase": {
-      "Execução (coletiva)": 1046,
-      "Conhecimento": 854,
+      "Execução (coletiva)": 1042,
+      "Conhecimento": 857,
       "Execução (individual)": 2
     }
   },
@@ -24268,6 +24268,212 @@
       "score": 414
     },
     {
+      "numero": "10596428120264013500",
+      "numeroFmt": "1059642-81.2026.4.01.3500",
+      "tribunal": "TRF1",
+      "tribunalLabel": "Federal · TRF1",
+      "uf": "1ª Reg.",
+      "justica": "Federal",
+      "grau": "G1",
+      "classeCod": 15160,
+      "classe": "Cumprimento de Sentença de Ações Coletivas",
+      "assuntos": [
+        "Isonomia/Equivalência Salarial",
+        "Extensão de Vantagem aos Inativos",
+        "Paridade Salarial"
+      ],
+      "assuntosTxt": "Isonomia/Equivalência Salarial; Extensão de Vantagem aos Inativos; Paridade Salarial",
+      "orgao": "01ª - Goiânia",
+      "sistema": "PJe",
+      "ajuizadoBR": "18/08/2026",
+      "ajuizadoSort": "20260818",
+      "ultMov": "Recebimento",
+      "ultMovData": "2026-08-18",
+      "transito": false,
+      "frentes": [
+        "servidores"
+      ],
+      "trilha": "Servidores federais",
+      "prioridade": true,
+      "fase": "Execução (coletiva)",
+      "score": 414
+    },
+    {
+      "numero": "10596210820264013500",
+      "numeroFmt": "1059621-08.2026.4.01.3500",
+      "tribunal": "TRF1",
+      "tribunalLabel": "Federal · TRF1",
+      "uf": "1ª Reg.",
+      "justica": "Federal",
+      "grau": "G1",
+      "classeCod": 15161,
+      "classe": "Cumprimento Provisório de Sentença de Ações Coletivas",
+      "assuntos": [
+        "PIS - Cofins",
+        "Cumprimento Provisório de Sentença"
+      ],
+      "assuntosTxt": "PIS - Cofins; Cumprimento Provisório de Sentença",
+      "orgao": "02ª - Goiânia",
+      "sistema": "PJe",
+      "ajuizadoBR": "18/08/2026",
+      "ajuizadoSort": "20260818",
+      "ultMov": "Conclusão",
+      "ultMovData": "2026-08-19",
+      "transito": false,
+      "frentes": [
+        "servidores"
+      ],
+      "trilha": "Servidores federais",
+      "prioridade": true,
+      "fase": "Execução (coletiva)",
+      "score": 414
+    },
+    {
+      "numero": "10049233720264013505",
+      "numeroFmt": "1004923-37.2026.4.01.3505",
+      "tribunal": "TRF1",
+      "tribunalLabel": "Federal · TRF1",
+      "uf": "1ª Reg.",
+      "justica": "Federal",
+      "grau": "G1",
+      "classeCod": 15160,
+      "classe": "Cumprimento de Sentença de Ações Coletivas",
+      "assuntos": [
+        "Auxílio-Reclusão (Art. 80)"
+      ],
+      "assuntosTxt": "Auxílio-Reclusão (Art. 80)",
+      "orgao": "Vara Única de Uruaçu",
+      "sistema": "PJe",
+      "ajuizadoBR": "15/08/2026",
+      "ajuizadoSort": "20260815",
+      "ultMov": "Recebimento",
+      "ultMovData": "2026-08-15",
+      "transito": false,
+      "frentes": [
+        "servidores"
+      ],
+      "trilha": "Servidores federais",
+      "prioridade": true,
+      "fase": "Execução (coletiva)",
+      "score": 414
+    },
+    {
+      "numero": "10579089520264013500",
+      "numeroFmt": "1057908-95.2026.4.01.3500",
+      "tribunal": "TRF1",
+      "tribunalLabel": "Federal · TRF1",
+      "uf": "1ª Reg.",
+      "justica": "Federal",
+      "grau": "G1",
+      "classeCod": 15160,
+      "classe": "Cumprimento de Sentença de Ações Coletivas",
+      "assuntos": [
+        "Índice de 28,86% Lei 8.622/1993 e 8.627/1993"
+      ],
+      "assuntosTxt": "Índice de 28,86% Lei 8.622/1993 e 8.627/1993",
+      "orgao": "02ª - Goiânia",
+      "sistema": "PJe",
+      "ajuizadoBR": "11/08/2026",
+      "ajuizadoSort": "20260811",
+      "ultMov": "Petição",
+      "ultMovData": "2026-08-19",
+      "transito": false,
+      "frentes": [
+        "servidores"
+      ],
+      "trilha": "Servidores federais",
+      "prioridade": true,
+      "fase": "Execução (coletiva)",
+      "score": 414
+    },
+    {
+      "numero": "10572983020264013500",
+      "numeroFmt": "1057298-30.2026.4.01.3500",
+      "tribunal": "TRF1",
+      "tribunalLabel": "Federal · TRF1",
+      "uf": "1ª Reg.",
+      "justica": "Federal",
+      "grau": "JE",
+      "classeCod": 15160,
+      "classe": "Cumprimento de Sentença de Ações Coletivas",
+      "assuntos": [
+        "Índice de 28,86% Lei 8.622/1993 e 8.627/1993"
+      ],
+      "assuntosTxt": "Índice de 28,86% Lei 8.622/1993 e 8.627/1993",
+      "orgao": "06ª - Goiânia",
+      "sistema": "PJe",
+      "ajuizadoBR": "10/08/2026",
+      "ajuizadoSort": "20260810",
+      "ultMov": "Retificação de Classe Processual",
+      "ultMovData": "2026-08-17",
+      "transito": false,
+      "frentes": [
+        "servidores"
+      ],
+      "trilha": "Servidores federais",
+      "prioridade": true,
+      "fase": "Execução (coletiva)",
+      "score": 414
+    },
+    {
+      "numero": "10145423120264014300",
+      "numeroFmt": "1014542-31.2026.4.01.4300",
+      "tribunal": "TRF1",
+      "tribunalLabel": "Federal · TRF1",
+      "uf": "1ª Reg.",
+      "justica": "Federal",
+      "grau": "G1",
+      "classeCod": 15160,
+      "classe": "Cumprimento de Sentença de Ações Coletivas",
+      "assuntos": [
+        "Índice de 28,86% Lei 8.622/1993 e 8.627/1993"
+      ],
+      "assuntosTxt": "Índice de 28,86% Lei 8.622/1993 e 8.627/1993",
+      "orgao": "01ª - Palmas",
+      "sistema": "PJe",
+      "ajuizadoBR": "05/08/2026",
+      "ajuizadoSort": "20260805",
+      "ultMov": "Publicação",
+      "ultMovData": "2026-08-12",
+      "transito": false,
+      "frentes": [
+        "servidores"
+      ],
+      "trilha": "Servidores federais",
+      "prioridade": true,
+      "fase": "Execução (coletiva)",
+      "score": 414
+    },
+    {
+      "numero": "10557722820264013500",
+      "numeroFmt": "1055772-28.2026.4.01.3500",
+      "tribunal": "TRF1",
+      "tribunalLabel": "Federal · TRF1",
+      "uf": "1ª Reg.",
+      "justica": "Federal",
+      "grau": "G1",
+      "classeCod": 15160,
+      "classe": "Cumprimento de Sentença de Ações Coletivas",
+      "assuntos": [
+        "Índice de 28,86% Lei 8.622/1993 e 8.627/1993"
+      ],
+      "assuntosTxt": "Índice de 28,86% Lei 8.622/1993 e 8.627/1993",
+      "orgao": "04ª - Goiânia",
+      "sistema": "PJe",
+      "ajuizadoBR": "04/08/2026",
+      "ajuizadoSort": "20260804",
+      "ultMov": "Petição",
+      "ultMovData": "2026-08-18",
+      "transito": false,
+      "frentes": [
+        "servidores"
+      ],
+      "trilha": "Servidores federais",
+      "prioridade": true,
+      "fase": "Execução (coletiva)",
+      "score": 414
+    },
+    {
       "numero": "10144358420264014300",
       "numeroFmt": "1014435-84.2026.4.01.4300",
       "tribunal": "TRF1",
@@ -24314,8 +24520,124 @@
       "sistema": "PJe",
       "ajuizadoBR": "31/07/2026",
       "ajuizadoSort": "20260731",
-      "ultMov": "Remessa",
-      "ultMovData": "2026-07-31",
+      "ultMov": "Petição",
+      "ultMovData": "2026-08-13",
+      "transito": false,
+      "frentes": [
+        "servidores"
+      ],
+      "trilha": "Servidores federais",
+      "prioridade": true,
+      "fase": "Execução (coletiva)",
+      "score": 414
+    },
+    {
+      "numero": "10548542420264013500",
+      "numeroFmt": "1054854-24.2026.4.01.3500",
+      "tribunal": "TRF1",
+      "tribunalLabel": "Federal · TRF1",
+      "uf": "1ª Reg.",
+      "justica": "Federal",
+      "grau": "G1",
+      "classeCod": 15160,
+      "classe": "Cumprimento de Sentença de Ações Coletivas",
+      "assuntos": [
+        "Índice de 28,86% Lei 8.622/1993 e 8.627/1993"
+      ],
+      "assuntosTxt": "Índice de 28,86% Lei 8.622/1993 e 8.627/1993",
+      "orgao": "03ª - Goiânia",
+      "sistema": "PJe",
+      "ajuizadoBR": "31/07/2026",
+      "ajuizadoSort": "20260731",
+      "ultMov": "Publicação",
+      "ultMovData": "2026-08-12",
+      "transito": false,
+      "frentes": [
+        "servidores"
+      ],
+      "trilha": "Servidores federais",
+      "prioridade": true,
+      "fase": "Execução (coletiva)",
+      "score": 414
+    },
+    {
+      "numero": "10546533220264013500",
+      "numeroFmt": "1054653-32.2026.4.01.3500",
+      "tribunal": "TRF1",
+      "tribunalLabel": "Federal · TRF1",
+      "uf": "1ª Reg.",
+      "justica": "Federal",
+      "grau": "G1",
+      "classeCod": 15160,
+      "classe": "Cumprimento de Sentença de Ações Coletivas",
+      "assuntos": [
+        "Adicional de Plantão Hospitalar"
+      ],
+      "assuntosTxt": "Adicional de Plantão Hospitalar",
+      "orgao": "03ª - Goiânia",
+      "sistema": "PJe",
+      "ajuizadoBR": "30/07/2026",
+      "ajuizadoSort": "20260730",
+      "ultMov": "Publicação",
+      "ultMovData": "2026-08-12",
+      "transito": false,
+      "frentes": [
+        "servidores"
+      ],
+      "trilha": "Servidores federais",
+      "prioridade": true,
+      "fase": "Execução (coletiva)",
+      "score": 414
+    },
+    {
+      "numero": "10546221220264013500",
+      "numeroFmt": "1054622-12.2026.4.01.3500",
+      "tribunal": "TRF1",
+      "tribunalLabel": "Federal · TRF1",
+      "uf": "1ª Reg.",
+      "justica": "Federal",
+      "grau": "G1",
+      "classeCod": 15160,
+      "classe": "Cumprimento de Sentença de Ações Coletivas",
+      "assuntos": [
+        "Adicional de Plantão Hospitalar"
+      ],
+      "assuntosTxt": "Adicional de Plantão Hospitalar",
+      "orgao": "03ª - Goiânia",
+      "sistema": "PJe",
+      "ajuizadoBR": "30/07/2026",
+      "ajuizadoSort": "20260730",
+      "ultMov": "Publicação",
+      "ultMovData": "2026-08-12",
+      "transito": false,
+      "frentes": [
+        "servidores"
+      ],
+      "trilha": "Servidores federais",
+      "prioridade": true,
+      "fase": "Execução (coletiva)",
+      "score": 414
+    },
+    {
+      "numero": "10544697620264013500",
+      "numeroFmt": "1054469-76.2026.4.01.3500",
+      "tribunal": "TRF1",
+      "tribunalLabel": "Federal · TRF1",
+      "uf": "1ª Reg.",
+      "justica": "Federal",
+      "grau": "G1",
+      "classeCod": 15160,
+      "classe": "Cumprimento de Sentença de Ações Coletivas",
+      "assuntos": [
+        "Adicional de Plantão Hospitalar"
+      ],
+      "assuntosTxt": "Adicional de Plantão Hospitalar",
+      "orgao": "03ª - Goiânia",
+      "sistema": "PJe",
+      "ajuizadoBR": "30/07/2026",
+      "ajuizadoSort": "20260730",
+      "ultMov": "Publicação",
+      "ultMovData": "2026-08-12",
       "transito": false,
       "frentes": [
         "servidores"
@@ -24343,8 +24665,8 @@
       "sistema": "PJe",
       "ajuizadoBR": "29/07/2026",
       "ajuizadoSort": "20260729",
-      "ultMov": "Recebimento",
-      "ultMovData": "2026-07-29",
+      "ultMov": "Remessa",
+      "ultMovData": "2026-08-13",
       "transito": false,
       "frentes": [
         "servidores"
@@ -24365,17 +24687,17 @@
       "classeCod": 15160,
       "classe": "Cumprimento de Sentença de Ações Coletivas",
       "assuntos": [
-        "Extensão de Vantagem aos Inativos",
         "Isonomia/Equivalência Salarial",
-        "Paridade Salarial"
+        "Paridade Salarial",
+        "Extensão de Vantagem aos Inativos"
       ],
-      "assuntosTxt": "Extensão de Vantagem aos Inativos; Isonomia/Equivalência Salarial; Paridade Salarial",
+      "assuntosTxt": "Isonomia/Equivalência Salarial; Paridade Salarial; Extensão de Vantagem aos Inativos",
       "orgao": "08ª - Goiânia",
       "sistema": "PJe",
       "ajuizadoBR": "29/07/2026",
       "ajuizadoSort": "20260729",
-      "ultMov": "Remessa",
-      "ultMovData": "2026-07-31",
+      "ultMov": "Conclusão",
+      "ultMovData": "2026-08-13",
       "transito": false,
       "frentes": [
         "servidores"
@@ -24446,6 +24768,64 @@
       "score": 414
     },
     {
+      "numero": "10539457920264013500",
+      "numeroFmt": "1053945-79.2026.4.01.3500",
+      "tribunal": "TRF1",
+      "tribunalLabel": "Federal · TRF1",
+      "uf": "1ª Reg.",
+      "justica": "Federal",
+      "grau": "G1",
+      "classeCod": 15160,
+      "classe": "Cumprimento de Sentença de Ações Coletivas",
+      "assuntos": [
+        "Adicional de Plantão Hospitalar"
+      ],
+      "assuntosTxt": "Adicional de Plantão Hospitalar",
+      "orgao": "03ª - Goiânia",
+      "sistema": "PJe",
+      "ajuizadoBR": "28/07/2026",
+      "ajuizadoSort": "20260728",
+      "ultMov": "Publicação",
+      "ultMovData": "2026-08-12",
+      "transito": false,
+      "frentes": [
+        "servidores"
+      ],
+      "trilha": "Servidores federais",
+      "prioridade": true,
+      "fase": "Execução (coletiva)",
+      "score": 414
+    },
+    {
+      "numero": "10539292820264013500",
+      "numeroFmt": "1053929-28.2026.4.01.3500",
+      "tribunal": "TRF1",
+      "tribunalLabel": "Federal · TRF1",
+      "uf": "1ª Reg.",
+      "justica": "Federal",
+      "grau": "G1",
+      "classeCod": 15160,
+      "classe": "Cumprimento de Sentença de Ações Coletivas",
+      "assuntos": [
+        "Adicional de Plantão Hospitalar"
+      ],
+      "assuntosTxt": "Adicional de Plantão Hospitalar",
+      "orgao": "03ª - Goiânia",
+      "sistema": "PJe",
+      "ajuizadoBR": "28/07/2026",
+      "ajuizadoSort": "20260728",
+      "ultMov": "Publicação",
+      "ultMovData": "2026-08-12",
+      "transito": false,
+      "frentes": [
+        "servidores"
+      ],
+      "trilha": "Servidores federais",
+      "prioridade": true,
+      "fase": "Execução (coletiva)",
+      "score": 414
+    },
+    {
       "numero": "10538808420264013500",
       "numeroFmt": "1053880-84.2026.4.01.3500",
       "tribunal": "TRF1",
@@ -24506,6 +24886,64 @@
       "score": 414
     },
     {
+      "numero": "10537708520264013500",
+      "numeroFmt": "1053770-85.2026.4.01.3500",
+      "tribunal": "TRF1",
+      "tribunalLabel": "Federal · TRF1",
+      "uf": "1ª Reg.",
+      "justica": "Federal",
+      "grau": "G1",
+      "classeCod": 15160,
+      "classe": "Cumprimento de Sentença de Ações Coletivas",
+      "assuntos": [
+        "Adicional de Plantão Hospitalar"
+      ],
+      "assuntosTxt": "Adicional de Plantão Hospitalar",
+      "orgao": "03ª - Goiânia",
+      "sistema": "PJe",
+      "ajuizadoBR": "28/07/2026",
+      "ajuizadoSort": "20260728",
+      "ultMov": "Publicação",
+      "ultMovData": "2026-08-12",
+      "transito": false,
+      "frentes": [
+        "servidores"
+      ],
+      "trilha": "Servidores federais",
+      "prioridade": true,
+      "fase": "Execução (coletiva)",
+      "score": 414
+    },
+    {
+      "numero": "10537656320264013500",
+      "numeroFmt": "1053765-63.2026.4.01.3500",
+      "tribunal": "TRF1",
+      "tribunalLabel": "Federal · TRF1",
+      "uf": "1ª Reg.",
+      "justica": "Federal",
+      "grau": "G1",
+      "classeCod": 15160,
+      "classe": "Cumprimento de Sentença de Ações Coletivas",
+      "assuntos": [
+        "Adicional de Plantão Hospitalar"
+      ],
+      "assuntosTxt": "Adicional de Plantão Hospitalar",
+      "orgao": "03ª - Goiânia",
+      "sistema": "PJe",
+      "ajuizadoBR": "28/07/2026",
+      "ajuizadoSort": "20260728",
+      "ultMov": "Publicação",
+      "ultMovData": "2026-08-12",
+      "transito": false,
+      "frentes": [
+        "servidores"
+      ],
+      "trilha": "Servidores federais",
+      "prioridade": true,
+      "fase": "Execução (coletiva)",
+      "score": 414
+    },
+    {
       "numero": "10045068120264013506",
       "numeroFmt": "1004506-81.2026.4.01.3506",
       "tribunal": "TRF1",
@@ -24552,8 +24990,8 @@
       "sistema": "PJe",
       "ajuizadoBR": "24/07/2026",
       "ajuizadoSort": "20260724",
-      "ultMov": "Processo devolvido à Secretaria",
-      "ultMovData": "2026-07-31",
+      "ultMov": "Petição",
+      "ultMovData": "2026-08-18",
       "transito": false,
       "frentes": [
         "servidores"
@@ -24581,8 +25019,37 @@
       "sistema": "PJe",
       "ajuizadoBR": "24/07/2026",
       "ajuizadoSort": "20260724",
-      "ultMov": "Remessa",
-      "ultMovData": "2026-07-31",
+      "ultMov": "Disponibilização no Diário da Justiça Eletrônico",
+      "ultMovData": "2026-08-07",
+      "transito": false,
+      "frentes": [
+        "servidores"
+      ],
+      "trilha": "Servidores federais",
+      "prioridade": true,
+      "fase": "Execução (coletiva)",
+      "score": 414
+    },
+    {
+      "numero": "10136277920264014300",
+      "numeroFmt": "1013627-79.2026.4.01.4300",
+      "tribunal": "TRF1",
+      "tribunalLabel": "Federal · TRF1",
+      "uf": "1ª Reg.",
+      "justica": "Federal",
+      "grau": "G1",
+      "classeCod": 15160,
+      "classe": "Cumprimento de Sentença de Ações Coletivas",
+      "assuntos": [
+        "Índice de 28,86% Lei 8.622/1993 e 8.627/1993"
+      ],
+      "assuntosTxt": "Índice de 28,86% Lei 8.622/1993 e 8.627/1993",
+      "orgao": "01ª - Palmas",
+      "sistema": "PJe",
+      "ajuizadoBR": "23/07/2026",
+      "ajuizadoSort": "20260723",
+      "ultMov": "Publicação",
+      "ultMovData": "2026-08-17",
       "transito": false,
       "frentes": [
         "servidores"
@@ -24639,8 +25106,8 @@
       "sistema": "PJe",
       "ajuizadoBR": "21/07/2026",
       "ajuizadoSort": "20260721",
-      "ultMov": "Remessa",
-      "ultMovData": "2026-07-31",
+      "ultMov": "Conclusão",
+      "ultMovData": "2026-08-12",
       "transito": false,
       "frentes": [
         "servidores"
@@ -24751,12 +25218,12 @@
         "Gratificação de Desempenho de Atividade do Seguro Social - GDASS"
       ],
       "assuntosTxt": "Gratificação de Desempenho de Atividade do Seguro Social - GDASS",
-      "orgao": "09ª - Goiânia",
+      "orgao": "01ª - Goiânia",
       "sistema": "PJe",
       "ajuizadoBR": "17/07/2026",
       "ajuizadoSort": "20260717",
-      "ultMov": "Remessa",
-      "ultMovData": "2026-07-21",
+      "ultMov": "Conclusão",
+      "ultMovData": "2026-08-15",
       "transito": false,
       "frentes": [
         "servidores",
@@ -24826,6 +25293,35 @@
       "score": 414
     },
     {
+      "numero": "10128899120264014300",
+      "numeroFmt": "1012889-91.2026.4.01.4300",
+      "tribunal": "TRF1",
+      "tribunalLabel": "Federal · TRF1",
+      "uf": "1ª Reg.",
+      "justica": "Federal",
+      "grau": "G1",
+      "classeCod": 15160,
+      "classe": "Cumprimento de Sentença de Ações Coletivas",
+      "assuntos": [
+        "Índice de 28,86% Lei 8.622/1993 e 8.627/1993"
+      ],
+      "assuntosTxt": "Índice de 28,86% Lei 8.622/1993 e 8.627/1993",
+      "orgao": "01ª - Palmas",
+      "sistema": "PJe",
+      "ajuizadoBR": "10/07/2026",
+      "ajuizadoSort": "20260710",
+      "ultMov": "Petição",
+      "ultMovData": "2026-08-14",
+      "transito": false,
+      "frentes": [
+        "servidores"
+      ],
+      "trilha": "Servidores federais",
+      "prioridade": true,
+      "fase": "Execução (coletiva)",
+      "score": 414
+    },
+    {
       "numero": "10050793720264013501",
       "numeroFmt": "1005079-37.2026.4.01.3501",
       "tribunal": "TRF1",
@@ -24865,13 +25361,13 @@
       "classeCod": 15160,
       "classe": "Cumprimento de Sentença de Ações Coletivas",
       "assuntos": [
-        "Reajustes de Remuneração, Proventos ou Pensão",
-        "Índice de 28,86% Lei 8.622/1993 e 8.627/1993",
         "Remoção",
+        "Reajustes de Remuneração, Proventos ou Pensão",
+        "Índice de 28,86% LL 8.622/1993 e 8.627/1993",
         "Reajuste de Remuneração, Soldo, Proventos ou Pensão",
-        "Índice de 28,86% LL 8.622/1993 e 8.627/1993"
+        "Índice de 28,86% Lei 8.622/1993 e 8.627/1993"
       ],
-      "assuntosTxt": "Reajustes de Remuneração, Proventos ou Pensão; Índice de 28,86% Lei 8.622/1993 e 8.627/1993; Remoção; Reajuste de Remuneração, Soldo, Proventos ou Pensão; Índice de 28,86% LL 8.622/1993 e 8.627/1993",
+      "assuntosTxt": "Remoção; Reajustes de Remuneração, Proventos ou Pensão; Índice de 28,86% LL 8.622/1993 e 8.627/1993; Reajuste de Remuneração, Soldo, Proventos ou Pensão; Índice de 28,86% Lei 8.622/1993 e 8.627/1993",
       "orgao": "01ª - Goiânia",
       "sistema": "PJe",
       "ajuizadoBR": "02/07/2026",
@@ -25169,8 +25665,8 @@
       "sistema": "PJe",
       "ajuizadoBR": "22/06/2026",
       "ajuizadoSort": "20260622",
-      "ultMov": "Conclusão",
-      "ultMovData": "2026-07-23",
+      "ultMov": "Petição",
+      "ultMovData": "2026-08-19",
       "transito": false,
       "frentes": [
         "servidores"
@@ -25289,7 +25785,7 @@
       "ajuizadoBR": "19/06/2026",
       "ajuizadoSort": "20260619",
       "ultMov": "Petição",
-      "ultMovData": "2026-07-24",
+      "ultMovData": "2026-08-18",
       "transito": false,
       "frentes": [
         "servidores"
@@ -25434,7 +25930,7 @@
       "ajuizadoBR": "17/06/2026",
       "ajuizadoSort": "20260617",
       "ultMov": "Petição",
-      "ultMovData": "2026-06-22",
+      "ultMovData": "2026-08-11",
       "transito": false,
       "frentes": [
         "servidores"
@@ -25550,7 +26046,7 @@
       "ajuizadoBR": "16/06/2026",
       "ajuizadoSort": "20260616",
       "ultMov": "Petição",
-      "ultMovData": "2026-07-16",
+      "ultMovData": "2026-08-19",
       "transito": false,
       "frentes": [
         "servidores"
@@ -25571,16 +26067,16 @@
       "classeCod": 15160,
       "classe": "Cumprimento de Sentença de Ações Coletivas",
       "assuntos": [
-        "Índice de 28,86% LL 8.622/1993 e 8.627/1993",
-        "Índice de 28,86% Lei 8.622/1993 e 8.627/1993"
+        "Índice de 28,86% Lei 8.622/1993 e 8.627/1993",
+        "Índice de 28,86% LL 8.622/1993 e 8.627/1993"
       ],
-      "assuntosTxt": "Índice de 28,86% LL 8.622/1993 e 8.627/1993; Índice de 28,86% Lei 8.622/1993 e 8.627/1993",
+      "assuntosTxt": "Índice de 28,86% Lei 8.622/1993 e 8.627/1993; Índice de 28,86% LL 8.622/1993 e 8.627/1993",
       "orgao": "01ª - Goiânia",
       "sistema": "PJe",
       "ajuizadoBR": "16/06/2026",
       "ajuizadoSort": "20260616",
-      "ultMov": "Petição",
-      "ultMovData": "2026-07-07",
+      "ultMov": "Conclusão",
+      "ultMovData": "2026-08-17",
       "transito": false,
       "frentes": [
         "servidores"
@@ -25724,8 +26220,8 @@
       "sistema": "PJe",
       "ajuizadoBR": "08/06/2026",
       "ajuizadoSort": "20260608",
-      "ultMov": "Decurso de Prazo",
-      "ultMovData": "2026-07-28",
+      "ultMov": "Conclusão",
+      "ultMovData": "2026-08-12",
       "transito": false,
       "frentes": [
         "servidores"
@@ -25755,8 +26251,8 @@
       "sistema": "PJe",
       "ajuizadoBR": "08/06/2026",
       "ajuizadoSort": "20260608",
-      "ultMov": "Conclusão",
-      "ultMovData": "2026-06-22",
+      "ultMov": "Processo devolvido à Secretaria",
+      "ultMovData": "2026-08-12",
       "transito": false,
       "frentes": [
         "servidores"
@@ -26103,8 +26599,8 @@
       "sistema": "PJe",
       "ajuizadoBR": "05/06/2026",
       "ajuizadoSort": "20260605",
-      "ultMov": "Petição",
-      "ultMovData": "2026-07-23",
+      "ultMov": "Conclusão",
+      "ultMovData": "2026-08-14",
       "transito": false,
       "frentes": [
         "servidores"
@@ -26451,8 +26947,8 @@
       "sistema": "PJe",
       "ajuizadoBR": "28/05/2026",
       "ajuizadoSort": "20260528",
-      "ultMov": "Petição",
-      "ultMovData": "2026-07-30",
+      "ultMov": "Documento",
+      "ultMovData": "2026-08-13",
       "transito": false,
       "frentes": [
         "servidores"
@@ -26637,6 +27133,35 @@
       "score": 414
     },
     {
+      "numero": "10366624320264013500",
+      "numeroFmt": "1036662-43.2026.4.01.3500",
+      "tribunal": "TRF1",
+      "tribunalLabel": "Federal · TRF1",
+      "uf": "1ª Reg.",
+      "justica": "Federal",
+      "grau": "G1",
+      "classeCod": 15160,
+      "classe": "Cumprimento de Sentença de Ações Coletivas",
+      "assuntos": [
+        "Índice de 28,86% LL 8.622/1993 e 8.627/1993"
+      ],
+      "assuntosTxt": "Índice de 28,86% LL 8.622/1993 e 8.627/1993",
+      "orgao": "01ª - Goiânia",
+      "sistema": "PJe",
+      "ajuizadoBR": "26/05/2026",
+      "ajuizadoSort": "20260526",
+      "ultMov": "Disponibilização no Diário da Justiça Eletrônico",
+      "ultMovData": "2026-08-14",
+      "transito": false,
+      "frentes": [
+        "servidores"
+      ],
+      "trilha": "Servidores federais",
+      "prioridade": true,
+      "fase": "Execução (coletiva)",
+      "score": 414
+    },
+    {
       "numero": "10365897120264013500",
       "numeroFmt": "1036589-71.2026.4.01.3500",
       "tribunal": "TRF1",
@@ -26656,7 +27181,7 @@
       "ajuizadoBR": "26/05/2026",
       "ajuizadoSort": "20260526",
       "ultMov": "Decurso de Prazo",
-      "ultMovData": "2026-07-09",
+      "ultMovData": "2026-08-06",
       "transito": false,
       "frentes": [
         "servidores"
@@ -26939,16 +27464,16 @@
       "classeCod": 15160,
       "classe": "Cumprimento de Sentença de Ações Coletivas",
       "assuntos": [
-        "Índice de 28,86% LL 8.622/1993 e 8.627/1993",
-        "Índice de 28,86% Lei 8.622/1993 e 8.627/1993"
+        "Índice de 28,86% Lei 8.622/1993 e 8.627/1993",
+        "Índice de 28,86% LL 8.622/1993 e 8.627/1993"
       ],
-      "assuntosTxt": "Índice de 28,86% LL 8.622/1993 e 8.627/1993; Índice de 28,86% Lei 8.622/1993 e 8.627/1993",
+      "assuntosTxt": "Índice de 28,86% Lei 8.622/1993 e 8.627/1993; Índice de 28,86% LL 8.622/1993 e 8.627/1993",
       "orgao": "01ª - Goiânia",
       "sistema": "PJe",
       "ajuizadoBR": "15/05/2026",
       "ajuizadoSort": "20260515",
-      "ultMov": "Decurso de Prazo",
-      "ultMovData": "2026-07-21",
+      "ultMov": "Petição",
+      "ultMovData": "2026-08-17",
       "transito": false,
       "frentes": [
         "servidores"
@@ -27147,12 +27672,12 @@
         "Gratificação de Desempenho de Atividade do Seguro Social - GDASS"
       ],
       "assuntosTxt": "Gratificação de Desempenho de Atividade do Seguro Social - GDASS",
-      "orgao": "09ª - Goiânia",
+      "orgao": "06ª - Goiânia",
       "sistema": "PJe",
       "ajuizadoBR": "04/05/2026",
       "ajuizadoSort": "20260504",
-      "ultMov": "Petição",
-      "ultMovData": "2026-06-19",
+      "ultMov": "Redistribuição",
+      "ultMovData": "2026-08-13",
       "transito": false,
       "frentes": [
         "servidores",
@@ -27177,12 +27702,12 @@
         "Gratificação de Desempenho de Atividade do Seguro Social - GDASS"
       ],
       "assuntosTxt": "Gratificação de Desempenho de Atividade do Seguro Social - GDASS",
-      "orgao": "09ª - Goiânia",
+      "orgao": "06ª - Goiânia",
       "sistema": "PJe",
       "ajuizadoBR": "04/05/2026",
       "ajuizadoSort": "20260504",
-      "ultMov": "Petição",
-      "ultMovData": "2026-06-22",
+      "ultMov": "Redistribuição",
+      "ultMovData": "2026-08-13",
       "transito": false,
       "frentes": [
         "servidores",
@@ -27233,16 +27758,16 @@
       "classeCod": 15160,
       "classe": "Cumprimento de Sentença de Ações Coletivas",
       "assuntos": [
-        "Índice de 28,86% LL 8.622/1993 e 8.627/1993",
-        "Índice de 28,86% Lei 8.622/1993 e 8.627/1993"
+        "Índice de 28,86% Lei 8.622/1993 e 8.627/1993",
+        "Índice de 28,86% LL 8.622/1993 e 8.627/1993"
       ],
-      "assuntosTxt": "Índice de 28,86% LL 8.622/1993 e 8.627/1993; Índice de 28,86% Lei 8.622/1993 e 8.627/1993",
+      "assuntosTxt": "Índice de 28,86% Lei 8.622/1993 e 8.627/1993; Índice de 28,86% LL 8.622/1993 e 8.627/1993",
       "orgao": "01ª - Goiânia",
       "sistema": "PJe",
       "ajuizadoBR": "28/04/2026",
       "ajuizadoSort": "20260428",
-      "ultMov": "Petição",
-      "ultMovData": "2026-07-13",
+      "ultMov": "Conclusão",
+      "ultMovData": "2026-08-13",
       "transito": false,
       "frentes": [
         "servidores"
@@ -27263,16 +27788,16 @@
       "classeCod": 15160,
       "classe": "Cumprimento de Sentença de Ações Coletivas",
       "assuntos": [
-        "Índice de 28,86% Lei 8.622/1993 e 8.627/1993",
-        "Índice de 28,86% LL 8.622/1993 e 8.627/1993"
+        "Índice de 28,86% LL 8.622/1993 e 8.627/1993",
+        "Índice de 28,86% Lei 8.622/1993 e 8.627/1993"
       ],
-      "assuntosTxt": "Índice de 28,86% Lei 8.622/1993 e 8.627/1993; Índice de 28,86% LL 8.622/1993 e 8.627/1993",
+      "assuntosTxt": "Índice de 28,86% LL 8.622/1993 e 8.627/1993; Índice de 28,86% Lei 8.622/1993 e 8.627/1993",
       "orgao": "01ª - Goiânia",
       "sistema": "PJe",
       "ajuizadoBR": "28/04/2026",
       "ajuizadoSort": "20260428",
-      "ultMov": "Petição",
-      "ultMovData": "2026-07-07",
+      "ultMov": "Conclusão",
+      "ultMovData": "2026-08-13",
       "transito": false,
       "frentes": [
         "servidores"
@@ -27300,8 +27825,8 @@
       "sistema": "PJe",
       "ajuizadoBR": "27/04/2026",
       "ajuizadoSort": "20260427",
-      "ultMov": "Por decisão judicial",
-      "ultMovData": "2026-07-06",
+      "ultMov": "Petição",
+      "ultMovData": "2026-08-18",
       "transito": false,
       "frentes": [
         "servidores"
@@ -27561,8 +28086,8 @@
       "sistema": "PJe",
       "ajuizadoBR": "24/04/2026",
       "ajuizadoSort": "20260424",
-      "ultMov": "Petição",
-      "ultMovData": "2026-06-22",
+      "ultMov": "Por decisão judicial",
+      "ultMovData": "2026-08-17",
       "transito": false,
       "frentes": [
         "servidores"
@@ -28085,6 +28610,35 @@
       "ajuizadoSort": "20260423",
       "ultMov": "Petição",
       "ultMovData": "2026-06-24",
+      "transito": false,
+      "frentes": [
+        "servidores"
+      ],
+      "trilha": "Servidores federais",
+      "prioridade": true,
+      "fase": "Execução (coletiva)",
+      "score": 414
+    },
+    {
+      "numero": "10022350520264013505",
+      "numeroFmt": "1002235-05.2026.4.01.3505",
+      "tribunal": "TRF1",
+      "tribunalLabel": "Federal · TRF1",
+      "uf": "1ª Reg.",
+      "justica": "Federal",
+      "grau": "G1",
+      "classeCod": 15160,
+      "classe": "Cumprimento de Sentença de Ações Coletivas",
+      "assuntos": [
+        "Índice de 28,86% Lei 8.622/1993 e 8.627/1993"
+      ],
+      "assuntosTxt": "Índice de 28,86% Lei 8.622/1993 e 8.627/1993",
+      "orgao": "Vara Única de Uruaçu",
+      "sistema": "PJe",
+      "ajuizadoBR": "23/04/2026",
+      "ajuizadoSort": "20260423",
+      "ultMov": "Expedida/Certificada",
+      "ultMovData": "2026-08-14",
       "transito": false,
       "frentes": [
         "servidores"
@@ -29359,8 +29913,8 @@
       "sistema": "PJe",
       "ajuizadoBR": "16/04/2026",
       "ajuizadoSort": "20260416",
-      "ultMov": "Petição",
-      "ultMovData": "2026-07-22",
+      "ultMov": "Decurso de Prazo",
+      "ultMovData": "2026-08-14",
       "transito": false,
       "frentes": [
         "servidores"
@@ -29389,7 +29943,7 @@
       "ajuizadoBR": "15/04/2026",
       "ajuizadoSort": "20260415",
       "ultMov": "Petição",
-      "ultMovData": "2026-07-02",
+      "ultMovData": "2026-08-16",
       "transito": false,
       "frentes": [
         "servidores"
@@ -29504,8 +30058,8 @@
       "sistema": "PJe",
       "ajuizadoBR": "14/04/2026",
       "ajuizadoSort": "20260414",
-      "ultMov": "Petição",
-      "ultMovData": "2026-07-16",
+      "ultMov": "Documento",
+      "ultMovData": "2026-08-17",
       "transito": false,
       "frentes": [
         "servidores"
@@ -29661,673 +30215,6 @@
       "score": 414
     },
     {
-      "numero": "10217365720264013500",
-      "numeroFmt": "1021736-57.2026.4.01.3500",
-      "tribunal": "TRF1",
-      "tribunalLabel": "Federal · TRF1",
-      "uf": "1ª Reg.",
-      "justica": "Federal",
-      "grau": "G1",
-      "classeCod": 15160,
-      "classe": "Cumprimento de Sentença de Ações Coletivas",
-      "assuntos": [
-        "Abono Pecuniário (Art. 78 Lei 8.112/1990)"
-      ],
-      "assuntosTxt": "Abono Pecuniário (Art. 78 Lei 8.112/1990)",
-      "orgao": "03ª - Goiânia",
-      "sistema": "PJe",
-      "ajuizadoBR": "09/04/2026",
-      "ajuizadoSort": "20260409",
-      "ultMov": "Petição",
-      "ultMovData": "2026-07-03",
-      "transito": false,
-      "frentes": [
-        "servidores"
-      ],
-      "trilha": "Servidores federais",
-      "prioridade": true,
-      "fase": "Execução (coletiva)",
-      "score": 414
-    },
-    {
-      "numero": "10216829120264013500",
-      "numeroFmt": "1021682-91.2026.4.01.3500",
-      "tribunal": "TRF1",
-      "tribunalLabel": "Federal · TRF1",
-      "uf": "1ª Reg.",
-      "justica": "Federal",
-      "grau": "G1",
-      "classeCod": 15160,
-      "classe": "Cumprimento de Sentença de Ações Coletivas",
-      "assuntos": [
-        "Índice de 28,86% Lei 8.622/1993 e 8.627/1993"
-      ],
-      "assuntosTxt": "Índice de 28,86% Lei 8.622/1993 e 8.627/1993",
-      "orgao": "02ª - Goiânia",
-      "sistema": "PJe",
-      "ajuizadoBR": "09/04/2026",
-      "ajuizadoSort": "20260409",
-      "ultMov": "Petição",
-      "ultMovData": "2026-07-16",
-      "transito": false,
-      "frentes": [
-        "servidores"
-      ],
-      "trilha": "Servidores federais",
-      "prioridade": true,
-      "fase": "Execução (coletiva)",
-      "score": 414
-    },
-    {
-      "numero": "10214005320264013500",
-      "numeroFmt": "1021400-53.2026.4.01.3500",
-      "tribunal": "TRF1",
-      "tribunalLabel": "Federal · TRF1",
-      "uf": "1ª Reg.",
-      "justica": "Federal",
-      "grau": "G1",
-      "classeCod": 15161,
-      "classe": "Cumprimento Provisório de Sentença de Ações Coletivas",
-      "assuntos": [
-        "Direito à Incorporação"
-      ],
-      "assuntosTxt": "Direito à Incorporação",
-      "orgao": "01ª - Goiânia",
-      "sistema": "PJe",
-      "ajuizadoBR": "08/04/2026",
-      "ajuizadoSort": "20260408",
-      "ultMov": "Petição",
-      "ultMovData": "2026-06-24",
-      "transito": false,
-      "frentes": [
-        "servidores"
-      ],
-      "trilha": "Servidores federais",
-      "prioridade": true,
-      "fase": "Execução (coletiva)",
-      "score": 414
-    },
-    {
-      "numero": "10213919120264013500",
-      "numeroFmt": "1021391-91.2026.4.01.3500",
-      "tribunal": "TRF1",
-      "tribunalLabel": "Federal · TRF1",
-      "uf": "1ª Reg.",
-      "justica": "Federal",
-      "grau": "G1",
-      "classeCod": 15161,
-      "classe": "Cumprimento Provisório de Sentença de Ações Coletivas",
-      "assuntos": [
-        "Direito à Incorporação"
-      ],
-      "assuntosTxt": "Direito à Incorporação",
-      "orgao": "01ª - Goiânia",
-      "sistema": "PJe",
-      "ajuizadoBR": "08/04/2026",
-      "ajuizadoSort": "20260408",
-      "ultMov": "Petição",
-      "ultMovData": "2026-06-24",
-      "transito": false,
-      "frentes": [
-        "servidores"
-      ],
-      "trilha": "Servidores federais",
-      "prioridade": true,
-      "fase": "Execução (coletiva)",
-      "score": 414
-    },
-    {
-      "numero": "10213875420264013500",
-      "numeroFmt": "1021387-54.2026.4.01.3500",
-      "tribunal": "TRF1",
-      "tribunalLabel": "Federal · TRF1",
-      "uf": "1ª Reg.",
-      "justica": "Federal",
-      "grau": "G1",
-      "classeCod": 15160,
-      "classe": "Cumprimento de Sentença de Ações Coletivas",
-      "assuntos": [
-        "Direito à Incorporação"
-      ],
-      "assuntosTxt": "Direito à Incorporação",
-      "orgao": "01ª - Goiânia",
-      "sistema": "PJe",
-      "ajuizadoBR": "08/04/2026",
-      "ajuizadoSort": "20260408",
-      "ultMov": "Petição",
-      "ultMovData": "2026-06-24",
-      "transito": false,
-      "frentes": [
-        "servidores"
-      ],
-      "trilha": "Servidores federais",
-      "prioridade": true,
-      "fase": "Execução (coletiva)",
-      "score": 414
-    },
-    {
-      "numero": "10213823220264013500",
-      "numeroFmt": "1021382-32.2026.4.01.3500",
-      "tribunal": "TRF1",
-      "tribunalLabel": "Federal · TRF1",
-      "uf": "1ª Reg.",
-      "justica": "Federal",
-      "grau": "G1",
-      "classeCod": 15160,
-      "classe": "Cumprimento de Sentença de Ações Coletivas",
-      "assuntos": [
-        "Direito à Incorporação"
-      ],
-      "assuntosTxt": "Direito à Incorporação",
-      "orgao": "01ª - Goiânia",
-      "sistema": "PJe",
-      "ajuizadoBR": "08/04/2026",
-      "ajuizadoSort": "20260408",
-      "ultMov": "Petição",
-      "ultMovData": "2026-06-24",
-      "transito": false,
-      "frentes": [
-        "servidores"
-      ],
-      "trilha": "Servidores federais",
-      "prioridade": true,
-      "fase": "Execução (coletiva)",
-      "score": 414
-    },
-    {
-      "numero": "10213789220264013500",
-      "numeroFmt": "1021378-92.2026.4.01.3500",
-      "tribunal": "TRF1",
-      "tribunalLabel": "Federal · TRF1",
-      "uf": "1ª Reg.",
-      "justica": "Federal",
-      "grau": "G1",
-      "classeCod": 15160,
-      "classe": "Cumprimento de Sentença de Ações Coletivas",
-      "assuntos": [
-        "Direito à Incorporação"
-      ],
-      "assuntosTxt": "Direito à Incorporação",
-      "orgao": "01ª - Goiânia",
-      "sistema": "PJe",
-      "ajuizadoBR": "08/04/2026",
-      "ajuizadoSort": "20260408",
-      "ultMov": "Petição",
-      "ultMovData": "2026-06-24",
-      "transito": false,
-      "frentes": [
-        "servidores"
-      ],
-      "trilha": "Servidores federais",
-      "prioridade": true,
-      "fase": "Execução (coletiva)",
-      "score": 414
-    },
-    {
-      "numero": "10213693320264013500",
-      "numeroFmt": "1021369-33.2026.4.01.3500",
-      "tribunal": "TRF1",
-      "tribunalLabel": "Federal · TRF1",
-      "uf": "1ª Reg.",
-      "justica": "Federal",
-      "grau": "G1",
-      "classeCod": 15161,
-      "classe": "Cumprimento Provisório de Sentença de Ações Coletivas",
-      "assuntos": [
-        "Direito à Incorporação"
-      ],
-      "assuntosTxt": "Direito à Incorporação",
-      "orgao": "01ª - Goiânia",
-      "sistema": "PJe",
-      "ajuizadoBR": "08/04/2026",
-      "ajuizadoSort": "20260408",
-      "ultMov": "Petição",
-      "ultMovData": "2026-06-24",
-      "transito": false,
-      "frentes": [
-        "servidores"
-      ],
-      "trilha": "Servidores federais",
-      "prioridade": true,
-      "fase": "Execução (coletiva)",
-      "score": 414
-    },
-    {
-      "numero": "10213659320264013500",
-      "numeroFmt": "1021365-93.2026.4.01.3500",
-      "tribunal": "TRF1",
-      "tribunalLabel": "Federal · TRF1",
-      "uf": "1ª Reg.",
-      "justica": "Federal",
-      "grau": "G1",
-      "classeCod": 15160,
-      "classe": "Cumprimento de Sentença de Ações Coletivas",
-      "assuntos": [
-        "Direito à Incorporação"
-      ],
-      "assuntosTxt": "Direito à Incorporação",
-      "orgao": "01ª - Goiânia",
-      "sistema": "PJe",
-      "ajuizadoBR": "08/04/2026",
-      "ajuizadoSort": "20260408",
-      "ultMov": "Petição",
-      "ultMovData": "2026-06-24",
-      "transito": false,
-      "frentes": [
-        "servidores"
-      ],
-      "trilha": "Servidores federais",
-      "prioridade": true,
-      "fase": "Execução (coletiva)",
-      "score": 414
-    },
-    {
-      "numero": "10213546420264013500",
-      "numeroFmt": "1021354-64.2026.4.01.3500",
-      "tribunal": "TRF1",
-      "tribunalLabel": "Federal · TRF1",
-      "uf": "1ª Reg.",
-      "justica": "Federal",
-      "grau": "G1",
-      "classeCod": 15160,
-      "classe": "Cumprimento de Sentença de Ações Coletivas",
-      "assuntos": [
-        "Direito à Incorporação"
-      ],
-      "assuntosTxt": "Direito à Incorporação",
-      "orgao": "01ª - Goiânia",
-      "sistema": "PJe",
-      "ajuizadoBR": "08/04/2026",
-      "ajuizadoSort": "20260408",
-      "ultMov": "Petição",
-      "ultMovData": "2026-06-24",
-      "transito": false,
-      "frentes": [
-        "servidores"
-      ],
-      "trilha": "Servidores federais",
-      "prioridade": true,
-      "fase": "Execução (coletiva)",
-      "score": 414
-    },
-    {
-      "numero": "10213529420264013500",
-      "numeroFmt": "1021352-94.2026.4.01.3500",
-      "tribunal": "TRF1",
-      "tribunalLabel": "Federal · TRF1",
-      "uf": "1ª Reg.",
-      "justica": "Federal",
-      "grau": "G1",
-      "classeCod": 15160,
-      "classe": "Cumprimento de Sentença de Ações Coletivas",
-      "assuntos": [
-        "Direito à Incorporação"
-      ],
-      "assuntosTxt": "Direito à Incorporação",
-      "orgao": "01ª - Goiânia",
-      "sistema": "PJe",
-      "ajuizadoBR": "08/04/2026",
-      "ajuizadoSort": "20260408",
-      "ultMov": "Petição",
-      "ultMovData": "2026-06-24",
-      "transito": false,
-      "frentes": [
-        "servidores"
-      ],
-      "trilha": "Servidores federais",
-      "prioridade": true,
-      "fase": "Execução (coletiva)",
-      "score": 414
-    },
-    {
-      "numero": "10213485720264013500",
-      "numeroFmt": "1021348-57.2026.4.01.3500",
-      "tribunal": "TRF1",
-      "tribunalLabel": "Federal · TRF1",
-      "uf": "1ª Reg.",
-      "justica": "Federal",
-      "grau": "G1",
-      "classeCod": 15161,
-      "classe": "Cumprimento Provisório de Sentença de Ações Coletivas",
-      "assuntos": [
-        "Direito à Incorporação"
-      ],
-      "assuntosTxt": "Direito à Incorporação",
-      "orgao": "01ª - Goiânia",
-      "sistema": "PJe",
-      "ajuizadoBR": "08/04/2026",
-      "ajuizadoSort": "20260408",
-      "ultMov": "Petição",
-      "ultMovData": "2026-06-24",
-      "transito": false,
-      "frentes": [
-        "servidores"
-      ],
-      "trilha": "Servidores federais",
-      "prioridade": true,
-      "fase": "Execução (coletiva)",
-      "score": 414
-    },
-    {
-      "numero": "10213468720264013500",
-      "numeroFmt": "1021346-87.2026.4.01.3500",
-      "tribunal": "TRF1",
-      "tribunalLabel": "Federal · TRF1",
-      "uf": "1ª Reg.",
-      "justica": "Federal",
-      "grau": "G1",
-      "classeCod": 15160,
-      "classe": "Cumprimento de Sentença de Ações Coletivas",
-      "assuntos": [
-        "Direito à Incorporação"
-      ],
-      "assuntosTxt": "Direito à Incorporação",
-      "orgao": "01ª - Goiânia",
-      "sistema": "PJe",
-      "ajuizadoBR": "08/04/2026",
-      "ajuizadoSort": "20260408",
-      "ultMov": "Conclusão",
-      "ultMovData": "2026-07-15",
-      "transito": false,
-      "frentes": [
-        "servidores"
-      ],
-      "trilha": "Servidores federais",
-      "prioridade": true,
-      "fase": "Execução (coletiva)",
-      "score": 414
-    },
-    {
-      "numero": "10213433520264013500",
-      "numeroFmt": "1021343-35.2026.4.01.3500",
-      "tribunal": "TRF1",
-      "tribunalLabel": "Federal · TRF1",
-      "uf": "1ª Reg.",
-      "justica": "Federal",
-      "grau": "G1",
-      "classeCod": 15160,
-      "classe": "Cumprimento de Sentença de Ações Coletivas",
-      "assuntos": [
-        "Direito à Incorporação"
-      ],
-      "assuntosTxt": "Direito à Incorporação",
-      "orgao": "01ª - Goiânia",
-      "sistema": "PJe",
-      "ajuizadoBR": "08/04/2026",
-      "ajuizadoSort": "20260408",
-      "ultMov": "Petição",
-      "ultMovData": "2026-06-24",
-      "transito": false,
-      "frentes": [
-        "servidores"
-      ],
-      "trilha": "Servidores federais",
-      "prioridade": true,
-      "fase": "Execução (coletiva)",
-      "score": 414
-    },
-    {
-      "numero": "10212853220264013500",
-      "numeroFmt": "1021285-32.2026.4.01.3500",
-      "tribunal": "TRF1",
-      "tribunalLabel": "Federal · TRF1",
-      "uf": "1ª Reg.",
-      "justica": "Federal",
-      "grau": "G1",
-      "classeCod": 15161,
-      "classe": "Cumprimento Provisório de Sentença de Ações Coletivas",
-      "assuntos": [
-        "Direito à Incorporação"
-      ],
-      "assuntosTxt": "Direito à Incorporação",
-      "orgao": "01ª - Goiânia",
-      "sistema": "PJe",
-      "ajuizadoBR": "08/04/2026",
-      "ajuizadoSort": "20260408",
-      "ultMov": "Petição",
-      "ultMovData": "2026-06-24",
-      "transito": false,
-      "frentes": [
-        "servidores"
-      ],
-      "trilha": "Servidores federais",
-      "prioridade": true,
-      "fase": "Execução (coletiva)",
-      "score": 414
-    },
-    {
-      "numero": "10212697820264013500",
-      "numeroFmt": "1021269-78.2026.4.01.3500",
-      "tribunal": "TRF1",
-      "tribunalLabel": "Federal · TRF1",
-      "uf": "1ª Reg.",
-      "justica": "Federal",
-      "grau": "G1",
-      "classeCod": 15160,
-      "classe": "Cumprimento de Sentença de Ações Coletivas",
-      "assuntos": [
-        "Direito à Incorporação"
-      ],
-      "assuntosTxt": "Direito à Incorporação",
-      "orgao": "01ª - Goiânia",
-      "sistema": "PJe",
-      "ajuizadoBR": "08/04/2026",
-      "ajuizadoSort": "20260408",
-      "ultMov": "Petição",
-      "ultMovData": "2026-06-24",
-      "transito": false,
-      "frentes": [
-        "servidores"
-      ],
-      "trilha": "Servidores federais",
-      "prioridade": true,
-      "fase": "Execução (coletiva)",
-      "score": 414
-    },
-    {
-      "numero": "10212662620264013500",
-      "numeroFmt": "1021266-26.2026.4.01.3500",
-      "tribunal": "TRF1",
-      "tribunalLabel": "Federal · TRF1",
-      "uf": "1ª Reg.",
-      "justica": "Federal",
-      "grau": "G1",
-      "classeCod": 15160,
-      "classe": "Cumprimento de Sentença de Ações Coletivas",
-      "assuntos": [
-        "Direito à Incorporação"
-      ],
-      "assuntosTxt": "Direito à Incorporação",
-      "orgao": "01ª - Goiânia",
-      "sistema": "PJe",
-      "ajuizadoBR": "08/04/2026",
-      "ajuizadoSort": "20260408",
-      "ultMov": "Petição",
-      "ultMovData": "2026-06-24",
-      "transito": false,
-      "frentes": [
-        "servidores"
-      ],
-      "trilha": "Servidores federais",
-      "prioridade": true,
-      "fase": "Execução (coletiva)",
-      "score": 414
-    },
-    {
-      "numero": "10212593420264013500",
-      "numeroFmt": "1021259-34.2026.4.01.3500",
-      "tribunal": "TRF1",
-      "tribunalLabel": "Federal · TRF1",
-      "uf": "1ª Reg.",
-      "justica": "Federal",
-      "grau": "G1",
-      "classeCod": 15160,
-      "classe": "Cumprimento de Sentença de Ações Coletivas",
-      "assuntos": [
-        "Direito à Incorporação"
-      ],
-      "assuntosTxt": "Direito à Incorporação",
-      "orgao": "01ª - Goiânia",
-      "sistema": "PJe",
-      "ajuizadoBR": "08/04/2026",
-      "ajuizadoSort": "20260408",
-      "ultMov": "Petição",
-      "ultMovData": "2026-06-24",
-      "transito": false,
-      "frentes": [
-        "servidores"
-      ],
-      "trilha": "Servidores federais",
-      "prioridade": true,
-      "fase": "Execução (coletiva)",
-      "score": 414
-    },
-    {
-      "numero": "10212507220264013500",
-      "numeroFmt": "1021250-72.2026.4.01.3500",
-      "tribunal": "TRF1",
-      "tribunalLabel": "Federal · TRF1",
-      "uf": "1ª Reg.",
-      "justica": "Federal",
-      "grau": "G1",
-      "classeCod": 15160,
-      "classe": "Cumprimento de Sentença de Ações Coletivas",
-      "assuntos": [
-        "Direito à Incorporação"
-      ],
-      "assuntosTxt": "Direito à Incorporação",
-      "orgao": "01ª - Goiânia",
-      "sistema": "PJe",
-      "ajuizadoBR": "08/04/2026",
-      "ajuizadoSort": "20260408",
-      "ultMov": "Petição",
-      "ultMovData": "2026-06-24",
-      "transito": false,
-      "frentes": [
-        "servidores"
-      ],
-      "trilha": "Servidores federais",
-      "prioridade": true,
-      "fase": "Execução (coletiva)",
-      "score": 414
-    },
-    {
-      "numero": "10212438020264013500",
-      "numeroFmt": "1021243-80.2026.4.01.3500",
-      "tribunal": "TRF1",
-      "tribunalLabel": "Federal · TRF1",
-      "uf": "1ª Reg.",
-      "justica": "Federal",
-      "grau": "G1",
-      "classeCod": 15160,
-      "classe": "Cumprimento de Sentença de Ações Coletivas",
-      "assuntos": [
-        "Direito à Incorporação"
-      ],
-      "assuntosTxt": "Direito à Incorporação",
-      "orgao": "01ª - Goiânia",
-      "sistema": "PJe",
-      "ajuizadoBR": "08/04/2026",
-      "ajuizadoSort": "20260408",
-      "ultMov": "Petição",
-      "ultMovData": "2026-06-24",
-      "transito": false,
-      "frentes": [
-        "servidores"
-      ],
-      "trilha": "Servidores federais",
-      "prioridade": true,
-      "fase": "Execução (coletiva)",
-      "score": 414
-    },
-    {
-      "numero": "10212385820264013500",
-      "numeroFmt": "1021238-58.2026.4.01.3500",
-      "tribunal": "TRF1",
-      "tribunalLabel": "Federal · TRF1",
-      "uf": "1ª Reg.",
-      "justica": "Federal",
-      "grau": "G1",
-      "classeCod": 15160,
-      "classe": "Cumprimento de Sentença de Ações Coletivas",
-      "assuntos": [
-        "Direito à Incorporação"
-      ],
-      "assuntosTxt": "Direito à Incorporação",
-      "orgao": "01ª - Goiânia",
-      "sistema": "PJe",
-      "ajuizadoBR": "08/04/2026",
-      "ajuizadoSort": "20260408",
-      "ultMov": "Petição",
-      "ultMovData": "2026-06-24",
-      "transito": false,
-      "frentes": [
-        "servidores"
-      ],
-      "trilha": "Servidores federais",
-      "prioridade": true,
-      "fase": "Execução (coletiva)",
-      "score": 414
-    },
-    {
-      "numero": "10011593420264013508",
-      "numeroFmt": "1001159-34.2026.4.01.3508",
-      "tribunal": "TRF1",
-      "tribunalLabel": "Federal · TRF1",
-      "uf": "1ª Reg.",
-      "justica": "Federal",
-      "grau": "G1",
-      "classeCod": 15160,
-      "classe": "Cumprimento de Sentença de Ações Coletivas",
-      "assuntos": [
-        "Auxílio-Reclusão (Art. 80)"
-      ],
-      "assuntosTxt": "Auxílio-Reclusão (Art. 80)",
-      "orgao": "Vara Única de Itumbiara",
-      "sistema": "PJe",
-      "ajuizadoBR": "04/04/2026",
-      "ajuizadoSort": "20260404",
-      "ultMov": "Conclusão",
-      "ultMovData": "2026-08-03",
-      "transito": false,
-      "frentes": [
-        "servidores"
-      ],
-      "trilha": "Servidores federais",
-      "prioridade": true,
-      "fase": "Execução (coletiva)",
-      "score": 414
-    },
-    {
-      "numero": "10041154120264013502",
-      "numeroFmt": "1004115-41.2026.4.01.3502",
-      "tribunal": "TRF1",
-      "tribunalLabel": "Federal · TRF1",
-      "uf": "1ª Reg.",
-      "justica": "Federal",
-      "grau": "G1",
-      "classeCod": 15160,
-      "classe": "Cumprimento de Sentença de Ações Coletivas",
-      "assuntos": [
-        "Auxílio-Reclusão (Art. 80)"
-      ],
-      "assuntosTxt": "Auxílio-Reclusão (Art. 80)",
-      "orgao": "02ª Anápolis",
-      "sistema": "PJe",
-      "ajuizadoBR": "04/04/2026",
-      "ajuizadoSort": "20260404",
-      "ultMov": "Decurso de Prazo",
-      "ultMovData": "2026-06-26",
-      "transito": false,
-      "frentes": [
-        "servidores"
-      ],
-      "trilha": "Servidores federais",
-      "prioridade": true,
-      "fase": "Execução (coletiva)",
-      "score": 414
-    },
-    {
       "numero": "10108640820264014300",
       "numeroFmt": "1010864-08.2026.4.01.4300",
       "tribunal": "TRF1",
@@ -30407,36 +30294,6 @@
       "ajuizadoSort": "20260505",
       "ultMov": "Definitivo",
       "ultMovData": "2026-06-11",
-      "transito": true,
-      "frentes": [
-        "servidores"
-      ],
-      "trilha": "Servidores federais",
-      "prioridade": true,
-      "fase": "Conhecimento",
-      "score": 359
-    },
-    {
-      "numero": "10061240720264014300",
-      "numeroFmt": "1006124-07.2026.4.01.4300",
-      "tribunal": "TRF1",
-      "tribunalLabel": "Federal · TRF1",
-      "uf": "1ª Reg.",
-      "justica": "Federal",
-      "grau": "G1",
-      "classeCod": 119,
-      "classe": "Mandado de Segurança Coletivo",
-      "assuntos": [
-        "PIS",
-        "Não Cumulatividade"
-      ],
-      "assuntosTxt": "PIS; Não Cumulatividade",
-      "orgao": "02ª - Palmas",
-      "sistema": "PJe",
-      "ajuizadoBR": "10/04/2026",
-      "ajuizadoSort": "20260410",
-      "ultMov": "Cancelamento de Distribuição",
-      "ultMovData": "2026-05-22",
       "transito": true,
       "frentes": [
         "servidores"
@@ -30835,8 +30692,38 @@
       "score": 344
     },
     {
-      "numero": "10141040520264014300",
-      "numeroFmt": "1014104-05.2026.4.01.4300",
+      "numero": "10156059120264014300",
+      "numeroFmt": "1015605-91.2026.4.01.4300",
+      "tribunal": "TRF1",
+      "tribunalLabel": "Federal · TRF1",
+      "uf": "1ª Reg.",
+      "justica": "Federal",
+      "grau": "G1",
+      "classeCod": 119,
+      "classe": "Mandado de Segurança Coletivo",
+      "assuntos": [
+        "Cofins",
+        "PIS"
+      ],
+      "assuntosTxt": "Cofins; PIS",
+      "orgao": "01ª - Palmas",
+      "sistema": "PJe",
+      "ajuizadoBR": "19/08/2026",
+      "ajuizadoSort": "20260819",
+      "ultMov": "Recebimento",
+      "ultMovData": "2026-08-19",
+      "transito": false,
+      "frentes": [
+        "servidores"
+      ],
+      "trilha": "Servidores federais",
+      "prioridade": true,
+      "fase": "Conhecimento",
+      "score": 344
+    },
+    {
+      "numero": "10155236020264014300",
+      "numeroFmt": "1015523-60.2026.4.01.4300",
       "tribunal": "TRF1",
       "tribunalLabel": "Federal · TRF1",
       "uf": "1ª Reg.",
@@ -30851,10 +30738,70 @@
       "assuntosTxt": "Não Cumulatividade; PIS",
       "orgao": "01ª - Palmas",
       "sistema": "PJe",
+      "ajuizadoBR": "19/08/2026",
+      "ajuizadoSort": "20260819",
+      "ultMov": "Remessa",
+      "ultMovData": "2026-08-19",
+      "transito": false,
+      "frentes": [
+        "servidores"
+      ],
+      "trilha": "Servidores federais",
+      "prioridade": true,
+      "fase": "Conhecimento",
+      "score": 344
+    },
+    {
+      "numero": "10599606420264013500",
+      "numeroFmt": "1059960-64.2026.4.01.3500",
+      "tribunal": "TRF1",
+      "tribunalLabel": "Federal · TRF1",
+      "uf": "1ª Reg.",
+      "justica": "Federal",
+      "grau": "G1",
+      "classeCod": 119,
+      "classe": "Mandado de Segurança Coletivo",
+      "assuntos": [
+        "Não Cumulatividade",
+        "Não Cumulatividade"
+      ],
+      "assuntosTxt": "Não Cumulatividade; Não Cumulatividade",
+      "orgao": "04ª - Goiânia",
+      "sistema": "PJe",
+      "ajuizadoBR": "18/08/2026",
+      "ajuizadoSort": "20260818",
+      "ultMov": "Remessa",
+      "ultMovData": "2026-08-19",
+      "transito": false,
+      "frentes": [
+        "servidores"
+      ],
+      "trilha": "Servidores federais",
+      "prioridade": true,
+      "fase": "Conhecimento",
+      "score": 344
+    },
+    {
+      "numero": "10141040520264014300",
+      "numeroFmt": "1014104-05.2026.4.01.4300",
+      "tribunal": "TRF1",
+      "tribunalLabel": "Federal · TRF1",
+      "uf": "1ª Reg.",
+      "justica": "Federal",
+      "grau": "G1",
+      "classeCod": 119,
+      "classe": "Mandado de Segurança Coletivo",
+      "assuntos": [
+        "PIS",
+        "Não Cumulatividade"
+      ],
+      "assuntosTxt": "PIS; Não Cumulatividade",
+      "orgao": "01ª - Palmas",
+      "sistema": "PJe",
       "ajuizadoBR": "30/07/2026",
       "ajuizadoSort": "20260730",
-      "ultMov": "Conclusão",
-      "ultMovData": "2026-07-31",
+      "ultMov": "Processo devolvido à Secretaria",
+      "ultMovData": "2026-08-11",
       "transito": false,
       "frentes": [
         "servidores"
@@ -30875,18 +30822,18 @@
       "classeCod": 119,
       "classe": "Mandado de Segurança Coletivo",
       "assuntos": [
-        "Compensação",
-        "ISS/ Imposto sobre Serviços",
         "Repetição de indébito",
-        "Cofins"
+        "ISS/ Imposto sobre Serviços",
+        "Cofins",
+        "Compensação"
       ],
-      "assuntosTxt": "Compensação; ISS/ Imposto sobre Serviços; Repetição de indébito; Cofins",
+      "assuntosTxt": "Repetição de indébito; ISS/ Imposto sobre Serviços; Cofins; Compensação",
       "orgao": "01ª - Palmas",
       "sistema": "PJe",
       "ajuizadoBR": "24/07/2026",
       "ajuizadoSort": "20260724",
-      "ultMov": "Disponibilização no Diário da Justiça Eletrônico",
-      "ultMovData": "2026-07-29",
+      "ultMov": "Petição",
+      "ultMovData": "2026-08-18",
       "transito": false,
       "frentes": [
         "consumidor",
@@ -30946,8 +30893,8 @@
       "sistema": "PJe",
       "ajuizadoBR": "23/07/2026",
       "ajuizadoSort": "20260723",
-      "ultMov": "Petição",
-      "ultMovData": "2026-07-31",
+      "ultMov": "Mandado",
+      "ultMovData": "2026-08-19",
       "transito": false,
       "frentes": [
         "servidores"
@@ -30968,18 +30915,18 @@
       "classeCod": 119,
       "classe": "Mandado de Segurança Coletivo",
       "assuntos": [
-        "Repetição de indébito",
         "Cofins",
+        "ISS/ Imposto sobre Serviços",
         "Compensação",
-        "ISS/ Imposto sobre Serviços"
+        "Repetição de indébito"
       ],
-      "assuntosTxt": "Repetição de indébito; Cofins; Compensação; ISS/ Imposto sobre Serviços",
+      "assuntosTxt": "Cofins; ISS/ Imposto sobre Serviços; Compensação; Repetição de indébito",
       "orgao": "08ª - Goiânia",
       "sistema": "PJe",
       "ajuizadoBR": "22/07/2026",
       "ajuizadoSort": "20260722",
-      "ultMov": "Publicação",
-      "ultMovData": "2026-07-30",
+      "ultMov": "Documento",
+      "ultMovData": "2026-08-18",
       "transito": false,
       "frentes": [
         "consumidor",
@@ -31032,16 +30979,16 @@
       "classeCod": 119,
       "classe": "Mandado de Segurança Coletivo",
       "assuntos": [
-        "IRPJ/Imposto de Renda de Pessoa Jurídica",
-        "Contribuição Social sobre o Lucro Líquido"
+        "Contribuição Social sobre o Lucro Líquido",
+        "IRPJ/Imposto de Renda de Pessoa Jurídica"
       ],
-      "assuntosTxt": "IRPJ/Imposto de Renda de Pessoa Jurídica; Contribuição Social sobre o Lucro Líquido",
+      "assuntosTxt": "Contribuição Social sobre o Lucro Líquido; IRPJ/Imposto de Renda de Pessoa Jurídica",
       "orgao": "01ª - Goiânia",
       "sistema": "PJe",
       "ajuizadoBR": "10/07/2026",
       "ajuizadoSort": "20260710",
-      "ultMov": "Petição",
-      "ultMovData": "2026-07-23",
+      "ultMov": "Decurso de Prazo",
+      "ultMovData": "2026-08-13",
       "transito": false,
       "frentes": [
         "servidores"
@@ -31069,8 +31016,8 @@
       "sistema": "PJe",
       "ajuizadoBR": "07/07/2026",
       "ajuizadoSort": "20260707",
-      "ultMov": "Petição",
-      "ultMovData": "2026-07-10",
+      "ultMov": "Processo devolvido à Secretaria",
+      "ultMovData": "2026-08-18",
       "transito": false,
       "frentes": [
         "servidores"
@@ -31181,17 +31128,17 @@
       "classeCod": 119,
       "classe": "Mandado de Segurança Coletivo",
       "assuntos": [
-        "Retido na fonte",
+        "PIS",
         "Não Cumulatividade",
-        "PIS"
+        "Retido na fonte"
       ],
-      "assuntosTxt": "Retido na fonte; Não Cumulatividade; PIS",
+      "assuntosTxt": "PIS; Não Cumulatividade; Retido na fonte",
       "orgao": "02ª - Palmas",
       "sistema": "PJe",
       "ajuizadoBR": "29/06/2026",
       "ajuizadoSort": "20260629",
-      "ultMov": "Conclusão",
-      "ultMovData": "2026-07-28",
+      "ultMov": "Petição",
+      "ultMovData": "2026-08-14",
       "transito": false,
       "frentes": [
         "servidores"
@@ -31280,8 +31227,8 @@
       "sistema": "PJe",
       "ajuizadoBR": "23/06/2026",
       "ajuizadoSort": "20260623",
-      "ultMov": "Disponibilização no Diário da Justiça Eletrônico",
-      "ultMovData": "2026-07-22",
+      "ultMov": "Decurso de Prazo",
+      "ultMovData": "2026-08-15",
       "transito": false,
       "frentes": [
         "servidores"
@@ -31302,18 +31249,18 @@
       "classeCod": 119,
       "classe": "Mandado de Segurança Coletivo",
       "assuntos": [
-        "Alíquota",
-        "IRPJ/Imposto de Renda de Pessoa Jurídica",
+        "Contribuição Social sobre o Lucro Líquido",
         "Base de Cálculo",
-        "Contribuição Social sobre o Lucro Líquido"
+        "Alíquota",
+        "IRPJ/Imposto de Renda de Pessoa Jurídica"
       ],
-      "assuntosTxt": "Alíquota; IRPJ/Imposto de Renda de Pessoa Jurídica; Base de Cálculo; Contribuição Social sobre o Lucro Líquido",
+      "assuntosTxt": "Contribuição Social sobre o Lucro Líquido; Base de Cálculo; Alíquota; IRPJ/Imposto de Renda de Pessoa Jurídica",
       "orgao": "01ª - Goiânia",
       "sistema": "PJe",
       "ajuizadoBR": "26/05/2026",
       "ajuizadoSort": "20260526",
       "ultMov": "Petição",
-      "ultMovData": "2026-07-27",
+      "ultMovData": "2026-08-17",
       "transito": false,
       "frentes": [
         "servidores"
@@ -31334,18 +31281,18 @@
       "classeCod": 119,
       "classe": "Mandado de Segurança Coletivo",
       "assuntos": [
-        "Alíquota",
-        "Contribuição Social sobre o Lucro Líquido",
         "IRPJ/Imposto de Renda de Pessoa Jurídica",
-        "Base de Cálculo"
+        "Base de Cálculo",
+        "Contribuição Social sobre o Lucro Líquido",
+        "Alíquota"
       ],
-      "assuntosTxt": "Alíquota; Contribuição Social sobre o Lucro Líquido; IRPJ/Imposto de Renda de Pessoa Jurídica; Base de Cálculo",
+      "assuntosTxt": "IRPJ/Imposto de Renda de Pessoa Jurídica; Base de Cálculo; Contribuição Social sobre o Lucro Líquido; Alíquota",
       "orgao": "04ª - Goiânia",
       "sistema": "PJe",
       "ajuizadoBR": "26/05/2026",
       "ajuizadoSort": "20260526",
-      "ultMov": "Decurso de Prazo",
-      "ultMovData": "2026-07-22",
+      "ultMov": "Documento",
+      "ultMovData": "2026-08-19",
       "transito": false,
       "frentes": [
         "servidores"
@@ -31366,16 +31313,16 @@
       "classeCod": 119,
       "classe": "Mandado de Segurança Coletivo",
       "assuntos": [
-        "Não Cumulatividade",
-        "PIS"
+        "PIS",
+        "Não Cumulatividade"
       ],
-      "assuntosTxt": "Não Cumulatividade; PIS",
+      "assuntosTxt": "PIS; Não Cumulatividade",
       "orgao": "01ª - Palmas",
       "sistema": "PJe",
       "ajuizadoBR": "11/05/2026",
       "ajuizadoSort": "20260511",
-      "ultMov": "Expedição de documento",
-      "ultMovData": "2026-06-24",
+      "ultMov": "Remessa",
+      "ultMovData": "2026-08-19",
       "transito": false,
       "frentes": [
         "servidores"
@@ -31404,8 +31351,8 @@
       "sistema": "PJe",
       "ajuizadoBR": "05/05/2026",
       "ajuizadoSort": "20260505",
-      "ultMov": "Expedição de documento",
-      "ultMovData": "2026-06-26",
+      "ultMov": "Petição",
+      "ultMovData": "2026-08-18",
       "transito": false,
       "frentes": [
         "servidores"
@@ -31426,16 +31373,16 @@
       "classeCod": 119,
       "classe": "Mandado de Segurança Coletivo",
       "assuntos": [
-        "IRPJ/Imposto de Renda de Pessoa Jurídica",
-        "Contribuição Social sobre o Lucro Líquido"
+        "Contribuição Social sobre o Lucro Líquido",
+        "IRPJ/Imposto de Renda de Pessoa Jurídica"
       ],
-      "assuntosTxt": "IRPJ/Imposto de Renda de Pessoa Jurídica; Contribuição Social sobre o Lucro Líquido",
+      "assuntosTxt": "Contribuição Social sobre o Lucro Líquido; IRPJ/Imposto de Renda de Pessoa Jurídica",
       "orgao": "04ª - Goiânia",
       "sistema": "PJe",
       "ajuizadoBR": "30/04/2026",
       "ajuizadoSort": "20260430",
-      "ultMov": "Expedida/certificada",
-      "ultMovData": "2026-07-31",
+      "ultMov": "Documento",
+      "ultMovData": "2026-08-19",
       "transito": false,
       "frentes": [
         "servidores"
@@ -31456,16 +31403,16 @@
       "classeCod": 119,
       "classe": "Mandado de Segurança Coletivo",
       "assuntos": [
-        "IRPJ/Imposto de Renda de Pessoa Jurídica",
-        "Contribuição Social sobre o Lucro Líquido"
+        "Contribuição Social sobre o Lucro Líquido",
+        "IRPJ/Imposto de Renda de Pessoa Jurídica"
       ],
-      "assuntosTxt": "IRPJ/Imposto de Renda de Pessoa Jurídica; Contribuição Social sobre o Lucro Líquido",
+      "assuntosTxt": "Contribuição Social sobre o Lucro Líquido; IRPJ/Imposto de Renda de Pessoa Jurídica",
       "orgao": "03ª - Goiânia",
       "sistema": "PJe",
       "ajuizadoBR": "27/04/2026",
       "ajuizadoSort": "20260427",
-      "ultMov": "Publicação",
-      "ultMovData": "2026-07-16",
+      "ultMov": "Remessa",
+      "ultMovData": "2026-08-18",
       "transito": false,
       "frentes": [
         "servidores"
@@ -31494,8 +31441,8 @@
       "sistema": "PJe",
       "ajuizadoBR": "24/04/2026",
       "ajuizadoSort": "20260424",
-      "ultMov": "Conclusão",
-      "ultMovData": "2026-05-25",
+      "ultMov": "Disponibilização no Diário da Justiça Eletrônico",
+      "ultMovData": "2026-08-18",
       "transito": false,
       "frentes": [
         "servidores"
@@ -31526,7 +31473,7 @@
       "ajuizadoBR": "24/04/2026",
       "ajuizadoSort": "20260424",
       "ultMov": "Expedição de documento",
-      "ultMovData": "2026-04-28",
+      "ultMovData": "2026-08-18",
       "transito": false,
       "frentes": [
         "servidores"
@@ -31586,180 +31533,6 @@
       "ajuizadoSort": "20260410",
       "ultMov": "Publicação",
       "ultMovData": "2026-05-01",
-      "transito": false,
-      "frentes": [
-        "servidores"
-      ],
-      "trilha": "Servidores federais",
-      "prioridade": true,
-      "fase": "Conhecimento",
-      "score": 344
-    },
-    {
-      "numero": "10058261520264014300",
-      "numeroFmt": "1005826-15.2026.4.01.4300",
-      "tribunal": "TRF1",
-      "tribunalLabel": "Federal · TRF1",
-      "uf": "1ª Reg.",
-      "justica": "Federal",
-      "grau": "G1",
-      "classeCod": 65,
-      "classe": "Ação Civil Pública",
-      "assuntos": [
-        "Piso Salarial"
-      ],
-      "assuntosTxt": "Piso Salarial",
-      "orgao": "02ª - Palmas",
-      "sistema": "PJe",
-      "ajuizadoBR": "07/04/2026",
-      "ajuizadoSort": "20260407",
-      "ultMov": "Definitivo",
-      "ultMovData": "2026-07-05",
-      "transito": false,
-      "frentes": [
-        "servidores"
-      ],
-      "trilha": "Servidores federais",
-      "prioridade": true,
-      "fase": "Conhecimento",
-      "score": 344
-    },
-    {
-      "numero": "10058253020264014300",
-      "numeroFmt": "1005825-30.2026.4.01.4300",
-      "tribunal": "TRF1",
-      "tribunalLabel": "Federal · TRF1",
-      "uf": "1ª Reg.",
-      "justica": "Federal",
-      "grau": "G1",
-      "classeCod": 63,
-      "classe": "Ação Civil Coletiva",
-      "assuntos": [
-        "Piso Salarial"
-      ],
-      "assuntosTxt": "Piso Salarial",
-      "orgao": "01ª - Palmas",
-      "sistema": "PJe",
-      "ajuizadoBR": "07/04/2026",
-      "ajuizadoSort": "20260407",
-      "ultMov": "Disponibilização no Diário da Justiça Eletrônico",
-      "ultMovData": "2026-07-29",
-      "transito": false,
-      "frentes": [
-        "servidores"
-      ],
-      "trilha": "Servidores federais",
-      "prioridade": true,
-      "fase": "Conhecimento",
-      "score": 344
-    },
-    {
-      "numero": "10058236020264014300",
-      "numeroFmt": "1005823-60.2026.4.01.4300",
-      "tribunal": "TRF1",
-      "tribunalLabel": "Federal · TRF1",
-      "uf": "1ª Reg.",
-      "justica": "Federal",
-      "grau": "G1",
-      "classeCod": 65,
-      "classe": "Ação Civil Pública",
-      "assuntos": [
-        "Piso Salarial"
-      ],
-      "assuntosTxt": "Piso Salarial",
-      "orgao": "Vara Única de Gurupi",
-      "sistema": "PJe",
-      "ajuizadoBR": "07/04/2026",
-      "ajuizadoSort": "20260407",
-      "ultMov": "Petição",
-      "ultMovData": "2026-07-29",
-      "transito": false,
-      "frentes": [
-        "servidores"
-      ],
-      "trilha": "Servidores federais",
-      "prioridade": true,
-      "fase": "Conhecimento",
-      "score": 344
-    },
-    {
-      "numero": "10058219020264014300",
-      "numeroFmt": "1005821-90.2026.4.01.4300",
-      "tribunal": "TRF1",
-      "tribunalLabel": "Federal · TRF1",
-      "uf": "1ª Reg.",
-      "justica": "Federal",
-      "grau": "G1",
-      "classeCod": 65,
-      "classe": "Ação Civil Pública",
-      "assuntos": [
-        "Piso Salarial"
-      ],
-      "assuntosTxt": "Piso Salarial",
-      "orgao": "01ª Araguaína",
-      "sistema": "PJe",
-      "ajuizadoBR": "07/04/2026",
-      "ajuizadoSort": "20260407",
-      "ultMov": "Petição",
-      "ultMovData": "2026-08-06",
-      "transito": false,
-      "frentes": [
-        "servidores"
-      ],
-      "trilha": "Servidores federais",
-      "prioridade": true,
-      "fase": "Conhecimento",
-      "score": 344
-    },
-    {
-      "numero": "10058200820264014300",
-      "numeroFmt": "1005820-08.2026.4.01.4300",
-      "tribunal": "TRF1",
-      "tribunalLabel": "Federal · TRF1",
-      "uf": "1ª Reg.",
-      "justica": "Federal",
-      "grau": "G1",
-      "classeCod": 65,
-      "classe": "Ação Civil Pública",
-      "assuntos": [
-        "Piso Salarial"
-      ],
-      "assuntosTxt": "Piso Salarial",
-      "orgao": "02ª - Palmas",
-      "sistema": "PJe",
-      "ajuizadoBR": "07/04/2026",
-      "ajuizadoSort": "20260407",
-      "ultMov": "Definitivo",
-      "ultMovData": "2026-07-31",
-      "transito": false,
-      "frentes": [
-        "servidores"
-      ],
-      "trilha": "Servidores federais",
-      "prioridade": true,
-      "fase": "Conhecimento",
-      "score": 344
-    },
-    {
-      "numero": "10058123120264014300",
-      "numeroFmt": "1005812-31.2026.4.01.4300",
-      "tribunal": "TRF1",
-      "tribunalLabel": "Federal · TRF1",
-      "uf": "1ª Reg.",
-      "justica": "Federal",
-      "grau": "G1",
-      "classeCod": 63,
-      "classe": "Ação Civil Coletiva",
-      "assuntos": [
-        "Gratificações e Adicionais"
-      ],
-      "assuntosTxt": "Gratificações e Adicionais",
-      "orgao": "01ª - Palmas",
-      "sistema": "PJe",
-      "ajuizadoBR": "07/04/2026",
-      "ajuizadoSort": "20260407",
-      "ultMov": "Disponibilização no Diário da Justiça Eletrônico",
-      "ultMovData": "2026-07-29",
       "transito": false,
       "frentes": [
         "servidores"
@@ -52071,8 +51844,117 @@
       "score": 44
     },
     {
-      "numero": "10060512920264014302",
-      "numeroFmt": "1006051-29.2026.4.01.4302",
+      "numero": "10033392620264013507",
+      "numeroFmt": "1003339-26.2026.4.01.3507",
+      "tribunal": "TRF1",
+      "tribunalLabel": "Federal · TRF1",
+      "uf": "1ª Reg.",
+      "justica": "Federal",
+      "grau": "G1",
+      "classeCod": 65,
+      "classe": "Ação Civil Pública",
+      "assuntos": [
+        "Manutenção e Desenvolvimento do Ensino"
+      ],
+      "assuntosTxt": "Manutenção e Desenvolvimento do Ensino",
+      "orgao": "Vara Única de Jataí",
+      "sistema": "PJe",
+      "ajuizadoBR": "19/08/2026",
+      "ajuizadoSort": "20260819",
+      "ultMov": "Remessa",
+      "ultMovData": "2026-08-19",
+      "transito": false,
+      "frentes": [],
+      "trilha": "Outros",
+      "prioridade": false,
+      "fase": "Conhecimento",
+      "score": 44
+    },
+    {
+      "numero": "10065926220264014302",
+      "numeroFmt": "1006592-62.2026.4.01.4302",
+      "tribunal": "TRF1",
+      "tribunalLabel": "Federal · TRF1",
+      "uf": "1ª Reg.",
+      "justica": "Federal",
+      "grau": "G1",
+      "classeCod": 65,
+      "classe": "Ação Civil Pública",
+      "assuntos": [
+        "Padronizado"
+      ],
+      "assuntosTxt": "Padronizado",
+      "orgao": "Vara Única de Gurupi",
+      "sistema": "PJe",
+      "ajuizadoBR": "18/08/2026",
+      "ajuizadoSort": "20260818",
+      "ultMov": "Remessa",
+      "ultMovData": "2026-08-18",
+      "transito": false,
+      "frentes": [],
+      "trilha": "Outros",
+      "prioridade": false,
+      "fase": "Conhecimento",
+      "score": 44
+    },
+    {
+      "numero": "10597917720264013500",
+      "numeroFmt": "1059791-77.2026.4.01.3500",
+      "tribunal": "TRF1",
+      "tribunalLabel": "Federal · TRF1",
+      "uf": "1ª Reg.",
+      "justica": "Federal",
+      "grau": "G1",
+      "classeCod": 65,
+      "classe": "Ação Civil Pública",
+      "assuntos": [
+        "Auxílio por Incapacidade Temporária",
+        "Aposentadoria por Incapacidade Permanente"
+      ],
+      "assuntosTxt": "Auxílio por Incapacidade Temporária; Aposentadoria por Incapacidade Permanente",
+      "orgao": "06ª - Goiânia",
+      "sistema": "PJe",
+      "ajuizadoBR": "18/08/2026",
+      "ajuizadoSort": "20260818",
+      "ultMov": "Recebimento",
+      "ultMovData": "2026-08-18",
+      "transito": false,
+      "frentes": [],
+      "trilha": "Outros",
+      "prioridade": false,
+      "fase": "Conhecimento",
+      "score": 44
+    },
+    {
+      "numero": "10596774120264013500",
+      "numeroFmt": "1059677-41.2026.4.01.3500",
+      "tribunal": "TRF1",
+      "tribunalLabel": "Federal · TRF1",
+      "uf": "1ª Reg.",
+      "justica": "Federal",
+      "grau": "G1",
+      "classeCod": 65,
+      "classe": "Ação Civil Pública",
+      "assuntos": [
+        "Exercício Profissional"
+      ],
+      "assuntosTxt": "Exercício Profissional",
+      "orgao": "03ª - Goiânia",
+      "sistema": "PJe",
+      "ajuizadoBR": "18/08/2026",
+      "ajuizadoSort": "20260818",
+      "ultMov": "Petição",
+      "ultMovData": "2026-08-18",
+      "transito": false,
+      "frentes": [],
+      "trilha": "Outros",
+      "prioridade": false,
+      "fase": "Conhecimento",
+      "score": 44
+    },
+    {
+      "numero": "10153226820264014300",
+      "numeroFmt": "1015322-68.2026.4.01.4300",
       "tribunal": "TRF1",
       "tribunalLabel": "Federal · TRF1",
       "uf": "1ª Reg.",
@@ -52084,12 +51966,256 @@
         "Não padronizado"
       ],
       "assuntosTxt": "Não padronizado",
+      "orgao": "02ª - Palmas",
+      "sistema": "PJe",
+      "ajuizadoBR": "17/08/2026",
+      "ajuizadoSort": "20260817",
+      "ultMov": "Conclusão",
+      "ultMovData": "2026-08-17",
+      "transito": false,
+      "frentes": [],
+      "trilha": "Outros",
+      "prioridade": false,
+      "fase": "Conhecimento",
+      "score": 44
+    },
+    {
+      "numero": "10592747220264013500",
+      "numeroFmt": "1059274-72.2026.4.01.3500",
+      "tribunal": "TRF1",
+      "tribunalLabel": "Federal · TRF1",
+      "uf": "1ª Reg.",
+      "justica": "Federal",
+      "grau": "G1",
+      "classeCod": 65,
+      "classe": "Ação Civil Pública",
+      "assuntos": [
+        "Inscrição / Documentação"
+      ],
+      "assuntosTxt": "Inscrição / Documentação",
+      "orgao": "03ª - Goiânia",
+      "sistema": "PJe",
+      "ajuizadoBR": "17/08/2026",
+      "ajuizadoSort": "20260817",
+      "ultMov": "Recebimento",
+      "ultMovData": "2026-08-17",
+      "transito": false,
+      "frentes": [],
+      "trilha": "Outros",
+      "prioridade": false,
+      "fase": "Conhecimento",
+      "score": 44
+    },
+    {
+      "numero": "10585446120264013500",
+      "numeroFmt": "1058544-61.2026.4.01.3500",
+      "tribunal": "TRF1",
+      "tribunalLabel": "Federal · TRF1",
+      "uf": "1ª Reg.",
+      "justica": "Federal",
+      "grau": "G1",
+      "classeCod": 65,
+      "classe": "Ação Civil Pública",
+      "assuntos": [
+        "Indenização por Dano Moral"
+      ],
+      "assuntosTxt": "Indenização por Dano Moral",
+      "orgao": "04ª - Goiânia",
+      "sistema": "PJe",
+      "ajuizadoBR": "13/08/2026",
+      "ajuizadoSort": "20260813",
+      "ultMov": "Remessa",
+      "ultMovData": "2026-08-19",
+      "transito": false,
+      "frentes": [],
+      "trilha": "Outros",
+      "prioridade": false,
+      "fase": "Conhecimento",
+      "score": 44
+    },
+    {
+      "numero": "10064185320264014302",
+      "numeroFmt": "1006418-53.2026.4.01.4302",
+      "tribunal": "TRF1",
+      "tribunalLabel": "Federal · TRF1",
+      "uf": "1ª Reg.",
+      "justica": "Federal",
+      "grau": "G1",
+      "classeCod": 65,
+      "classe": "Ação Civil Pública",
+      "assuntos": [
+        "Diplomas/Certificado de Conclusão do Curso",
+        "Providência"
+      ],
+      "assuntosTxt": "Diplomas/Certificado de Conclusão do Curso; Providência",
+      "orgao": "Vara Única de Gurupi",
+      "sistema": "PJe",
+      "ajuizadoBR": "12/08/2026",
+      "ajuizadoSort": "20260812",
+      "ultMov": "Publicação",
+      "ultMovData": "2026-08-17",
+      "transito": false,
+      "frentes": [],
+      "trilha": "Outros",
+      "prioridade": false,
+      "fase": "Conhecimento",
+      "score": 44
+    },
+    {
+      "numero": "10573312020264013500",
+      "numeroFmt": "1057331-20.2026.4.01.3500",
+      "tribunal": "TRF1",
+      "tribunalLabel": "Federal · TRF1",
+      "uf": "1ª Reg.",
+      "justica": "Federal",
+      "grau": "G1",
+      "classeCod": 65,
+      "classe": "Ação Civil Pública",
+      "assuntos": [
+        "Conselhos Regionais de Fiscalização Profissional e Afins"
+      ],
+      "assuntosTxt": "Conselhos Regionais de Fiscalização Profissional e Afins",
+      "orgao": "02ª - Goiânia",
+      "sistema": "PJe",
+      "ajuizadoBR": "10/08/2026",
+      "ajuizadoSort": "20260810",
+      "ultMov": "Processo devolvido à Secretaria",
+      "ultMovData": "2026-08-19",
+      "transito": false,
+      "frentes": [],
+      "trilha": "Outros",
+      "prioridade": false,
+      "fase": "Conhecimento",
+      "score": 44
+    },
+    {
+      "numero": "10568505720264013500",
+      "numeroFmt": "1056850-57.2026.4.01.3500",
+      "tribunal": "TRF1",
+      "tribunalLabel": "Federal · TRF1",
+      "uf": "1ª Reg.",
+      "justica": "Federal",
+      "grau": "G1",
+      "classeCod": 65,
+      "classe": "Ação Civil Pública",
+      "assuntos": [
+        "Manutenção e Desenvolvimento do Ensino"
+      ],
+      "assuntosTxt": "Manutenção e Desenvolvimento do Ensino",
+      "orgao": "02ª - Goiânia",
+      "sistema": "PJe",
+      "ajuizadoBR": "07/08/2026",
+      "ajuizadoSort": "20260807",
+      "ultMov": "Conclusão",
+      "ultMovData": "2026-08-19",
+      "transito": false,
+      "frentes": [],
+      "trilha": "Outros",
+      "prioridade": false,
+      "fase": "Conhecimento",
+      "score": 44
+    },
+    {
+      "numero": "10048428520264013506",
+      "numeroFmt": "1004842-85.2026.4.01.3506",
+      "tribunal": "TRF1",
+      "tribunalLabel": "Federal · TRF1",
+      "uf": "1ª Reg.",
+      "justica": "Federal",
+      "grau": "G1",
+      "classeCod": 65,
+      "classe": "Ação Civil Pública",
+      "assuntos": [
+        "Recursos Minerais"
+      ],
+      "assuntosTxt": "Recursos Minerais",
+      "orgao": "Vara Única de Formosa",
+      "sistema": "PJe",
+      "ajuizadoBR": "06/08/2026",
+      "ajuizadoSort": "20260806",
+      "ultMov": "Conclusão",
+      "ultMovData": "2026-08-12",
+      "transito": false,
+      "frentes": [],
+      "trilha": "Outros",
+      "prioridade": false,
+      "fase": "Conhecimento",
+      "score": 44
+    },
+    {
+      "numero": "10145917220264014300",
+      "numeroFmt": "1014591-72.2026.4.01.4300",
+      "tribunal": "TRF1",
+      "tribunalLabel": "Federal · TRF1",
+      "uf": "1ª Reg.",
+      "justica": "Federal",
+      "grau": "G1",
+      "classeCod": 65,
+      "classe": "Ação Civil Pública",
+      "assuntos": [
+        "Padronizado"
+      ],
+      "assuntosTxt": "Padronizado",
+      "orgao": "01ª - Palmas",
+      "sistema": "PJe",
+      "ajuizadoBR": "06/08/2026",
+      "ajuizadoSort": "20260806",
+      "ultMov": "Expedida/certificada",
+      "ultMovData": "2026-08-14",
+      "transito": false,
+      "frentes": [],
+      "trilha": "Outros",
+      "prioridade": false,
+      "fase": "Conhecimento",
+      "score": 44
+    },
+    {
+      "numero": "10557818720264013500",
+      "numeroFmt": "1055781-87.2026.4.01.3500",
+      "tribunal": "TRF1",
+      "tribunalLabel": "Federal · TRF1",
+      "uf": "1ª Reg.",
+      "justica": "Federal",
+      "grau": "G1",
+      "classeCod": 63,
+      "classe": "Ação Civil Coletiva",
+      "assuntos": [
+        "Remoção"
+      ],
+      "assuntosTxt": "Remoção",
+      "orgao": "01ª - Goiânia",
+      "sistema": "PJe",
+      "ajuizadoBR": "04/08/2026",
+      "ajuizadoSort": "20260804",
+      "ultMov": "Cancelamento de Distribuição",
+      "ultMovData": "2026-08-14",
+      "transito": false,
+      "frentes": [],
+      "trilha": "Outros",
+      "prioridade": false,
+      "fase": "Conhecimento",
+      "score": 44
+    },
+    {
+      "numero": "10060512920264014302",
+      "numeroFmt": "1006051-29.2026.4.01.4302",
+      "tribunal": "TRF1",
+      "tribunalLabel": "Federal · TRF1",
+      "uf": "1ª Reg.",
+      "justica": "Federal",
+      "grau": "G1",
+      "classeCod": 65,
+      "classe": "Ação Civil Pública",
+      "assuntos": [
+        "Padronizado"
+      ],
+      "assuntosTxt": "Padronizado",
       "orgao": "Vara Única de Gurupi",
       "sistema": "PJe",
       "ajuizadoBR": "28/07/2026",
       "ajuizadoSort": "20260728",
-      "ultMov": "Expedida/Certificada",
-      "ultMovData": "2026-07-30",
+      "ultMov": "Documento",
+      "ultMovData": "2026-08-18",
       "transito": false,
       "frentes": [],
       "trilha": "Outros",
@@ -52115,8 +52241,8 @@
       "sistema": "PJe",
       "ajuizadoBR": "23/07/2026",
       "ajuizadoSort": "20260723",
-      "ultMov": "Processo devolvido à Secretaria",
-      "ultMovData": "2026-07-28",
+      "ultMov": "Petição",
+      "ultMovData": "2026-08-18",
       "transito": false,
       "frentes": [],
       "trilha": "Outros",
@@ -52142,8 +52268,8 @@
       "sistema": "PJe",
       "ajuizadoBR": "22/07/2026",
       "ajuizadoSort": "20260722",
-      "ultMov": "Conclusão",
-      "ultMovData": "2026-07-24",
+      "ultMov": "Documento",
+      "ultMovData": "2026-08-18",
       "transito": false,
       "frentes": [],
       "trilha": "Outros",
@@ -52163,17 +52289,17 @@
       "classe": "Ação Civil Pública",
       "assuntos": [
         "Locação / Permissão / Concessão / Autorização / Cessão de Uso",
-        "Obras Públicas",
         "Transporte Rodoviário",
+        "Obras Públicas",
         "Construção Civil"
       ],
-      "assuntosTxt": "Locação / Permissão / Concessão / Autorização / Cessão de Uso; Obras Públicas; Transporte Rodoviário; Construção Civil",
+      "assuntosTxt": "Locação / Permissão / Concessão / Autorização / Cessão de Uso; Transporte Rodoviário; Obras Públicas; Construção Civil",
       "orgao": "03ª - Goiânia",
       "sistema": "PJe",
       "ajuizadoBR": "09/07/2026",
       "ajuizadoSort": "20260709",
-      "ultMov": "Decurso de Prazo",
-      "ultMovData": "2026-08-01",
+      "ultMov": "Petição",
+      "ultMovData": "2026-08-14",
       "transito": false,
       "frentes": [],
       "trilha": "Outros",
@@ -52199,8 +52325,8 @@
       "sistema": "PJe",
       "ajuizadoBR": "08/07/2026",
       "ajuizadoSort": "20260708",
-      "ultMov": "Decurso de Prazo",
-      "ultMovData": "2026-07-21",
+      "ultMov": "Petição",
+      "ultMovData": "2026-08-13",
       "transito": false,
       "frentes": [],
       "trilha": "Outros",
@@ -52327,16 +52453,16 @@
       "classeCod": 65,
       "classe": "Ação Civil Pública",
       "assuntos": [
-        "Indenização por Dano Ambiental",
-        "Indenização por Dano Material"
+        "Indenização por Dano Material",
+        "Indenização por Dano Ambiental"
       ],
-      "assuntosTxt": "Indenização por Dano Ambiental; Indenização por Dano Material",
+      "assuntosTxt": "Indenização por Dano Material; Indenização por Dano Ambiental",
       "orgao": "Vara Única de Uruaçu",
       "sistema": "PJe",
       "ajuizadoBR": "22/06/2026",
       "ajuizadoSort": "20260622",
-      "ultMov": "Remessa",
-      "ultMovData": "2026-06-22",
+      "ultMov": "Processo devolvido à Secretaria",
+      "ultMovData": "2026-08-17",
       "transito": false,
       "frentes": [],
       "trilha": "Outros",
@@ -52363,7 +52489,7 @@
       "ajuizadoBR": "18/06/2026",
       "ajuizadoSort": "20260618",
       "ultMov": "Petição",
-      "ultMovData": "2026-07-01",
+      "ultMovData": "2026-08-18",
       "transito": false,
       "frentes": [],
       "trilha": "Outros",
@@ -52409,10 +52535,10 @@
       "classeCod": 65,
       "classe": "Ação Civil Pública",
       "assuntos": [
-        "Ensino Médio Regular",
-        "Acesso sem Conclusão do Ensino Médio"
+        "Acesso sem Conclusão do Ensino Médio",
+        "Ensino Médio Regular"
       ],
-      "assuntosTxt": "Ensino Médio Regular; Acesso sem Conclusão do Ensino Médio",
+      "assuntosTxt": "Acesso sem Conclusão do Ensino Médio; Ensino Médio Regular",
       "orgao": "01ª Araguaína",
       "sistema": "PJe",
       "ajuizadoBR": "18/06/2026",
@@ -52499,8 +52625,8 @@
       "sistema": "PJe",
       "ajuizadoBR": "08/06/2026",
       "ajuizadoSort": "20260608",
-      "ultMov": "Mandado",
-      "ultMovData": "2026-06-23",
+      "ultMov": "Decurso de Prazo",
+      "ultMovData": "2026-08-19",
       "transito": false,
       "frentes": [],
       "trilha": "Outros",
@@ -52526,8 +52652,8 @@
       "sistema": "PJe",
       "ajuizadoBR": "01/06/2026",
       "ajuizadoSort": "20260601",
-      "ultMov": "Disponibilização no Diário da Justiça Eletrônico",
-      "ultMovData": "2026-06-23",
+      "ultMov": "Conclusão",
+      "ultMovData": "2026-08-13",
       "transito": false,
       "frentes": [],
       "trilha": "Outros",
@@ -52553,8 +52679,8 @@
       "sistema": "PJe",
       "ajuizadoBR": "01/06/2026",
       "ajuizadoSort": "20260601",
-      "ultMov": "Disponibilização no Diário da Justiça Eletrônico",
-      "ultMovData": "2026-07-14",
+      "ultMov": "Petição",
+      "ultMovData": "2026-08-18",
       "transito": false,
       "frentes": [],
       "trilha": "Outros",
@@ -52580,8 +52706,8 @@
       "sistema": "PJe",
       "ajuizadoBR": "01/06/2026",
       "ajuizadoSort": "20260601",
-      "ultMov": "Petição",
-      "ultMovData": "2026-07-30",
+      "ultMov": "Disponibilização no Diário da Justiça Eletrônico",
+      "ultMovData": "2026-08-07",
       "transito": false,
       "frentes": [],
       "trilha": "Outros",
@@ -52607,8 +52733,8 @@
       "sistema": "PJe",
       "ajuizadoBR": "29/05/2026",
       "ajuizadoSort": "20260529",
-      "ultMov": "Conclusão",
-      "ultMovData": "2026-06-01",
+      "ultMov": "Publicação",
+      "ultMovData": "2026-08-18",
       "transito": false,
       "frentes": [],
       "trilha": "Outros",
@@ -52718,7 +52844,7 @@
       "ajuizadoBR": "22/05/2026",
       "ajuizadoSort": "20260522",
       "ultMov": "Petição",
-      "ultMovData": "2026-07-22",
+      "ultMovData": "2026-08-19",
       "transito": false,
       "frentes": [],
       "trilha": "Outros",
@@ -52825,8 +52951,8 @@
       "sistema": "PJe",
       "ajuizadoBR": "08/05/2026",
       "ajuizadoSort": "20260508",
-      "ultMov": "Petição",
-      "ultMovData": "2026-07-27",
+      "ultMov": "Documento",
+      "ultMovData": "2026-08-08",
       "transito": false,
       "frentes": [],
       "trilha": "Outros",
@@ -52934,8 +53060,8 @@
       "sistema": "PJe",
       "ajuizadoBR": "18/04/2026",
       "ajuizadoSort": "20260418",
-      "ultMov": "Petição",
-      "ultMovData": "2026-06-26",
+      "ultMov": "Conclusão",
+      "ultMovData": "2026-08-14",
       "transito": false,
       "frentes": [],
       "trilha": "Outros",
@@ -52961,8 +53087,8 @@
       "sistema": "PJe",
       "ajuizadoBR": "18/04/2026",
       "ajuizadoSort": "20260418",
-      "ultMov": "Expedida/Certificada",
-      "ultMovData": "2026-07-31",
+      "ultMov": "Documento",
+      "ultMovData": "2026-08-19",
       "transito": false,
       "frentes": [],
       "trilha": "Outros",
@@ -52988,8 +53114,8 @@
       "sistema": "PJe",
       "ajuizadoBR": "18/04/2026",
       "ajuizadoSort": "20260418",
-      "ultMov": "Documento",
-      "ultMovData": "2026-07-31",
+      "ultMov": "Petição",
+      "ultMovData": "2026-08-18",
       "transito": false,
       "frentes": [],
       "trilha": "Outros",
@@ -53025,6 +53151,33 @@
       "score": 44
     },
     {
+      "numero": "10256157220264013500",
+      "numeroFmt": "1025615-72.2026.4.01.3500",
+      "tribunal": "TRF1",
+      "tribunalLabel": "Federal · TRF1",
+      "uf": "1ª Reg.",
+      "justica": "Federal",
+      "grau": "G1",
+      "classeCod": 65,
+      "classe": "Ação Civil Pública",
+      "assuntos": [
+        "Manutenção e Desenvolvimento do Ensino"
+      ],
+      "assuntosTxt": "Manutenção e Desenvolvimento do Ensino",
+      "orgao": "06ª - Goiânia",
+      "sistema": "PJe",
+      "ajuizadoBR": "18/04/2026",
+      "ajuizadoSort": "20260418",
+      "ultMov": "Decurso de Prazo",
+      "ultMovData": "2026-05-22",
+      "transito": false,
+      "frentes": [],
+      "trilha": "Outros",
+      "prioridade": false,
+      "fase": "Conhecimento",
+      "score": 44
+    },
+    {
       "numero": "10256148720264013500",
       "numeroFmt": "1025614-87.2026.4.01.3500",
       "tribunal": "TRF1",
@@ -53042,8 +53195,8 @@
       "sistema": "PJe",
       "ajuizadoBR": "18/04/2026",
       "ajuizadoSort": "20260418",
-      "ultMov": "Expedida/Certificada",
-      "ultMovData": "2026-07-23",
+      "ultMov": "Petição",
+      "ultMovData": "2026-08-03",
       "transito": false,
       "frentes": [],
       "trilha": "Outros",
@@ -53069,8 +53222,89 @@
       "sistema": "PJe",
       "ajuizadoBR": "18/04/2026",
       "ajuizadoSort": "20260418",
+      "ultMov": "Processo devolvido à Secretaria",
+      "ultMovData": "2026-08-19",
+      "transito": false,
+      "frentes": [],
+      "trilha": "Outros",
+      "prioridade": false,
+      "fase": "Conhecimento",
+      "score": 44
+    },
+    {
+      "numero": "10256130520264013500",
+      "numeroFmt": "1025613-05.2026.4.01.3500",
+      "tribunal": "TRF1",
+      "tribunalLabel": "Federal · TRF1",
+      "uf": "1ª Reg.",
+      "justica": "Federal",
+      "grau": "G1",
+      "classeCod": 65,
+      "classe": "Ação Civil Pública",
+      "assuntos": [
+        "Manutenção e Desenvolvimento do Ensino"
+      ],
+      "assuntosTxt": "Manutenção e Desenvolvimento do Ensino",
+      "orgao": "03ª - Goiânia",
+      "sistema": "PJe",
+      "ajuizadoBR": "18/04/2026",
+      "ajuizadoSort": "20260418",
       "ultMov": "Decurso de Prazo",
-      "ultMovData": "2026-07-22",
+      "ultMovData": "2026-05-14",
+      "transito": false,
+      "frentes": [],
+      "trilha": "Outros",
+      "prioridade": false,
+      "fase": "Conhecimento",
+      "score": 44
+    },
+    {
+      "numero": "10256122020264013500",
+      "numeroFmt": "1025612-20.2026.4.01.3500",
+      "tribunal": "TRF1",
+      "tribunalLabel": "Federal · TRF1",
+      "uf": "1ª Reg.",
+      "justica": "Federal",
+      "grau": "G1",
+      "classeCod": 65,
+      "classe": "Ação Civil Pública",
+      "assuntos": [
+        "Manutenção e Desenvolvimento do Ensino"
+      ],
+      "assuntosTxt": "Manutenção e Desenvolvimento do Ensino",
+      "orgao": "09ª - Goiânia",
+      "sistema": "PJe",
+      "ajuizadoBR": "18/04/2026",
+      "ajuizadoSort": "20260418",
+      "ultMov": "Decurso de Prazo",
+      "ultMovData": "2026-06-22",
+      "transito": false,
+      "frentes": [],
+      "trilha": "Outros",
+      "prioridade": false,
+      "fase": "Conhecimento",
+      "score": 44
+    },
+    {
+      "numero": "10256113520264013500",
+      "numeroFmt": "1025611-35.2026.4.01.3500",
+      "tribunal": "TRF1",
+      "tribunalLabel": "Federal · TRF1",
+      "uf": "1ª Reg.",
+      "justica": "Federal",
+      "grau": "G1",
+      "classeCod": 65,
+      "classe": "Ação Civil Pública",
+      "assuntos": [
+        "Manutenção e Desenvolvimento do Ensino"
+      ],
+      "assuntosTxt": "Manutenção e Desenvolvimento do Ensino",
+      "orgao": "03ª - Goiânia",
+      "sistema": "PJe",
+      "ajuizadoBR": "18/04/2026",
+      "ajuizadoSort": "20260418",
+      "ultMov": "Decurso de Prazo",
+      "ultMovData": "2026-05-15",
       "transito": false,
       "frentes": [],
       "trilha": "Outros",
@@ -53150,8 +53384,8 @@
       "sistema": "PJe",
       "ajuizadoBR": "18/04/2026",
       "ajuizadoSort": "20260418",
-      "ultMov": "Decurso de Prazo",
-      "ultMovData": "2026-07-22",
+      "ultMov": "Processo devolvido à Secretaria",
+      "ultMovData": "2026-08-19",
       "transito": false,
       "frentes": [],
       "trilha": "Outros",
@@ -53187,6 +53421,33 @@
       "score": 44
     },
     {
+      "numero": "10256061320264013500",
+      "numeroFmt": "1025606-13.2026.4.01.3500",
+      "tribunal": "TRF1",
+      "tribunalLabel": "Federal · TRF1",
+      "uf": "1ª Reg.",
+      "justica": "Federal",
+      "grau": "G1",
+      "classeCod": 65,
+      "classe": "Ação Civil Pública",
+      "assuntos": [
+        "Manutenção e Desenvolvimento do Ensino"
+      ],
+      "assuntosTxt": "Manutenção e Desenvolvimento do Ensino",
+      "orgao": "01ª - Goiânia",
+      "sistema": "PJe",
+      "ajuizadoBR": "18/04/2026",
+      "ajuizadoSort": "20260418",
+      "ultMov": "Expedida/Certificada",
+      "ultMovData": "2026-06-17",
+      "transito": false,
+      "frentes": [],
+      "trilha": "Outros",
+      "prioridade": false,
+      "fase": "Conhecimento",
+      "score": 44
+    },
+    {
       "numero": "10013845420264013508",
       "numeroFmt": "1001384-54.2026.4.01.3508",
       "tribunal": "TRF1",
@@ -53204,8 +53465,8 @@
       "sistema": "PJe",
       "ajuizadoBR": "18/04/2026",
       "ajuizadoSort": "20260418",
-      "ultMov": "Conclusão",
-      "ultMovData": "2026-04-29",
+      "ultMov": "Documento",
+      "ultMovData": "2026-08-18",
       "transito": false,
       "frentes": [],
       "trilha": "Outros",
@@ -53224,11 +53485,11 @@
       "classeCod": 65,
       "classe": "Ação Civil Pública",
       "assuntos": [
-        "Restabelecimento",
         "Assistência Social",
+        "Restabelecimento",
         "Parcelas de benefício não pagas"
       ],
-      "assuntosTxt": "Restabelecimento; Assistência Social; Parcelas de benefício não pagas",
+      "assuntosTxt": "Assistência Social; Restabelecimento; Parcelas de benefício não pagas",
       "orgao": "01ª Araguaína",
       "sistema": "PJe",
       "ajuizadoBR": "17/04/2026",
@@ -53253,16 +53514,16 @@
       "classeCod": 65,
       "classe": "Ação Civil Pública",
       "assuntos": [
-        "Questões Funcionais",
-        "Conselhos Regionais de Fiscalização Profissional e Afins"
+        "Conselhos Regionais de Fiscalização Profissional e Afins",
+        "Questões Funcionais"
       ],
-      "assuntosTxt": "Questões Funcionais; Conselhos Regionais de Fiscalização Profissional e Afins",
+      "assuntosTxt": "Conselhos Regionais de Fiscalização Profissional e Afins; Questões Funcionais",
       "orgao": "02ª - Palmas",
       "sistema": "PJe",
       "ajuizadoBR": "16/04/2026",
       "ajuizadoSort": "20260416",
       "ultMov": "Decurso de Prazo",
-      "ultMovData": "2026-07-24",
+      "ultMovData": "2026-08-13",
       "transito": false,
       "frentes": [],
       "trilha": "Outros",
@@ -53288,308 +53549,8 @@
       "sistema": "PJe",
       "ajuizadoBR": "16/04/2026",
       "ajuizadoSort": "20260416",
-      "ultMov": "Petição",
-      "ultMovData": "2026-06-26",
-      "transito": false,
-      "frentes": [],
-      "trilha": "Outros",
-      "prioridade": false,
-      "fase": "Conhecimento",
-      "score": 44
-    },
-    {
-      "numero": "10220093620264013500",
-      "numeroFmt": "1022009-36.2026.4.01.3500",
-      "tribunal": "TRF1",
-      "tribunalLabel": "Federal · TRF1",
-      "uf": "1ª Reg.",
-      "justica": "Federal",
-      "grau": "G1",
-      "classeCod": 65,
-      "classe": "Ação Civil Pública",
-      "assuntos": [
-        "Limite de Carga Horária - Jornada Semanal"
-      ],
-      "assuntosTxt": "Limite de Carga Horária - Jornada Semanal",
-      "orgao": "04ª - Goiânia",
-      "sistema": "PJe",
-      "ajuizadoBR": "10/04/2026",
-      "ajuizadoSort": "20260410",
-      "ultMov": "Petição",
-      "ultMovData": "2026-08-04",
-      "transito": false,
-      "frentes": [],
-      "trilha": "Outros",
-      "prioridade": false,
-      "fase": "Conhecimento",
-      "score": 44
-    },
-    {
-      "numero": "10220085120264013500",
-      "numeroFmt": "1022008-51.2026.4.01.3500",
-      "tribunal": "TRF1",
-      "tribunalLabel": "Federal · TRF1",
-      "uf": "1ª Reg.",
-      "justica": "Federal",
-      "grau": "G1",
-      "classeCod": 65,
-      "classe": "Ação Civil Pública",
-      "assuntos": [
-        "Indenização por Dano Ambiental"
-      ],
-      "assuntosTxt": "Indenização por Dano Ambiental",
-      "orgao": "02ª - Goiânia",
-      "sistema": "PJe",
-      "ajuizadoBR": "10/04/2026",
-      "ajuizadoSort": "20260410",
-      "ultMov": "Disponibilização no Diário da Justiça Eletrônico",
-      "ultMovData": "2026-08-04",
-      "transito": false,
-      "frentes": [],
-      "trilha": "Outros",
-      "prioridade": false,
-      "fase": "Conhecimento",
-      "score": 44
-    },
-    {
-      "numero": "10217322020264013500",
-      "numeroFmt": "1021732-20.2026.4.01.3500",
-      "tribunal": "TRF1",
-      "tribunalLabel": "Federal · TRF1",
-      "uf": "1ª Reg.",
-      "justica": "Federal",
-      "grau": "G1",
-      "classeCod": 65,
-      "classe": "Ação Civil Pública",
-      "assuntos": [
-        "Limite de Carga Horária - Jornada Semanal"
-      ],
-      "assuntosTxt": "Limite de Carga Horária - Jornada Semanal",
-      "orgao": "02ª - Goiânia",
-      "sistema": "PJe",
-      "ajuizadoBR": "09/04/2026",
-      "ajuizadoSort": "20260409",
-      "ultMov": "Conclusão",
-      "ultMovData": "2026-07-31",
-      "transito": false,
-      "frentes": [],
-      "trilha": "Outros",
-      "prioridade": false,
-      "fase": "Conhecimento",
-      "score": 44
-    },
-    {
-      "numero": "10038896420264014301",
-      "numeroFmt": "1003889-64.2026.4.01.4301",
-      "tribunal": "TRF1",
-      "tribunalLabel": "Federal · TRF1",
-      "uf": "1ª Reg.",
-      "justica": "Federal",
-      "grau": "G1",
-      "classeCod": 65,
-      "classe": "Ação Civil Pública",
-      "assuntos": [
-        "Não padronizado",
-        "Sem registro na ANVISA"
-      ],
-      "assuntosTxt": "Não padronizado; Sem registro na ANVISA",
-      "orgao": "02ª Araguaína",
-      "sistema": "PJe",
-      "ajuizadoBR": "09/04/2026",
-      "ajuizadoSort": "20260409",
-      "ultMov": "Petição",
-      "ultMovData": "2026-07-30",
-      "transito": false,
-      "frentes": [],
-      "trilha": "Outros",
-      "prioridade": false,
-      "fase": "Conhecimento",
-      "score": 44
-    },
-    {
-      "numero": "10216456420264013500",
-      "numeroFmt": "1021645-64.2026.4.01.3500",
-      "tribunal": "TRF1",
-      "tribunalLabel": "Federal · TRF1",
-      "uf": "1ª Reg.",
-      "justica": "Federal",
-      "grau": "G1",
-      "classeCod": 65,
-      "classe": "Ação Civil Pública",
-      "assuntos": [
-        "Limite de Carga Horária - Jornada Semanal"
-      ],
-      "assuntosTxt": "Limite de Carga Horária - Jornada Semanal",
-      "orgao": "01ª - Goiânia",
-      "sistema": "PJe",
-      "ajuizadoBR": "09/04/2026",
-      "ajuizadoSort": "20260409",
-      "ultMov": "Decurso de Prazo",
-      "ultMovData": "2026-07-02",
-      "transito": false,
-      "frentes": [],
-      "trilha": "Outros",
-      "prioridade": false,
-      "fase": "Conhecimento",
-      "score": 44
-    },
-    {
-      "numero": "10058963220264014300",
-      "numeroFmt": "1005896-32.2026.4.01.4300",
-      "tribunal": "TRF1",
-      "tribunalLabel": "Federal · TRF1",
-      "uf": "1ª Reg.",
-      "justica": "Federal",
-      "grau": "G1",
-      "classeCod": 65,
-      "classe": "Ação Civil Pública",
-      "assuntos": [
-        "Nulidade de ato administrativo",
-        "Exercício Profissional"
-      ],
-      "assuntosTxt": "Nulidade de ato administrativo; Exercício Profissional",
-      "orgao": "01ª - Palmas",
-      "sistema": "PJe",
-      "ajuizadoBR": "07/04/2026",
-      "ajuizadoSort": "20260407",
-      "ultMov": "Decurso de Prazo",
-      "ultMovData": "2026-06-03",
-      "transito": false,
-      "frentes": [],
-      "trilha": "Outros",
-      "prioridade": false,
-      "fase": "Conhecimento",
-      "score": 44
-    },
-    {
-      "numero": "10058288220264014300",
-      "numeroFmt": "1005828-82.2026.4.01.4300",
-      "tribunal": "TRF1",
-      "tribunalLabel": "Federal · TRF1",
-      "uf": "1ª Reg.",
-      "justica": "Federal",
-      "grau": "G1",
-      "classeCod": 65,
-      "classe": "Ação Civil Pública",
-      "assuntos": [
-        "Questões Funcionais",
-        "Erro Médico"
-      ],
-      "assuntosTxt": "Questões Funcionais; Erro Médico",
-      "orgao": "02ª - Palmas",
-      "sistema": "PJe",
-      "ajuizadoBR": "07/04/2026",
-      "ajuizadoSort": "20260407",
-      "ultMov": "Conclusão",
-      "ultMovData": "2026-07-28",
-      "transito": false,
-      "frentes": [],
-      "trilha": "Outros",
-      "prioridade": false,
-      "fase": "Conhecimento",
-      "score": 44
-    },
-    {
-      "numero": "10058175320264014300",
-      "numeroFmt": "1005817-53.2026.4.01.4300",
-      "tribunal": "TRF1",
-      "tribunalLabel": "Federal · TRF1",
-      "uf": "1ª Reg.",
-      "justica": "Federal",
-      "grau": "G1",
-      "classeCod": 63,
-      "classe": "Ação Civil Coletiva",
-      "assuntos": [
-        "COVID-19"
-      ],
-      "assuntosTxt": "COVID-19",
-      "orgao": "01ª - Palmas",
-      "sistema": "PJe",
-      "ajuizadoBR": "07/04/2026",
-      "ajuizadoSort": "20260407",
-      "ultMov": "Disponibilização no Diário da Justiça Eletrônico",
-      "ultMovData": "2026-07-29",
-      "transito": false,
-      "frentes": [],
-      "trilha": "Outros",
-      "prioridade": false,
-      "fase": "Conhecimento",
-      "score": 44
-    },
-    {
-      "numero": "10058158320264014300",
-      "numeroFmt": "1005815-83.2026.4.01.4300",
-      "tribunal": "TRF1",
-      "tribunalLabel": "Federal · TRF1",
-      "uf": "1ª Reg.",
-      "justica": "Federal",
-      "grau": "G1",
-      "classeCod": 63,
-      "classe": "Ação Civil Coletiva",
-      "assuntos": [
-        "Contribuições Previdenciárias"
-      ],
-      "assuntosTxt": "Contribuições Previdenciárias",
-      "orgao": "01ª - Palmas",
-      "sistema": "PJe",
-      "ajuizadoBR": "07/04/2026",
-      "ajuizadoSort": "20260407",
-      "ultMov": "Disponibilização no Diário da Justiça Eletrônico",
-      "ultMovData": "2026-07-29",
-      "transito": false,
-      "frentes": [],
-      "trilha": "Outros",
-      "prioridade": false,
-      "fase": "Conhecimento",
-      "score": 44
-    },
-    {
-      "numero": "10058149820264014300",
-      "numeroFmt": "1005814-98.2026.4.01.4300",
-      "tribunal": "TRF1",
-      "tribunalLabel": "Federal · TRF1",
-      "uf": "1ª Reg.",
-      "justica": "Federal",
-      "grau": "G1",
-      "classeCod": 63,
-      "classe": "Ação Civil Coletiva",
-      "assuntos": [
-        "Auxílio-transporte"
-      ],
-      "assuntosTxt": "Auxílio-transporte",
-      "orgao": "01ª - Palmas",
-      "sistema": "PJe",
-      "ajuizadoBR": "07/04/2026",
-      "ajuizadoSort": "20260407",
-      "ultMov": "Disponibilização no Diário da Justiça Eletrônico",
-      "ultMovData": "2026-07-29",
-      "transito": false,
-      "frentes": [],
-      "trilha": "Outros",
-      "prioridade": false,
-      "fase": "Conhecimento",
-      "score": 44
-    },
-    {
-      "numero": "10058114620264014300",
-      "numeroFmt": "1005811-46.2026.4.01.4300",
-      "tribunal": "TRF1",
-      "tribunalLabel": "Federal · TRF1",
-      "uf": "1ª Reg.",
-      "justica": "Federal",
-      "grau": "G1",
-      "classeCod": 63,
-      "classe": "Ação Civil Coletiva",
-      "assuntos": [
-        "Abono de Permanência"
-      ],
-      "assuntosTxt": "Abono de Permanência",
-      "orgao": "01ª - Palmas",
-      "sistema": "PJe",
-      "ajuizadoBR": "07/04/2026",
-      "ajuizadoSort": "20260407",
-      "ultMov": "Disponibilização no Diário da Justiça Eletrônico",
-      "ultMovData": "2026-07-29",
+      "ultMov": "Expedida/certificada",
+      "ultMovData": "2026-08-07",
       "transito": false,
       "frentes": [],
       "trilha": "Outros",
