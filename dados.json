@@ -1,25 +1,25 @@
 {
   "meta": {
-    "geradoEm": "30/10/2026, 11:15:55",
-    "total": 1944,
+    "geradoEm": "31/10/2026, 11:14:09",
+    "total": 1892,
     "prioritarios": 1133,
     "tribunaisVazios": [],
     "porTribunal": {
       "TRF1": 294,
       "TJGO": 1011,
-      "TJTO": 639
+      "TJTO": 587
     },
     "porTrilha": {
       "Servidores federais": 234,
       "Servidores estaduais": 585,
       "Consórcio": 314,
       "Consumidor": 146,
-      "Seguros": 599,
+      "Seguros": 547,
       "Outros": 66
     },
     "porFase": {
       "Execução (coletiva)": 1066,
-      "Conhecimento": 876,
+      "Conhecimento": 824,
       "Execução (individual)": 2
     }
   },
@@ -50204,40 +50204,6 @@
       "score": 44
     },
     {
-      "numero": "00032677020268272740",
-      "numeroFmt": "0003267-70.2026.8.27.2740",
-      "tribunal": "TJTO",
-      "tribunalLabel": "Tocantins · TJTO",
-      "uf": "TO",
-      "justica": "Estadual",
-      "grau": "JE",
-      "classeCod": 436,
-      "classe": "Procedimento do Juizado Especial Cível",
-      "assuntos": [
-        "Tarifas",
-        "Seguro",
-        "Repetição do Indébito",
-        "Direito de Imagem",
-        "Tutela de Urgência"
-      ],
-      "assuntosTxt": "Tarifas; Seguro; Repetição do Indébito; Direito de Imagem; Tutela de Urgência",
-      "orgao": "Juízo do Juizado Especial Cível de Tocantinópolis",
-      "sistema": "Projudi",
-      "ajuizadoBR": "03/09/2026",
-      "ajuizadoSort": "20260903",
-      "ultMov": "Decurso de Prazo",
-      "ultMovData": "2026-10-15",
-      "transito": false,
-      "frentes": [
-        "seguros",
-        "consumidor"
-      ],
-      "trilha": "Seguros",
-      "prioridade": false,
-      "fase": "Conhecimento",
-      "score": 44
-    },
-    {
       "numero": "00019889720268272724",
       "numeroFmt": "0001988-97.2026.8.27.2724",
       "tribunal": "TJTO",
@@ -50359,35 +50325,6 @@
       "score": 44
     },
     {
-      "numero": "00013624720268272702",
-      "numeroFmt": "0001362-47.2026.8.27.2702",
-      "tribunal": "TJTO",
-      "tribunalLabel": "Tocantins · TJTO",
-      "uf": "TO",
-      "justica": "Estadual",
-      "grau": "G1",
-      "classeCod": 7,
-      "classe": "Procedimento Comum Cível",
-      "assuntos": [
-        "Seguro"
-      ],
-      "assuntosTxt": "Seguro",
-      "orgao": "Juízo da 1ª Escrivania Cível de Alvorada",
-      "sistema": "Projudi",
-      "ajuizadoBR": "03/09/2026",
-      "ajuizadoSort": "20260903",
-      "ultMov": "Disponibilização no Diário da Justiça Eletrônico",
-      "ultMovData": "2026-10-13",
-      "transito": false,
-      "frentes": [
-        "seguros"
-      ],
-      "trilha": "Seguros",
-      "prioridade": false,
-      "fase": "Conhecimento",
-      "score": 44
-    },
-    {
       "numero": "00198469820268272706",
       "numeroFmt": "0019846-98.2026.8.27.2706",
       "tribunal": "TJTO",
@@ -50439,187 +50376,6 @@
       "ajuizadoSort": "20260903",
       "ultMov": "Documento",
       "ultMovData": "2026-10-14",
-      "transito": false,
-      "frentes": [
-        "seguros"
-      ],
-      "trilha": "Seguros",
-      "prioridade": false,
-      "fase": "Conhecimento",
-      "score": 44
-    },
-    {
-      "numero": "00014674320268272728",
-      "numeroFmt": "0001467-43.2026.8.27.2728",
-      "tribunal": "TJTO",
-      "tribunalLabel": "Tocantins · TJTO",
-      "uf": "TO",
-      "justica": "Estadual",
-      "grau": "G1",
-      "classeCod": 7,
-      "classe": "Procedimento Comum Cível",
-      "assuntos": [
-        "Seguro"
-      ],
-      "assuntosTxt": "Seguro",
-      "orgao": "Juízo da 1ª Escrivania Cível de Novo Acordo",
-      "sistema": "Projudi",
-      "ajuizadoBR": "03/09/2026",
-      "ajuizadoSort": "20260903",
-      "ultMov": "Decurso de Prazo",
-      "ultMovData": "2026-10-10",
-      "transito": false,
-      "frentes": [
-        "seguros"
-      ],
-      "trilha": "Seguros",
-      "prioridade": false,
-      "fase": "Conhecimento",
-      "score": 44
-    },
-    {
-      "numero": "00016244020268272720",
-      "numeroFmt": "0001624-40.2026.8.27.2720",
-      "tribunal": "TJTO",
-      "tribunalLabel": "Tocantins · TJTO",
-      "uf": "TO",
-      "justica": "Estadual",
-      "grau": "G1",
-      "classeCod": 7,
-      "classe": "Procedimento Comum Cível",
-      "assuntos": [
-        "Seguro",
-        "Indenização por Dano Moral"
-      ],
-      "assuntosTxt": "Seguro; Indenização por Dano Moral",
-      "orgao": "Juízo da 1ª Escrivania Cível de Goiatins",
-      "sistema": "Projudi",
-      "ajuizadoBR": "02/09/2026",
-      "ajuizadoSort": "20260902",
-      "ultMov": "Documento",
-      "ultMovData": "2026-10-12",
-      "transito": false,
-      "frentes": [
-        "seguros"
-      ],
-      "trilha": "Seguros",
-      "prioridade": false,
-      "fase": "Conhecimento",
-      "score": 44
-    },
-    {
-      "numero": "00010026420268272718",
-      "numeroFmt": "0001002-64.2026.8.27.2718",
-      "tribunal": "TJTO",
-      "tribunalLabel": "Tocantins · TJTO",
-      "uf": "TO",
-      "justica": "Estadual",
-      "grau": "G1",
-      "classeCod": 7,
-      "classe": "Procedimento Comum Cível",
-      "assuntos": [
-        "Seguro",
-        "Práticas Abusivas"
-      ],
-      "assuntosTxt": "Seguro; Práticas Abusivas",
-      "orgao": "Juízo da 1ª Escrivania Cível de Filadélfia",
-      "sistema": "Projudi",
-      "ajuizadoBR": "02/09/2026",
-      "ajuizadoSort": "20260902",
-      "ultMov": "Disponibilização no Diário da Justiça Eletrônico",
-      "ultMovData": "2026-10-20",
-      "transito": false,
-      "frentes": [
-        "seguros"
-      ],
-      "trilha": "Seguros",
-      "prioridade": false,
-      "fase": "Conhecimento",
-      "score": 44
-    },
-    {
-      "numero": "00010009420268272718",
-      "numeroFmt": "0001000-94.2026.8.27.2718",
-      "tribunal": "TJTO",
-      "tribunalLabel": "Tocantins · TJTO",
-      "uf": "TO",
-      "justica": "Estadual",
-      "grau": "G1",
-      "classeCod": 7,
-      "classe": "Procedimento Comum Cível",
-      "assuntos": [
-        "Seguro",
-        "Práticas Abusivas"
-      ],
-      "assuntosTxt": "Seguro; Práticas Abusivas",
-      "orgao": "Juízo da 1ª Escrivania Cível de Filadélfia",
-      "sistema": "Projudi",
-      "ajuizadoBR": "02/09/2026",
-      "ajuizadoSort": "20260902",
-      "ultMov": "Documento",
-      "ultMovData": "2026-10-14",
-      "transito": false,
-      "frentes": [
-        "seguros"
-      ],
-      "trilha": "Seguros",
-      "prioridade": false,
-      "fase": "Conhecimento",
-      "score": 44
-    },
-    {
-      "numero": "00197837320268272706",
-      "numeroFmt": "0019783-73.2026.8.27.2706",
-      "tribunal": "TJTO",
-      "tribunalLabel": "Tocantins · TJTO",
-      "uf": "TO",
-      "justica": "Estadual",
-      "grau": "G1",
-      "classeCod": 7,
-      "classe": "Procedimento Comum Cível",
-      "assuntos": [
-        "Obrigação de Fazer / Não Fazer",
-        "Direito de Imagem",
-        "Direito de Imagem",
-        "Seguro"
-      ],
-      "assuntosTxt": "Obrigação de Fazer / Não Fazer; Direito de Imagem; Direito de Imagem; Seguro",
-      "orgao": "Juízo da 1ª Vara Cível de Araguaína",
-      "sistema": "Projudi",
-      "ajuizadoBR": "02/09/2026",
-      "ajuizadoSort": "20260902",
-      "ultMov": "Disponibilização no Diário da Justiça Eletrônico",
-      "ultMovData": "2026-10-20",
-      "transito": false,
-      "frentes": [
-        "seguros"
-      ],
-      "trilha": "Seguros",
-      "prioridade": false,
-      "fase": "Conhecimento",
-      "score": 44
-    },
-    {
-      "numero": "00033724920268272707",
-      "numeroFmt": "0003372-49.2026.8.27.2707",
-      "tribunal": "TJTO",
-      "tribunalLabel": "Tocantins · TJTO",
-      "uf": "TO",
-      "justica": "Estadual",
-      "grau": "G1",
-      "classeCod": 7,
-      "classe": "Procedimento Comum Cível",
-      "assuntos": [
-        "Seguro",
-        "Práticas Abusivas"
-      ],
-      "assuntosTxt": "Seguro; Práticas Abusivas",
-      "orgao": "Juízo da Vara Cível, dos Feitos da Fazenda e Registros Públicos de Araguatins",
-      "sistema": "Projudi",
-      "ajuizadoBR": "02/09/2026",
-      "ajuizadoSort": "20260902",
-      "ultMov": "Documento",
-      "ultMovData": "2026-10-11",
       "transito": false,
       "frentes": [
         "seguros"
@@ -50694,102 +50450,6 @@
       "score": 44
     },
     {
-      "numero": "00196685220268272706",
-      "numeroFmt": "0019668-52.2026.8.27.2706",
-      "tribunal": "TJTO",
-      "tribunalLabel": "Tocantins · TJTO",
-      "uf": "TO",
-      "justica": "Estadual",
-      "grau": "G1",
-      "classeCod": 7,
-      "classe": "Procedimento Comum Cível",
-      "assuntos": [
-        "Seguro",
-        "Defeito, nulidade ou anulação",
-        "Repetição do Indébito"
-      ],
-      "assuntosTxt": "Seguro; Defeito, nulidade ou anulação; Repetição do Indébito",
-      "orgao": "Juizo da 3ª Vara Cível de Araguaína",
-      "sistema": "Projudi",
-      "ajuizadoBR": "01/09/2026",
-      "ajuizadoSort": "20260901",
-      "ultMov": "Documento",
-      "ultMovData": "2026-10-11",
-      "transito": false,
-      "frentes": [
-        "seguros"
-      ],
-      "trilha": "Seguros",
-      "prioridade": false,
-      "fase": "Conhecimento",
-      "score": 44
-    },
-    {
-      "numero": "00435905320268272729",
-      "numeroFmt": "0043590-53.2026.8.27.2729",
-      "tribunal": "TJTO",
-      "tribunalLabel": "Tocantins · TJTO",
-      "uf": "TO",
-      "justica": "Estadual",
-      "grau": "G1",
-      "classeCod": 7,
-      "classe": "Procedimento Comum Cível",
-      "assuntos": [
-        "Seguro",
-        "Cláusulas Abusivas",
-        "Práticas Abusivas",
-        "Defeito, nulidade ou anulação",
-        "Repetição do Indébito",
-        "Indenização por Dano Moral",
-        "Assistência Judiciária Gratuita"
-      ],
-      "assuntosTxt": "Seguro; Cláusulas Abusivas; Práticas Abusivas; Defeito, nulidade ou anulação; Repetição do Indébito; Indenização por Dano Moral; Assistência Judiciária Gratuita",
-      "orgao": "Juízo da 4ª Vara Civel de Palmas",
-      "sistema": "Projudi",
-      "ajuizadoBR": "01/09/2026",
-      "ajuizadoSort": "20260901",
-      "ultMov": "Conclusão",
-      "ultMovData": "2026-10-09",
-      "transito": false,
-      "frentes": [
-        "seguros",
-        "consumidor"
-      ],
-      "trilha": "Seguros",
-      "prioridade": false,
-      "fase": "Conhecimento",
-      "score": 44
-    },
-    {
-      "numero": "00009912020268272723",
-      "numeroFmt": "0000991-20.2026.8.27.2723",
-      "tribunal": "TJTO",
-      "tribunalLabel": "Tocantins · TJTO",
-      "uf": "TO",
-      "justica": "Estadual",
-      "grau": "G1",
-      "classeCod": 7,
-      "classe": "Procedimento Comum Cível",
-      "assuntos": [
-        "Seguro"
-      ],
-      "assuntosTxt": "Seguro",
-      "orgao": "Juízo da 1ª Escrivania Cível de Itacajá",
-      "sistema": "Projudi",
-      "ajuizadoBR": "01/09/2026",
-      "ajuizadoSort": "20260901",
-      "ultMov": "",
-      "ultMovData": "2026-10-19",
-      "transito": false,
-      "frentes": [
-        "seguros"
-      ],
-      "trilha": "Seguros",
-      "prioridade": false,
-      "fase": "Conhecimento",
-      "score": 44
-    },
-    {
       "numero": "00014466720268272728",
       "numeroFmt": "0001446-67.2026.8.27.2728",
       "tribunal": "TJTO",
@@ -50817,38 +50477,6 @@
       "frentes": [
         "seguros",
         "consumidor"
-      ],
-      "trilha": "Seguros",
-      "prioridade": false,
-      "fase": "Conhecimento",
-      "score": 44
-    },
-    {
-      "numero": "00195463920268272706",
-      "numeroFmt": "0019546-39.2026.8.27.2706",
-      "tribunal": "TJTO",
-      "tribunalLabel": "Tocantins · TJTO",
-      "uf": "TO",
-      "justica": "Estadual",
-      "grau": "G1",
-      "classeCod": 7,
-      "classe": "Procedimento Comum Cível",
-      "assuntos": [
-        "Seguro",
-        "Práticas Abusivas",
-        "Repetição do Indébito",
-        "Defeito, nulidade ou anulação"
-      ],
-      "assuntosTxt": "Seguro; Práticas Abusivas; Repetição do Indébito; Defeito, nulidade ou anulação",
-      "orgao": "Juizo da 3ª Vara Cível de Araguaína",
-      "sistema": "Projudi",
-      "ajuizadoBR": "31/08/2026",
-      "ajuizadoSort": "20260831",
-      "ultMov": "Documento",
-      "ultMovData": "2026-10-11",
-      "transito": false,
-      "frentes": [
-        "seguros"
       ],
       "trilha": "Seguros",
       "prioridade": false,
@@ -50887,66 +50515,6 @@
       "score": 44
     },
     {
-      "numero": "00015906520268272720",
-      "numeroFmt": "0001590-65.2026.8.27.2720",
-      "tribunal": "TJTO",
-      "tribunalLabel": "Tocantins · TJTO",
-      "uf": "TO",
-      "justica": "Estadual",
-      "grau": "G1",
-      "classeCod": 7,
-      "classe": "Procedimento Comum Cível",
-      "assuntos": [
-        "Seguro",
-        "Repetição do Indébito",
-        "Indenização por Dano Moral"
-      ],
-      "assuntosTxt": "Seguro; Repetição do Indébito; Indenização por Dano Moral",
-      "orgao": "Juízo da 1ª Escrivania Cível de Goiatins",
-      "sistema": "Projudi",
-      "ajuizadoBR": "31/08/2026",
-      "ajuizadoSort": "20260831",
-      "ultMov": "Protocolo de Petição",
-      "ultMovData": "2026-09-10",
-      "transito": false,
-      "frentes": [
-        "seguros"
-      ],
-      "trilha": "Seguros",
-      "prioridade": false,
-      "fase": "Conhecimento",
-      "score": 44
-    },
-    {
-      "numero": "00006219820268272704",
-      "numeroFmt": "0000621-98.2026.8.27.2704",
-      "tribunal": "TJTO",
-      "tribunalLabel": "Tocantins · TJTO",
-      "uf": "TO",
-      "justica": "Estadual",
-      "grau": "G1",
-      "classeCod": 7,
-      "classe": "Procedimento Comum Cível",
-      "assuntos": [
-        "Seguro"
-      ],
-      "assuntosTxt": "Seguro",
-      "orgao": "Juízo da 1ª Escrivania Cível de Araguacema",
-      "sistema": "Projudi",
-      "ajuizadoBR": "31/08/2026",
-      "ajuizadoSort": "20260831",
-      "ultMov": "Disponibilização no Diário da Justiça Eletrônico",
-      "ultMovData": "2026-10-15",
-      "transito": false,
-      "frentes": [
-        "seguros"
-      ],
-      "trilha": "Seguros",
-      "prioridade": false,
-      "fase": "Conhecimento",
-      "score": 44
-    },
-    {
       "numero": "00034648220268272721",
       "numeroFmt": "0003464-82.2026.8.27.2721",
       "tribunal": "TJTO",
@@ -50970,98 +50538,6 @@
       "ajuizadoSort": "20260828",
       "ultMov": "Remessa",
       "ultMovData": "2026-10-14",
-      "transito": false,
-      "frentes": [
-        "seguros"
-      ],
-      "trilha": "Seguros",
-      "prioridade": false,
-      "fase": "Conhecimento",
-      "score": 44
-    },
-    {
-      "numero": "00070897620268272737",
-      "numeroFmt": "0007089-76.2026.8.27.2737",
-      "tribunal": "TJTO",
-      "tribunalLabel": "Tocantins · TJTO",
-      "uf": "TO",
-      "justica": "Estadual",
-      "grau": "G1",
-      "classeCod": 7,
-      "classe": "Procedimento Comum Cível",
-      "assuntos": [
-        "Seguro",
-        "Indenização por Dano Material"
-      ],
-      "assuntosTxt": "Seguro; Indenização por Dano Material",
-      "orgao": "Juízo da 2ª Vara Cível de Porto Nacional",
-      "sistema": "Projudi",
-      "ajuizadoBR": "28/08/2026",
-      "ajuizadoSort": "20260828",
-      "ultMov": "Documento",
-      "ultMovData": "2026-10-14",
-      "transito": false,
-      "frentes": [
-        "seguros"
-      ],
-      "trilha": "Seguros",
-      "prioridade": false,
-      "fase": "Conhecimento",
-      "score": 44
-    },
-    {
-      "numero": "00193948820268272706",
-      "numeroFmt": "0019394-88.2026.8.27.2706",
-      "tribunal": "TJTO",
-      "tribunalLabel": "Tocantins · TJTO",
-      "uf": "TO",
-      "justica": "Estadual",
-      "grau": "G1",
-      "classeCod": 7,
-      "classe": "Procedimento Comum Cível",
-      "assuntos": [
-        "Seguro",
-        "Práticas Abusivas",
-        "Defeito, nulidade ou anulação",
-        "Repetição do Indébito"
-      ],
-      "assuntosTxt": "Seguro; Práticas Abusivas; Defeito, nulidade ou anulação; Repetição do Indébito",
-      "orgao": "Juizo da 3ª Vara Cível de Araguaína",
-      "sistema": "Projudi",
-      "ajuizadoBR": "28/08/2026",
-      "ajuizadoSort": "20260828",
-      "ultMov": "Conclusão",
-      "ultMovData": "2026-09-01",
-      "transito": false,
-      "frentes": [
-        "seguros"
-      ],
-      "trilha": "Seguros",
-      "prioridade": false,
-      "fase": "Conhecimento",
-      "score": 44
-    },
-    {
-      "numero": "00017048320268272726",
-      "numeroFmt": "0001704-83.2026.8.27.2726",
-      "tribunal": "TJTO",
-      "tribunalLabel": "Tocantins · TJTO",
-      "uf": "TO",
-      "justica": "Estadual",
-      "grau": "G1",
-      "classeCod": 7,
-      "classe": "Procedimento Comum Cível",
-      "assuntos": [
-        "Seguro",
-        "Práticas Abusivas"
-      ],
-      "assuntosTxt": "Seguro; Práticas Abusivas",
-      "orgao": "Juízo da 1ª Escrivania Cível de Miranorte",
-      "sistema": "Projudi",
-      "ajuizadoBR": "28/08/2026",
-      "ajuizadoSort": "20260828",
-      "ultMov": "Disponibilização no Diário da Justiça Eletrônico",
-      "ultMovData": "2026-10-20",
       "transito": false,
       "frentes": [
         "seguros"
@@ -51226,35 +50702,6 @@
       "score": 44
     },
     {
-      "numero": "00032018320268272710",
-      "numeroFmt": "0003201-83.2026.8.27.2710",
-      "tribunal": "TJTO",
-      "tribunalLabel": "Tocantins · TJTO",
-      "uf": "TO",
-      "justica": "Estadual",
-      "grau": "G1",
-      "classeCod": 7,
-      "classe": "Procedimento Comum Cível",
-      "assuntos": [
-        "Seguro"
-      ],
-      "assuntosTxt": "Seguro",
-      "orgao": "Juízo da 1ª Vara de Augustinópolis",
-      "sistema": "Projudi",
-      "ajuizadoBR": "27/08/2026",
-      "ajuizadoSort": "20260827",
-      "ultMov": "Documento",
-      "ultMovData": "2026-10-11",
-      "transito": false,
-      "frentes": [
-        "seguros"
-      ],
-      "trilha": "Seguros",
-      "prioridade": false,
-      "fase": "Conhecimento",
-      "score": 44
-    },
-    {
       "numero": "00424326020268272729",
       "numeroFmt": "0042432-60.2026.8.27.2729",
       "tribunal": "TJTO",
@@ -51344,35 +50791,6 @@
       "ajuizadoSort": "20260826",
       "ultMov": "Documento",
       "ultMovData": "2026-10-11",
-      "transito": false,
-      "frentes": [
-        "seguros"
-      ],
-      "trilha": "Seguros",
-      "prioridade": false,
-      "fase": "Conhecimento",
-      "score": 44
-    },
-    {
-      "numero": "00422784220268272729",
-      "numeroFmt": "0042278-42.2026.8.27.2729",
-      "tribunal": "TJTO",
-      "tribunalLabel": "Tocantins · TJTO",
-      "uf": "TO",
-      "justica": "Estadual",
-      "grau": "JE",
-      "classeCod": 436,
-      "classe": "Procedimento do Juizado Especial Cível",
-      "assuntos": [
-        "Seguro"
-      ],
-      "assuntosTxt": "Seguro",
-      "orgao": "Juízo do 3º Juizado Especial Cível de Palmas",
-      "sistema": "Projudi",
-      "ajuizadoBR": "26/08/2026",
-      "ajuizadoSort": "20260826",
-      "ultMov": "Emenda à Inicial",
-      "ultMovData": "2026-10-16",
       "transito": false,
       "frentes": [
         "seguros"
@@ -51540,97 +50958,6 @@
       "score": 44
     },
     {
-      "numero": "00190050620268272706",
-      "numeroFmt": "0019005-06.2026.8.27.2706",
-      "tribunal": "TJTO",
-      "tribunalLabel": "Tocantins · TJTO",
-      "uf": "TO",
-      "justica": "Estadual",
-      "grau": "G1",
-      "classeCod": 7,
-      "classe": "Procedimento Comum Cível",
-      "assuntos": [
-        "Seguro",
-        "Práticas Abusivas",
-        "Repetição do Indébito"
-      ],
-      "assuntosTxt": "Seguro; Práticas Abusivas; Repetição do Indébito",
-      "orgao": "Juízo da 2ª Vara Cível de Araguaína",
-      "sistema": "Projudi",
-      "ajuizadoBR": "25/08/2026",
-      "ajuizadoSort": "20260825",
-      "ultMov": "Documento",
-      "ultMovData": "2026-10-11",
-      "transito": false,
-      "frentes": [
-        "seguros"
-      ],
-      "trilha": "Seguros",
-      "prioridade": false,
-      "fase": "Conhecimento",
-      "score": 44
-    },
-    {
-      "numero": "00418531520268272729",
-      "numeroFmt": "0041853-15.2026.8.27.2729",
-      "tribunal": "TJTO",
-      "tribunalLabel": "Tocantins · TJTO",
-      "uf": "TO",
-      "justica": "Estadual",
-      "grau": "G1",
-      "classeCod": 7,
-      "classe": "Procedimento Comum Cível",
-      "assuntos": [
-        "Seguro",
-        "Assistência Judiciária Gratuita",
-        "Acidente de Trânsito"
-      ],
-      "assuntosTxt": "Seguro; Assistência Judiciária Gratuita; Acidente de Trânsito",
-      "orgao": "Juízo da 2ª Vara Civel de Palmas",
-      "sistema": "Projudi",
-      "ajuizadoBR": "25/08/2026",
-      "ajuizadoSort": "20260825",
-      "ultMov": "Decurso de Prazo",
-      "ultMovData": "2026-10-15",
-      "transito": false,
-      "frentes": [
-        "seguros"
-      ],
-      "trilha": "Seguros",
-      "prioridade": false,
-      "fase": "Conhecimento",
-      "score": 44
-    },
-    {
-      "numero": "00009515320268272718",
-      "numeroFmt": "0000951-53.2026.8.27.2718",
-      "tribunal": "TJTO",
-      "tribunalLabel": "Tocantins · TJTO",
-      "uf": "TO",
-      "justica": "Estadual",
-      "grau": "G1",
-      "classeCod": 7,
-      "classe": "Procedimento Comum Cível",
-      "assuntos": [
-        "Seguro"
-      ],
-      "assuntosTxt": "Seguro",
-      "orgao": "Juízo da 1ª Escrivania Cível de Filadélfia",
-      "sistema": "Projudi",
-      "ajuizadoBR": "24/08/2026",
-      "ajuizadoSort": "20260824",
-      "ultMov": "Disponibilização no Diário da Justiça Eletrônico",
-      "ultMovData": "2026-10-20",
-      "transito": false,
-      "frentes": [
-        "seguros"
-      ],
-      "trilha": "Seguros",
-      "prioridade": false,
-      "fase": "Conhecimento",
-      "score": 44
-    },
-    {
       "numero": "00417024920268272729",
       "numeroFmt": "0041702-49.2026.8.27.2729",
       "tribunal": "TJTO",
@@ -51658,43 +50985,6 @@
       "transito": false,
       "frentes": [
         "seguros"
-      ],
-      "trilha": "Seguros",
-      "prioridade": false,
-      "fase": "Conhecimento",
-      "score": 44
-    },
-    {
-      "numero": "00018013720268272709",
-      "numeroFmt": "0001801-37.2026.8.27.2709",
-      "tribunal": "TJTO",
-      "tribunalLabel": "Tocantins · TJTO",
-      "uf": "TO",
-      "justica": "Estadual",
-      "grau": "G1",
-      "classeCod": 7,
-      "classe": "Procedimento Comum Cível",
-      "assuntos": [
-        "Seguro",
-        "Contratos Bancários",
-        "Revisão de Juros Remuneratórios, Capitalização/Anatocismo",
-        "Repetição do Indébito",
-        "Vendas casadas",
-        "Cláusulas Abusivas",
-        "Defeito, nulidade ou anulação",
-        "Direito de Imagem"
-      ],
-      "assuntosTxt": "Seguro; Contratos Bancários; Revisão de Juros Remuneratórios, Capitalização/Anatocismo; Repetição do Indébito; Vendas casadas; Cláusulas Abusivas; Defeito, nulidade ou anulação; Direito de Imagem",
-      "orgao": "Juízo da 1ª Vara Cível de Arraias",
-      "sistema": "Projudi",
-      "ajuizadoBR": "24/08/2026",
-      "ajuizadoSort": "20260824",
-      "ultMov": "Documento",
-      "ultMovData": "2026-10-14",
-      "transito": false,
-      "frentes": [
-        "seguros",
-        "consumidor"
       ],
       "trilha": "Seguros",
       "prioridade": false,
@@ -51792,131 +51082,6 @@
       "score": 44
     },
     {
-      "numero": "00188344920268272706",
-      "numeroFmt": "0018834-49.2026.8.27.2706",
-      "tribunal": "TJTO",
-      "tribunalLabel": "Tocantins · TJTO",
-      "uf": "TO",
-      "justica": "Estadual",
-      "grau": "JE",
-      "classeCod": 436,
-      "classe": "Procedimento do Juizado Especial Cível",
-      "assuntos": [
-        "Acidente de Trânsito",
-        "Seguro"
-      ],
-      "assuntosTxt": "Acidente de Trânsito; Seguro",
-      "orgao": "Juízo do 1º Juizado Especial Cível de Araguaína",
-      "sistema": "Projudi",
-      "ajuizadoBR": "24/08/2026",
-      "ajuizadoSort": "20260824",
-      "ultMov": "Remessa",
-      "ultMovData": "2026-10-07",
-      "transito": false,
-      "frentes": [
-        "seguros"
-      ],
-      "trilha": "Seguros",
-      "prioridade": false,
-      "fase": "Conhecimento",
-      "score": 44
-    },
-    {
-      "numero": "00030554920268272740",
-      "numeroFmt": "0003055-49.2026.8.27.2740",
-      "tribunal": "TJTO",
-      "tribunalLabel": "Tocantins · TJTO",
-      "uf": "TO",
-      "justica": "Estadual",
-      "grau": "JE",
-      "classeCod": 436,
-      "classe": "Procedimento do Juizado Especial Cível",
-      "assuntos": [
-        "Seguro",
-        "Repetição do Indébito",
-        "Assistência Judiciária Gratuita",
-        "Direito de Imagem"
-      ],
-      "assuntosTxt": "Seguro; Repetição do Indébito; Assistência Judiciária Gratuita; Direito de Imagem",
-      "orgao": "Juízo do Juizado Especial Cível de Tocantinópolis",
-      "sistema": "Projudi",
-      "ajuizadoBR": "22/08/2026",
-      "ajuizadoSort": "20260822",
-      "ultMov": "Decurso de Prazo",
-      "ultMovData": "2026-10-16",
-      "transito": false,
-      "frentes": [
-        "seguros"
-      ],
-      "trilha": "Seguros",
-      "prioridade": false,
-      "fase": "Conhecimento",
-      "score": 44
-    },
-    {
-      "numero": "00030546420268272740",
-      "numeroFmt": "0003054-64.2026.8.27.2740",
-      "tribunal": "TJTO",
-      "tribunalLabel": "Tocantins · TJTO",
-      "uf": "TO",
-      "justica": "Estadual",
-      "grau": "JE",
-      "classeCod": 436,
-      "classe": "Procedimento do Juizado Especial Cível",
-      "assuntos": [
-        "Seguro",
-        "Repetição do Indébito",
-        "Assistência Judiciária Gratuita",
-        "Direito de Imagem"
-      ],
-      "assuntosTxt": "Seguro; Repetição do Indébito; Assistência Judiciária Gratuita; Direito de Imagem",
-      "orgao": "Juízo do Juizado Especial Cível de Tocantinópolis",
-      "sistema": "Projudi",
-      "ajuizadoBR": "22/08/2026",
-      "ajuizadoSort": "20260822",
-      "ultMov": "Protocolo de Petição",
-      "ultMovData": "2026-09-03",
-      "transito": false,
-      "frentes": [
-        "seguros"
-      ],
-      "trilha": "Seguros",
-      "prioridade": false,
-      "fase": "Conhecimento",
-      "score": 44
-    },
-    {
-      "numero": "00015213320268272720",
-      "numeroFmt": "0001521-33.2026.8.27.2720",
-      "tribunal": "TJTO",
-      "tribunalLabel": "Tocantins · TJTO",
-      "uf": "TO",
-      "justica": "Estadual",
-      "grau": "G1",
-      "classeCod": 7,
-      "classe": "Procedimento Comum Cível",
-      "assuntos": [
-        "Seguro",
-        "Repetição do Indébito",
-        "Indenização por Dano Moral"
-      ],
-      "assuntosTxt": "Seguro; Repetição do Indébito; Indenização por Dano Moral",
-      "orgao": "Juízo da 1ª Escrivania Cível de Goiatins",
-      "sistema": "Projudi",
-      "ajuizadoBR": "22/08/2026",
-      "ajuizadoSort": "20260822",
-      "ultMov": "Documento",
-      "ultMovData": "2026-10-14",
-      "transito": false,
-      "frentes": [
-        "seguros"
-      ],
-      "trilha": "Seguros",
-      "prioridade": false,
-      "fase": "Conhecimento",
-      "score": 44
-    },
-    {
       "numero": "00012043820268272719",
       "numeroFmt": "0001204-38.2026.8.27.2719",
       "tribunal": "TJTO",
@@ -51936,64 +51101,6 @@
       "ajuizadoSort": "20260821",
       "ultMov": "Documento",
       "ultMovData": "2026-10-11",
-      "transito": false,
-      "frentes": [
-        "seguros"
-      ],
-      "trilha": "Seguros",
-      "prioridade": false,
-      "fase": "Conhecimento",
-      "score": 44
-    },
-    {
-      "numero": "00012035320268272719",
-      "numeroFmt": "0001203-53.2026.8.27.2719",
-      "tribunal": "TJTO",
-      "tribunalLabel": "Tocantins · TJTO",
-      "uf": "TO",
-      "justica": "Estadual",
-      "grau": "G1",
-      "classeCod": 7,
-      "classe": "Procedimento Comum Cível",
-      "assuntos": [
-        "Seguro"
-      ],
-      "assuntosTxt": "Seguro",
-      "orgao": "Juízo da 1ª Escrivania Cível de Formoso do Araguaia",
-      "sistema": "Projudi",
-      "ajuizadoBR": "21/08/2026",
-      "ajuizadoSort": "20260821",
-      "ultMov": "Documento",
-      "ultMovData": "2026-10-11",
-      "transito": false,
-      "frentes": [
-        "seguros"
-      ],
-      "trilha": "Seguros",
-      "prioridade": false,
-      "fase": "Conhecimento",
-      "score": 44
-    },
-    {
-      "numero": "00012026820268272719",
-      "numeroFmt": "0001202-68.2026.8.27.2719",
-      "tribunal": "TJTO",
-      "tribunalLabel": "Tocantins · TJTO",
-      "uf": "TO",
-      "justica": "Estadual",
-      "grau": "G1",
-      "classeCod": 7,
-      "classe": "Procedimento Comum Cível",
-      "assuntos": [
-        "Seguro"
-      ],
-      "assuntosTxt": "Seguro",
-      "orgao": "Juízo da 2ª Escrivania Cível de Formoso do Araguaia",
-      "sistema": "Projudi",
-      "ajuizadoBR": "21/08/2026",
-      "ajuizadoSort": "20260821",
-      "ultMov": "Protocolo de Petição",
-      "ultMovData": "2026-10-19",
       "transito": false,
       "frentes": [
         "seguros"
@@ -52064,36 +51171,6 @@
       "score": 44
     },
     {
-      "numero": "00015091920268272720",
-      "numeroFmt": "0001509-19.2026.8.27.2720",
-      "tribunal": "TJTO",
-      "tribunalLabel": "Tocantins · TJTO",
-      "uf": "TO",
-      "justica": "Estadual",
-      "grau": "G1",
-      "classeCod": 7,
-      "classe": "Procedimento Comum Cível",
-      "assuntos": [
-        "Seguro",
-        "Indenização por Dano Moral"
-      ],
-      "assuntosTxt": "Seguro; Indenização por Dano Moral",
-      "orgao": "Juízo da 1ª Escrivania Cível de Goiatins",
-      "sistema": "Projudi",
-      "ajuizadoBR": "21/08/2026",
-      "ajuizadoSort": "20260821",
-      "ultMov": "Documento",
-      "ultMovData": "2026-10-14",
-      "transito": false,
-      "frentes": [
-        "seguros"
-      ],
-      "trilha": "Seguros",
-      "prioridade": false,
-      "fase": "Conhecimento",
-      "score": 44
-    },
-    {
       "numero": "00015057920268272720",
       "numeroFmt": "0001505-79.2026.8.27.2720",
       "tribunal": "TJTO",
@@ -52124,36 +51201,6 @@
       "score": 44
     },
     {
-      "numero": "00014970520268272720",
-      "numeroFmt": "0001497-05.2026.8.27.2720",
-      "tribunal": "TJTO",
-      "tribunalLabel": "Tocantins · TJTO",
-      "uf": "TO",
-      "justica": "Estadual",
-      "grau": "G1",
-      "classeCod": 7,
-      "classe": "Procedimento Comum Cível",
-      "assuntos": [
-        "Seguro",
-        "Indenização por Dano Moral"
-      ],
-      "assuntosTxt": "Seguro; Indenização por Dano Moral",
-      "orgao": "Juízo da 1ª Escrivania Cível de Goiatins",
-      "sistema": "Projudi",
-      "ajuizadoBR": "21/08/2026",
-      "ajuizadoSort": "20260821",
-      "ultMov": "Protocolo de Petição",
-      "ultMovData": "2026-10-16",
-      "transito": false,
-      "frentes": [
-        "seguros"
-      ],
-      "trilha": "Seguros",
-      "prioridade": false,
-      "fase": "Conhecimento",
-      "score": 44
-    },
-    {
       "numero": "00014945020268272720",
       "numeroFmt": "0001494-50.2026.8.27.2720",
       "tribunal": "TJTO",
@@ -52174,35 +51221,6 @@
       "ajuizadoSort": "20260821",
       "ultMov": "Documento",
       "ultMovData": "2026-10-14",
-      "transito": false,
-      "frentes": [
-        "seguros"
-      ],
-      "trilha": "Seguros",
-      "prioridade": false,
-      "fase": "Conhecimento",
-      "score": 44
-    },
-    {
-      "numero": "00188007420268272706",
-      "numeroFmt": "0018800-74.2026.8.27.2706",
-      "tribunal": "TJTO",
-      "tribunalLabel": "Tocantins · TJTO",
-      "uf": "TO",
-      "justica": "Estadual",
-      "grau": "G1",
-      "classeCod": 7,
-      "classe": "Procedimento Comum Cível",
-      "assuntos": [
-        "Seguro"
-      ],
-      "assuntosTxt": "Seguro",
-      "orgao": "Juizo da 3ª Vara Cível de Araguaína",
-      "sistema": "Projudi",
-      "ajuizadoBR": "21/08/2026",
-      "ajuizadoSort": "20260821",
-      "ultMov": "Disponibilização no Diário da Justiça Eletrônico",
-      "ultMovData": "2026-08-26",
       "transito": false,
       "frentes": [
         "seguros"
@@ -52246,71 +51264,6 @@
       "score": 44
     },
     {
-      "numero": "00412971320268272729",
-      "numeroFmt": "0041297-13.2026.8.27.2729",
-      "tribunal": "TJTO",
-      "tribunalLabel": "Tocantins · TJTO",
-      "uf": "TO",
-      "justica": "Estadual",
-      "grau": "G1",
-      "classeCod": 7,
-      "classe": "Procedimento Comum Cível",
-      "assuntos": [
-        "Seguro",
-        "Defeito, nulidade ou anulação",
-        "Repetição do Indébito",
-        "Indenização por Dano Material",
-        "Assistência Judiciária Gratuita"
-      ],
-      "assuntosTxt": "Seguro; Defeito, nulidade ou anulação; Repetição do Indébito; Indenização por Dano Material; Assistência Judiciária Gratuita",
-      "orgao": "Juízo da 5ª Vara Civel de Palmas",
-      "sistema": "Projudi",
-      "ajuizadoBR": "21/08/2026",
-      "ajuizadoSort": "20260821",
-      "ultMov": "Protocolo de Petição",
-      "ultMovData": "2026-10-19",
-      "transito": false,
-      "frentes": [
-        "seguros"
-      ],
-      "trilha": "Seguros",
-      "prioridade": false,
-      "fase": "Conhecimento",
-      "score": 44
-    },
-    {
-      "numero": "00412945820268272729",
-      "numeroFmt": "0041294-58.2026.8.27.2729",
-      "tribunal": "TJTO",
-      "tribunalLabel": "Tocantins · TJTO",
-      "uf": "TO",
-      "justica": "Estadual",
-      "grau": "G1",
-      "classeCod": 7,
-      "classe": "Procedimento Comum Cível",
-      "assuntos": [
-        "Seguro",
-        "Defeito, nulidade ou anulação",
-        "Assistência Judiciária Gratuita",
-        "Liminar "
-      ],
-      "assuntosTxt": "Seguro; Defeito, nulidade ou anulação; Assistência Judiciária Gratuita; Liminar ",
-      "orgao": "Juízo da 2ª Vara Civel de Palmas",
-      "sistema": "Projudi",
-      "ajuizadoBR": "21/08/2026",
-      "ajuizadoSort": "20260821",
-      "ultMov": "Remessa para o CEJUSC ou Centros de Conciliação/Mediação",
-      "ultMovData": "2026-10-13",
-      "transito": false,
-      "frentes": [
-        "seguros"
-      ],
-      "trilha": "Seguros",
-      "prioridade": false,
-      "fase": "Conhecimento",
-      "score": 44
-    },
-    {
       "numero": "00412937320268272729",
       "numeroFmt": "0041293-73.2026.8.27.2729",
       "tribunal": "TJTO",
@@ -52337,70 +51290,6 @@
       "transito": false,
       "frentes": [
         "seguros"
-      ],
-      "trilha": "Seguros",
-      "prioridade": false,
-      "fase": "Conhecimento",
-      "score": 44
-    },
-    {
-      "numero": "00009465920268272741",
-      "numeroFmt": "0000946-59.2026.8.27.2741",
-      "tribunal": "TJTO",
-      "tribunalLabel": "Tocantins · TJTO",
-      "uf": "TO",
-      "justica": "Estadual",
-      "grau": "G1",
-      "classeCod": 7,
-      "classe": "Procedimento Comum Cível",
-      "assuntos": [
-        "Seguro"
-      ],
-      "assuntosTxt": "Seguro",
-      "orgao": "Juízo da 1ª Escrivania Cível de Wanderlândia",
-      "sistema": "Projudi",
-      "ajuizadoBR": "21/08/2026",
-      "ajuizadoSort": "20260821",
-      "ultMov": "Decurso de Prazo",
-      "ultMovData": "2026-10-15",
-      "transito": false,
-      "frentes": [
-        "seguros"
-      ],
-      "trilha": "Seguros",
-      "prioridade": false,
-      "fase": "Conhecimento",
-      "score": 44
-    },
-    {
-      "numero": "00186647720268272706",
-      "numeroFmt": "0018664-77.2026.8.27.2706",
-      "tribunal": "TJTO",
-      "tribunalLabel": "Tocantins · TJTO",
-      "uf": "TO",
-      "justica": "Estadual",
-      "grau": "G1",
-      "classeCod": 7,
-      "classe": "Procedimento Comum Cível",
-      "assuntos": [
-        "Seguro",
-        "Assistência Judiciária Gratuita",
-        "Repetição do Indébito",
-        "Direito de Imagem",
-        "Tutela de Urgência",
-        "Tarifas"
-      ],
-      "assuntosTxt": "Seguro; Assistência Judiciária Gratuita; Repetição do Indébito; Direito de Imagem; Tutela de Urgência; Tarifas",
-      "orgao": "Juízo da 1ª Vara Cível de Araguaína",
-      "sistema": "Projudi",
-      "ajuizadoBR": "20/08/2026",
-      "ajuizadoSort": "20260820",
-      "ultMov": "Documento",
-      "ultMovData": "2026-10-14",
-      "transito": false,
-      "frentes": [
-        "seguros",
-        "consumidor"
       ],
       "trilha": "Seguros",
       "prioridade": false,
@@ -52439,35 +51328,6 @@
       "score": 44
     },
     {
-      "numero": "00186448620268272706",
-      "numeroFmt": "0018644-86.2026.8.27.2706",
-      "tribunal": "TJTO",
-      "tribunalLabel": "Tocantins · TJTO",
-      "uf": "TO",
-      "justica": "Estadual",
-      "grau": "G1",
-      "classeCod": 7,
-      "classe": "Procedimento Comum Cível",
-      "assuntos": [
-        "Seguro"
-      ],
-      "assuntosTxt": "Seguro",
-      "orgao": "Juízo da 2ª Vara Cível de Araguaína",
-      "sistema": "Projudi",
-      "ajuizadoBR": "20/08/2026",
-      "ajuizadoSort": "20260820",
-      "ultMov": "Disponibilização no Diário da Justiça Eletrônico",
-      "ultMovData": "2026-10-16",
-      "transito": false,
-      "frentes": [
-        "seguros"
-      ],
-      "trilha": "Seguros",
-      "prioridade": false,
-      "fase": "Conhecimento",
-      "score": 44
-    },
-    {
       "numero": "00010852820268272703",
       "numeroFmt": "0001085-28.2026.8.27.2703",
       "tribunal": "TJTO",
@@ -52489,37 +51349,6 @@
       "ajuizadoSort": "20260820",
       "ultMov": "Conclusão",
       "ultMovData": "2026-10-08",
-      "transito": false,
-      "frentes": [
-        "seguros"
-      ],
-      "trilha": "Seguros",
-      "prioridade": false,
-      "fase": "Conhecimento",
-      "score": 44
-    },
-    {
-      "numero": "00010775120268272703",
-      "numeroFmt": "0001077-51.2026.8.27.2703",
-      "tribunal": "TJTO",
-      "tribunalLabel": "Tocantins · TJTO",
-      "uf": "TO",
-      "justica": "Estadual",
-      "grau": "G1",
-      "classeCod": 7,
-      "classe": "Procedimento Comum Cível",
-      "assuntos": [
-        "Seguro",
-        "Repetição do Indébito",
-        "Práticas Abusivas"
-      ],
-      "assuntosTxt": "Seguro; Repetição do Indébito; Práticas Abusivas",
-      "orgao": "Juízo da 1ª Escrivania Cível de Ananás",
-      "sistema": "Projudi",
-      "ajuizadoBR": "20/08/2026",
-      "ajuizadoSort": "20260820",
-      "ultMov": "Documento",
-      "ultMovData": "2026-10-13",
       "transito": false,
       "frentes": [
         "seguros"
@@ -52625,68 +51454,6 @@
       "score": 44
     },
     {
-      "numero": "00031663520268272707",
-      "numeroFmt": "0003166-35.2026.8.27.2707",
-      "tribunal": "TJTO",
-      "tribunalLabel": "Tocantins · TJTO",
-      "uf": "TO",
-      "justica": "Estadual",
-      "grau": "G1",
-      "classeCod": 7,
-      "classe": "Procedimento Comum Cível",
-      "assuntos": [
-        "Seguro",
-        "Repetição do Indébito",
-        "Práticas Abusivas"
-      ],
-      "assuntosTxt": "Seguro; Repetição do Indébito; Práticas Abusivas",
-      "orgao": "Juízo da Vara Cível, dos Feitos da Fazenda e Registros Públicos de Araguatins",
-      "sistema": "Projudi",
-      "ajuizadoBR": "20/08/2026",
-      "ajuizadoSort": "20260820",
-      "ultMov": "Protocolo de Petição",
-      "ultMovData": "2026-10-15",
-      "transito": false,
-      "frentes": [
-        "seguros"
-      ],
-      "trilha": "Seguros",
-      "prioridade": false,
-      "fase": "Conhecimento",
-      "score": 44
-    },
-    {
-      "numero": "00031655020268272707",
-      "numeroFmt": "0003165-50.2026.8.27.2707",
-      "tribunal": "TJTO",
-      "tribunalLabel": "Tocantins · TJTO",
-      "uf": "TO",
-      "justica": "Estadual",
-      "grau": "G1",
-      "classeCod": 7,
-      "classe": "Procedimento Comum Cível",
-      "assuntos": [
-        "Seguro",
-        "Repetição do Indébito",
-        "Práticas Abusivas"
-      ],
-      "assuntosTxt": "Seguro; Repetição do Indébito; Práticas Abusivas",
-      "orgao": "Juízo da Vara Cível, dos Feitos da Fazenda e Registros Públicos de Araguatins",
-      "sistema": "Projudi",
-      "ajuizadoBR": "20/08/2026",
-      "ajuizadoSort": "20260820",
-      "ultMov": "Disponibilização no Diário da Justiça Eletrônico",
-      "ultMovData": "2026-10-20",
-      "transito": false,
-      "frentes": [
-        "seguros"
-      ],
-      "trilha": "Seguros",
-      "prioridade": false,
-      "fase": "Conhecimento",
-      "score": 44
-    },
-    {
       "numero": "00184932320268272706",
       "numeroFmt": "0018493-23.2026.8.27.2706",
       "tribunal": "TJTO",
@@ -52714,94 +51481,6 @@
       "frentes": [
         "seguros",
         "consumidor"
-      ],
-      "trilha": "Seguros",
-      "prioridade": false,
-      "fase": "Conhecimento",
-      "score": 44
-    },
-    {
-      "numero": "00011767020268272719",
-      "numeroFmt": "0001176-70.2026.8.27.2719",
-      "tribunal": "TJTO",
-      "tribunalLabel": "Tocantins · TJTO",
-      "uf": "TO",
-      "justica": "Estadual",
-      "grau": "G1",
-      "classeCod": 7,
-      "classe": "Procedimento Comum Cível",
-      "assuntos": [
-        "Seguro"
-      ],
-      "assuntosTxt": "Seguro",
-      "orgao": "Juízo da 1ª Escrivania Cível de Formoso do Araguaia",
-      "sistema": "Projudi",
-      "ajuizadoBR": "18/08/2026",
-      "ajuizadoSort": "20260818",
-      "ultMov": "Protocolo de Petição",
-      "ultMovData": "2026-10-19",
-      "transito": false,
-      "frentes": [
-        "seguros"
-      ],
-      "trilha": "Seguros",
-      "prioridade": false,
-      "fase": "Conhecimento",
-      "score": 44
-    },
-    {
-      "numero": "00011758520268272719",
-      "numeroFmt": "0001175-85.2026.8.27.2719",
-      "tribunal": "TJTO",
-      "tribunalLabel": "Tocantins · TJTO",
-      "uf": "TO",
-      "justica": "Estadual",
-      "grau": "G1",
-      "classeCod": 7,
-      "classe": "Procedimento Comum Cível",
-      "assuntos": [
-        "Seguro"
-      ],
-      "assuntosTxt": "Seguro",
-      "orgao": "Juízo da 1ª Escrivania Cível de Formoso do Araguaia",
-      "sistema": "Projudi",
-      "ajuizadoBR": "18/08/2026",
-      "ajuizadoSort": "20260818",
-      "ultMov": "Protocolo de Petição",
-      "ultMovData": "2026-09-05",
-      "transito": false,
-      "frentes": [
-        "seguros"
-      ],
-      "trilha": "Seguros",
-      "prioridade": false,
-      "fase": "Conhecimento",
-      "score": 44
-    },
-    {
-      "numero": "00031412220268272707",
-      "numeroFmt": "0003141-22.2026.8.27.2707",
-      "tribunal": "TJTO",
-      "tribunalLabel": "Tocantins · TJTO",
-      "uf": "TO",
-      "justica": "Estadual",
-      "grau": "G1",
-      "classeCod": 7,
-      "classe": "Procedimento Comum Cível",
-      "assuntos": [
-        "Seguro",
-        "Práticas Abusivas"
-      ],
-      "assuntosTxt": "Seguro; Práticas Abusivas",
-      "orgao": "Juízo da Vara Cível, dos Feitos da Fazenda e Registros Públicos de Araguatins",
-      "sistema": "Projudi",
-      "ajuizadoBR": "18/08/2026",
-      "ajuizadoSort": "20260818",
-      "ultMov": "Documento",
-      "ultMovData": "2026-10-11",
-      "transito": false,
-      "frentes": [
-        "seguros"
       ],
       "trilha": "Seguros",
       "prioridade": false,
@@ -52843,38 +51522,6 @@
       "score": 44
     },
     {
-      "numero": "00012594020268272702",
-      "numeroFmt": "0001259-40.2026.8.27.2702",
-      "tribunal": "TJTO",
-      "tribunalLabel": "Tocantins · TJTO",
-      "uf": "TO",
-      "justica": "Estadual",
-      "grau": "JE",
-      "classeCod": 436,
-      "classe": "Procedimento do Juizado Especial Cível",
-      "assuntos": [
-        "Contratos Bancários",
-        "Seguro",
-        "Direito de Imagem",
-        "Tutela de Urgência"
-      ],
-      "assuntosTxt": "Contratos Bancários; Seguro; Direito de Imagem; Tutela de Urgência",
-      "orgao": "Juízo da 1ª Escrivania Cível de Alvorada",
-      "sistema": "Projudi",
-      "ajuizadoBR": "18/08/2026",
-      "ajuizadoSort": "20260818",
-      "ultMov": "Protocolo de Petição",
-      "ultMovData": "2026-10-16",
-      "transito": false,
-      "frentes": [
-        "seguros"
-      ],
-      "trilha": "Seguros",
-      "prioridade": false,
-      "fase": "Conhecimento",
-      "score": 44
-    },
-    {
       "numero": "00031248320268272707",
       "numeroFmt": "0003124-83.2026.8.27.2707",
       "tribunal": "TJTO",
@@ -52896,93 +51543,6 @@
       "ajuizadoSort": "20260818",
       "ultMov": "Documento",
       "ultMovData": "2026-10-11",
-      "transito": false,
-      "frentes": [
-        "seguros"
-      ],
-      "trilha": "Seguros",
-      "prioridade": false,
-      "fase": "Conhecimento",
-      "score": 44
-    },
-    {
-      "numero": "00183061520268272706",
-      "numeroFmt": "0018306-15.2026.8.27.2706",
-      "tribunal": "TJTO",
-      "tribunalLabel": "Tocantins · TJTO",
-      "uf": "TO",
-      "justica": "Estadual",
-      "grau": "JE",
-      "classeCod": 436,
-      "classe": "Procedimento do Juizado Especial Cível",
-      "assuntos": [
-        "Seguro"
-      ],
-      "assuntosTxt": "Seguro",
-      "orgao": "Juízo do 1º Juizado Especial Cível de Araguaína",
-      "sistema": "Projudi",
-      "ajuizadoBR": "18/08/2026",
-      "ajuizadoSort": "20260818",
-      "ultMov": "Documento",
-      "ultMovData": "2026-10-11",
-      "transito": false,
-      "frentes": [
-        "seguros"
-      ],
-      "trilha": "Seguros",
-      "prioridade": false,
-      "fase": "Conhecimento",
-      "score": 44
-    },
-    {
-      "numero": "00030338120268272710",
-      "numeroFmt": "0003033-81.2026.8.27.2710",
-      "tribunal": "TJTO",
-      "tribunalLabel": "Tocantins · TJTO",
-      "uf": "TO",
-      "justica": "Estadual",
-      "grau": "G1",
-      "classeCod": 7,
-      "classe": "Procedimento Comum Cível",
-      "assuntos": [
-        "Seguro"
-      ],
-      "assuntosTxt": "Seguro",
-      "orgao": "Juízo da 1ª Vara de Augustinópolis",
-      "sistema": "Projudi",
-      "ajuizadoBR": "18/08/2026",
-      "ajuizadoSort": "20260818",
-      "ultMov": "Ato ordinatório",
-      "ultMovData": "2026-08-25",
-      "transito": false,
-      "frentes": [
-        "seguros"
-      ],
-      "trilha": "Seguros",
-      "prioridade": false,
-      "fase": "Conhecimento",
-      "score": 44
-    },
-    {
-      "numero": "00030329620268272710",
-      "numeroFmt": "0003032-96.2026.8.27.2710",
-      "tribunal": "TJTO",
-      "tribunalLabel": "Tocantins · TJTO",
-      "uf": "TO",
-      "justica": "Estadual",
-      "grau": "G1",
-      "classeCod": 7,
-      "classe": "Procedimento Comum Cível",
-      "assuntos": [
-        "Seguro"
-      ],
-      "assuntosTxt": "Seguro",
-      "orgao": "Juízo da 1ª Vara de Augustinópolis",
-      "sistema": "Projudi",
-      "ajuizadoBR": "18/08/2026",
-      "ajuizadoSort": "20260818",
-      "ultMov": "Protocolo de Petição",
-      "ultMovData": "2026-10-19",
       "transito": false,
       "frentes": [
         "seguros"
@@ -53026,35 +51586,6 @@
       "score": 44
     },
     {
-      "numero": "00403730220268272729",
-      "numeroFmt": "0040373-02.2026.8.27.2729",
-      "tribunal": "TJTO",
-      "tribunalLabel": "Tocantins · TJTO",
-      "uf": "TO",
-      "justica": "Estadual",
-      "grau": "G1",
-      "classeCod": 7,
-      "classe": "Procedimento Comum Cível",
-      "assuntos": [
-        "Seguro"
-      ],
-      "assuntosTxt": "Seguro",
-      "orgao": "Juizo da 6ª Vara Civel de Palmas",
-      "sistema": "Projudi",
-      "ajuizadoBR": "17/08/2026",
-      "ajuizadoSort": "20260817",
-      "ultMov": "Decurso de Prazo",
-      "ultMovData": "2026-10-03",
-      "transito": false,
-      "frentes": [
-        "seguros"
-      ],
-      "trilha": "Seguros",
-      "prioridade": false,
-      "fase": "Conhecimento",
-      "score": 44
-    },
-    {
       "numero": "00017870820268272724",
       "numeroFmt": "0001787-08.2026.8.27.2724",
       "tribunal": "TJTO",
@@ -53088,67 +51619,6 @@
       "score": 44
     },
     {
-      "numero": "00031204620268272707",
-      "numeroFmt": "0003120-46.2026.8.27.2707",
-      "tribunal": "TJTO",
-      "tribunalLabel": "Tocantins · TJTO",
-      "uf": "TO",
-      "justica": "Estadual",
-      "grau": "G1",
-      "classeCod": 7,
-      "classe": "Procedimento Comum Cível",
-      "assuntos": [
-        "Seguro",
-        "Práticas Abusivas"
-      ],
-      "assuntosTxt": "Seguro; Práticas Abusivas",
-      "orgao": "Juízo da Vara Cível, dos Feitos da Fazenda e Registros Públicos de Araguatins",
-      "sistema": "Projudi",
-      "ajuizadoBR": "17/08/2026",
-      "ajuizadoSort": "20260817",
-      "ultMov": "Documento",
-      "ultMovData": "2026-10-11",
-      "transito": false,
-      "frentes": [
-        "seguros"
-      ],
-      "trilha": "Seguros",
-      "prioridade": false,
-      "fase": "Conhecimento",
-      "score": 44
-    },
-    {
-      "numero": "00017793120268272724",
-      "numeroFmt": "0001779-31.2026.8.27.2724",
-      "tribunal": "TJTO",
-      "tribunalLabel": "Tocantins · TJTO",
-      "uf": "TO",
-      "justica": "Estadual",
-      "grau": "G1",
-      "classeCod": 7,
-      "classe": "Procedimento Comum Cível",
-      "assuntos": [
-        "Seguro",
-        "Repetição do Indébito",
-        "Práticas Abusivas"
-      ],
-      "assuntosTxt": "Seguro; Repetição do Indébito; Práticas Abusivas",
-      "orgao": "Juízo da 1ª Escrivania Cível de Itaguatins",
-      "sistema": "Projudi",
-      "ajuizadoBR": "17/08/2026",
-      "ajuizadoSort": "20260817",
-      "ultMov": "Conclusão",
-      "ultMovData": "2026-10-01",
-      "transito": false,
-      "frentes": [
-        "seguros"
-      ],
-      "trilha": "Seguros",
-      "prioridade": false,
-      "fase": "Conhecimento",
-      "score": 44
-    },
-    {
       "numero": "00031187620268272707",
       "numeroFmt": "0003118-76.2026.8.27.2707",
       "tribunal": "TJTO",
@@ -53169,38 +51639,6 @@
       "ajuizadoSort": "20260817",
       "ultMov": "Disponibilização no Diário da Justiça Eletrônico",
       "ultMovData": "2026-08-21",
-      "transito": false,
-      "frentes": [
-        "seguros"
-      ],
-      "trilha": "Seguros",
-      "prioridade": false,
-      "fase": "Conhecimento",
-      "score": 44
-    },
-    {
-      "numero": "00008305020268272742",
-      "numeroFmt": "0000830-50.2026.8.27.2742",
-      "tribunal": "TJTO",
-      "tribunalLabel": "Tocantins · TJTO",
-      "uf": "TO",
-      "justica": "Estadual",
-      "grau": "G1",
-      "classeCod": 7,
-      "classe": "Procedimento Comum Cível",
-      "assuntos": [
-        "Obrigação de Fazer / Não Fazer",
-        "Seguro",
-        "Indenização por Dano Material",
-        "Tutela de Urgência"
-      ],
-      "assuntosTxt": "Obrigação de Fazer / Não Fazer; Seguro; Indenização por Dano Material; Tutela de Urgência",
-      "orgao": "Juízo da 1ª Escrivania Cível de Xambioá",
-      "sistema": "Projudi",
-      "ajuizadoBR": "17/08/2026",
-      "ajuizadoSort": "20260817",
-      "ultMov": "Protocolo de Petição",
-      "ultMovData": "2026-10-16",
       "transito": false,
       "frentes": [
         "seguros"
@@ -53266,39 +51704,6 @@
       "transito": false,
       "frentes": [
         "seguros"
-      ],
-      "trilha": "Seguros",
-      "prioridade": false,
-      "fase": "Conhecimento",
-      "score": 44
-    },
-    {
-      "numero": "00181320620268272706",
-      "numeroFmt": "0018132-06.2026.8.27.2706",
-      "tribunal": "TJTO",
-      "tribunalLabel": "Tocantins · TJTO",
-      "uf": "TO",
-      "justica": "Estadual",
-      "grau": "G1",
-      "classeCod": 7,
-      "classe": "Procedimento Comum Cível",
-      "assuntos": [
-        "Seguro",
-        "Cartão de Crédito",
-        "Repetição do Indébito",
-        "Práticas Abusivas"
-      ],
-      "assuntosTxt": "Seguro; Cartão de Crédito; Repetição do Indébito; Práticas Abusivas",
-      "orgao": "Juízo da 2ª Vara Cível de Araguaína",
-      "sistema": "Projudi",
-      "ajuizadoBR": "16/08/2026",
-      "ajuizadoSort": "20260816",
-      "ultMov": "Disponibilização no Diário da Justiça Eletrônico",
-      "ultMovData": "2026-10-20",
-      "transito": false,
-      "frentes": [
-        "seguros",
-        "consumidor"
       ],
       "trilha": "Seguros",
       "prioridade": false,
