@@ -1,14 +1,14 @@
 {
   "meta": {
-    "geradoEm": "17/11/2026, 11:23:16",
-    "total": 256,
+    "geradoEm": "18/11/2026, 11:20:14",
+    "total": 456,
     "prioritarios": 218,
     "tribunaisVazios": [
       "TJTO",
       "TRF1"
     ],
     "porTribunal": {
-      "TJGO": 100,
+      "TJGO": 300,
       "TJTO": 19,
       "TRF1": 137
     },
@@ -16,12 +16,13 @@
       "Servidores estaduais": 99,
       "Consórcio": 4,
       "Servidores federais": 115,
+      "Seguros": 200,
       "Consumidor": 16,
       "Outros": 22
     },
     "porFase": {
       "Execução (coletiva)": 195,
-      "Conhecimento": 61
+      "Conhecimento": 261
     }
   },
   "registros": [
@@ -6578,6 +6579,122 @@
       "stale": true
     },
     {
+      "numero": "58185749420268090169",
+      "numeroFmt": "5818574-94.2026.8.09.0169",
+      "tribunal": "TJGO",
+      "tribunalLabel": "Goiás · TJGO",
+      "uf": "GO",
+      "justica": "Estadual",
+      "grau": "JE",
+      "classeCod": 436,
+      "classe": "Procedimento do Juizado Especial Cível",
+      "assuntos": [
+        "Seguro"
+      ],
+      "assuntosTxt": "Seguro",
+      "orgao": "Juizado Especial Cível e Criminal",
+      "sistema": "Eproc",
+      "ajuizadoBR": "28/08/2026",
+      "ajuizadoSort": "20260828",
+      "ultMov": "Definitivo",
+      "ultMovData": "2026-09-21",
+      "transito": true,
+      "frentes": [
+        "seguros"
+      ],
+      "trilha": "Seguros",
+      "prioridade": false,
+      "fase": "Conhecimento",
+      "score": 59
+    },
+    {
+      "numero": "57983435120268090135",
+      "numeroFmt": "5798343-51.2026.8.09.0135",
+      "tribunal": "TJGO",
+      "tribunalLabel": "Goiás · TJGO",
+      "uf": "GO",
+      "justica": "Estadual",
+      "grau": "JE",
+      "classeCod": 436,
+      "classe": "Procedimento do Juizado Especial Cível",
+      "assuntos": [
+        "Seguro"
+      ],
+      "assuntosTxt": "Seguro",
+      "orgao": "Juizado Especial Cível e Criminal",
+      "sistema": "Eproc",
+      "ajuizadoBR": "24/08/2026",
+      "ajuizadoSort": "20260824",
+      "ultMov": "Definitivo",
+      "ultMovData": "2026-09-21",
+      "transito": true,
+      "frentes": [
+        "seguros"
+      ],
+      "trilha": "Seguros",
+      "prioridade": false,
+      "fase": "Conhecimento",
+      "score": 59
+    },
+    {
+      "numero": "57846097720268090088",
+      "numeroFmt": "5784609-77.2026.8.09.0088",
+      "tribunal": "TJGO",
+      "tribunalLabel": "Goiás · TJGO",
+      "uf": "GO",
+      "justica": "Estadual",
+      "grau": "JE",
+      "classeCod": 436,
+      "classe": "Procedimento do Juizado Especial Cível",
+      "assuntos": [
+        "Seguro"
+      ],
+      "assuntosTxt": "Seguro",
+      "orgao": "2º Juizado Especial Cível e Criminal",
+      "sistema": "Eproc",
+      "ajuizadoBR": "20/08/2026",
+      "ajuizadoSort": "20260820",
+      "ultMov": "Definitivo",
+      "ultMovData": "2026-09-10",
+      "transito": true,
+      "frentes": [
+        "seguros"
+      ],
+      "trilha": "Seguros",
+      "prioridade": false,
+      "fase": "Conhecimento",
+      "score": 59
+    },
+    {
+      "numero": "57729620220268090051",
+      "numeroFmt": "5772962-02.2026.8.09.0051",
+      "tribunal": "TJGO",
+      "tribunalLabel": "Goiás · TJGO",
+      "uf": "GO",
+      "justica": "Estadual",
+      "grau": "JE",
+      "classeCod": 436,
+      "classe": "Procedimento do Juizado Especial Cível",
+      "assuntos": [
+        "Seguro"
+      ],
+      "assuntosTxt": "Seguro",
+      "orgao": "10º Juizado Especial Cível",
+      "sistema": "Eproc",
+      "ajuizadoBR": "17/08/2026",
+      "ajuizadoSort": "20260817",
+      "ultMov": "Definitivo",
+      "ultMovData": "2026-09-17",
+      "transito": true,
+      "frentes": [
+        "seguros"
+      ],
+      "trilha": "Seguros",
+      "prioridade": false,
+      "fase": "Conhecimento",
+      "score": 59
+    },
+    {
       "numero": "00008205120228272740",
       "numeroFmt": "0000820-51.2022.8.27.2740",
       "tribunal": "TJTO",
@@ -6703,6 +6820,5775 @@
       "fase": "Conhecimento",
       "score": 49,
       "stale": true
+    },
+    {
+      "numero": "59884519520268090051",
+      "numeroFmt": "5988451-95.2026.8.09.0051",
+      "tribunal": "TJGO",
+      "tribunalLabel": "Goiás · TJGO",
+      "uf": "GO",
+      "justica": "Estadual",
+      "grau": "JE",
+      "classeCod": 436,
+      "classe": "Procedimento do Juizado Especial Cível",
+      "assuntos": [
+        "Seguro"
+      ],
+      "assuntosTxt": "Seguro",
+      "orgao": "4º Juizado Especial Cível",
+      "sistema": "Eproc",
+      "ajuizadoBR": "30/09/2026",
+      "ajuizadoSort": "20260930",
+      "ultMov": "Documento",
+      "ultMovData": "2026-09-30",
+      "transito": false,
+      "frentes": [
+        "seguros"
+      ],
+      "trilha": "Seguros",
+      "prioridade": false,
+      "fase": "Conhecimento",
+      "score": 44
+    },
+    {
+      "numero": "59843564720268090172",
+      "numeroFmt": "5984356-47.2026.8.09.0172",
+      "tribunal": "TJGO",
+      "tribunalLabel": "Goiás · TJGO",
+      "uf": "GO",
+      "justica": "Estadual",
+      "grau": "G1",
+      "classeCod": 7,
+      "classe": "Procedimento Comum Cível",
+      "assuntos": [
+        "Seguro"
+      ],
+      "assuntosTxt": "Seguro",
+      "orgao": "Vara Judicial",
+      "sistema": "Eproc",
+      "ajuizadoBR": "30/09/2026",
+      "ajuizadoSort": "20260930",
+      "ultMov": "Conclusão",
+      "ultMovData": "2026-09-30",
+      "transito": false,
+      "frentes": [
+        "seguros"
+      ],
+      "trilha": "Seguros",
+      "prioridade": false,
+      "fase": "Conhecimento",
+      "score": 44
+    },
+    {
+      "numero": "59837245720268090160",
+      "numeroFmt": "5983724-57.2026.8.09.0160",
+      "tribunal": "TJGO",
+      "tribunalLabel": "Goiás · TJGO",
+      "uf": "GO",
+      "justica": "Estadual",
+      "grau": "JE",
+      "classeCod": 436,
+      "classe": "Procedimento do Juizado Especial Cível",
+      "assuntos": [
+        "Seguro"
+      ],
+      "assuntosTxt": "Seguro",
+      "orgao": "2ª Vara (Cível, das Fazendas Públicas, de Registros Públicos e Ambiental) e Juizado Especial Cível",
+      "sistema": "Eproc",
+      "ajuizadoBR": "30/09/2026",
+      "ajuizadoSort": "20260930",
+      "ultMov": "Documento",
+      "ultMovData": "2026-09-30",
+      "transito": false,
+      "frentes": [
+        "seguros"
+      ],
+      "trilha": "Seguros",
+      "prioridade": false,
+      "fase": "Conhecimento",
+      "score": 44
+    },
+    {
+      "numero": "59832967720268090127",
+      "numeroFmt": "5983296-77.2026.8.09.0127",
+      "tribunal": "TJGO",
+      "tribunalLabel": "Goiás · TJGO",
+      "uf": "GO",
+      "justica": "Estadual",
+      "grau": "G1",
+      "classeCod": 7,
+      "classe": "Procedimento Comum Cível",
+      "assuntos": [
+        "Seguro"
+      ],
+      "assuntosTxt": "Seguro",
+      "orgao": "1ª Vara Judicial (Família e Sucessões, Infância e Juventude, Cível e Juizado Especial Cível)",
+      "sistema": "Eproc",
+      "ajuizadoBR": "29/09/2026",
+      "ajuizadoSort": "20260929",
+      "ultMov": "Petição",
+      "ultMovData": "2026-09-30",
+      "transito": false,
+      "frentes": [
+        "seguros"
+      ],
+      "trilha": "Seguros",
+      "prioridade": false,
+      "fase": "Conhecimento",
+      "score": 44
+    },
+    {
+      "numero": "59825595920268090132",
+      "numeroFmt": "5982559-59.2026.8.09.0132",
+      "tribunal": "TJGO",
+      "tribunalLabel": "Goiás · TJGO",
+      "uf": "GO",
+      "justica": "Estadual",
+      "grau": "G1",
+      "classeCod": 7,
+      "classe": "Procedimento Comum Cível",
+      "assuntos": [
+        "Seguro"
+      ],
+      "assuntosTxt": "Seguro",
+      "orgao": "1ª Vara Judicial (Família e Sucessões, Infância e Juventude, Cível, de Registros Públicos, Ambiental e Juizado Especial Cível)",
+      "sistema": "Eproc",
+      "ajuizadoBR": "29/09/2026",
+      "ajuizadoSort": "20260929",
+      "ultMov": "Confirmada",
+      "ultMovData": "2026-09-29",
+      "transito": false,
+      "frentes": [
+        "seguros"
+      ],
+      "trilha": "Seguros",
+      "prioridade": false,
+      "fase": "Conhecimento",
+      "score": 44
+    },
+    {
+      "numero": "59823970520268090087",
+      "numeroFmt": "5982397-05.2026.8.09.0087",
+      "tribunal": "TJGO",
+      "tribunalLabel": "Goiás · TJGO",
+      "uf": "GO",
+      "justica": "Estadual",
+      "grau": "G1",
+      "classeCod": 7,
+      "classe": "Procedimento Comum Cível",
+      "assuntos": [
+        "Seguro"
+      ],
+      "assuntosTxt": "Seguro",
+      "orgao": "2ª Vara (Cível e Ambiental)",
+      "sistema": "Eproc",
+      "ajuizadoBR": "29/09/2026",
+      "ajuizadoSort": "20260929",
+      "ultMov": "Confirmada",
+      "ultMovData": "2026-09-30",
+      "transito": false,
+      "frentes": [
+        "seguros"
+      ],
+      "trilha": "Seguros",
+      "prioridade": false,
+      "fase": "Conhecimento",
+      "score": 44
+    },
+    {
+      "numero": "59821126120268090006",
+      "numeroFmt": "5982112-61.2026.8.09.0006",
+      "tribunal": "TJGO",
+      "tribunalLabel": "Goiás · TJGO",
+      "uf": "GO",
+      "justica": "Estadual",
+      "grau": "G1",
+      "classeCod": 7,
+      "classe": "Procedimento Comum Cível",
+      "assuntos": [
+        "Seguro"
+      ],
+      "assuntosTxt": "Seguro",
+      "orgao": "6ª Vara Cível",
+      "sistema": "Eproc",
+      "ajuizadoBR": "29/09/2026",
+      "ajuizadoSort": "20260929",
+      "ultMov": "Conclusão",
+      "ultMovData": "2026-09-30",
+      "transito": false,
+      "frentes": [
+        "seguros"
+      ],
+      "trilha": "Seguros",
+      "prioridade": false,
+      "fase": "Conhecimento",
+      "score": 44
+    },
+    {
+      "numero": "59818117620268090051",
+      "numeroFmt": "5981811-76.2026.8.09.0051",
+      "tribunal": "TJGO",
+      "tribunalLabel": "Goiás · TJGO",
+      "uf": "GO",
+      "justica": "Estadual",
+      "grau": "G1",
+      "classeCod": 7,
+      "classe": "Procedimento Comum Cível",
+      "assuntos": [
+        "Seguro",
+        "Tutela de Urgência"
+      ],
+      "assuntosTxt": "Seguro; Tutela de Urgência",
+      "orgao": "25ª Vara Cível",
+      "sistema": "Eproc",
+      "ajuizadoBR": "29/09/2026",
+      "ajuizadoSort": "20260929",
+      "ultMov": "Conclusão",
+      "ultMovData": "2026-09-30",
+      "transito": false,
+      "frentes": [
+        "seguros"
+      ],
+      "trilha": "Seguros",
+      "prioridade": false,
+      "fase": "Conhecimento",
+      "score": 44
+    },
+    {
+      "numero": "59809313620268090164",
+      "numeroFmt": "5980931-36.2026.8.09.0164",
+      "tribunal": "TJGO",
+      "tribunalLabel": "Goiás · TJGO",
+      "uf": "GO",
+      "justica": "Estadual",
+      "grau": "G1",
+      "classeCod": 7,
+      "classe": "Procedimento Comum Cível",
+      "assuntos": [
+        "Seguro Acidentes do Trabalho"
+      ],
+      "assuntosTxt": "Seguro Acidentes do Trabalho",
+      "orgao": "2ª Vara (Cível, das Fazendas Públicas, de Registros Públicos e Ambiental)",
+      "sistema": "Eproc",
+      "ajuizadoBR": "29/09/2026",
+      "ajuizadoSort": "20260929",
+      "ultMov": "Inclusão no Juízo 100% Digital",
+      "ultMovData": "2026-09-29",
+      "transito": false,
+      "frentes": [
+        "seguros"
+      ],
+      "trilha": "Seguros",
+      "prioridade": false,
+      "fase": "Conhecimento",
+      "score": 44
+    },
+    {
+      "numero": "59786809220268090116",
+      "numeroFmt": "5978680-92.2026.8.09.0116",
+      "tribunal": "TJGO",
+      "tribunalLabel": "Goiás · TJGO",
+      "uf": "GO",
+      "justica": "Estadual",
+      "grau": "G1",
+      "classeCod": 7,
+      "classe": "Procedimento Comum Cível",
+      "assuntos": [
+        "Seguro"
+      ],
+      "assuntosTxt": "Seguro",
+      "orgao": "1ª Vara Judicial (Família e Sucessões, Infância e Juventude, Cível e Juizado Especial Cível)",
+      "sistema": "Eproc",
+      "ajuizadoBR": "29/09/2026",
+      "ajuizadoSort": "20260929",
+      "ultMov": "Expedida/Certificada",
+      "ultMovData": "2026-09-30",
+      "transito": false,
+      "frentes": [
+        "seguros"
+      ],
+      "trilha": "Seguros",
+      "prioridade": false,
+      "fase": "Conhecimento",
+      "score": 44
+    },
+    {
+      "numero": "59765696020268090044",
+      "numeroFmt": "5976569-60.2026.8.09.0044",
+      "tribunal": "TJGO",
+      "tribunalLabel": "Goiás · TJGO",
+      "uf": "GO",
+      "justica": "Estadual",
+      "grau": "G1",
+      "classeCod": 7,
+      "classe": "Procedimento Comum Cível",
+      "assuntos": [
+        "Seguro"
+      ],
+      "assuntosTxt": "Seguro",
+      "orgao": "2ª Vara Cível e Família e Sucessões",
+      "sistema": "Eproc",
+      "ajuizadoBR": "28/09/2026",
+      "ajuizadoSort": "20260928",
+      "ultMov": "Confirmada",
+      "ultMovData": "2026-09-30",
+      "transito": false,
+      "frentes": [
+        "seguros"
+      ],
+      "trilha": "Seguros",
+      "prioridade": false,
+      "fase": "Conhecimento",
+      "score": 44
+    },
+    {
+      "numero": "59763288320268090045",
+      "numeroFmt": "5976328-83.2026.8.09.0045",
+      "tribunal": "TJGO",
+      "tribunalLabel": "Goiás · TJGO",
+      "uf": "GO",
+      "justica": "Estadual",
+      "grau": "JE",
+      "classeCod": 436,
+      "classe": "Procedimento do Juizado Especial Cível",
+      "assuntos": [
+        "Seguro"
+      ],
+      "assuntosTxt": "Seguro",
+      "orgao": "Juizado Especial Cível e Criminal",
+      "sistema": "Eproc",
+      "ajuizadoBR": "28/09/2026",
+      "ajuizadoSort": "20260928",
+      "ultMov": "Documento",
+      "ultMovData": "2026-09-28",
+      "transito": false,
+      "frentes": [
+        "seguros"
+      ],
+      "trilha": "Seguros",
+      "prioridade": false,
+      "fase": "Conhecimento",
+      "score": 44
+    },
+    {
+      "numero": "59755918320268090044",
+      "numeroFmt": "5975591-83.2026.8.09.0044",
+      "tribunal": "TJGO",
+      "tribunalLabel": "Goiás · TJGO",
+      "uf": "GO",
+      "justica": "Estadual",
+      "grau": "G1",
+      "classeCod": 7,
+      "classe": "Procedimento Comum Cível",
+      "assuntos": [
+        "Seguro"
+      ],
+      "assuntosTxt": "Seguro",
+      "orgao": "3ª Vara Cível e Família e Sucessões",
+      "sistema": "Eproc",
+      "ajuizadoBR": "28/09/2026",
+      "ajuizadoSort": "20260928",
+      "ultMov": "Documento",
+      "ultMovData": "2026-09-28",
+      "transito": false,
+      "frentes": [
+        "seguros"
+      ],
+      "trilha": "Seguros",
+      "prioridade": false,
+      "fase": "Conhecimento",
+      "score": 44
+    },
+    {
+      "numero": "59745499420268090174",
+      "numeroFmt": "5974549-94.2026.8.09.0174",
+      "tribunal": "TJGO",
+      "tribunalLabel": "Goiás · TJGO",
+      "uf": "GO",
+      "justica": "Estadual",
+      "grau": "G1",
+      "classeCod": 7,
+      "classe": "Procedimento Comum Cível",
+      "assuntos": [
+        "Seguro"
+      ],
+      "assuntosTxt": "Seguro",
+      "orgao": "1ª Vara Cível",
+      "sistema": "Eproc",
+      "ajuizadoBR": "28/09/2026",
+      "ajuizadoSort": "20260928",
+      "ultMov": "Documento",
+      "ultMovData": "2026-09-28",
+      "transito": false,
+      "frentes": [
+        "seguros"
+      ],
+      "trilha": "Seguros",
+      "prioridade": false,
+      "fase": "Conhecimento",
+      "score": 44
+    },
+    {
+      "numero": "59736736120268090006",
+      "numeroFmt": "5973673-61.2026.8.09.0006",
+      "tribunal": "TJGO",
+      "tribunalLabel": "Goiás · TJGO",
+      "uf": "GO",
+      "justica": "Estadual",
+      "grau": "G1",
+      "classeCod": 7,
+      "classe": "Procedimento Comum Cível",
+      "assuntos": [
+        "Seguro"
+      ],
+      "assuntosTxt": "Seguro",
+      "orgao": "1ª Vara Cível",
+      "sistema": "Eproc",
+      "ajuizadoBR": "28/09/2026",
+      "ajuizadoSort": "20260928",
+      "ultMov": "Conclusão",
+      "ultMovData": "2026-09-29",
+      "transito": false,
+      "frentes": [
+        "seguros"
+      ],
+      "trilha": "Seguros",
+      "prioridade": false,
+      "fase": "Conhecimento",
+      "score": 44
+    },
+    {
+      "numero": "59734377120268090051",
+      "numeroFmt": "5973437-71.2026.8.09.0051",
+      "tribunal": "TJGO",
+      "tribunalLabel": "Goiás · TJGO",
+      "uf": "GO",
+      "justica": "Estadual",
+      "grau": "G1",
+      "classeCod": 7,
+      "classe": "Procedimento Comum Cível",
+      "assuntos": [
+        "Seguro"
+      ],
+      "assuntosTxt": "Seguro",
+      "orgao": "27ª Vara Cível",
+      "sistema": "Eproc",
+      "ajuizadoBR": "28/09/2026",
+      "ajuizadoSort": "20260928",
+      "ultMov": "Confirmada",
+      "ultMovData": "2026-09-29",
+      "transito": false,
+      "frentes": [
+        "seguros"
+      ],
+      "trilha": "Seguros",
+      "prioridade": false,
+      "fase": "Conhecimento",
+      "score": 44
+    },
+    {
+      "numero": "59734022620268090047",
+      "numeroFmt": "5973402-26.2026.8.09.0047",
+      "tribunal": "TJGO",
+      "tribunalLabel": "Goiás · TJGO",
+      "uf": "GO",
+      "justica": "Estadual",
+      "grau": "G1",
+      "classeCod": 7,
+      "classe": "Procedimento Comum Cível",
+      "assuntos": [
+        "Seguro"
+      ],
+      "assuntosTxt": "Seguro",
+      "orgao": "Vara Judicial",
+      "sistema": "Eproc",
+      "ajuizadoBR": "28/09/2026",
+      "ajuizadoSort": "20260928",
+      "ultMov": "Confirmada",
+      "ultMovData": "2026-09-28",
+      "transito": false,
+      "frentes": [
+        "seguros"
+      ],
+      "trilha": "Seguros",
+      "prioridade": false,
+      "fase": "Conhecimento",
+      "score": 44
+    },
+    {
+      "numero": "59720623520268090051",
+      "numeroFmt": "5972062-35.2026.8.09.0051",
+      "tribunal": "TJGO",
+      "tribunalLabel": "Goiás · TJGO",
+      "uf": "GO",
+      "justica": "Estadual",
+      "grau": "G1",
+      "classeCod": 7,
+      "classe": "Procedimento Comum Cível",
+      "assuntos": [
+        "Seguro"
+      ],
+      "assuntosTxt": "Seguro",
+      "orgao": "3ª Vara Cível",
+      "sistema": "Eproc",
+      "ajuizadoBR": "27/09/2026",
+      "ajuizadoSort": "20260927",
+      "ultMov": "Documento",
+      "ultMovData": "2026-09-27",
+      "transito": false,
+      "frentes": [
+        "seguros"
+      ],
+      "trilha": "Seguros",
+      "prioridade": false,
+      "fase": "Conhecimento",
+      "score": 44
+    },
+    {
+      "numero": "59720459620268090051",
+      "numeroFmt": "5972045-96.2026.8.09.0051",
+      "tribunal": "TJGO",
+      "tribunalLabel": "Goiás · TJGO",
+      "uf": "GO",
+      "justica": "Estadual",
+      "grau": "G1",
+      "classeCod": 7,
+      "classe": "Procedimento Comum Cível",
+      "assuntos": [
+        "Seguro"
+      ],
+      "assuntosTxt": "Seguro",
+      "orgao": "12ª Vara Cível",
+      "sistema": "Eproc",
+      "ajuizadoBR": "27/09/2026",
+      "ajuizadoSort": "20260927",
+      "ultMov": "Documento",
+      "ultMovData": "2026-09-27",
+      "transito": false,
+      "frentes": [
+        "seguros"
+      ],
+      "trilha": "Seguros",
+      "prioridade": false,
+      "fase": "Conhecimento",
+      "score": 44
+    },
+    {
+      "numero": "59719848420268090069",
+      "numeroFmt": "5971984-84.2026.8.09.0069",
+      "tribunal": "TJGO",
+      "tribunalLabel": "Goiás · TJGO",
+      "uf": "GO",
+      "justica": "Estadual",
+      "grau": "G1",
+      "classeCod": 7,
+      "classe": "Procedimento Comum Cível",
+      "assuntos": [
+        "Seguro",
+        "Vendas casadas"
+      ],
+      "assuntosTxt": "Seguro; Vendas casadas",
+      "orgao": "1ª Vara Judicial (Família e Sucessões, Infância e Juventude, Cível e Juizado Especial Cível)",
+      "sistema": "Eproc",
+      "ajuizadoBR": "27/09/2026",
+      "ajuizadoSort": "20260927",
+      "ultMov": "Ato ordinatório",
+      "ultMovData": "2026-09-28",
+      "transito": false,
+      "frentes": [
+        "seguros"
+      ],
+      "trilha": "Seguros",
+      "prioridade": false,
+      "fase": "Conhecimento",
+      "score": 44
+    },
+    {
+      "numero": "59712801520268090023",
+      "numeroFmt": "5971280-15.2026.8.09.0023",
+      "tribunal": "TJGO",
+      "tribunalLabel": "Goiás · TJGO",
+      "uf": "GO",
+      "justica": "Estadual",
+      "grau": "G1",
+      "classeCod": 7,
+      "classe": "Procedimento Comum Cível",
+      "assuntos": [
+        "Cédula de Crédito Bancário",
+        "Seguro",
+        "Seguro",
+        "Contratos Bancários"
+      ],
+      "assuntosTxt": "Cédula de Crédito Bancário; Seguro; Seguro; Contratos Bancários",
+      "orgao": "1ª Vara Judicial (Família e Sucessões, Infância e Juventude, Cível e Juizado Especial Cível)",
+      "sistema": "Eproc",
+      "ajuizadoBR": "26/09/2026",
+      "ajuizadoSort": "20260926",
+      "ultMov": "Conclusão",
+      "ultMovData": "2026-09-29",
+      "transito": false,
+      "frentes": [
+        "seguros"
+      ],
+      "trilha": "Seguros",
+      "prioridade": false,
+      "fase": "Conhecimento",
+      "score": 44
+    },
+    {
+      "numero": "59707311820268090051",
+      "numeroFmt": "5970731-18.2026.8.09.0051",
+      "tribunal": "TJGO",
+      "tribunalLabel": "Goiás · TJGO",
+      "uf": "GO",
+      "justica": "Estadual",
+      "grau": "G1",
+      "classeCod": 7,
+      "classe": "Procedimento Comum Cível",
+      "assuntos": [
+        "Seguro"
+      ],
+      "assuntosTxt": "Seguro",
+      "orgao": "7ª Vara Cível",
+      "sistema": "Eproc",
+      "ajuizadoBR": "26/09/2026",
+      "ajuizadoSort": "20260926",
+      "ultMov": "Conclusão",
+      "ultMovData": "2026-09-28",
+      "transito": false,
+      "frentes": [
+        "seguros"
+      ],
+      "trilha": "Seguros",
+      "prioridade": false,
+      "fase": "Conhecimento",
+      "score": 44
+    },
+    {
+      "numero": "59701204520268090090",
+      "numeroFmt": "5970120-45.2026.8.09.0090",
+      "tribunal": "TJGO",
+      "tribunalLabel": "Goiás · TJGO",
+      "uf": "GO",
+      "justica": "Estadual",
+      "grau": "G1",
+      "classeCod": 7,
+      "classe": "Procedimento Comum Cível",
+      "assuntos": [
+        "Seguro"
+      ],
+      "assuntosTxt": "Seguro",
+      "orgao": "Vara Judicial",
+      "sistema": "Eproc",
+      "ajuizadoBR": "25/09/2026",
+      "ajuizadoSort": "20260925",
+      "ultMov": "Conclusão",
+      "ultMovData": "2026-09-28",
+      "transito": false,
+      "frentes": [
+        "seguros"
+      ],
+      "trilha": "Seguros",
+      "prioridade": false,
+      "fase": "Conhecimento",
+      "score": 44
+    },
+    {
+      "numero": "59692182820268090176",
+      "numeroFmt": "5969218-28.2026.8.09.0176",
+      "tribunal": "TJGO",
+      "tribunalLabel": "Goiás · TJGO",
+      "uf": "GO",
+      "justica": "Estadual",
+      "grau": "G1",
+      "classeCod": 7,
+      "classe": "Procedimento Comum Cível",
+      "assuntos": [
+        "Seguro"
+      ],
+      "assuntosTxt": "Seguro",
+      "orgao": "Vara Judicial",
+      "sistema": "Eproc",
+      "ajuizadoBR": "25/09/2026",
+      "ajuizadoSort": "20260925",
+      "ultMov": "Ato ordinatório",
+      "ultMovData": "2026-09-25",
+      "transito": false,
+      "frentes": [
+        "seguros"
+      ],
+      "trilha": "Seguros",
+      "prioridade": false,
+      "fase": "Conhecimento",
+      "score": 44
+    },
+    {
+      "numero": "59686147720268090011",
+      "numeroFmt": "5968614-77.2026.8.09.0011",
+      "tribunal": "TJGO",
+      "tribunalLabel": "Goiás · TJGO",
+      "uf": "GO",
+      "justica": "Estadual",
+      "grau": "G1",
+      "classeCod": 7,
+      "classe": "Procedimento Comum Cível",
+      "assuntos": [
+        "Seguro",
+        "Direito de Imagem",
+        "Repetição do Indébito"
+      ],
+      "assuntosTxt": "Seguro; Direito de Imagem; Repetição do Indébito",
+      "orgao": "5ª Vara Cível",
+      "sistema": "Eproc",
+      "ajuizadoBR": "25/09/2026",
+      "ajuizadoSort": "20260925",
+      "ultMov": "Confirmada",
+      "ultMovData": "2026-09-28",
+      "transito": false,
+      "frentes": [
+        "seguros"
+      ],
+      "trilha": "Seguros",
+      "prioridade": false,
+      "fase": "Conhecimento",
+      "score": 44
+    },
+    {
+      "numero": "59686067720268090051",
+      "numeroFmt": "5968606-77.2026.8.09.0051",
+      "tribunal": "TJGO",
+      "tribunalLabel": "Goiás · TJGO",
+      "uf": "GO",
+      "justica": "Estadual",
+      "grau": "G1",
+      "classeCod": 7,
+      "classe": "Procedimento Comum Cível",
+      "assuntos": [
+        "Seguro"
+      ],
+      "assuntosTxt": "Seguro",
+      "orgao": "32ª Vara Cível",
+      "sistema": "Eproc",
+      "ajuizadoBR": "25/09/2026",
+      "ajuizadoSort": "20260925",
+      "ultMov": "Confirmada",
+      "ultMovData": "2026-09-30",
+      "transito": false,
+      "frentes": [
+        "seguros"
+      ],
+      "trilha": "Seguros",
+      "prioridade": false,
+      "fase": "Conhecimento",
+      "score": 44
+    },
+    {
+      "numero": "59682321220268090132",
+      "numeroFmt": "5968232-12.2026.8.09.0132",
+      "tribunal": "TJGO",
+      "tribunalLabel": "Goiás · TJGO",
+      "uf": "GO",
+      "justica": "Estadual",
+      "grau": "G1",
+      "classeCod": 7,
+      "classe": "Procedimento Comum Cível",
+      "assuntos": [
+        "Seguro"
+      ],
+      "assuntosTxt": "Seguro",
+      "orgao": "1ª Vara Judicial (Família e Sucessões, Infância e Juventude, Cível, de Registros Públicos, Ambiental e Juizado Especial Cível)",
+      "sistema": "Eproc",
+      "ajuizadoBR": "25/09/2026",
+      "ajuizadoSort": "20260925",
+      "ultMov": "Inclusão no Juízo 100% Digital",
+      "ultMovData": "2026-09-25",
+      "transito": false,
+      "frentes": [
+        "seguros"
+      ],
+      "trilha": "Seguros",
+      "prioridade": false,
+      "fase": "Conhecimento",
+      "score": 44
+    },
+    {
+      "numero": "59680472320268090051",
+      "numeroFmt": "5968047-23.2026.8.09.0051",
+      "tribunal": "TJGO",
+      "tribunalLabel": "Goiás · TJGO",
+      "uf": "GO",
+      "justica": "Estadual",
+      "grau": "G1",
+      "classeCod": 7,
+      "classe": "Procedimento Comum Cível",
+      "assuntos": [
+        "Seguro"
+      ],
+      "assuntosTxt": "Seguro",
+      "orgao": "19ª Vara Cível e Ambiental",
+      "sistema": "Eproc",
+      "ajuizadoBR": "25/09/2026",
+      "ajuizadoSort": "20260925",
+      "ultMov": "Confirmada",
+      "ultMovData": "2026-09-28",
+      "transito": false,
+      "frentes": [
+        "seguros"
+      ],
+      "trilha": "Seguros",
+      "prioridade": false,
+      "fase": "Conhecimento",
+      "score": 44
+    },
+    {
+      "numero": "59678705920268090051",
+      "numeroFmt": "5967870-59.2026.8.09.0051",
+      "tribunal": "TJGO",
+      "tribunalLabel": "Goiás · TJGO",
+      "uf": "GO",
+      "justica": "Estadual",
+      "grau": "G1",
+      "classeCod": 7,
+      "classe": "Procedimento Comum Cível",
+      "assuntos": [
+        "Seguro"
+      ],
+      "assuntosTxt": "Seguro",
+      "orgao": "21ª Vara Cível",
+      "sistema": "Eproc",
+      "ajuizadoBR": "25/09/2026",
+      "ajuizadoSort": "20260925",
+      "ultMov": "Documento",
+      "ultMovData": "2026-09-25",
+      "transito": false,
+      "frentes": [
+        "seguros"
+      ],
+      "trilha": "Seguros",
+      "prioridade": false,
+      "fase": "Conhecimento",
+      "score": 44
+    },
+    {
+      "numero": "59677250320268090051",
+      "numeroFmt": "5967725-03.2026.8.09.0051",
+      "tribunal": "TJGO",
+      "tribunalLabel": "Goiás · TJGO",
+      "uf": "GO",
+      "justica": "Estadual",
+      "grau": "G1",
+      "classeCod": 7,
+      "classe": "Procedimento Comum Cível",
+      "assuntos": [
+        "Seguro"
+      ],
+      "assuntosTxt": "Seguro",
+      "orgao": "9ª Vara Cível",
+      "sistema": "Eproc",
+      "ajuizadoBR": "25/09/2026",
+      "ajuizadoSort": "20260925",
+      "ultMov": "Confirmada",
+      "ultMovData": "2026-09-30",
+      "transito": false,
+      "frentes": [
+        "seguros"
+      ],
+      "trilha": "Seguros",
+      "prioridade": false,
+      "fase": "Conhecimento",
+      "score": 44
+    },
+    {
+      "numero": "59676146720268090132",
+      "numeroFmt": "5967614-67.2026.8.09.0132",
+      "tribunal": "TJGO",
+      "tribunalLabel": "Goiás · TJGO",
+      "uf": "GO",
+      "justica": "Estadual",
+      "grau": "G1",
+      "classeCod": 7,
+      "classe": "Procedimento Comum Cível",
+      "assuntos": [
+        "Seguro"
+      ],
+      "assuntosTxt": "Seguro",
+      "orgao": "1ª Vara Judicial (Família e Sucessões, Infância e Juventude, Cível, de Registros Públicos, Ambiental e Juizado Especial Cível)",
+      "sistema": "Eproc",
+      "ajuizadoBR": "25/09/2026",
+      "ajuizadoSort": "20260925",
+      "ultMov": "Emenda à Inicial",
+      "ultMovData": "2026-09-28",
+      "transito": false,
+      "frentes": [
+        "seguros"
+      ],
+      "trilha": "Seguros",
+      "prioridade": false,
+      "fase": "Conhecimento",
+      "score": 44
+    },
+    {
+      "numero": "59667796220268090170",
+      "numeroFmt": "5966779-62.2026.8.09.0170",
+      "tribunal": "TJGO",
+      "tribunalLabel": "Goiás · TJGO",
+      "uf": "GO",
+      "justica": "Estadual",
+      "grau": "G1",
+      "classeCod": 7,
+      "classe": "Procedimento Comum Cível",
+      "assuntos": [
+        "Seguro"
+      ],
+      "assuntosTxt": "Seguro",
+      "orgao": "Vara Judicial",
+      "sistema": "Eproc",
+      "ajuizadoBR": "25/09/2026",
+      "ajuizadoSort": "20260925",
+      "ultMov": "Gratuidade da Justiça",
+      "ultMovData": "2026-09-29",
+      "transito": false,
+      "frentes": [
+        "seguros"
+      ],
+      "trilha": "Seguros",
+      "prioridade": false,
+      "fase": "Conhecimento",
+      "score": 44
+    },
+    {
+      "numero": "59661355620268090094",
+      "numeroFmt": "5966135-56.2026.8.09.0094",
+      "tribunal": "TJGO",
+      "tribunalLabel": "Goiás · TJGO",
+      "uf": "GO",
+      "justica": "Estadual",
+      "grau": "JE",
+      "classeCod": 436,
+      "classe": "Procedimento do Juizado Especial Cível",
+      "assuntos": [
+        "Seguro",
+        "Indenização por Dano Moral"
+      ],
+      "assuntosTxt": "Seguro; Indenização por Dano Moral",
+      "orgao": "Juizado Especial Cível e Criminal",
+      "sistema": "Eproc",
+      "ajuizadoBR": "25/09/2026",
+      "ajuizadoSort": "20260925",
+      "ultMov": "Confirmada",
+      "ultMovData": "2026-09-29",
+      "transito": false,
+      "frentes": [
+        "seguros"
+      ],
+      "trilha": "Seguros",
+      "prioridade": false,
+      "fase": "Conhecimento",
+      "score": 44
+    },
+    {
+      "numero": "59661317420268090011",
+      "numeroFmt": "5966131-74.2026.8.09.0011",
+      "tribunal": "TJGO",
+      "tribunalLabel": "Goiás · TJGO",
+      "uf": "GO",
+      "justica": "Estadual",
+      "grau": "G1",
+      "classeCod": 7,
+      "classe": "Procedimento Comum Cível",
+      "assuntos": [
+        "Seguro"
+      ],
+      "assuntosTxt": "Seguro",
+      "orgao": "6ª Vara Cível",
+      "sistema": "Eproc",
+      "ajuizadoBR": "25/09/2026",
+      "ajuizadoSort": "20260925",
+      "ultMov": "Documento",
+      "ultMovData": "2026-09-25",
+      "transito": false,
+      "frentes": [
+        "seguros"
+      ],
+      "trilha": "Seguros",
+      "prioridade": false,
+      "fase": "Conhecimento",
+      "score": 44
+    },
+    {
+      "numero": "59660174020268090075",
+      "numeroFmt": "5966017-40.2026.8.09.0075",
+      "tribunal": "TJGO",
+      "tribunalLabel": "Goiás · TJGO",
+      "uf": "GO",
+      "justica": "Estadual",
+      "grau": "JE",
+      "classeCod": 436,
+      "classe": "Procedimento do Juizado Especial Cível",
+      "assuntos": [
+        "Seguro",
+        "Cláusulas Abusivas"
+      ],
+      "assuntosTxt": "Seguro; Cláusulas Abusivas",
+      "orgao": "Juizado Especial Cível e Criminal",
+      "sistema": "Eproc",
+      "ajuizadoBR": "25/09/2026",
+      "ajuizadoSort": "20260925",
+      "ultMov": "Documento",
+      "ultMovData": "2026-09-27",
+      "transito": false,
+      "frentes": [
+        "seguros",
+        "consumidor"
+      ],
+      "trilha": "Seguros",
+      "prioridade": false,
+      "fase": "Conhecimento",
+      "score": 44
+    },
+    {
+      "numero": "59647849520268090143",
+      "numeroFmt": "5964784-95.2026.8.09.0143",
+      "tribunal": "TJGO",
+      "tribunalLabel": "Goiás · TJGO",
+      "uf": "GO",
+      "justica": "Estadual",
+      "grau": "G1",
+      "classeCod": 7,
+      "classe": "Procedimento Comum Cível",
+      "assuntos": [
+        "Seguro"
+      ],
+      "assuntosTxt": "Seguro",
+      "orgao": "1ª Vara Judicial (Família e Sucessões, Infância e Juventude, Cível e Juizado Especial Cível)",
+      "sistema": "Eproc",
+      "ajuizadoBR": "24/09/2026",
+      "ajuizadoSort": "20260924",
+      "ultMov": "Petição",
+      "ultMovData": "2026-09-24",
+      "transito": false,
+      "frentes": [
+        "seguros"
+      ],
+      "trilha": "Seguros",
+      "prioridade": false,
+      "fase": "Conhecimento",
+      "score": 44
+    },
+    {
+      "numero": "59645804920268090176",
+      "numeroFmt": "5964580-49.2026.8.09.0176",
+      "tribunal": "TJGO",
+      "tribunalLabel": "Goiás · TJGO",
+      "uf": "GO",
+      "justica": "Estadual",
+      "grau": "G1",
+      "classeCod": 7,
+      "classe": "Procedimento Comum Cível",
+      "assuntos": [
+        "Seguro"
+      ],
+      "assuntosTxt": "Seguro",
+      "orgao": "Vara Judicial",
+      "sistema": "Eproc",
+      "ajuizadoBR": "24/09/2026",
+      "ajuizadoSort": "20260924",
+      "ultMov": "Inclusão no Juízo 100% Digital",
+      "ultMovData": "2026-09-24",
+      "transito": false,
+      "frentes": [
+        "seguros"
+      ],
+      "trilha": "Seguros",
+      "prioridade": false,
+      "fase": "Conhecimento",
+      "score": 44
+    },
+    {
+      "numero": "59639610920268090051",
+      "numeroFmt": "5963961-09.2026.8.09.0051",
+      "tribunal": "TJGO",
+      "tribunalLabel": "Goiás · TJGO",
+      "uf": "GO",
+      "justica": "Estadual",
+      "grau": "G1",
+      "classeCod": 7,
+      "classe": "Procedimento Comum Cível",
+      "assuntos": [
+        "Seguro"
+      ],
+      "assuntosTxt": "Seguro",
+      "orgao": "32ª Vara Cível",
+      "sistema": "Eproc",
+      "ajuizadoBR": "24/09/2026",
+      "ajuizadoSort": "20260924",
+      "ultMov": "Conclusão",
+      "ultMovData": "2026-09-25",
+      "transito": false,
+      "frentes": [
+        "seguros"
+      ],
+      "trilha": "Seguros",
+      "prioridade": false,
+      "fase": "Conhecimento",
+      "score": 44
+    },
+    {
+      "numero": "59612661920268090072",
+      "numeroFmt": "5961266-19.2026.8.09.0072",
+      "tribunal": "TJGO",
+      "tribunalLabel": "Goiás · TJGO",
+      "uf": "GO",
+      "justica": "Estadual",
+      "grau": "G1",
+      "classeCod": 7,
+      "classe": "Procedimento Comum Cível",
+      "assuntos": [
+        "Seguro"
+      ],
+      "assuntosTxt": "Seguro",
+      "orgao": "Vara Cível, Infância e Juventude e Juizado Especial Cível",
+      "sistema": "Eproc",
+      "ajuizadoBR": "24/09/2026",
+      "ajuizadoSort": "20260924",
+      "ultMov": "Documento",
+      "ultMovData": "2026-09-24",
+      "transito": false,
+      "frentes": [
+        "seguros"
+      ],
+      "trilha": "Seguros",
+      "prioridade": false,
+      "fase": "Conhecimento",
+      "score": 44
+    },
+    {
+      "numero": "59609035320268090162",
+      "numeroFmt": "5960903-53.2026.8.09.0162",
+      "tribunal": "TJGO",
+      "tribunalLabel": "Goiás · TJGO",
+      "uf": "GO",
+      "justica": "Estadual",
+      "grau": "G1",
+      "classeCod": 7,
+      "classe": "Procedimento Comum Cível",
+      "assuntos": [
+        "Seguro"
+      ],
+      "assuntosTxt": "Seguro",
+      "orgao": "2ª Vara (Cível, das Fazendas Públicas, de Registros Públicos e Ambiental)",
+      "sistema": "Eproc",
+      "ajuizadoBR": "24/09/2026",
+      "ajuizadoSort": "20260924",
+      "ultMov": "Documento",
+      "ultMovData": "2026-09-25",
+      "transito": false,
+      "frentes": [
+        "seguros"
+      ],
+      "trilha": "Seguros",
+      "prioridade": false,
+      "fase": "Conhecimento",
+      "score": 44
+    },
+    {
+      "numero": "59589450720268090041",
+      "numeroFmt": "5958945-07.2026.8.09.0041",
+      "tribunal": "TJGO",
+      "tribunalLabel": "Goiás · TJGO",
+      "uf": "GO",
+      "justica": "Estadual",
+      "grau": "G1",
+      "classeCod": 7,
+      "classe": "Procedimento Comum Cível",
+      "assuntos": [
+        "Seguro"
+      ],
+      "assuntosTxt": "Seguro",
+      "orgao": "Vara Judicial",
+      "sistema": "Eproc",
+      "ajuizadoBR": "23/09/2026",
+      "ajuizadoSort": "20260923",
+      "ultMov": "Confirmada",
+      "ultMovData": "2026-09-25",
+      "transito": false,
+      "frentes": [
+        "seguros"
+      ],
+      "trilha": "Seguros",
+      "prioridade": false,
+      "fase": "Conhecimento",
+      "score": 44
+    },
+    {
+      "numero": "59540387720268090044",
+      "numeroFmt": "5954038-77.2026.8.09.0044",
+      "tribunal": "TJGO",
+      "tribunalLabel": "Goiás · TJGO",
+      "uf": "GO",
+      "justica": "Estadual",
+      "grau": "G1",
+      "classeCod": 7,
+      "classe": "Procedimento Comum Cível",
+      "assuntos": [
+        "Seguro"
+      ],
+      "assuntosTxt": "Seguro",
+      "orgao": "1ª Vara (Cível e da Inf. e da Juv.)",
+      "sistema": "Eproc",
+      "ajuizadoBR": "23/09/2026",
+      "ajuizadoSort": "20260923",
+      "ultMov": "Confirmada",
+      "ultMovData": "2026-09-30",
+      "transito": false,
+      "frentes": [
+        "seguros"
+      ],
+      "trilha": "Seguros",
+      "prioridade": false,
+      "fase": "Conhecimento",
+      "score": 44
+    },
+    {
+      "numero": "59524505220268090006",
+      "numeroFmt": "5952450-52.2026.8.09.0006",
+      "tribunal": "TJGO",
+      "tribunalLabel": "Goiás · TJGO",
+      "uf": "GO",
+      "justica": "Estadual",
+      "grau": "G1",
+      "classeCod": 7,
+      "classe": "Procedimento Comum Cível",
+      "assuntos": [
+        "Seguro"
+      ],
+      "assuntosTxt": "Seguro",
+      "orgao": "4ª Vara Cível",
+      "sistema": "Eproc",
+      "ajuizadoBR": "23/09/2026",
+      "ajuizadoSort": "20260923",
+      "ultMov": "Confirmada",
+      "ultMovData": "2026-09-25",
+      "transito": false,
+      "frentes": [
+        "seguros"
+      ],
+      "trilha": "Seguros",
+      "prioridade": false,
+      "fase": "Conhecimento",
+      "score": 44
+    },
+    {
+      "numero": "59491301220268090097",
+      "numeroFmt": "5949130-12.2026.8.09.0097",
+      "tribunal": "TJGO",
+      "tribunalLabel": "Goiás · TJGO",
+      "uf": "GO",
+      "justica": "Estadual",
+      "grau": "G1",
+      "classeCod": 7,
+      "classe": "Procedimento Comum Cível",
+      "assuntos": [
+        "Seguro"
+      ],
+      "assuntosTxt": "Seguro",
+      "orgao": "1ª Vara Judicial (Família e Sucessões, Infância e Juventude, Cível e Juizado Especial Cível)",
+      "sistema": "Eproc",
+      "ajuizadoBR": "22/09/2026",
+      "ajuizadoSort": "20260922",
+      "ultMov": "Documento",
+      "ultMovData": "2026-09-22",
+      "transito": false,
+      "frentes": [
+        "seguros"
+      ],
+      "trilha": "Seguros",
+      "prioridade": false,
+      "fase": "Conhecimento",
+      "score": 44
+    },
+    {
+      "numero": "59486075520268090111",
+      "numeroFmt": "5948607-55.2026.8.09.0111",
+      "tribunal": "TJGO",
+      "tribunalLabel": "Goiás · TJGO",
+      "uf": "GO",
+      "justica": "Estadual",
+      "grau": "G1",
+      "classeCod": 7,
+      "classe": "Procedimento Comum Cível",
+      "assuntos": [
+        "Seguro"
+      ],
+      "assuntosTxt": "Seguro",
+      "orgao": "Vara Judicial",
+      "sistema": "Eproc",
+      "ajuizadoBR": "22/09/2026",
+      "ajuizadoSort": "20260922",
+      "ultMov": "Conclusão",
+      "ultMovData": "2026-09-23",
+      "transito": false,
+      "frentes": [
+        "seguros"
+      ],
+      "trilha": "Seguros",
+      "prioridade": false,
+      "fase": "Conhecimento",
+      "score": 44
+    },
+    {
+      "numero": "59479077920268090111",
+      "numeroFmt": "5947907-79.2026.8.09.0111",
+      "tribunal": "TJGO",
+      "tribunalLabel": "Goiás · TJGO",
+      "uf": "GO",
+      "justica": "Estadual",
+      "grau": "G1",
+      "classeCod": 7,
+      "classe": "Procedimento Comum Cível",
+      "assuntos": [
+        "Seguro"
+      ],
+      "assuntosTxt": "Seguro",
+      "orgao": "Vara Judicial",
+      "sistema": "Eproc",
+      "ajuizadoBR": "22/09/2026",
+      "ajuizadoSort": "20260922",
+      "ultMov": "Conclusão",
+      "ultMovData": "2026-09-23",
+      "transito": false,
+      "frentes": [
+        "seguros"
+      ],
+      "trilha": "Seguros",
+      "prioridade": false,
+      "fase": "Conhecimento",
+      "score": 44
+    },
+    {
+      "numero": "59461070220268090051",
+      "numeroFmt": "5946107-02.2026.8.09.0051",
+      "tribunal": "TJGO",
+      "tribunalLabel": "Goiás · TJGO",
+      "uf": "GO",
+      "justica": "Estadual",
+      "grau": "G1",
+      "classeCod": 7,
+      "classe": "Procedimento Comum Cível",
+      "assuntos": [
+        "Seguro"
+      ],
+      "assuntosTxt": "Seguro",
+      "orgao": "22ª Vara Cível",
+      "sistema": "Eproc",
+      "ajuizadoBR": "22/09/2026",
+      "ajuizadoSort": "20260922",
+      "ultMov": "Confirmada",
+      "ultMovData": "2026-09-23",
+      "transito": false,
+      "frentes": [
+        "seguros"
+      ],
+      "trilha": "Seguros",
+      "prioridade": false,
+      "fase": "Conhecimento",
+      "score": 44
+    },
+    {
+      "numero": "59454818020268090051",
+      "numeroFmt": "5945481-80.2026.8.09.0051",
+      "tribunal": "TJGO",
+      "tribunalLabel": "Goiás · TJGO",
+      "uf": "GO",
+      "justica": "Estadual",
+      "grau": "JE",
+      "classeCod": 436,
+      "classe": "Procedimento do Juizado Especial Cível",
+      "assuntos": [
+        "Seguro"
+      ],
+      "assuntosTxt": "Seguro",
+      "orgao": "2º Juizado Especial Cível",
+      "sistema": "Eproc",
+      "ajuizadoBR": "22/09/2026",
+      "ajuizadoSort": "20260922",
+      "ultMov": "Confirmada",
+      "ultMovData": "2026-09-23",
+      "transito": false,
+      "frentes": [
+        "seguros"
+      ],
+      "trilha": "Seguros",
+      "prioridade": false,
+      "fase": "Conhecimento",
+      "score": 44
+    },
+    {
+      "numero": "59434480820268090152",
+      "numeroFmt": "5943448-08.2026.8.09.0152",
+      "tribunal": "TJGO",
+      "tribunalLabel": "Goiás · TJGO",
+      "uf": "GO",
+      "justica": "Estadual",
+      "grau": "G1",
+      "classeCod": 7,
+      "classe": "Procedimento Comum Cível",
+      "assuntos": [
+        "Seguro"
+      ],
+      "assuntosTxt": "Seguro",
+      "orgao": "2ª Vara (Cív., Criminal – crime em geral, crimes dolosos contra a vida e Pres. do Trib. do Juri, das Faz. Púb. e de Reg. Pub.)",
+      "sistema": "Eproc",
+      "ajuizadoBR": "22/09/2026",
+      "ajuizadoSort": "20260922",
+      "ultMov": "Confirmada",
+      "ultMovData": "2026-09-30",
+      "transito": false,
+      "frentes": [
+        "seguros"
+      ],
+      "trilha": "Seguros",
+      "prioridade": false,
+      "fase": "Conhecimento",
+      "score": 44
+    },
+    {
+      "numero": "59386796620268090148",
+      "numeroFmt": "5938679-66.2026.8.09.0148",
+      "tribunal": "TJGO",
+      "tribunalLabel": "Goiás · TJGO",
+      "uf": "GO",
+      "justica": "Estadual",
+      "grau": "G1",
+      "classeCod": 7,
+      "classe": "Procedimento Comum Cível",
+      "assuntos": [
+        "Seguro"
+      ],
+      "assuntosTxt": "Seguro",
+      "orgao": "Vara Judicial",
+      "sistema": "Eproc",
+      "ajuizadoBR": "21/09/2026",
+      "ajuizadoSort": "20260921",
+      "ultMov": "Confirmada",
+      "ultMovData": "2026-09-27",
+      "transito": false,
+      "frentes": [
+        "seguros"
+      ],
+      "trilha": "Seguros",
+      "prioridade": false,
+      "fase": "Conhecimento",
+      "score": 44
+    },
+    {
+      "numero": "59322325920268090149",
+      "numeroFmt": "5932232-59.2026.8.09.0149",
+      "tribunal": "TJGO",
+      "tribunalLabel": "Goiás · TJGO",
+      "uf": "GO",
+      "justica": "Estadual",
+      "grau": "G1",
+      "classeCod": 7,
+      "classe": "Procedimento Comum Cível",
+      "assuntos": [
+        "Seguro"
+      ],
+      "assuntosTxt": "Seguro",
+      "orgao": "2ª Vara Cível e Ambiental",
+      "sistema": "Eproc",
+      "ajuizadoBR": "20/09/2026",
+      "ajuizadoSort": "20260920",
+      "ultMov": "Confirmada",
+      "ultMovData": "2026-09-23",
+      "transito": false,
+      "frentes": [
+        "seguros"
+      ],
+      "trilha": "Seguros",
+      "prioridade": false,
+      "fase": "Conhecimento",
+      "score": 44
+    },
+    {
+      "numero": "59321668220268090051",
+      "numeroFmt": "5932166-82.2026.8.09.0051",
+      "tribunal": "TJGO",
+      "tribunalLabel": "Goiás · TJGO",
+      "uf": "GO",
+      "justica": "Estadual",
+      "grau": "G1",
+      "classeCod": 7,
+      "classe": "Procedimento Comum Cível",
+      "assuntos": [
+        "Seguro"
+      ],
+      "assuntosTxt": "Seguro",
+      "orgao": "29ª Vara Cível",
+      "sistema": "Eproc",
+      "ajuizadoBR": "20/09/2026",
+      "ajuizadoSort": "20260920",
+      "ultMov": "Expedição de documento",
+      "ultMovData": "2026-09-28",
+      "transito": false,
+      "frentes": [
+        "seguros"
+      ],
+      "trilha": "Seguros",
+      "prioridade": false,
+      "fase": "Conhecimento",
+      "score": 44
+    },
+    {
+      "numero": "59318306220268090024",
+      "numeroFmt": "5931830-62.2026.8.09.0024",
+      "tribunal": "TJGO",
+      "tribunalLabel": "Goiás · TJGO",
+      "uf": "GO",
+      "justica": "Estadual",
+      "grau": "G1",
+      "classeCod": 7,
+      "classe": "Procedimento Comum Cível",
+      "assuntos": [
+        "Seguro",
+        "Produto Impróprio"
+      ],
+      "assuntosTxt": "Seguro; Produto Impróprio",
+      "orgao": "1ª Vara (Cível e da Inf. e da Juv.)",
+      "sistema": "Eproc",
+      "ajuizadoBR": "20/09/2026",
+      "ajuizadoSort": "20260920",
+      "ultMov": "Confirmada",
+      "ultMovData": "2026-09-21",
+      "transito": false,
+      "frentes": [
+        "seguros"
+      ],
+      "trilha": "Seguros",
+      "prioridade": false,
+      "fase": "Conhecimento",
+      "score": 44
+    },
+    {
+      "numero": "59318289220268090024",
+      "numeroFmt": "5931828-92.2026.8.09.0024",
+      "tribunal": "TJGO",
+      "tribunalLabel": "Goiás · TJGO",
+      "uf": "GO",
+      "justica": "Estadual",
+      "grau": "G1",
+      "classeCod": 7,
+      "classe": "Procedimento Comum Cível",
+      "assuntos": [
+        "Seguro",
+        "Produto Impróprio"
+      ],
+      "assuntosTxt": "Seguro; Produto Impróprio",
+      "orgao": "2ª Vara (Cível, Faz Públicas Estadual e Residual e Registros Públicos)",
+      "sistema": "Eproc",
+      "ajuizadoBR": "20/09/2026",
+      "ajuizadoSort": "20260920",
+      "ultMov": "Confirmada",
+      "ultMovData": "2026-09-21",
+      "transito": false,
+      "frentes": [
+        "seguros"
+      ],
+      "trilha": "Seguros",
+      "prioridade": false,
+      "fase": "Conhecimento",
+      "score": 44
+    },
+    {
+      "numero": "59318609720268090024",
+      "numeroFmt": "5931860-97.2026.8.09.0024",
+      "tribunal": "TJGO",
+      "tribunalLabel": "Goiás · TJGO",
+      "uf": "GO",
+      "justica": "Estadual",
+      "grau": "G1",
+      "classeCod": 7,
+      "classe": "Procedimento Comum Cível",
+      "assuntos": [
+        "Seguro",
+        "Produto Impróprio"
+      ],
+      "assuntosTxt": "Seguro; Produto Impróprio",
+      "orgao": "2ª Vara (Cível, Faz Públicas Estadual e Residual e Registros Públicos)",
+      "sistema": "Eproc",
+      "ajuizadoBR": "20/09/2026",
+      "ajuizadoSort": "20260920",
+      "ultMov": "Confirmada",
+      "ultMovData": "2026-09-21",
+      "transito": false,
+      "frentes": [
+        "seguros"
+      ],
+      "trilha": "Seguros",
+      "prioridade": false,
+      "fase": "Conhecimento",
+      "score": 44
+    },
+    {
+      "numero": "59315839420268090149",
+      "numeroFmt": "5931583-94.2026.8.09.0149",
+      "tribunal": "TJGO",
+      "tribunalLabel": "Goiás · TJGO",
+      "uf": "GO",
+      "justica": "Estadual",
+      "grau": "G1",
+      "classeCod": 7,
+      "classe": "Procedimento Comum Cível",
+      "assuntos": [
+        "Seguro"
+      ],
+      "assuntosTxt": "Seguro",
+      "orgao": "2ª Vara Cível e Ambiental",
+      "sistema": "Eproc",
+      "ajuizadoBR": "20/09/2026",
+      "ajuizadoSort": "20260920",
+      "ultMov": "Expedida/certificada",
+      "ultMovData": "2026-09-28",
+      "transito": false,
+      "frentes": [
+        "seguros"
+      ],
+      "trilha": "Seguros",
+      "prioridade": false,
+      "fase": "Conhecimento",
+      "score": 44
+    },
+    {
+      "numero": "59314245720268090051",
+      "numeroFmt": "5931424-57.2026.8.09.0051",
+      "tribunal": "TJGO",
+      "tribunalLabel": "Goiás · TJGO",
+      "uf": "GO",
+      "justica": "Estadual",
+      "grau": "G1",
+      "classeCod": 7,
+      "classe": "Procedimento Comum Cível",
+      "assuntos": [
+        "Seguro"
+      ],
+      "assuntosTxt": "Seguro",
+      "orgao": "16ª Vara Cível e Ambiental",
+      "sistema": "Eproc",
+      "ajuizadoBR": "20/09/2026",
+      "ajuizadoSort": "20260920",
+      "ultMov": "Confirmada",
+      "ultMovData": "2026-09-28",
+      "transito": false,
+      "frentes": [
+        "seguros"
+      ],
+      "trilha": "Seguros",
+      "prioridade": false,
+      "fase": "Conhecimento",
+      "score": 44
+    },
+    {
+      "numero": "59313344920268090051",
+      "numeroFmt": "5931334-49.2026.8.09.0051",
+      "tribunal": "TJGO",
+      "tribunalLabel": "Goiás · TJGO",
+      "uf": "GO",
+      "justica": "Estadual",
+      "grau": "G1",
+      "classeCod": 7,
+      "classe": "Procedimento Comum Cível",
+      "assuntos": [
+        "Seguro"
+      ],
+      "assuntosTxt": "Seguro",
+      "orgao": "27ª Vara Cível",
+      "sistema": "Eproc",
+      "ajuizadoBR": "19/09/2026",
+      "ajuizadoSort": "20260919",
+      "ultMov": "Confirmada",
+      "ultMovData": "2026-09-25",
+      "transito": false,
+      "frentes": [
+        "seguros"
+      ],
+      "trilha": "Seguros",
+      "prioridade": false,
+      "fase": "Conhecimento",
+      "score": 44
+    },
+    {
+      "numero": "59313130220268090107",
+      "numeroFmt": "5931313-02.2026.8.09.0107",
+      "tribunal": "TJGO",
+      "tribunalLabel": "Goiás · TJGO",
+      "uf": "GO",
+      "justica": "Estadual",
+      "grau": "G1",
+      "classeCod": 7,
+      "classe": "Procedimento Comum Cível",
+      "assuntos": [
+        "Seguro"
+      ],
+      "assuntosTxt": "Seguro",
+      "orgao": "1ª Vara (Cív., Criminal - crime em geral e exec. penais - e da Inf. e da Juv.)",
+      "sistema": "Eproc",
+      "ajuizadoBR": "19/09/2026",
+      "ajuizadoSort": "20260919",
+      "ultMov": "Confirmada",
+      "ultMovData": "2026-09-21",
+      "transito": false,
+      "frentes": [
+        "seguros"
+      ],
+      "trilha": "Seguros",
+      "prioridade": false,
+      "fase": "Conhecimento",
+      "score": 44
+    },
+    {
+      "numero": "59313087720268090107",
+      "numeroFmt": "5931308-77.2026.8.09.0107",
+      "tribunal": "TJGO",
+      "tribunalLabel": "Goiás · TJGO",
+      "uf": "GO",
+      "justica": "Estadual",
+      "grau": "G1",
+      "classeCod": 7,
+      "classe": "Procedimento Comum Cível",
+      "assuntos": [
+        "Seguro"
+      ],
+      "assuntosTxt": "Seguro",
+      "orgao": "2ª Vara (Cív. Criminal crime em geral, crimes dolosos contra a vida e Pres. do Trib. do Juri, das Faz. Púb. e de Reg. Púb. e Ambiental)",
+      "sistema": "Eproc",
+      "ajuizadoBR": "19/09/2026",
+      "ajuizadoSort": "20260919",
+      "ultMov": "Documento",
+      "ultMovData": "2026-09-20",
+      "transito": false,
+      "frentes": [
+        "seguros"
+      ],
+      "trilha": "Seguros",
+      "prioridade": false,
+      "fase": "Conhecimento",
+      "score": 44
+    },
+    {
+      "numero": "59308130720268090051",
+      "numeroFmt": "5930813-07.2026.8.09.0051",
+      "tribunal": "TJGO",
+      "tribunalLabel": "Goiás · TJGO",
+      "uf": "GO",
+      "justica": "Estadual",
+      "grau": "G1",
+      "classeCod": 7,
+      "classe": "Procedimento Comum Cível",
+      "assuntos": [
+        "Seguro"
+      ],
+      "assuntosTxt": "Seguro",
+      "orgao": "20ª Vara Cível",
+      "sistema": "Eproc",
+      "ajuizadoBR": "19/09/2026",
+      "ajuizadoSort": "20260919",
+      "ultMov": "Confirmada",
+      "ultMovData": "2026-09-29",
+      "transito": false,
+      "frentes": [
+        "seguros"
+      ],
+      "trilha": "Seguros",
+      "prioridade": false,
+      "fase": "Conhecimento",
+      "score": 44
+    },
+    {
+      "numero": "59274993720268090024",
+      "numeroFmt": "5927499-37.2026.8.09.0024",
+      "tribunal": "TJGO",
+      "tribunalLabel": "Goiás · TJGO",
+      "uf": "GO",
+      "justica": "Estadual",
+      "grau": "G1",
+      "classeCod": 7,
+      "classe": "Procedimento Comum Cível",
+      "assuntos": [
+        "Seguro"
+      ],
+      "assuntosTxt": "Seguro",
+      "orgao": "2ª Vara (Cível, Faz Públicas Estadual e Residual e Registros Públicos)",
+      "sistema": "Eproc",
+      "ajuizadoBR": "18/09/2026",
+      "ajuizadoSort": "20260918",
+      "ultMov": "Conclusão",
+      "ultMovData": "2026-09-21",
+      "transito": false,
+      "frentes": [
+        "seguros"
+      ],
+      "trilha": "Seguros",
+      "prioridade": false,
+      "fase": "Conhecimento",
+      "score": 44
+    },
+    {
+      "numero": "59267030620268090102",
+      "numeroFmt": "5926703-06.2026.8.09.0102",
+      "tribunal": "TJGO",
+      "tribunalLabel": "Goiás · TJGO",
+      "uf": "GO",
+      "justica": "Estadual",
+      "grau": "G1",
+      "classeCod": 7,
+      "classe": "Procedimento Comum Cível",
+      "assuntos": [
+        "Seguro"
+      ],
+      "assuntosTxt": "Seguro",
+      "orgao": "Vara Judicial",
+      "sistema": "Eproc",
+      "ajuizadoBR": "18/09/2026",
+      "ajuizadoSort": "20260918",
+      "ultMov": "Confirmada",
+      "ultMovData": "2026-09-25",
+      "transito": false,
+      "frentes": [
+        "seguros"
+      ],
+      "trilha": "Seguros",
+      "prioridade": false,
+      "fase": "Conhecimento",
+      "score": 44
+    },
+    {
+      "numero": "59251334120268090051",
+      "numeroFmt": "5925133-41.2026.8.09.0051",
+      "tribunal": "TJGO",
+      "tribunalLabel": "Goiás · TJGO",
+      "uf": "GO",
+      "justica": "Estadual",
+      "grau": "G1",
+      "classeCod": 7,
+      "classe": "Procedimento Comum Cível",
+      "assuntos": [
+        "Seguro"
+      ],
+      "assuntosTxt": "Seguro",
+      "orgao": "17ª Vara Cível e Ambiental",
+      "sistema": "Eproc",
+      "ajuizadoBR": "18/09/2026",
+      "ajuizadoSort": "20260918",
+      "ultMov": "Confirmada",
+      "ultMovData": "2026-09-28",
+      "transito": false,
+      "frentes": [
+        "seguros"
+      ],
+      "trilha": "Seguros",
+      "prioridade": false,
+      "fase": "Conhecimento",
+      "score": 44
+    },
+    {
+      "numero": "59242973720268090029",
+      "numeroFmt": "5924297-37.2026.8.09.0029",
+      "tribunal": "TJGO",
+      "tribunalLabel": "Goiás · TJGO",
+      "uf": "GO",
+      "justica": "Estadual",
+      "grau": "JE",
+      "classeCod": 436,
+      "classe": "Procedimento do Juizado Especial Cível",
+      "assuntos": [
+        "Seguro",
+        "Indenização por Dano Moral",
+        "Repetição do Indébito"
+      ],
+      "assuntosTxt": "Seguro; Indenização por Dano Moral; Repetição do Indébito",
+      "orgao": "2º Juizado Especial Cível e Criminal",
+      "sistema": "Eproc",
+      "ajuizadoBR": "18/09/2026",
+      "ajuizadoSort": "20260918",
+      "ultMov": "Decurso de Prazo",
+      "ultMovData": "2026-09-30",
+      "transito": false,
+      "frentes": [
+        "seguros"
+      ],
+      "trilha": "Seguros",
+      "prioridade": false,
+      "fase": "Conhecimento",
+      "score": 44
+    },
+    {
+      "numero": "59239428120268090011",
+      "numeroFmt": "5923942-81.2026.8.09.0011",
+      "tribunal": "TJGO",
+      "tribunalLabel": "Goiás · TJGO",
+      "uf": "GO",
+      "justica": "Estadual",
+      "grau": "G1",
+      "classeCod": 7,
+      "classe": "Procedimento Comum Cível",
+      "assuntos": [
+        "Seguro"
+      ],
+      "assuntosTxt": "Seguro",
+      "orgao": "3ª Vara Cível",
+      "sistema": "Eproc",
+      "ajuizadoBR": "18/09/2026",
+      "ajuizadoSort": "20260918",
+      "ultMov": "Confirmada",
+      "ultMovData": "2026-09-23",
+      "transito": false,
+      "frentes": [
+        "seguros"
+      ],
+      "trilha": "Seguros",
+      "prioridade": false,
+      "fase": "Conhecimento",
+      "score": 44
+    },
+    {
+      "numero": "59170332520268090172",
+      "numeroFmt": "5917033-25.2026.8.09.0172",
+      "tribunal": "TJGO",
+      "tribunalLabel": "Goiás · TJGO",
+      "uf": "GO",
+      "justica": "Estadual",
+      "grau": "G1",
+      "classeCod": 7,
+      "classe": "Procedimento Comum Cível",
+      "assuntos": [
+        "Seguro"
+      ],
+      "assuntosTxt": "Seguro",
+      "orgao": "Vara Judicial",
+      "sistema": "Eproc",
+      "ajuizadoBR": "17/09/2026",
+      "ajuizadoSort": "20260917",
+      "ultMov": "Confirmada",
+      "ultMovData": "2026-09-22",
+      "transito": false,
+      "frentes": [
+        "seguros"
+      ],
+      "trilha": "Seguros",
+      "prioridade": false,
+      "fase": "Conhecimento",
+      "score": 44
+    },
+    {
+      "numero": "59159361320268090132",
+      "numeroFmt": "5915936-13.2026.8.09.0132",
+      "tribunal": "TJGO",
+      "tribunalLabel": "Goiás · TJGO",
+      "uf": "GO",
+      "justica": "Estadual",
+      "grau": "G1",
+      "classeCod": 7,
+      "classe": "Procedimento Comum Cível",
+      "assuntos": [
+        "Seguro"
+      ],
+      "assuntosTxt": "Seguro",
+      "orgao": "1ª Vara Judicial (Família e Sucessões, Infância e Juventude, Cível, de Registros Públicos, Ambiental e Juizado Especial Cível)",
+      "sistema": "Eproc",
+      "ajuizadoBR": "17/09/2026",
+      "ajuizadoSort": "20260917",
+      "ultMov": "Confirmada",
+      "ultMovData": "2026-09-30",
+      "transito": false,
+      "frentes": [
+        "seguros"
+      ],
+      "trilha": "Seguros",
+      "prioridade": false,
+      "fase": "Conhecimento",
+      "score": 44
+    },
+    {
+      "numero": "59158019820268090132",
+      "numeroFmt": "5915801-98.2026.8.09.0132",
+      "tribunal": "TJGO",
+      "tribunalLabel": "Goiás · TJGO",
+      "uf": "GO",
+      "justica": "Estadual",
+      "grau": "G1",
+      "classeCod": 7,
+      "classe": "Procedimento Comum Cível",
+      "assuntos": [
+        "Seguro"
+      ],
+      "assuntosTxt": "Seguro",
+      "orgao": "1ª Vara Judicial (Família e Sucessões, Infância e Juventude, Cível, de Registros Públicos, Ambiental e Juizado Especial Cível)",
+      "sistema": "Eproc",
+      "ajuizadoBR": "17/09/2026",
+      "ajuizadoSort": "20260917",
+      "ultMov": "Confirmada",
+      "ultMovData": "2026-09-25",
+      "transito": false,
+      "frentes": [
+        "seguros"
+      ],
+      "trilha": "Seguros",
+      "prioridade": false,
+      "fase": "Conhecimento",
+      "score": 44
+    },
+    {
+      "numero": "59131877220268090051",
+      "numeroFmt": "5913187-72.2026.8.09.0051",
+      "tribunal": "TJGO",
+      "tribunalLabel": "Goiás · TJGO",
+      "uf": "GO",
+      "justica": "Estadual",
+      "grau": "G1",
+      "classeCod": 7,
+      "classe": "Procedimento Comum Cível",
+      "assuntos": [
+        "Seguro"
+      ],
+      "assuntosTxt": "Seguro",
+      "orgao": "7ª Vara Cível",
+      "sistema": "Eproc",
+      "ajuizadoBR": "17/09/2026",
+      "ajuizadoSort": "20260917",
+      "ultMov": "Confirmada",
+      "ultMovData": "2026-09-30",
+      "transito": false,
+      "frentes": [
+        "seguros"
+      ],
+      "trilha": "Seguros",
+      "prioridade": false,
+      "fase": "Conhecimento",
+      "score": 44
+    },
+    {
+      "numero": "59128942520268090012",
+      "numeroFmt": "5912894-25.2026.8.09.0012",
+      "tribunal": "TJGO",
+      "tribunalLabel": "Goiás · TJGO",
+      "uf": "GO",
+      "justica": "Estadual",
+      "grau": "JE",
+      "classeCod": 436,
+      "classe": "Procedimento do Juizado Especial Cível",
+      "assuntos": [
+        "Seguro",
+        "Indenização por Dano Moral"
+      ],
+      "assuntosTxt": "Seguro; Indenização por Dano Moral",
+      "orgao": "2º Juizado Especial Cível",
+      "sistema": "Eproc",
+      "ajuizadoBR": "17/09/2026",
+      "ajuizadoSort": "20260917",
+      "ultMov": "Documento",
+      "ultMovData": "2026-09-17",
+      "transito": false,
+      "frentes": [
+        "seguros"
+      ],
+      "trilha": "Seguros",
+      "prioridade": false,
+      "fase": "Conhecimento",
+      "score": 44
+    },
+    {
+      "numero": "59127975520268090002",
+      "numeroFmt": "5912797-55.2026.8.09.0002",
+      "tribunal": "TJGO",
+      "tribunalLabel": "Goiás · TJGO",
+      "uf": "GO",
+      "justica": "Estadual",
+      "grau": "G1",
+      "classeCod": 7,
+      "classe": "Procedimento Comum Cível",
+      "assuntos": [
+        "Seguro"
+      ],
+      "assuntosTxt": "Seguro",
+      "orgao": "1ª Vara Judicial (Família e Sucessões, Infância e Juventude, Cível e Juizado Especial Cível)",
+      "sistema": "Eproc",
+      "ajuizadoBR": "17/09/2026",
+      "ajuizadoSort": "20260917",
+      "ultMov": "Conclusão",
+      "ultMovData": "2026-09-17",
+      "transito": false,
+      "frentes": [
+        "seguros"
+      ],
+      "trilha": "Seguros",
+      "prioridade": false,
+      "fase": "Conhecimento",
+      "score": 44
+    },
+    {
+      "numero": "59084298120268090170",
+      "numeroFmt": "5908429-81.2026.8.09.0170",
+      "tribunal": "TJGO",
+      "tribunalLabel": "Goiás · TJGO",
+      "uf": "GO",
+      "justica": "Estadual",
+      "grau": "G1",
+      "classeCod": 7,
+      "classe": "Procedimento Comum Cível",
+      "assuntos": [
+        "Seguro"
+      ],
+      "assuntosTxt": "Seguro",
+      "orgao": "Vara Judicial",
+      "sistema": "Eproc",
+      "ajuizadoBR": "16/09/2026",
+      "ajuizadoSort": "20260916",
+      "ultMov": "Confirmada",
+      "ultMovData": "2026-09-18",
+      "transito": false,
+      "frentes": [
+        "seguros"
+      ],
+      "trilha": "Seguros",
+      "prioridade": false,
+      "fase": "Conhecimento",
+      "score": 44
+    },
+    {
+      "numero": "59028663320268090162",
+      "numeroFmt": "5902866-33.2026.8.09.0162",
+      "tribunal": "TJGO",
+      "tribunalLabel": "Goiás · TJGO",
+      "uf": "GO",
+      "justica": "Estadual",
+      "grau": "G1",
+      "classeCod": 7,
+      "classe": "Procedimento Comum Cível",
+      "assuntos": [
+        "Seguro"
+      ],
+      "assuntosTxt": "Seguro",
+      "orgao": "1ª Vara Cível (Cível, Infância e Juventude)",
+      "sistema": "Eproc",
+      "ajuizadoBR": "16/09/2026",
+      "ajuizadoSort": "20260916",
+      "ultMov": "Expedida/Certificada",
+      "ultMovData": "2026-09-29",
+      "transito": false,
+      "frentes": [
+        "seguros"
+      ],
+      "trilha": "Seguros",
+      "prioridade": false,
+      "fase": "Conhecimento",
+      "score": 44
+    },
+    {
+      "numero": "59011210720268090101",
+      "numeroFmt": "5901121-07.2026.8.09.0101",
+      "tribunal": "TJGO",
+      "tribunalLabel": "Goiás · TJGO",
+      "uf": "GO",
+      "justica": "Estadual",
+      "grau": "JE",
+      "classeCod": 436,
+      "classe": "Procedimento do Juizado Especial Cível",
+      "assuntos": [
+        "Seguro",
+        "Rescisão do contrato e devolução do dinheiro",
+        "Indenização por Dano Moral"
+      ],
+      "assuntosTxt": "Seguro; Rescisão do contrato e devolução do dinheiro; Indenização por Dano Moral",
+      "orgao": "Juizado Especial Cível e Criminal",
+      "sistema": "Eproc",
+      "ajuizadoBR": "16/09/2026",
+      "ajuizadoSort": "20260916",
+      "ultMov": "Confirmada",
+      "ultMovData": "2026-09-28",
+      "transito": false,
+      "frentes": [
+        "seguros"
+      ],
+      "trilha": "Seguros",
+      "prioridade": false,
+      "fase": "Conhecimento",
+      "score": 44
+    },
+    {
+      "numero": "58923173720268090170",
+      "numeroFmt": "5892317-37.2026.8.09.0170",
+      "tribunal": "TJGO",
+      "tribunalLabel": "Goiás · TJGO",
+      "uf": "GO",
+      "justica": "Estadual",
+      "grau": "G1",
+      "classeCod": 7,
+      "classe": "Procedimento Comum Cível",
+      "assuntos": [
+        "Seguro"
+      ],
+      "assuntosTxt": "Seguro",
+      "orgao": "Vara Judicial",
+      "sistema": "Eproc",
+      "ajuizadoBR": "15/09/2026",
+      "ajuizadoSort": "20260915",
+      "ultMov": "Confirmada",
+      "ultMovData": "2026-09-17",
+      "transito": false,
+      "frentes": [
+        "seguros"
+      ],
+      "trilha": "Seguros",
+      "prioridade": false,
+      "fase": "Conhecimento",
+      "score": 44
+    },
+    {
+      "numero": "58922694720268090051",
+      "numeroFmt": "5892269-47.2026.8.09.0051",
+      "tribunal": "TJGO",
+      "tribunalLabel": "Goiás · TJGO",
+      "uf": "GO",
+      "justica": "Estadual",
+      "grau": "G1",
+      "classeCod": 7,
+      "classe": "Procedimento Comum Cível",
+      "assuntos": [
+        "Seguro"
+      ],
+      "assuntosTxt": "Seguro",
+      "orgao": "15ª Vara Cível e Ambiental",
+      "sistema": "Eproc",
+      "ajuizadoBR": "15/09/2026",
+      "ajuizadoSort": "20260915",
+      "ultMov": "Expedição de documento",
+      "ultMovData": "2026-09-28",
+      "transito": false,
+      "frentes": [
+        "seguros"
+      ],
+      "trilha": "Seguros",
+      "prioridade": false,
+      "fase": "Conhecimento",
+      "score": 44
+    },
+    {
+      "numero": "58892128720268090029",
+      "numeroFmt": "5889212-87.2026.8.09.0029",
+      "tribunal": "TJGO",
+      "tribunalLabel": "Goiás · TJGO",
+      "uf": "GO",
+      "justica": "Estadual",
+      "grau": "G1",
+      "classeCod": 7,
+      "classe": "Procedimento Comum Cível",
+      "assuntos": [
+        "Seguro",
+        "Produto Impróprio"
+      ],
+      "assuntosTxt": "Seguro; Produto Impróprio",
+      "orgao": "2ª Vara Cível",
+      "sistema": "Eproc",
+      "ajuizadoBR": "15/09/2026",
+      "ajuizadoSort": "20260915",
+      "ultMov": "Confirmada",
+      "ultMovData": "2026-09-21",
+      "transito": false,
+      "frentes": [
+        "seguros"
+      ],
+      "trilha": "Seguros",
+      "prioridade": false,
+      "fase": "Conhecimento",
+      "score": 44
+    },
+    {
+      "numero": "58889300220268090174",
+      "numeroFmt": "5888930-02.2026.8.09.0174",
+      "tribunal": "TJGO",
+      "tribunalLabel": "Goiás · TJGO",
+      "uf": "GO",
+      "justica": "Estadual",
+      "grau": "G1",
+      "classeCod": 7,
+      "classe": "Procedimento Comum Cível",
+      "assuntos": [
+        "Seguro",
+        "Produto Impróprio"
+      ],
+      "assuntosTxt": "Seguro; Produto Impróprio",
+      "orgao": "1ª Vara Cível",
+      "sistema": "Eproc",
+      "ajuizadoBR": "15/09/2026",
+      "ajuizadoSort": "20260915",
+      "ultMov": "Confirmada",
+      "ultMovData": "2026-09-17",
+      "transito": false,
+      "frentes": [
+        "seguros"
+      ],
+      "trilha": "Seguros",
+      "prioridade": false,
+      "fase": "Conhecimento",
+      "score": 44
+    },
+    {
+      "numero": "58826044520268090006",
+      "numeroFmt": "5882604-45.2026.8.09.0006",
+      "tribunal": "TJGO",
+      "tribunalLabel": "Goiás · TJGO",
+      "uf": "GO",
+      "justica": "Estadual",
+      "grau": "G1",
+      "classeCod": 7,
+      "classe": "Procedimento Comum Cível",
+      "assuntos": [
+        "Seguro",
+        "Produto Impróprio"
+      ],
+      "assuntosTxt": "Seguro; Produto Impróprio",
+      "orgao": "1ª Vara Cível",
+      "sistema": "Eproc",
+      "ajuizadoBR": "14/09/2026",
+      "ajuizadoSort": "20260914",
+      "ultMov": "Documento",
+      "ultMovData": "2026-09-15",
+      "transito": false,
+      "frentes": [
+        "seguros"
+      ],
+      "trilha": "Seguros",
+      "prioridade": false,
+      "fase": "Conhecimento",
+      "score": 44
+    },
+    {
+      "numero": "58814107520268090146",
+      "numeroFmt": "5881410-75.2026.8.09.0146",
+      "tribunal": "TJGO",
+      "tribunalLabel": "Goiás · TJGO",
+      "uf": "GO",
+      "justica": "Estadual",
+      "grau": "G1",
+      "classeCod": 7,
+      "classe": "Procedimento Comum Cível",
+      "assuntos": [
+        "Seguro"
+      ],
+      "assuntosTxt": "Seguro",
+      "orgao": "Vara Cível e Juizado Especial Cível",
+      "sistema": "Eproc",
+      "ajuizadoBR": "14/09/2026",
+      "ajuizadoSort": "20260914",
+      "ultMov": "Confirmada",
+      "ultMovData": "2026-09-16",
+      "transito": false,
+      "frentes": [
+        "seguros"
+      ],
+      "trilha": "Seguros",
+      "prioridade": false,
+      "fase": "Conhecimento",
+      "score": 44
+    },
+    {
+      "numero": "58798614720268090011",
+      "numeroFmt": "5879861-47.2026.8.09.0011",
+      "tribunal": "TJGO",
+      "tribunalLabel": "Goiás · TJGO",
+      "uf": "GO",
+      "justica": "Estadual",
+      "grau": "G1",
+      "classeCod": 7,
+      "classe": "Procedimento Comum Cível",
+      "assuntos": [
+        "Seguro"
+      ],
+      "assuntosTxt": "Seguro",
+      "orgao": "6ª Vara Cível",
+      "sistema": "Eproc",
+      "ajuizadoBR": "13/09/2026",
+      "ajuizadoSort": "20260913",
+      "ultMov": "Confirmada",
+      "ultMovData": "2026-09-21",
+      "transito": false,
+      "frentes": [
+        "seguros"
+      ],
+      "trilha": "Seguros",
+      "prioridade": false,
+      "fase": "Conhecimento",
+      "score": 44
+    },
+    {
+      "numero": "58772738220268090006",
+      "numeroFmt": "5877273-82.2026.8.09.0006",
+      "tribunal": "TJGO",
+      "tribunalLabel": "Goiás · TJGO",
+      "uf": "GO",
+      "justica": "Estadual",
+      "grau": "G1",
+      "classeCod": 7,
+      "classe": "Procedimento Comum Cível",
+      "assuntos": [
+        "Seguro"
+      ],
+      "assuntosTxt": "Seguro",
+      "orgao": "4ª Vara Cível",
+      "sistema": "Eproc",
+      "ajuizadoBR": "12/09/2026",
+      "ajuizadoSort": "20260912",
+      "ultMov": "Confirmada",
+      "ultMovData": "2026-09-14",
+      "transito": false,
+      "frentes": [
+        "seguros"
+      ],
+      "trilha": "Seguros",
+      "prioridade": false,
+      "fase": "Conhecimento",
+      "score": 44
+    },
+    {
+      "numero": "58727409720268090162",
+      "numeroFmt": "5872740-97.2026.8.09.0162",
+      "tribunal": "TJGO",
+      "tribunalLabel": "Goiás · TJGO",
+      "uf": "GO",
+      "justica": "Estadual",
+      "grau": "G1",
+      "classeCod": 7,
+      "classe": "Procedimento Comum Cível",
+      "assuntos": [
+        "Seguro"
+      ],
+      "assuntosTxt": "Seguro",
+      "orgao": "1ª Vara Cível (Cível, Infância e Juventude)",
+      "sistema": "Eproc",
+      "ajuizadoBR": "11/09/2026",
+      "ajuizadoSort": "20260911",
+      "ultMov": "Conclusão",
+      "ultMovData": "2026-09-14",
+      "transito": false,
+      "frentes": [
+        "seguros"
+      ],
+      "trilha": "Seguros",
+      "prioridade": false,
+      "fase": "Conhecimento",
+      "score": 44
+    },
+    {
+      "numero": "58709453120268090041",
+      "numeroFmt": "5870945-31.2026.8.09.0041",
+      "tribunal": "TJGO",
+      "tribunalLabel": "Goiás · TJGO",
+      "uf": "GO",
+      "justica": "Estadual",
+      "grau": "G1",
+      "classeCod": 7,
+      "classe": "Procedimento Comum Cível",
+      "assuntos": [
+        "Seguro"
+      ],
+      "assuntosTxt": "Seguro",
+      "orgao": "Vara Judicial",
+      "sistema": "Eproc",
+      "ajuizadoBR": "11/09/2026",
+      "ajuizadoSort": "20260911",
+      "ultMov": "Confirmada",
+      "ultMovData": "2026-09-15",
+      "transito": false,
+      "frentes": [
+        "seguros"
+      ],
+      "trilha": "Seguros",
+      "prioridade": false,
+      "fase": "Conhecimento",
+      "score": 44
+    },
+    {
+      "numero": "58700173820268090152",
+      "numeroFmt": "5870017-38.2026.8.09.0152",
+      "tribunal": "TJGO",
+      "tribunalLabel": "Goiás · TJGO",
+      "uf": "GO",
+      "justica": "Estadual",
+      "grau": "G1",
+      "classeCod": 7,
+      "classe": "Procedimento Comum Cível",
+      "assuntos": [
+        "Seguro"
+      ],
+      "assuntosTxt": "Seguro",
+      "orgao": "1ª Vara (Cív., Criminal - crime em geral e exec. penais - e da Inf. e da Juv.)",
+      "sistema": "Eproc",
+      "ajuizadoBR": "11/09/2026",
+      "ajuizadoSort": "20260911",
+      "ultMov": "Confirmada",
+      "ultMovData": "2026-09-14",
+      "transito": false,
+      "frentes": [
+        "seguros"
+      ],
+      "trilha": "Seguros",
+      "prioridade": false,
+      "fase": "Conhecimento",
+      "score": 44
+    },
+    {
+      "numero": "58657708120268090065",
+      "numeroFmt": "5865770-81.2026.8.09.0065",
+      "tribunal": "TJGO",
+      "tribunalLabel": "Goiás · TJGO",
+      "uf": "GO",
+      "justica": "Estadual",
+      "grau": "G1",
+      "classeCod": 7,
+      "classe": "Procedimento Comum Cível",
+      "assuntos": [
+        "Seguro",
+        "Tarifas",
+        "Práticas Abusivas",
+        "Vendas casadas",
+        "Repetição do Indébito"
+      ],
+      "assuntosTxt": "Seguro; Tarifas; Práticas Abusivas; Vendas casadas; Repetição do Indébito",
+      "orgao": "Vara Cível, Infância e Juventude e Juizado Especial Cível",
+      "sistema": "Eproc",
+      "ajuizadoBR": "10/09/2026",
+      "ajuizadoSort": "20260910",
+      "ultMov": "Confirmada",
+      "ultMovData": "2026-09-15",
+      "transito": false,
+      "frentes": [
+        "seguros",
+        "consumidor"
+      ],
+      "trilha": "Seguros",
+      "prioridade": false,
+      "fase": "Conhecimento",
+      "score": 44
+    },
+    {
+      "numero": "58648015220268090102",
+      "numeroFmt": "5864801-52.2026.8.09.0102",
+      "tribunal": "TJGO",
+      "tribunalLabel": "Goiás · TJGO",
+      "uf": "GO",
+      "justica": "Estadual",
+      "grau": "G1",
+      "classeCod": 7,
+      "classe": "Procedimento Comum Cível",
+      "assuntos": [
+        "Seguro"
+      ],
+      "assuntosTxt": "Seguro",
+      "orgao": "Vara Judicial",
+      "sistema": "Eproc",
+      "ajuizadoBR": "10/09/2026",
+      "ajuizadoSort": "20260910",
+      "ultMov": "Confirmada",
+      "ultMovData": "2026-09-30",
+      "transito": false,
+      "frentes": [
+        "seguros"
+      ],
+      "trilha": "Seguros",
+      "prioridade": false,
+      "fase": "Conhecimento",
+      "score": 44
+    },
+    {
+      "numero": "58618079320268090088",
+      "numeroFmt": "5861807-93.2026.8.09.0088",
+      "tribunal": "TJGO",
+      "tribunalLabel": "Goiás · TJGO",
+      "uf": "GO",
+      "justica": "Estadual",
+      "grau": "JE",
+      "classeCod": 436,
+      "classe": "Procedimento do Juizado Especial Cível",
+      "assuntos": [
+        "Indenização por Dano Moral",
+        "Seguro"
+      ],
+      "assuntosTxt": "Indenização por Dano Moral; Seguro",
+      "orgao": "2º Juizado Especial Cível e Criminal",
+      "sistema": "Eproc",
+      "ajuizadoBR": "10/09/2026",
+      "ajuizadoSort": "20260910",
+      "ultMov": "Confirmada",
+      "ultMovData": "2026-09-14",
+      "transito": false,
+      "frentes": [
+        "seguros"
+      ],
+      "trilha": "Seguros",
+      "prioridade": false,
+      "fase": "Conhecimento",
+      "score": 44
+    },
+    {
+      "numero": "58616097020268090051",
+      "numeroFmt": "5861609-70.2026.8.09.0051",
+      "tribunal": "TJGO",
+      "tribunalLabel": "Goiás · TJGO",
+      "uf": "GO",
+      "justica": "Estadual",
+      "grau": "G1",
+      "classeCod": 7,
+      "classe": "Procedimento Comum Cível",
+      "assuntos": [
+        "Seguro",
+        "Contratos Bancários"
+      ],
+      "assuntosTxt": "Seguro; Contratos Bancários",
+      "orgao": "20ª Vara Cível",
+      "sistema": "Eproc",
+      "ajuizadoBR": "10/09/2026",
+      "ajuizadoSort": "20260910",
+      "ultMov": "Conclusão",
+      "ultMovData": "2026-09-23",
+      "transito": false,
+      "frentes": [
+        "seguros"
+      ],
+      "trilha": "Seguros",
+      "prioridade": false,
+      "fase": "Conhecimento",
+      "score": 44
+    },
+    {
+      "numero": "58614385320268090071",
+      "numeroFmt": "5861438-53.2026.8.09.0071",
+      "tribunal": "TJGO",
+      "tribunalLabel": "Goiás · TJGO",
+      "uf": "GO",
+      "justica": "Estadual",
+      "grau": "G1",
+      "classeCod": 7,
+      "classe": "Procedimento Comum Cível",
+      "assuntos": [
+        "Seguro",
+        "Indenização por Dano Moral",
+        "Práticas Abusivas"
+      ],
+      "assuntosTxt": "Seguro; Indenização por Dano Moral; Práticas Abusivas",
+      "orgao": "1ª Vara Judicial (Família e Sucessões, Infância e Juventude, Cível e Juizado Especial Cível)",
+      "sistema": "Eproc",
+      "ajuizadoBR": "10/09/2026",
+      "ajuizadoSort": "20260910",
+      "ultMov": "Petição",
+      "ultMovData": "2026-09-29",
+      "transito": false,
+      "frentes": [
+        "seguros"
+      ],
+      "trilha": "Seguros",
+      "prioridade": false,
+      "fase": "Conhecimento",
+      "score": 44
+    },
+    {
+      "numero": "58568876120268090093",
+      "numeroFmt": "5856887-61.2026.8.09.0093",
+      "tribunal": "TJGO",
+      "tribunalLabel": "Goiás · TJGO",
+      "uf": "GO",
+      "justica": "Estadual",
+      "grau": "G1",
+      "classeCod": 7,
+      "classe": "Procedimento Comum Cível",
+      "assuntos": [
+        "Seguro"
+      ],
+      "assuntosTxt": "Seguro",
+      "orgao": "2ª Vara Cível",
+      "sistema": "Eproc",
+      "ajuizadoBR": "09/09/2026",
+      "ajuizadoSort": "20260909",
+      "ultMov": "Conclusão",
+      "ultMovData": "2026-09-25",
+      "transito": false,
+      "frentes": [
+        "seguros"
+      ],
+      "trilha": "Seguros",
+      "prioridade": false,
+      "fase": "Conhecimento",
+      "score": 44
+    },
+    {
+      "numero": "58566290220268090174",
+      "numeroFmt": "5856629-02.2026.8.09.0174",
+      "tribunal": "TJGO",
+      "tribunalLabel": "Goiás · TJGO",
+      "uf": "GO",
+      "justica": "Estadual",
+      "grau": "G1",
+      "classeCod": 7,
+      "classe": "Procedimento Comum Cível",
+      "assuntos": [
+        "Seguro"
+      ],
+      "assuntosTxt": "Seguro",
+      "orgao": "2ª Vara Cível",
+      "sistema": "Eproc",
+      "ajuizadoBR": "09/09/2026",
+      "ajuizadoSort": "20260909",
+      "ultMov": "Expedida/Certificada",
+      "ultMovData": "2026-09-25",
+      "transito": false,
+      "frentes": [
+        "seguros"
+      ],
+      "trilha": "Seguros",
+      "prioridade": false,
+      "fase": "Conhecimento",
+      "score": 44
+    },
+    {
+      "numero": "58562577220268090006",
+      "numeroFmt": "5856257-72.2026.8.09.0006",
+      "tribunal": "TJGO",
+      "tribunalLabel": "Goiás · TJGO",
+      "uf": "GO",
+      "justica": "Estadual",
+      "grau": "G1",
+      "classeCod": 7,
+      "classe": "Procedimento Comum Cível",
+      "assuntos": [
+        "Seguro",
+        "Acidente de Trânsito",
+        "Acidente de Trânsito"
+      ],
+      "assuntosTxt": "Seguro; Acidente de Trânsito; Acidente de Trânsito",
+      "orgao": "2ª Vara Cível",
+      "sistema": "Eproc",
+      "ajuizadoBR": "09/09/2026",
+      "ajuizadoSort": "20260909",
+      "ultMov": "Petição",
+      "ultMovData": "2026-09-30",
+      "transito": false,
+      "frentes": [
+        "seguros"
+      ],
+      "trilha": "Seguros",
+      "prioridade": false,
+      "fase": "Conhecimento",
+      "score": 44
+    },
+    {
+      "numero": "58558754120268090051",
+      "numeroFmt": "5855875-41.2026.8.09.0051",
+      "tribunal": "TJGO",
+      "tribunalLabel": "Goiás · TJGO",
+      "uf": "GO",
+      "justica": "Estadual",
+      "grau": "G1",
+      "classeCod": 7,
+      "classe": "Procedimento Comum Cível",
+      "assuntos": [
+        "Seguro"
+      ],
+      "assuntosTxt": "Seguro",
+      "orgao": "25ª Vara Cível",
+      "sistema": "Eproc",
+      "ajuizadoBR": "09/09/2026",
+      "ajuizadoSort": "20260909",
+      "ultMov": "Conclusão",
+      "ultMovData": "2026-09-28",
+      "transito": false,
+      "frentes": [
+        "seguros"
+      ],
+      "trilha": "Seguros",
+      "prioridade": false,
+      "fase": "Conhecimento",
+      "score": 44
+    },
+    {
+      "numero": "58555995720268090100",
+      "numeroFmt": "5855599-57.2026.8.09.0100",
+      "tribunal": "TJGO",
+      "tribunalLabel": "Goiás · TJGO",
+      "uf": "GO",
+      "justica": "Estadual",
+      "grau": "G1",
+      "classeCod": 7,
+      "classe": "Procedimento Comum Cível",
+      "assuntos": [
+        "Seguro"
+      ],
+      "assuntosTxt": "Seguro",
+      "orgao": "2ª Vara (Cível, da Faz. Púb. Mun., de Reg. Púb. e Amb.)",
+      "sistema": "Eproc",
+      "ajuizadoBR": "09/09/2026",
+      "ajuizadoSort": "20260909",
+      "ultMov": "Confirmada",
+      "ultMovData": "2026-09-14",
+      "transito": false,
+      "frentes": [
+        "seguros"
+      ],
+      "trilha": "Seguros",
+      "prioridade": false,
+      "fase": "Conhecimento",
+      "score": 44
+    },
+    {
+      "numero": "58545513920268090011",
+      "numeroFmt": "5854551-39.2026.8.09.0011",
+      "tribunal": "TJGO",
+      "tribunalLabel": "Goiás · TJGO",
+      "uf": "GO",
+      "justica": "Estadual",
+      "grau": "G1",
+      "classeCod": 7,
+      "classe": "Procedimento Comum Cível",
+      "assuntos": [
+        "Seguro",
+        "Produto Impróprio"
+      ],
+      "assuntosTxt": "Seguro; Produto Impróprio",
+      "orgao": "3ª Vara Cível",
+      "sistema": "Eproc",
+      "ajuizadoBR": "08/09/2026",
+      "ajuizadoSort": "20260908",
+      "ultMov": "Petição",
+      "ultMovData": "2026-09-28",
+      "transito": false,
+      "frentes": [
+        "seguros"
+      ],
+      "trilha": "Seguros",
+      "prioridade": false,
+      "fase": "Conhecimento",
+      "score": 44
+    },
+    {
+      "numero": "58539313920268090007",
+      "numeroFmt": "5853931-39.2026.8.09.0007",
+      "tribunal": "TJGO",
+      "tribunalLabel": "Goiás · TJGO",
+      "uf": "GO",
+      "justica": "Estadual",
+      "grau": "JE",
+      "classeCod": 436,
+      "classe": "Procedimento do Juizado Especial Cível",
+      "assuntos": [
+        "Seguro"
+      ],
+      "assuntosTxt": "Seguro",
+      "orgao": "4º Juizado Especial Cível",
+      "sistema": "Eproc",
+      "ajuizadoBR": "08/09/2026",
+      "ajuizadoSort": "20260908",
+      "ultMov": "Confirmada",
+      "ultMovData": "2026-09-24",
+      "transito": false,
+      "frentes": [
+        "seguros"
+      ],
+      "trilha": "Seguros",
+      "prioridade": false,
+      "fase": "Conhecimento",
+      "score": 44
+    },
+    {
+      "numero": "58515095620268090051",
+      "numeroFmt": "5851509-56.2026.8.09.0051",
+      "tribunal": "TJGO",
+      "tribunalLabel": "Goiás · TJGO",
+      "uf": "GO",
+      "justica": "Estadual",
+      "grau": "JE",
+      "classeCod": 436,
+      "classe": "Procedimento do Juizado Especial Cível",
+      "assuntos": [
+        "Seguro"
+      ],
+      "assuntosTxt": "Seguro",
+      "orgao": "8º Juizado Especial Cível",
+      "sistema": "Eproc",
+      "ajuizadoBR": "08/09/2026",
+      "ajuizadoSort": "20260908",
+      "ultMov": "Confirmada",
+      "ultMovData": "2026-09-10",
+      "transito": false,
+      "frentes": [
+        "seguros"
+      ],
+      "trilha": "Seguros",
+      "prioridade": false,
+      "fase": "Conhecimento",
+      "score": 44
+    },
+    {
+      "numero": "58491183120268090051",
+      "numeroFmt": "5849118-31.2026.8.09.0051",
+      "tribunal": "TJGO",
+      "tribunalLabel": "Goiás · TJGO",
+      "uf": "GO",
+      "justica": "Estadual",
+      "grau": "G1",
+      "classeCod": 7,
+      "classe": "Procedimento Comum Cível",
+      "assuntos": [
+        "Seguro"
+      ],
+      "assuntosTxt": "Seguro",
+      "orgao": "17ª Vara Cível e Ambiental",
+      "sistema": "Eproc",
+      "ajuizadoBR": "06/09/2026",
+      "ajuizadoSort": "20260906",
+      "ultMov": "Confirmada",
+      "ultMovData": "2026-09-22",
+      "transito": false,
+      "frentes": [
+        "seguros"
+      ],
+      "trilha": "Seguros",
+      "prioridade": false,
+      "fase": "Conhecimento",
+      "score": 44
+    },
+    {
+      "numero": "58485241720268090051",
+      "numeroFmt": "5848524-17.2026.8.09.0051",
+      "tribunal": "TJGO",
+      "tribunalLabel": "Goiás · TJGO",
+      "uf": "GO",
+      "justica": "Estadual",
+      "grau": "G1",
+      "classeCod": 7,
+      "classe": "Procedimento Comum Cível",
+      "assuntos": [
+        "Seguro"
+      ],
+      "assuntosTxt": "Seguro",
+      "orgao": "30ª Vara Cível",
+      "sistema": "Eproc",
+      "ajuizadoBR": "05/09/2026",
+      "ajuizadoSort": "20260905",
+      "ultMov": "Confirmada",
+      "ultMovData": "2026-09-09",
+      "transito": false,
+      "frentes": [
+        "seguros"
+      ],
+      "trilha": "Seguros",
+      "prioridade": false,
+      "fase": "Conhecimento",
+      "score": 44
+    },
+    {
+      "numero": "58485069320268090051",
+      "numeroFmt": "5848506-93.2026.8.09.0051",
+      "tribunal": "TJGO",
+      "tribunalLabel": "Goiás · TJGO",
+      "uf": "GO",
+      "justica": "Estadual",
+      "grau": "G1",
+      "classeCod": 7,
+      "classe": "Procedimento Comum Cível",
+      "assuntos": [
+        "Seguro"
+      ],
+      "assuntosTxt": "Seguro",
+      "orgao": "4ª Vara Cível",
+      "sistema": "Eproc",
+      "ajuizadoBR": "05/09/2026",
+      "ajuizadoSort": "20260905",
+      "ultMov": "Confirmada",
+      "ultMovData": "2026-09-09",
+      "transito": false,
+      "frentes": [
+        "seguros"
+      ],
+      "trilha": "Seguros",
+      "prioridade": false,
+      "fase": "Conhecimento",
+      "score": 44
+    },
+    {
+      "numero": "58445655720268090174",
+      "numeroFmt": "5844565-57.2026.8.09.0174",
+      "tribunal": "TJGO",
+      "tribunalLabel": "Goiás · TJGO",
+      "uf": "GO",
+      "justica": "Estadual",
+      "grau": "G1",
+      "classeCod": 7,
+      "classe": "Procedimento Comum Cível",
+      "assuntos": [
+        "Seguro"
+      ],
+      "assuntosTxt": "Seguro",
+      "orgao": "2ª Vara Cível",
+      "sistema": "Eproc",
+      "ajuizadoBR": "04/09/2026",
+      "ajuizadoSort": "20260904",
+      "ultMov": "Confirmada",
+      "ultMovData": "2026-09-12",
+      "transito": false,
+      "frentes": [
+        "seguros"
+      ],
+      "trilha": "Seguros",
+      "prioridade": false,
+      "fase": "Conhecimento",
+      "score": 44
+    },
+    {
+      "numero": "58429838820268090152",
+      "numeroFmt": "5842983-88.2026.8.09.0152",
+      "tribunal": "TJGO",
+      "tribunalLabel": "Goiás · TJGO",
+      "uf": "GO",
+      "justica": "Estadual",
+      "grau": "G1",
+      "classeCod": 7,
+      "classe": "Procedimento Comum Cível",
+      "assuntos": [
+        "Seguro"
+      ],
+      "assuntosTxt": "Seguro",
+      "orgao": "2ª Vara (Cív., Criminal – crime em geral, crimes dolosos contra a vida e Pres. do Trib. do Juri, das Faz. Púb. e de Reg. Pub.)",
+      "sistema": "Eproc",
+      "ajuizadoBR": "03/09/2026",
+      "ajuizadoSort": "20260903",
+      "ultMov": "Confirmada",
+      "ultMovData": "2026-09-21",
+      "transito": false,
+      "frentes": [
+        "seguros"
+      ],
+      "trilha": "Seguros",
+      "prioridade": false,
+      "fase": "Conhecimento",
+      "score": 44
+    },
+    {
+      "numero": "58429097720268090170",
+      "numeroFmt": "5842909-77.2026.8.09.0170",
+      "tribunal": "TJGO",
+      "tribunalLabel": "Goiás · TJGO",
+      "uf": "GO",
+      "justica": "Estadual",
+      "grau": "G1",
+      "classeCod": 7,
+      "classe": "Procedimento Comum Cível",
+      "assuntos": [
+        "Seguro"
+      ],
+      "assuntosTxt": "Seguro",
+      "orgao": "Vara Judicial",
+      "sistema": "Eproc",
+      "ajuizadoBR": "03/09/2026",
+      "ajuizadoSort": "20260903",
+      "ultMov": "Confirmada",
+      "ultMovData": "2026-09-08",
+      "transito": false,
+      "frentes": [
+        "seguros"
+      ],
+      "trilha": "Seguros",
+      "prioridade": false,
+      "fase": "Conhecimento",
+      "score": 44
+    },
+    {
+      "numero": "58428092420268090041",
+      "numeroFmt": "5842809-24.2026.8.09.0041",
+      "tribunal": "TJGO",
+      "tribunalLabel": "Goiás · TJGO",
+      "uf": "GO",
+      "justica": "Estadual",
+      "grau": "G1",
+      "classeCod": 7,
+      "classe": "Procedimento Comum Cível",
+      "assuntos": [
+        "Seguro"
+      ],
+      "assuntosTxt": "Seguro",
+      "orgao": "Vara Judicial",
+      "sistema": "Eproc",
+      "ajuizadoBR": "03/09/2026",
+      "ajuizadoSort": "20260903",
+      "ultMov": "Confirmada",
+      "ultMovData": "2026-09-04",
+      "transito": false,
+      "frentes": [
+        "seguros"
+      ],
+      "trilha": "Seguros",
+      "prioridade": false,
+      "fase": "Conhecimento",
+      "score": 44
+    },
+    {
+      "numero": "58395995320268090044",
+      "numeroFmt": "5839599-53.2026.8.09.0044",
+      "tribunal": "TJGO",
+      "tribunalLabel": "Goiás · TJGO",
+      "uf": "GO",
+      "justica": "Estadual",
+      "grau": "G1",
+      "classeCod": 7,
+      "classe": "Procedimento Comum Cível",
+      "assuntos": [
+        "Seguro"
+      ],
+      "assuntosTxt": "Seguro",
+      "orgao": "2ª Vara Cível e Família e Sucessões",
+      "sistema": "Eproc",
+      "ajuizadoBR": "03/09/2026",
+      "ajuizadoSort": "20260903",
+      "ultMov": "Confirmada",
+      "ultMovData": "2026-09-17",
+      "transito": false,
+      "frentes": [
+        "seguros"
+      ],
+      "trilha": "Seguros",
+      "prioridade": false,
+      "fase": "Conhecimento",
+      "score": 44
+    },
+    {
+      "numero": "58394171720268090093",
+      "numeroFmt": "5839417-17.2026.8.09.0093",
+      "tribunal": "TJGO",
+      "tribunalLabel": "Goiás · TJGO",
+      "uf": "GO",
+      "justica": "Estadual",
+      "grau": "G1",
+      "classeCod": 7,
+      "classe": "Procedimento Comum Cível",
+      "assuntos": [
+        "Seguro"
+      ],
+      "assuntosTxt": "Seguro",
+      "orgao": "2ª Vara Cível",
+      "sistema": "Eproc",
+      "ajuizadoBR": "03/09/2026",
+      "ajuizadoSort": "20260903",
+      "ultMov": "Petição",
+      "ultMovData": "2026-09-30",
+      "transito": false,
+      "frentes": [
+        "seguros"
+      ],
+      "trilha": "Seguros",
+      "prioridade": false,
+      "fase": "Conhecimento",
+      "score": 44
+    },
+    {
+      "numero": "58392972620268090011",
+      "numeroFmt": "5839297-26.2026.8.09.0011",
+      "tribunal": "TJGO",
+      "tribunalLabel": "Goiás · TJGO",
+      "uf": "GO",
+      "justica": "Estadual",
+      "grau": "G1",
+      "classeCod": 7,
+      "classe": "Procedimento Comum Cível",
+      "assuntos": [
+        "Seguro",
+        "Transporte de Coisas"
+      ],
+      "assuntosTxt": "Seguro; Transporte de Coisas",
+      "orgao": "5ª Vara Cível",
+      "sistema": "Eproc",
+      "ajuizadoBR": "03/09/2026",
+      "ajuizadoSort": "20260903",
+      "ultMov": "Confirmada",
+      "ultMovData": "2026-09-14",
+      "transito": false,
+      "frentes": [
+        "seguros"
+      ],
+      "trilha": "Seguros",
+      "prioridade": false,
+      "fase": "Conhecimento",
+      "score": 44
+    },
+    {
+      "numero": "58378334920268090113",
+      "numeroFmt": "5837833-49.2026.8.09.0113",
+      "tribunal": "TJGO",
+      "tribunalLabel": "Goiás · TJGO",
+      "uf": "GO",
+      "justica": "Estadual",
+      "grau": "G1",
+      "classeCod": 7,
+      "classe": "Procedimento Comum Cível",
+      "assuntos": [
+        "Seguro",
+        "Repetição do Indébito"
+      ],
+      "assuntosTxt": "Seguro; Repetição do Indébito",
+      "orgao": "Vara Cível e Juizado Especial Cível",
+      "sistema": "Eproc",
+      "ajuizadoBR": "02/09/2026",
+      "ajuizadoSort": "20260902",
+      "ultMov": "Expedida/Certificada",
+      "ultMovData": "2026-09-17",
+      "transito": false,
+      "frentes": [
+        "seguros"
+      ],
+      "trilha": "Seguros",
+      "prioridade": false,
+      "fase": "Conhecimento",
+      "score": 44
+    },
+    {
+      "numero": "58374055920268090051",
+      "numeroFmt": "5837405-59.2026.8.09.0051",
+      "tribunal": "TJGO",
+      "tribunalLabel": "Goiás · TJGO",
+      "uf": "GO",
+      "justica": "Estadual",
+      "grau": "G1",
+      "classeCod": 7,
+      "classe": "Procedimento Comum Cível",
+      "assuntos": [
+        "Seguro",
+        "Produto Impróprio"
+      ],
+      "assuntosTxt": "Seguro; Produto Impróprio",
+      "orgao": "18ª Vara Cível e Ambiental",
+      "sistema": "Eproc",
+      "ajuizadoBR": "02/09/2026",
+      "ajuizadoSort": "20260902",
+      "ultMov": "Expedição de documento",
+      "ultMovData": "2026-09-30",
+      "transito": false,
+      "frentes": [
+        "seguros"
+      ],
+      "trilha": "Seguros",
+      "prioridade": false,
+      "fase": "Conhecimento",
+      "score": 44
+    },
+    {
+      "numero": "58353757120268090012",
+      "numeroFmt": "5835375-71.2026.8.09.0012",
+      "tribunal": "TJGO",
+      "tribunalLabel": "Goiás · TJGO",
+      "uf": "GO",
+      "justica": "Estadual",
+      "grau": "JE",
+      "classeCod": 436,
+      "classe": "Procedimento do Juizado Especial Cível",
+      "assuntos": [
+        "Seguro"
+      ],
+      "assuntosTxt": "Seguro",
+      "orgao": "3º Juizado Especial Cível",
+      "sistema": "Eproc",
+      "ajuizadoBR": "02/09/2026",
+      "ajuizadoSort": "20260902",
+      "ultMov": "Confirmada",
+      "ultMovData": "2026-09-26",
+      "transito": false,
+      "frentes": [
+        "seguros"
+      ],
+      "trilha": "Seguros",
+      "prioridade": false,
+      "fase": "Conhecimento",
+      "score": 44
+    },
+    {
+      "numero": "58310174320268090051",
+      "numeroFmt": "5831017-43.2026.8.09.0051",
+      "tribunal": "TJGO",
+      "tribunalLabel": "Goiás · TJGO",
+      "uf": "GO",
+      "justica": "Estadual",
+      "grau": "G1",
+      "classeCod": 7,
+      "classe": "Procedimento Comum Cível",
+      "assuntos": [
+        "Seguro"
+      ],
+      "assuntosTxt": "Seguro",
+      "orgao": "12ª Vara Cível",
+      "sistema": "Eproc",
+      "ajuizadoBR": "01/09/2026",
+      "ajuizadoSort": "20260901",
+      "ultMov": "Confirmada",
+      "ultMovData": "2026-09-21",
+      "transito": false,
+      "frentes": [
+        "seguros"
+      ],
+      "trilha": "Seguros",
+      "prioridade": false,
+      "fase": "Conhecimento",
+      "score": 44
+    },
+    {
+      "numero": "58308875420268090083",
+      "numeroFmt": "5830887-54.2026.8.09.0083",
+      "tribunal": "TJGO",
+      "tribunalLabel": "Goiás · TJGO",
+      "uf": "GO",
+      "justica": "Estadual",
+      "grau": "G1",
+      "classeCod": 7,
+      "classe": "Procedimento Comum Cível",
+      "assuntos": [
+        "Seguro"
+      ],
+      "assuntosTxt": "Seguro",
+      "orgao": "Vara Judicial",
+      "sistema": "Eproc",
+      "ajuizadoBR": "01/09/2026",
+      "ajuizadoSort": "20260901",
+      "ultMov": "Petição",
+      "ultMovData": "2026-09-28",
+      "transito": false,
+      "frentes": [
+        "seguros"
+      ],
+      "trilha": "Seguros",
+      "prioridade": false,
+      "fase": "Conhecimento",
+      "score": 44
+    },
+    {
+      "numero": "58307463520268090083",
+      "numeroFmt": "5830746-35.2026.8.09.0083",
+      "tribunal": "TJGO",
+      "tribunalLabel": "Goiás · TJGO",
+      "uf": "GO",
+      "justica": "Estadual",
+      "grau": "G1",
+      "classeCod": 7,
+      "classe": "Procedimento Comum Cível",
+      "assuntos": [
+        "Seguro"
+      ],
+      "assuntosTxt": "Seguro",
+      "orgao": "Vara Judicial",
+      "sistema": "Eproc",
+      "ajuizadoBR": "01/09/2026",
+      "ajuizadoSort": "20260901",
+      "ultMov": "Confirmada",
+      "ultMovData": "2026-09-30",
+      "transito": false,
+      "frentes": [
+        "seguros"
+      ],
+      "trilha": "Seguros",
+      "prioridade": false,
+      "fase": "Conhecimento",
+      "score": 44
+    },
+    {
+      "numero": "58300318920268090051",
+      "numeroFmt": "5830031-89.2026.8.09.0051",
+      "tribunal": "TJGO",
+      "tribunalLabel": "Goiás · TJGO",
+      "uf": "GO",
+      "justica": "Estadual",
+      "grau": "G1",
+      "classeCod": 7,
+      "classe": "Procedimento Comum Cível",
+      "assuntos": [
+        "Seguro"
+      ],
+      "assuntosTxt": "Seguro",
+      "orgao": "25ª Vara Cível",
+      "sistema": "Eproc",
+      "ajuizadoBR": "01/09/2026",
+      "ajuizadoSort": "20260901",
+      "ultMov": "Confirmada",
+      "ultMovData": "2026-09-24",
+      "transito": false,
+      "frentes": [
+        "seguros"
+      ],
+      "trilha": "Seguros",
+      "prioridade": false,
+      "fase": "Conhecimento",
+      "score": 44
+    },
+    {
+      "numero": "58277092220268090011",
+      "numeroFmt": "5827709-22.2026.8.09.0011",
+      "tribunal": "TJGO",
+      "tribunalLabel": "Goiás · TJGO",
+      "uf": "GO",
+      "justica": "Estadual",
+      "grau": "G1",
+      "classeCod": 7,
+      "classe": "Procedimento Comum Cível",
+      "assuntos": [
+        "Seguro"
+      ],
+      "assuntosTxt": "Seguro",
+      "orgao": "5ª Vara Cível",
+      "sistema": "Eproc",
+      "ajuizadoBR": "31/08/2026",
+      "ajuizadoSort": "20260831",
+      "ultMov": "Petição",
+      "ultMovData": "2026-09-22",
+      "transito": false,
+      "frentes": [
+        "seguros"
+      ],
+      "trilha": "Seguros",
+      "prioridade": false,
+      "fase": "Conhecimento",
+      "score": 44
+    },
+    {
+      "numero": "58268083120268090051",
+      "numeroFmt": "5826808-31.2026.8.09.0051",
+      "tribunal": "TJGO",
+      "tribunalLabel": "Goiás · TJGO",
+      "uf": "GO",
+      "justica": "Estadual",
+      "grau": "G1",
+      "classeCod": 7,
+      "classe": "Procedimento Comum Cível",
+      "assuntos": [
+        "Seguro"
+      ],
+      "assuntosTxt": "Seguro",
+      "orgao": "13ª Vara Cível e Ambiental",
+      "sistema": "Eproc",
+      "ajuizadoBR": "31/08/2026",
+      "ajuizadoSort": "20260831",
+      "ultMov": "Petição",
+      "ultMovData": "2026-09-28",
+      "transito": false,
+      "frentes": [
+        "seguros"
+      ],
+      "trilha": "Seguros",
+      "prioridade": false,
+      "fase": "Conhecimento",
+      "score": 44
+    },
+    {
+      "numero": "58258348820268090149",
+      "numeroFmt": "5825834-88.2026.8.09.0149",
+      "tribunal": "TJGO",
+      "tribunalLabel": "Goiás · TJGO",
+      "uf": "GO",
+      "justica": "Estadual",
+      "grau": "G1",
+      "classeCod": 7,
+      "classe": "Procedimento Comum Cível",
+      "assuntos": [
+        "Seguro"
+      ],
+      "assuntosTxt": "Seguro",
+      "orgao": "2ª Vara Cível e Ambiental",
+      "sistema": "Eproc",
+      "ajuizadoBR": "31/08/2026",
+      "ajuizadoSort": "20260831",
+      "ultMov": "Expedição de documento",
+      "ultMovData": "2026-09-17",
+      "transito": false,
+      "frentes": [
+        "seguros"
+      ],
+      "trilha": "Seguros",
+      "prioridade": false,
+      "fase": "Conhecimento",
+      "score": 44
+    },
+    {
+      "numero": "58255019720268090065",
+      "numeroFmt": "5825501-97.2026.8.09.0065",
+      "tribunal": "TJGO",
+      "tribunalLabel": "Goiás · TJGO",
+      "uf": "GO",
+      "justica": "Estadual",
+      "grau": "G1",
+      "classeCod": 7,
+      "classe": "Procedimento Comum Cível",
+      "assuntos": [
+        "Seguro"
+      ],
+      "assuntosTxt": "Seguro",
+      "orgao": "Vara Cível, Infância e Juventude e Juizado Especial Cível",
+      "sistema": "Eproc",
+      "ajuizadoBR": "31/08/2026",
+      "ajuizadoSort": "20260831",
+      "ultMov": "Confirmada",
+      "ultMovData": "2026-09-22",
+      "transito": false,
+      "frentes": [
+        "seguros"
+      ],
+      "trilha": "Seguros",
+      "prioridade": false,
+      "fase": "Conhecimento",
+      "score": 44
+    },
+    {
+      "numero": "58240853620268090149",
+      "numeroFmt": "5824085-36.2026.8.09.0149",
+      "tribunal": "TJGO",
+      "tribunalLabel": "Goiás · TJGO",
+      "uf": "GO",
+      "justica": "Estadual",
+      "grau": "G1",
+      "classeCod": 7,
+      "classe": "Procedimento Comum Cível",
+      "assuntos": [
+        "Seguro"
+      ],
+      "assuntosTxt": "Seguro",
+      "orgao": "2ª Vara Cível e Ambiental",
+      "sistema": "Eproc",
+      "ajuizadoBR": "31/08/2026",
+      "ajuizadoSort": "20260831",
+      "ultMov": "Expedição de documento",
+      "ultMovData": "2026-09-17",
+      "transito": false,
+      "frentes": [
+        "seguros"
+      ],
+      "trilha": "Seguros",
+      "prioridade": false,
+      "fase": "Conhecimento",
+      "score": 44
+    },
+    {
+      "numero": "58236099820268090051",
+      "numeroFmt": "5823609-98.2026.8.09.0051",
+      "tribunal": "TJGO",
+      "tribunalLabel": "Goiás · TJGO",
+      "uf": "GO",
+      "justica": "Estadual",
+      "grau": "JE",
+      "classeCod": 436,
+      "classe": "Procedimento do Juizado Especial Cível",
+      "assuntos": [
+        "Seguro"
+      ],
+      "assuntosTxt": "Seguro",
+      "orgao": "1º Juizado Especial Cível",
+      "sistema": "Eproc",
+      "ajuizadoBR": "31/08/2026",
+      "ajuizadoSort": "20260831",
+      "ultMov": "Confirmada",
+      "ultMovData": "2026-09-30",
+      "transito": false,
+      "frentes": [
+        "seguros"
+      ],
+      "trilha": "Seguros",
+      "prioridade": false,
+      "fase": "Conhecimento",
+      "score": 44
+    },
+    {
+      "numero": "58229482220268090051",
+      "numeroFmt": "5822948-22.2026.8.09.0051",
+      "tribunal": "TJGO",
+      "tribunalLabel": "Goiás · TJGO",
+      "uf": "GO",
+      "justica": "Estadual",
+      "grau": "G1",
+      "classeCod": 7,
+      "classe": "Procedimento Comum Cível",
+      "assuntos": [
+        "Seguro"
+      ],
+      "assuntosTxt": "Seguro",
+      "orgao": "8ª Vara Cível",
+      "sistema": "Eproc",
+      "ajuizadoBR": "30/08/2026",
+      "ajuizadoSort": "20260830",
+      "ultMov": "Conclusão",
+      "ultMovData": "2026-08-31",
+      "transito": false,
+      "frentes": [
+        "seguros"
+      ],
+      "trilha": "Seguros",
+      "prioridade": false,
+      "fase": "Conhecimento",
+      "score": 44
+    },
+    {
+      "numero": "58228321620268090051",
+      "numeroFmt": "5822832-16.2026.8.09.0051",
+      "tribunal": "TJGO",
+      "tribunalLabel": "Goiás · TJGO",
+      "uf": "GO",
+      "justica": "Estadual",
+      "grau": "G1",
+      "classeCod": 7,
+      "classe": "Procedimento Comum Cível",
+      "assuntos": [
+        "Seguro"
+      ],
+      "assuntosTxt": "Seguro",
+      "orgao": "1ª Vara Cível",
+      "sistema": "Eproc",
+      "ajuizadoBR": "30/08/2026",
+      "ajuizadoSort": "20260830",
+      "ultMov": "Conclusão",
+      "ultMovData": "2026-09-30",
+      "transito": false,
+      "frentes": [
+        "seguros"
+      ],
+      "trilha": "Seguros",
+      "prioridade": false,
+      "fase": "Conhecimento",
+      "score": 44
+    },
+    {
+      "numero": "58222997620268090174",
+      "numeroFmt": "5822299-76.2026.8.09.0174",
+      "tribunal": "TJGO",
+      "tribunalLabel": "Goiás · TJGO",
+      "uf": "GO",
+      "justica": "Estadual",
+      "grau": "G1",
+      "classeCod": 7,
+      "classe": "Procedimento Comum Cível",
+      "assuntos": [
+        "Seguro",
+        "Seguro"
+      ],
+      "assuntosTxt": "Seguro; Seguro",
+      "orgao": "2ª Vara Cível",
+      "sistema": "Eproc",
+      "ajuizadoBR": "29/08/2026",
+      "ajuizadoSort": "20260829",
+      "ultMov": "Decurso de Prazo",
+      "ultMovData": "2026-09-30",
+      "transito": false,
+      "frentes": [
+        "seguros"
+      ],
+      "trilha": "Seguros",
+      "prioridade": false,
+      "fase": "Conhecimento",
+      "score": 44
+    },
+    {
+      "numero": "58213373420268090051",
+      "numeroFmt": "5821337-34.2026.8.09.0051",
+      "tribunal": "TJGO",
+      "tribunalLabel": "Goiás · TJGO",
+      "uf": "GO",
+      "justica": "Estadual",
+      "grau": "JE",
+      "classeCod": 436,
+      "classe": "Procedimento do Juizado Especial Cível",
+      "assuntos": [
+        "Seguro"
+      ],
+      "assuntosTxt": "Seguro",
+      "orgao": "11º Juizado Especial Cível",
+      "sistema": "Eproc",
+      "ajuizadoBR": "28/08/2026",
+      "ajuizadoSort": "20260828",
+      "ultMov": "Expedida/Certificada",
+      "ultMovData": "2026-09-16",
+      "transito": false,
+      "frentes": [
+        "seguros"
+      ],
+      "trilha": "Seguros",
+      "prioridade": false,
+      "fase": "Conhecimento",
+      "score": 44
+    },
+    {
+      "numero": "58207089120268090170",
+      "numeroFmt": "5820708-91.2026.8.09.0170",
+      "tribunal": "TJGO",
+      "tribunalLabel": "Goiás · TJGO",
+      "uf": "GO",
+      "justica": "Estadual",
+      "grau": "G1",
+      "classeCod": 7,
+      "classe": "Procedimento Comum Cível",
+      "assuntos": [
+        "Seguro"
+      ],
+      "assuntosTxt": "Seguro",
+      "orgao": "Vara Judicial",
+      "sistema": "Eproc",
+      "ajuizadoBR": "28/08/2026",
+      "ajuizadoSort": "20260828",
+      "ultMov": "Confirmada",
+      "ultMovData": "2026-09-30",
+      "transito": false,
+      "frentes": [
+        "seguros"
+      ],
+      "trilha": "Seguros",
+      "prioridade": false,
+      "fase": "Conhecimento",
+      "score": 44
+    },
+    {
+      "numero": "58204123820268090051",
+      "numeroFmt": "5820412-38.2026.8.09.0051",
+      "tribunal": "TJGO",
+      "tribunalLabel": "Goiás · TJGO",
+      "uf": "GO",
+      "justica": "Estadual",
+      "grau": "G1",
+      "classeCod": 7,
+      "classe": "Procedimento Comum Cível",
+      "assuntos": [
+        "Seguro"
+      ],
+      "assuntosTxt": "Seguro",
+      "orgao": "27ª Vara Cível",
+      "sistema": "Eproc",
+      "ajuizadoBR": "28/08/2026",
+      "ajuizadoSort": "20260828",
+      "ultMov": "Confirmada",
+      "ultMovData": "2026-09-25",
+      "transito": false,
+      "frentes": [
+        "seguros"
+      ],
+      "trilha": "Seguros",
+      "prioridade": false,
+      "fase": "Conhecimento",
+      "score": 44
+    },
+    {
+      "numero": "58185940420268090002",
+      "numeroFmt": "5818594-04.2026.8.09.0002",
+      "tribunal": "TJGO",
+      "tribunalLabel": "Goiás · TJGO",
+      "uf": "GO",
+      "justica": "Estadual",
+      "grau": "G1",
+      "classeCod": 7,
+      "classe": "Procedimento Comum Cível",
+      "assuntos": [
+        "Seguro",
+        "Indenização por Dano Material",
+        "Repetição do Indébito"
+      ],
+      "assuntosTxt": "Seguro; Indenização por Dano Material; Repetição do Indébito",
+      "orgao": "1ª Vara Judicial (Família e Sucessões, Infância e Juventude, Cível e Juizado Especial Cível)",
+      "sistema": "Eproc",
+      "ajuizadoBR": "28/08/2026",
+      "ajuizadoSort": "20260828",
+      "ultMov": "Confirmada",
+      "ultMovData": "2026-09-22",
+      "transito": false,
+      "frentes": [
+        "seguros"
+      ],
+      "trilha": "Seguros",
+      "prioridade": false,
+      "fase": "Conhecimento",
+      "score": 44
+    },
+    {
+      "numero": "58185445920268090169",
+      "numeroFmt": "5818544-59.2026.8.09.0169",
+      "tribunal": "TJGO",
+      "tribunalLabel": "Goiás · TJGO",
+      "uf": "GO",
+      "justica": "Estadual",
+      "grau": "JE",
+      "classeCod": 436,
+      "classe": "Procedimento do Juizado Especial Cível",
+      "assuntos": [
+        "Seguro"
+      ],
+      "assuntosTxt": "Seguro",
+      "orgao": "Juizado Especial Cível e Criminal",
+      "sistema": "Eproc",
+      "ajuizadoBR": "28/08/2026",
+      "ajuizadoSort": "20260828",
+      "ultMov": "Confirmada",
+      "ultMovData": "2026-09-21",
+      "transito": false,
+      "frentes": [
+        "seguros"
+      ],
+      "trilha": "Seguros",
+      "prioridade": false,
+      "fase": "Conhecimento",
+      "score": 44
+    },
+    {
+      "numero": "58184420320268090051",
+      "numeroFmt": "5818442-03.2026.8.09.0051",
+      "tribunal": "TJGO",
+      "tribunalLabel": "Goiás · TJGO",
+      "uf": "GO",
+      "justica": "Estadual",
+      "grau": "G1",
+      "classeCod": 7,
+      "classe": "Procedimento Comum Cível",
+      "assuntos": [
+        "Seguro",
+        "Seguro"
+      ],
+      "assuntosTxt": "Seguro; Seguro",
+      "orgao": "20ª Vara Cível",
+      "sistema": "Eproc",
+      "ajuizadoBR": "28/08/2026",
+      "ajuizadoSort": "20260828",
+      "ultMov": "Confirmada",
+      "ultMovData": "2026-09-30",
+      "transito": false,
+      "frentes": [
+        "seguros"
+      ],
+      "trilha": "Seguros",
+      "prioridade": false,
+      "fase": "Conhecimento",
+      "score": 44
+    },
+    {
+      "numero": "58183173220268090149",
+      "numeroFmt": "5818317-32.2026.8.09.0149",
+      "tribunal": "TJGO",
+      "tribunalLabel": "Goiás · TJGO",
+      "uf": "GO",
+      "justica": "Estadual",
+      "grau": "G1",
+      "classeCod": 7,
+      "classe": "Procedimento Comum Cível",
+      "assuntos": [
+        "Seguro"
+      ],
+      "assuntosTxt": "Seguro",
+      "orgao": "1ª Vara (Cível e da Inf. e da Juv)",
+      "sistema": "Eproc",
+      "ajuizadoBR": "28/08/2026",
+      "ajuizadoSort": "20260828",
+      "ultMov": "Petição",
+      "ultMovData": "2026-09-14",
+      "transito": false,
+      "frentes": [
+        "seguros"
+      ],
+      "trilha": "Seguros",
+      "prioridade": false,
+      "fase": "Conhecimento",
+      "score": 44
+    },
+    {
+      "numero": "58173858520268090006",
+      "numeroFmt": "5817385-85.2026.8.09.0006",
+      "tribunal": "TJGO",
+      "tribunalLabel": "Goiás · TJGO",
+      "uf": "GO",
+      "justica": "Estadual",
+      "grau": "G1",
+      "classeCod": 7,
+      "classe": "Procedimento Comum Cível",
+      "assuntos": [
+        "Seguro"
+      ],
+      "assuntosTxt": "Seguro",
+      "orgao": "4ª Vara Cível",
+      "sistema": "Eproc",
+      "ajuizadoBR": "28/08/2026",
+      "ajuizadoSort": "20260828",
+      "ultMov": "Petição",
+      "ultMovData": "2026-09-24",
+      "transito": false,
+      "frentes": [
+        "seguros"
+      ],
+      "trilha": "Seguros",
+      "prioridade": false,
+      "fase": "Conhecimento",
+      "score": 44
+    },
+    {
+      "numero": "58166917920268090083",
+      "numeroFmt": "5816691-79.2026.8.09.0083",
+      "tribunal": "TJGO",
+      "tribunalLabel": "Goiás · TJGO",
+      "uf": "GO",
+      "justica": "Estadual",
+      "grau": "G1",
+      "classeCod": 7,
+      "classe": "Procedimento Comum Cível",
+      "assuntos": [
+        "Seguro"
+      ],
+      "assuntosTxt": "Seguro",
+      "orgao": "Vara Judicial",
+      "sistema": "Eproc",
+      "ajuizadoBR": "28/08/2026",
+      "ajuizadoSort": "20260828",
+      "ultMov": "Confirmada",
+      "ultMovData": "2026-09-11",
+      "transito": false,
+      "frentes": [
+        "seguros"
+      ],
+      "trilha": "Seguros",
+      "prioridade": false,
+      "fase": "Conhecimento",
+      "score": 44
+    },
+    {
+      "numero": "58155542220268090064",
+      "numeroFmt": "5815554-22.2026.8.09.0064",
+      "tribunal": "TJGO",
+      "tribunalLabel": "Goiás · TJGO",
+      "uf": "GO",
+      "justica": "Estadual",
+      "grau": "JE",
+      "classeCod": 436,
+      "classe": "Procedimento do Juizado Especial Cível",
+      "assuntos": [
+        "Seguro"
+      ],
+      "assuntosTxt": "Seguro",
+      "orgao": "Juizado Especial Cível e Criminal",
+      "sistema": "Eproc",
+      "ajuizadoBR": "27/08/2026",
+      "ajuizadoSort": "20260827",
+      "ultMov": "Petição",
+      "ultMovData": "2026-09-30",
+      "transito": false,
+      "frentes": [
+        "seguros"
+      ],
+      "trilha": "Seguros",
+      "prioridade": false,
+      "fase": "Conhecimento",
+      "score": 44
+    },
+    {
+      "numero": "58132275220268090049",
+      "numeroFmt": "5813227-52.2026.8.09.0049",
+      "tribunal": "TJGO",
+      "tribunalLabel": "Goiás · TJGO",
+      "uf": "GO",
+      "justica": "Estadual",
+      "grau": "G1",
+      "classeCod": 7,
+      "classe": "Procedimento Comum Cível",
+      "assuntos": [
+        "Inclusão Indevida em Cadastro de Inadimplentes",
+        "Seguro",
+        "Rescisão do contrato e devolução do dinheiro",
+        "Práticas Abusivas",
+        "Vendas casadas",
+        "Repetição do Indébito"
+      ],
+      "assuntosTxt": "Inclusão Indevida em Cadastro de Inadimplentes; Seguro; Rescisão do contrato e devolução do dinheiro; Práticas Abusivas; Vendas casadas; Repetição do Indébito",
+      "orgao": "2ª Vara Cível, Ambiental e Família e Sucessões",
+      "sistema": "Eproc",
+      "ajuizadoBR": "27/08/2026",
+      "ajuizadoSort": "20260827",
+      "ultMov": "Expedida/Certificada",
+      "ultMovData": "2026-09-28",
+      "transito": false,
+      "frentes": [
+        "seguros",
+        "consumidor"
+      ],
+      "trilha": "Seguros",
+      "prioridade": false,
+      "fase": "Conhecimento",
+      "score": 44
+    },
+    {
+      "numero": "58129790320268090012",
+      "numeroFmt": "5812979-03.2026.8.09.0012",
+      "tribunal": "TJGO",
+      "tribunalLabel": "Goiás · TJGO",
+      "uf": "GO",
+      "justica": "Estadual",
+      "grau": "JE",
+      "classeCod": 436,
+      "classe": "Procedimento do Juizado Especial Cível",
+      "assuntos": [
+        "Seguro"
+      ],
+      "assuntosTxt": "Seguro",
+      "orgao": "2º Juizado Especial Cível",
+      "sistema": "Eproc",
+      "ajuizadoBR": "27/08/2026",
+      "ajuizadoSort": "20260827",
+      "ultMov": "Conclusão",
+      "ultMovData": "2026-09-04",
+      "transito": false,
+      "frentes": [
+        "seguros"
+      ],
+      "trilha": "Seguros",
+      "prioridade": false,
+      "fase": "Conhecimento",
+      "score": 44
+    },
+    {
+      "numero": "58129046120268090012",
+      "numeroFmt": "5812904-61.2026.8.09.0012",
+      "tribunal": "TJGO",
+      "tribunalLabel": "Goiás · TJGO",
+      "uf": "GO",
+      "justica": "Estadual",
+      "grau": "JE",
+      "classeCod": 436,
+      "classe": "Procedimento do Juizado Especial Cível",
+      "assuntos": [
+        "Seguro"
+      ],
+      "assuntosTxt": "Seguro",
+      "orgao": "3º Juizado Especial Cível",
+      "sistema": "Eproc",
+      "ajuizadoBR": "27/08/2026",
+      "ajuizadoSort": "20260827",
+      "ultMov": "Expedida/Certificada",
+      "ultMovData": "2026-09-28",
+      "transito": false,
+      "frentes": [
+        "seguros"
+      ],
+      "trilha": "Seguros",
+      "prioridade": false,
+      "fase": "Conhecimento",
+      "score": 44
+    },
+    {
+      "numero": "58117144320268090051",
+      "numeroFmt": "5811714-43.2026.8.09.0051",
+      "tribunal": "TJGO",
+      "tribunalLabel": "Goiás · TJGO",
+      "uf": "GO",
+      "justica": "Estadual",
+      "grau": "G1",
+      "classeCod": 7,
+      "classe": "Procedimento Comum Cível",
+      "assuntos": [
+        "Seguro"
+      ],
+      "assuntosTxt": "Seguro",
+      "orgao": "32ª Vara Cível",
+      "sistema": "Eproc",
+      "ajuizadoBR": "27/08/2026",
+      "ajuizadoSort": "20260827",
+      "ultMov": "Confirmada",
+      "ultMovData": "2026-09-28",
+      "transito": false,
+      "frentes": [
+        "seguros"
+      ],
+      "trilha": "Seguros",
+      "prioridade": false,
+      "fase": "Conhecimento",
+      "score": 44
+    },
+    {
+      "numero": "58102789120268090037",
+      "numeroFmt": "5810278-91.2026.8.09.0037",
+      "tribunal": "TJGO",
+      "tribunalLabel": "Goiás · TJGO",
+      "uf": "GO",
+      "justica": "Estadual",
+      "grau": "JE",
+      "classeCod": 436,
+      "classe": "Procedimento do Juizado Especial Cível",
+      "assuntos": [
+        "Seguro"
+      ],
+      "assuntosTxt": "Seguro",
+      "orgao": "2ª Vara (Cível, das Fazendas Públicas, de Registros Públicos e Ambiental)",
+      "sistema": "Eproc",
+      "ajuizadoBR": "26/08/2026",
+      "ajuizadoSort": "20260826",
+      "ultMov": "Definitivo",
+      "ultMovData": "2026-08-28",
+      "transito": false,
+      "frentes": [
+        "seguros"
+      ],
+      "trilha": "Seguros",
+      "prioridade": false,
+      "fase": "Conhecimento",
+      "score": 44
+    },
+    {
+      "numero": "58096072320268090149",
+      "numeroFmt": "5809607-23.2026.8.09.0149",
+      "tribunal": "TJGO",
+      "tribunalLabel": "Goiás · TJGO",
+      "uf": "GO",
+      "justica": "Estadual",
+      "grau": "G1",
+      "classeCod": 7,
+      "classe": "Procedimento Comum Cível",
+      "assuntos": [
+        "Seguro"
+      ],
+      "assuntosTxt": "Seguro",
+      "orgao": "1ª Vara (Cível e da Inf. e da Juv)",
+      "sistema": "Eproc",
+      "ajuizadoBR": "26/08/2026",
+      "ajuizadoSort": "20260826",
+      "ultMov": "Petição",
+      "ultMovData": "2026-09-23",
+      "transito": false,
+      "frentes": [
+        "seguros"
+      ],
+      "trilha": "Seguros",
+      "prioridade": false,
+      "fase": "Conhecimento",
+      "score": 44
+    },
+    {
+      "numero": "58091322320268090002",
+      "numeroFmt": "5809132-23.2026.8.09.0002",
+      "tribunal": "TJGO",
+      "tribunalLabel": "Goiás · TJGO",
+      "uf": "GO",
+      "justica": "Estadual",
+      "grau": "G1",
+      "classeCod": 7,
+      "classe": "Procedimento Comum Cível",
+      "assuntos": [
+        "Seguro",
+        "Práticas Abusivas",
+        "Repetição do Indébito"
+      ],
+      "assuntosTxt": "Seguro; Práticas Abusivas; Repetição do Indébito",
+      "orgao": "1ª Vara Judicial (Família e Sucessões, Infância e Juventude, Cível e Juizado Especial Cível)",
+      "sistema": "Eproc",
+      "ajuizadoBR": "26/08/2026",
+      "ajuizadoSort": "20260826",
+      "ultMov": "Confirmada",
+      "ultMovData": "2026-09-22",
+      "transito": false,
+      "frentes": [
+        "seguros"
+      ],
+      "trilha": "Seguros",
+      "prioridade": false,
+      "fase": "Conhecimento",
+      "score": 44
+    },
+    {
+      "numero": "58089248620268090051",
+      "numeroFmt": "5808924-86.2026.8.09.0051",
+      "tribunal": "TJGO",
+      "tribunalLabel": "Goiás · TJGO",
+      "uf": "GO",
+      "justica": "Estadual",
+      "grau": "JE",
+      "classeCod": 436,
+      "classe": "Procedimento do Juizado Especial Cível",
+      "assuntos": [
+        "Seguro",
+        "Direito de Imagem",
+        "Repetição do Indébito"
+      ],
+      "assuntosTxt": "Seguro; Direito de Imagem; Repetição do Indébito",
+      "orgao": "8º Juizado Especial Cível",
+      "sistema": "Eproc",
+      "ajuizadoBR": "26/08/2026",
+      "ajuizadoSort": "20260826",
+      "ultMov": "Confirmada",
+      "ultMovData": "2026-09-25",
+      "transito": false,
+      "frentes": [
+        "seguros"
+      ],
+      "trilha": "Seguros",
+      "prioridade": false,
+      "fase": "Conhecimento",
+      "score": 44
+    },
+    {
+      "numero": "58088308820268090003",
+      "numeroFmt": "5808830-88.2026.8.09.0003",
+      "tribunal": "TJGO",
+      "tribunalLabel": "Goiás · TJGO",
+      "uf": "GO",
+      "justica": "Estadual",
+      "grau": "JE",
+      "classeCod": 436,
+      "classe": "Procedimento do Juizado Especial Cível",
+      "assuntos": [
+        "Seguro"
+      ],
+      "assuntosTxt": "Seguro",
+      "orgao": "Vara Judicial",
+      "sistema": "Eproc",
+      "ajuizadoBR": "26/08/2026",
+      "ajuizadoSort": "20260826",
+      "ultMov": "Confirmada",
+      "ultMovData": "2026-09-30",
+      "transito": false,
+      "frentes": [
+        "seguros"
+      ],
+      "trilha": "Seguros",
+      "prioridade": false,
+      "fase": "Conhecimento",
+      "score": 44
+    },
+    {
+      "numero": "58085160620268090113",
+      "numeroFmt": "5808516-06.2026.8.09.0113",
+      "tribunal": "TJGO",
+      "tribunalLabel": "Goiás · TJGO",
+      "uf": "GO",
+      "justica": "Estadual",
+      "grau": "G1",
+      "classeCod": 7,
+      "classe": "Procedimento Comum Cível",
+      "assuntos": [
+        "Seguro",
+        "Indenização por Dano Moral"
+      ],
+      "assuntosTxt": "Seguro; Indenização por Dano Moral",
+      "orgao": "Vara Cível e Juizado Especial Cível",
+      "sistema": "Eproc",
+      "ajuizadoBR": "26/08/2026",
+      "ajuizadoSort": "20260826",
+      "ultMov": "Documento",
+      "ultMovData": "2026-08-26",
+      "transito": false,
+      "frentes": [
+        "seguros"
+      ],
+      "trilha": "Seguros",
+      "prioridade": false,
+      "fase": "Conhecimento",
+      "score": 44
+    },
+    {
+      "numero": "58081987020268090162",
+      "numeroFmt": "5808198-70.2026.8.09.0162",
+      "tribunal": "TJGO",
+      "tribunalLabel": "Goiás · TJGO",
+      "uf": "GO",
+      "justica": "Estadual",
+      "grau": "G1",
+      "classeCod": 7,
+      "classe": "Procedimento Comum Cível",
+      "assuntos": [
+        "Seguro",
+        "Direito de Imagem",
+        "Repetição do Indébito"
+      ],
+      "assuntosTxt": "Seguro; Direito de Imagem; Repetição do Indébito",
+      "orgao": "1ª Vara Cível (Cível, Infância e Juventude)",
+      "sistema": "Eproc",
+      "ajuizadoBR": "26/08/2026",
+      "ajuizadoSort": "20260826",
+      "ultMov": "Conclusão",
+      "ultMovData": "2026-09-15",
+      "transito": false,
+      "frentes": [
+        "seguros"
+      ],
+      "trilha": "Seguros",
+      "prioridade": false,
+      "fase": "Conhecimento",
+      "score": 44
+    },
+    {
+      "numero": "58081180920268090162",
+      "numeroFmt": "5808118-09.2026.8.09.0162",
+      "tribunal": "TJGO",
+      "tribunalLabel": "Goiás · TJGO",
+      "uf": "GO",
+      "justica": "Estadual",
+      "grau": "G1",
+      "classeCod": 7,
+      "classe": "Procedimento Comum Cível",
+      "assuntos": [
+        "Seguro",
+        "Direito de Imagem",
+        "Repetição do Indébito"
+      ],
+      "assuntosTxt": "Seguro; Direito de Imagem; Repetição do Indébito",
+      "orgao": "4ª Vara Cível, Família e Sucessões",
+      "sistema": "Eproc",
+      "ajuizadoBR": "26/08/2026",
+      "ajuizadoSort": "20260826",
+      "ultMov": "Documento",
+      "ultMovData": "2026-09-29",
+      "transito": false,
+      "frentes": [
+        "seguros"
+      ],
+      "trilha": "Seguros",
+      "prioridade": false,
+      "fase": "Conhecimento",
+      "score": 44
+    },
+    {
+      "numero": "58079617820268090051",
+      "numeroFmt": "5807961-78.2026.8.09.0051",
+      "tribunal": "TJGO",
+      "tribunalLabel": "Goiás · TJGO",
+      "uf": "GO",
+      "justica": "Estadual",
+      "grau": "JE",
+      "classeCod": 436,
+      "classe": "Procedimento do Juizado Especial Cível",
+      "assuntos": [
+        "Seguro",
+        "Indenização por Dano Moral",
+        "Indenização por Dano Material",
+        "Tarifas"
+      ],
+      "assuntosTxt": "Seguro; Indenização por Dano Moral; Indenização por Dano Material; Tarifas",
+      "orgao": "7º Juizado Especial Cível",
+      "sistema": "Eproc",
+      "ajuizadoBR": "26/08/2026",
+      "ajuizadoSort": "20260826",
+      "ultMov": "Conclusão",
+      "ultMovData": "2026-09-24",
+      "transito": false,
+      "frentes": [
+        "seguros",
+        "consumidor"
+      ],
+      "trilha": "Seguros",
+      "prioridade": false,
+      "fase": "Conhecimento",
+      "score": 44
+    },
+    {
+      "numero": "58070121520268090064",
+      "numeroFmt": "5807012-15.2026.8.09.0064",
+      "tribunal": "TJGO",
+      "tribunalLabel": "Goiás · TJGO",
+      "uf": "GO",
+      "justica": "Estadual",
+      "grau": "G1",
+      "classeCod": 7,
+      "classe": "Procedimento Comum Cível",
+      "assuntos": [
+        "Seguro",
+        "Produto Impróprio"
+      ],
+      "assuntosTxt": "Seguro; Produto Impróprio",
+      "orgao": "Vara Cível",
+      "sistema": "Eproc",
+      "ajuizadoBR": "26/08/2026",
+      "ajuizadoSort": "20260826",
+      "ultMov": "Confirmada",
+      "ultMovData": "2026-09-29",
+      "transito": false,
+      "frentes": [
+        "seguros"
+      ],
+      "trilha": "Seguros",
+      "prioridade": false,
+      "fase": "Conhecimento",
+      "score": 44
+    },
+    {
+      "numero": "58067217720268090011",
+      "numeroFmt": "5806721-77.2026.8.09.0011",
+      "tribunal": "TJGO",
+      "tribunalLabel": "Goiás · TJGO",
+      "uf": "GO",
+      "justica": "Estadual",
+      "grau": "G1",
+      "classeCod": 7,
+      "classe": "Procedimento Comum Cível",
+      "assuntos": [
+        "Seguro",
+        "Produto Impróprio"
+      ],
+      "assuntosTxt": "Seguro; Produto Impróprio",
+      "orgao": "1ª Vara Cível",
+      "sistema": "Eproc",
+      "ajuizadoBR": "26/08/2026",
+      "ajuizadoSort": "20260826",
+      "ultMov": "Documento",
+      "ultMovData": "2026-09-18",
+      "transito": false,
+      "frentes": [
+        "seguros"
+      ],
+      "trilha": "Seguros",
+      "prioridade": false,
+      "fase": "Conhecimento",
+      "score": 44
+    },
+    {
+      "numero": "58063918820268090170",
+      "numeroFmt": "5806391-88.2026.8.09.0170",
+      "tribunal": "TJGO",
+      "tribunalLabel": "Goiás · TJGO",
+      "uf": "GO",
+      "justica": "Estadual",
+      "grau": "G1",
+      "classeCod": 7,
+      "classe": "Procedimento Comum Cível",
+      "assuntos": [
+        "Seguro"
+      ],
+      "assuntosTxt": "Seguro",
+      "orgao": "Vara Judicial",
+      "sistema": "Eproc",
+      "ajuizadoBR": "26/08/2026",
+      "ajuizadoSort": "20260826",
+      "ultMov": "Confirmada",
+      "ultMovData": "2026-08-31",
+      "transito": false,
+      "frentes": [
+        "seguros"
+      ],
+      "trilha": "Seguros",
+      "prioridade": false,
+      "fase": "Conhecimento",
+      "score": 44
+    },
+    {
+      "numero": "58063657220268090176",
+      "numeroFmt": "5806365-72.2026.8.09.0176",
+      "tribunal": "TJGO",
+      "tribunalLabel": "Goiás · TJGO",
+      "uf": "GO",
+      "justica": "Estadual",
+      "grau": "G1",
+      "classeCod": 7,
+      "classe": "Procedimento Comum Cível",
+      "assuntos": [
+        "Seguro"
+      ],
+      "assuntosTxt": "Seguro",
+      "orgao": "Vara Judicial",
+      "sistema": "Eproc",
+      "ajuizadoBR": "26/08/2026",
+      "ajuizadoSort": "20260826",
+      "ultMov": "Conclusão",
+      "ultMovData": "2026-09-29",
+      "transito": false,
+      "frentes": [
+        "seguros"
+      ],
+      "trilha": "Seguros",
+      "prioridade": false,
+      "fase": "Conhecimento",
+      "score": 44
+    },
+    {
+      "numero": "58059332820268090152",
+      "numeroFmt": "5805933-28.2026.8.09.0152",
+      "tribunal": "TJGO",
+      "tribunalLabel": "Goiás · TJGO",
+      "uf": "GO",
+      "justica": "Estadual",
+      "grau": "G1",
+      "classeCod": 7,
+      "classe": "Procedimento Comum Cível",
+      "assuntos": [
+        "Seguro"
+      ],
+      "assuntosTxt": "Seguro",
+      "orgao": "1ª Vara (Cív., Criminal - crime em geral e exec. penais - e da Inf. e da Juv.)",
+      "sistema": "Eproc",
+      "ajuizadoBR": "26/08/2026",
+      "ajuizadoSort": "20260826",
+      "ultMov": "Conclusão",
+      "ultMovData": "2026-08-26",
+      "transito": false,
+      "frentes": [
+        "seguros"
+      ],
+      "trilha": "Seguros",
+      "prioridade": false,
+      "fase": "Conhecimento",
+      "score": 44
+    },
+    {
+      "numero": "58053543020268090104",
+      "numeroFmt": "5805354-30.2026.8.09.0104",
+      "tribunal": "TJGO",
+      "tribunalLabel": "Goiás · TJGO",
+      "uf": "GO",
+      "justica": "Estadual",
+      "grau": "JE",
+      "classeCod": 436,
+      "classe": "Procedimento do Juizado Especial Cível",
+      "assuntos": [
+        "Seguro"
+      ],
+      "assuntosTxt": "Seguro",
+      "orgao": "Vara Cível, Infância e Juventude e Juizado Especial Cível",
+      "sistema": "Eproc",
+      "ajuizadoBR": "25/08/2026",
+      "ajuizadoSort": "20260825",
+      "ultMov": "Decurso de Prazo",
+      "ultMovData": "2026-09-22",
+      "transito": false,
+      "frentes": [
+        "seguros"
+      ],
+      "trilha": "Seguros",
+      "prioridade": false,
+      "fase": "Conhecimento",
+      "score": 44
+    },
+    {
+      "numero": "58037002220268090164",
+      "numeroFmt": "5803700-22.2026.8.09.0164",
+      "tribunal": "TJGO",
+      "tribunalLabel": "Goiás · TJGO",
+      "uf": "GO",
+      "justica": "Estadual",
+      "grau": "JE",
+      "classeCod": 436,
+      "classe": "Procedimento do Juizado Especial Cível",
+      "assuntos": [
+        "Seguro"
+      ],
+      "assuntosTxt": "Seguro",
+      "orgao": "Juizado Especial Cível e Criminal",
+      "sistema": "Eproc",
+      "ajuizadoBR": "25/08/2026",
+      "ajuizadoSort": "20260825",
+      "ultMov": "Confirmada",
+      "ultMovData": "2026-09-17",
+      "transito": false,
+      "frentes": [
+        "seguros"
+      ],
+      "trilha": "Seguros",
+      "prioridade": false,
+      "fase": "Conhecimento",
+      "score": 44
+    },
+    {
+      "numero": "58034827320268090170",
+      "numeroFmt": "5803482-73.2026.8.09.0170",
+      "tribunal": "TJGO",
+      "tribunalLabel": "Goiás · TJGO",
+      "uf": "GO",
+      "justica": "Estadual",
+      "grau": "G1",
+      "classeCod": 7,
+      "classe": "Procedimento Comum Cível",
+      "assuntos": [
+        "Seguro"
+      ],
+      "assuntosTxt": "Seguro",
+      "orgao": "Vara Judicial",
+      "sistema": "Eproc",
+      "ajuizadoBR": "25/08/2026",
+      "ajuizadoSort": "20260825",
+      "ultMov": "Confirmada",
+      "ultMovData": "2026-08-27",
+      "transito": false,
+      "frentes": [
+        "seguros"
+      ],
+      "trilha": "Seguros",
+      "prioridade": false,
+      "fase": "Conhecimento",
+      "score": 44
+    },
+    {
+      "numero": "58028210420268090006",
+      "numeroFmt": "5802821-04.2026.8.09.0006",
+      "tribunal": "TJGO",
+      "tribunalLabel": "Goiás · TJGO",
+      "uf": "GO",
+      "justica": "Estadual",
+      "grau": "G1",
+      "classeCod": 7,
+      "classe": "Procedimento Comum Cível",
+      "assuntos": [
+        "Seguro"
+      ],
+      "assuntosTxt": "Seguro",
+      "orgao": "3ª Vara Cível",
+      "sistema": "Eproc",
+      "ajuizadoBR": "25/08/2026",
+      "ajuizadoSort": "20260825",
+      "ultMov": "Confirmada",
+      "ultMovData": "2026-09-08",
+      "transito": false,
+      "frentes": [
+        "seguros"
+      ],
+      "trilha": "Seguros",
+      "prioridade": false,
+      "fase": "Conhecimento",
+      "score": 44
+    },
+    {
+      "numero": "58023685220268090024",
+      "numeroFmt": "5802368-52.2026.8.09.0024",
+      "tribunal": "TJGO",
+      "tribunalLabel": "Goiás · TJGO",
+      "uf": "GO",
+      "justica": "Estadual",
+      "grau": "G1",
+      "classeCod": 7,
+      "classe": "Procedimento Comum Cível",
+      "assuntos": [
+        "Seguro"
+      ],
+      "assuntosTxt": "Seguro",
+      "orgao": "3ª Vara (Cível, Fazenda Pública Municipal e Ambiental)",
+      "sistema": "Eproc",
+      "ajuizadoBR": "25/08/2026",
+      "ajuizadoSort": "20260825",
+      "ultMov": "Confirmada",
+      "ultMovData": "2026-09-30",
+      "transito": false,
+      "frentes": [
+        "seguros"
+      ],
+      "trilha": "Seguros",
+      "prioridade": false,
+      "fase": "Conhecimento",
+      "score": 44
+    },
+    {
+      "numero": "57981390520268090168",
+      "numeroFmt": "5798139-05.2026.8.09.0168",
+      "tribunal": "TJGO",
+      "tribunalLabel": "Goiás · TJGO",
+      "uf": "GO",
+      "justica": "Estadual",
+      "grau": "G1",
+      "classeCod": 7,
+      "classe": "Procedimento Comum Cível",
+      "assuntos": [
+        "Seguro"
+      ],
+      "assuntosTxt": "Seguro",
+      "orgao": "2ª Vara Cível, Família e Sucessões",
+      "sistema": "Eproc",
+      "ajuizadoBR": "24/08/2026",
+      "ajuizadoSort": "20260824",
+      "ultMov": "Conclusão",
+      "ultMovData": "2026-08-24",
+      "transito": false,
+      "frentes": [
+        "seguros"
+      ],
+      "trilha": "Seguros",
+      "prioridade": false,
+      "fase": "Conhecimento",
+      "score": 44
+    },
+    {
+      "numero": "57975200620268090094",
+      "numeroFmt": "5797520-06.2026.8.09.0094",
+      "tribunal": "TJGO",
+      "tribunalLabel": "Goiás · TJGO",
+      "uf": "GO",
+      "justica": "Estadual",
+      "grau": "JE",
+      "classeCod": 436,
+      "classe": "Procedimento do Juizado Especial Cível",
+      "assuntos": [
+        "Seguro",
+        "Indenização por Dano Moral",
+        "Indenização por Dano Material"
+      ],
+      "assuntosTxt": "Seguro; Indenização por Dano Moral; Indenização por Dano Material",
+      "orgao": "Juizado Especial Cível e Criminal",
+      "sistema": "Eproc",
+      "ajuizadoBR": "24/08/2026",
+      "ajuizadoSort": "20260824",
+      "ultMov": "Petição",
+      "ultMovData": "2026-09-30",
+      "transito": false,
+      "frentes": [
+        "seguros"
+      ],
+      "trilha": "Seguros",
+      "prioridade": false,
+      "fase": "Conhecimento",
+      "score": 44
+    },
+    {
+      "numero": "57937053520268090115",
+      "numeroFmt": "5793705-35.2026.8.09.0115",
+      "tribunal": "TJGO",
+      "tribunalLabel": "Goiás · TJGO",
+      "uf": "GO",
+      "justica": "Estadual",
+      "grau": "G1",
+      "classeCod": 7,
+      "classe": "Procedimento Comum Cível",
+      "assuntos": [
+        "Seguro",
+        "Produto Impróprio"
+      ],
+      "assuntosTxt": "Seguro; Produto Impróprio",
+      "orgao": "Vara Judicial",
+      "sistema": "Eproc",
+      "ajuizadoBR": "21/08/2026",
+      "ajuizadoSort": "20260821",
+      "ultMov": "Conclusão",
+      "ultMovData": "2026-09-28",
+      "transito": false,
+      "frentes": [
+        "seguros"
+      ],
+      "trilha": "Seguros",
+      "prioridade": false,
+      "fase": "Conhecimento",
+      "score": 44
+    },
+    {
+      "numero": "57902196120268090044",
+      "numeroFmt": "5790219-61.2026.8.09.0044",
+      "tribunal": "TJGO",
+      "tribunalLabel": "Goiás · TJGO",
+      "uf": "GO",
+      "justica": "Estadual",
+      "grau": "G1",
+      "classeCod": 7,
+      "classe": "Procedimento Comum Cível",
+      "assuntos": [
+        "Seguro"
+      ],
+      "assuntosTxt": "Seguro",
+      "orgao": "3ª Vara Cível e Família e Sucessões",
+      "sistema": "Eproc",
+      "ajuizadoBR": "21/08/2026",
+      "ajuizadoSort": "20260821",
+      "ultMov": "Petição",
+      "ultMovData": "2026-09-17",
+      "transito": false,
+      "frentes": [
+        "seguros"
+      ],
+      "trilha": "Seguros",
+      "prioridade": false,
+      "fase": "Conhecimento",
+      "score": 44
+    },
+    {
+      "numero": "57894415720268090023",
+      "numeroFmt": "5789441-57.2026.8.09.0023",
+      "tribunal": "TJGO",
+      "tribunalLabel": "Goiás · TJGO",
+      "uf": "GO",
+      "justica": "Estadual",
+      "grau": "G1",
+      "classeCod": 7,
+      "classe": "Procedimento Comum Cível",
+      "assuntos": [
+        "Seguro"
+      ],
+      "assuntosTxt": "Seguro",
+      "orgao": "1ª Vara Judicial (Família e Sucessões, Infância e Juventude, Cível e Juizado Especial Cível)",
+      "sistema": "Eproc",
+      "ajuizadoBR": "21/08/2026",
+      "ajuizadoSort": "20260821",
+      "ultMov": "Conclusão",
+      "ultMovData": "2026-09-22",
+      "transito": false,
+      "frentes": [
+        "seguros"
+      ],
+      "trilha": "Seguros",
+      "prioridade": false,
+      "fase": "Conhecimento",
+      "score": 44
+    },
+    {
+      "numero": "57892269620268090018",
+      "numeroFmt": "5789226-96.2026.8.09.0018",
+      "tribunal": "TJGO",
+      "tribunalLabel": "Goiás · TJGO",
+      "uf": "GO",
+      "justica": "Estadual",
+      "grau": "G1",
+      "classeCod": 7,
+      "classe": "Procedimento Comum Cível",
+      "assuntos": [
+        "Seguro"
+      ],
+      "assuntosTxt": "Seguro",
+      "orgao": "1ª Vara Judicial (Família e Sucessões, Infância e Juventude, Cível e Juizado Especial Cível)",
+      "sistema": "Eproc",
+      "ajuizadoBR": "21/08/2026",
+      "ajuizadoSort": "20260821",
+      "ultMov": "Confirmada",
+      "ultMovData": "2026-09-25",
+      "transito": false,
+      "frentes": [
+        "seguros"
+      ],
+      "trilha": "Seguros",
+      "prioridade": false,
+      "fase": "Conhecimento",
+      "score": 44
+    },
+    {
+      "numero": "57879204720268090130",
+      "numeroFmt": "5787920-47.2026.8.09.0130",
+      "tribunal": "TJGO",
+      "tribunalLabel": "Goiás · TJGO",
+      "uf": "GO",
+      "justica": "Estadual",
+      "grau": "G1",
+      "classeCod": 7,
+      "classe": "Procedimento Comum Cível",
+      "assuntos": [
+        "Seguro"
+      ],
+      "assuntosTxt": "Seguro",
+      "orgao": "1ª Vara Cível, de Família e Sucessões e da Infância e Juventude",
+      "sistema": "Eproc",
+      "ajuizadoBR": "20/08/2026",
+      "ajuizadoSort": "20260820",
+      "ultMov": "Petição",
+      "ultMovData": "2026-09-25",
+      "transito": false,
+      "frentes": [
+        "seguros"
+      ],
+      "trilha": "Seguros",
+      "prioridade": false,
+      "fase": "Conhecimento",
+      "score": 44
+    },
+    {
+      "numero": "57876705720268090051",
+      "numeroFmt": "5787670-57.2026.8.09.0051",
+      "tribunal": "TJGO",
+      "tribunalLabel": "Goiás · TJGO",
+      "uf": "GO",
+      "justica": "Estadual",
+      "grau": "G1",
+      "classeCod": 7,
+      "classe": "Procedimento Comum Cível",
+      "assuntos": [
+        "Seguro",
+        "Indenização por Dano Moral",
+        "Práticas Abusivas"
+      ],
+      "assuntosTxt": "Seguro; Indenização por Dano Moral; Práticas Abusivas",
+      "orgao": "18ª Vara Cível e Ambiental",
+      "sistema": "Eproc",
+      "ajuizadoBR": "20/08/2026",
+      "ajuizadoSort": "20260820",
+      "ultMov": "Confirmada",
+      "ultMovData": "2026-09-17",
+      "transito": false,
+      "frentes": [
+        "seguros"
+      ],
+      "trilha": "Seguros",
+      "prioridade": false,
+      "fase": "Conhecimento",
+      "score": 44
+    },
+    {
+      "numero": "57873287620268090041",
+      "numeroFmt": "5787328-76.2026.8.09.0041",
+      "tribunal": "TJGO",
+      "tribunalLabel": "Goiás · TJGO",
+      "uf": "GO",
+      "justica": "Estadual",
+      "grau": "G1",
+      "classeCod": 7,
+      "classe": "Procedimento Comum Cível",
+      "assuntos": [
+        "Seguro"
+      ],
+      "assuntosTxt": "Seguro",
+      "orgao": "Vara Judicial",
+      "sistema": "Eproc",
+      "ajuizadoBR": "20/08/2026",
+      "ajuizadoSort": "20260820",
+      "ultMov": "Confirmada",
+      "ultMovData": "2026-09-25",
+      "transito": false,
+      "frentes": [
+        "seguros"
+      ],
+      "trilha": "Seguros",
+      "prioridade": false,
+      "fase": "Conhecimento",
+      "score": 44
+    },
+    {
+      "numero": "57872456820268090006",
+      "numeroFmt": "5787245-68.2026.8.09.0006",
+      "tribunal": "TJGO",
+      "tribunalLabel": "Goiás · TJGO",
+      "uf": "GO",
+      "justica": "Estadual",
+      "grau": "G1",
+      "classeCod": 7,
+      "classe": "Procedimento Comum Cível",
+      "assuntos": [
+        "Seguro"
+      ],
+      "assuntosTxt": "Seguro",
+      "orgao": "1ª Vara Cível",
+      "sistema": "Eproc",
+      "ajuizadoBR": "20/08/2026",
+      "ajuizadoSort": "20260820",
+      "ultMov": "Petição",
+      "ultMovData": "2026-09-29",
+      "transito": false,
+      "frentes": [
+        "seguros"
+      ],
+      "trilha": "Seguros",
+      "prioridade": false,
+      "fase": "Conhecimento",
+      "score": 44
+    },
+    {
+      "numero": "57868043320268090024",
+      "numeroFmt": "5786804-33.2026.8.09.0024",
+      "tribunal": "TJGO",
+      "tribunalLabel": "Goiás · TJGO",
+      "uf": "GO",
+      "justica": "Estadual",
+      "grau": "G1",
+      "classeCod": 7,
+      "classe": "Procedimento Comum Cível",
+      "assuntos": [
+        "Seguro"
+      ],
+      "assuntosTxt": "Seguro",
+      "orgao": "3ª Vara (Cível, Fazenda Pública Municipal e Ambiental)",
+      "sistema": "Eproc",
+      "ajuizadoBR": "20/08/2026",
+      "ajuizadoSort": "20260820",
+      "ultMov": "Petição",
+      "ultMovData": "2026-09-23",
+      "transito": false,
+      "frentes": [
+        "seguros"
+      ],
+      "trilha": "Seguros",
+      "prioridade": false,
+      "fase": "Conhecimento",
+      "score": 44
+    },
+    {
+      "numero": "57853771720268090051",
+      "numeroFmt": "5785377-17.2026.8.09.0051",
+      "tribunal": "TJGO",
+      "tribunalLabel": "Goiás · TJGO",
+      "uf": "GO",
+      "justica": "Estadual",
+      "grau": "G1",
+      "classeCod": 7,
+      "classe": "Procedimento Comum Cível",
+      "assuntos": [
+        "Seguro"
+      ],
+      "assuntosTxt": "Seguro",
+      "orgao": "14ª Vara Cível e Ambiental",
+      "sistema": "Eproc",
+      "ajuizadoBR": "20/08/2026",
+      "ajuizadoSort": "20260820",
+      "ultMov": "Petição",
+      "ultMovData": "2026-09-25",
+      "transito": false,
+      "frentes": [
+        "seguros"
+      ],
+      "trilha": "Seguros",
+      "prioridade": false,
+      "fase": "Conhecimento",
+      "score": 44
+    },
+    {
+      "numero": "57834241820268090051",
+      "numeroFmt": "5783424-18.2026.8.09.0051",
+      "tribunal": "TJGO",
+      "tribunalLabel": "Goiás · TJGO",
+      "uf": "GO",
+      "justica": "Estadual",
+      "grau": "G1",
+      "classeCod": 7,
+      "classe": "Procedimento Comum Cível",
+      "assuntos": [
+        "Seguro"
+      ],
+      "assuntosTxt": "Seguro",
+      "orgao": "5ª Vara da Fazenda Pública Estadual",
+      "sistema": "Eproc",
+      "ajuizadoBR": "19/08/2026",
+      "ajuizadoSort": "20260819",
+      "ultMov": "Confirmada",
+      "ultMovData": "2026-09-22",
+      "transito": false,
+      "frentes": [
+        "seguros"
+      ],
+      "trilha": "Seguros",
+      "prioridade": false,
+      "fase": "Conhecimento",
+      "score": 44
+    },
+    {
+      "numero": "57831938820268090051",
+      "numeroFmt": "5783193-88.2026.8.09.0051",
+      "tribunal": "TJGO",
+      "tribunalLabel": "Goiás · TJGO",
+      "uf": "GO",
+      "justica": "Estadual",
+      "grau": "JE",
+      "classeCod": 436,
+      "classe": "Procedimento do Juizado Especial Cível",
+      "assuntos": [
+        "Seguro"
+      ],
+      "assuntosTxt": "Seguro",
+      "orgao": "8º Juizado Especial Cível",
+      "sistema": "Eproc",
+      "ajuizadoBR": "19/08/2026",
+      "ajuizadoSort": "20260819",
+      "ultMov": "Confirmada",
+      "ultMovData": "2026-08-24",
+      "transito": false,
+      "frentes": [
+        "seguros"
+      ],
+      "trilha": "Seguros",
+      "prioridade": false,
+      "fase": "Conhecimento",
+      "score": 44
+    },
+    {
+      "numero": "57830858520268090107",
+      "numeroFmt": "5783085-85.2026.8.09.0107",
+      "tribunal": "TJGO",
+      "tribunalLabel": "Goiás · TJGO",
+      "uf": "GO",
+      "justica": "Estadual",
+      "grau": "G1",
+      "classeCod": 7,
+      "classe": "Procedimento Comum Cível",
+      "assuntos": [
+        "Inclusão Indevida em Cadastro de Inadimplentes",
+        "Seguro",
+        "Rescisão do contrato e devolução do dinheiro",
+        "Práticas Abusivas",
+        "Vendas casadas",
+        "Repetição do Indébito"
+      ],
+      "assuntosTxt": "Inclusão Indevida em Cadastro de Inadimplentes; Seguro; Rescisão do contrato e devolução do dinheiro; Práticas Abusivas; Vendas casadas; Repetição do Indébito",
+      "orgao": "2ª Vara (Cív. Criminal crime em geral, crimes dolosos contra a vida e Pres. do Trib. do Juri, das Faz. Púb. e de Reg. Púb. e Ambiental)",
+      "sistema": "Eproc",
+      "ajuizadoBR": "19/08/2026",
+      "ajuizadoSort": "20260819",
+      "ultMov": "Confirmada",
+      "ultMovData": "2026-09-15",
+      "transito": false,
+      "frentes": [
+        "seguros",
+        "consumidor"
+      ],
+      "trilha": "Seguros",
+      "prioridade": false,
+      "fase": "Conhecimento",
+      "score": 44
+    },
+    {
+      "numero": "57827341420268090172",
+      "numeroFmt": "5782734-14.2026.8.09.0172",
+      "tribunal": "TJGO",
+      "tribunalLabel": "Goiás · TJGO",
+      "uf": "GO",
+      "justica": "Estadual",
+      "grau": "G1",
+      "classeCod": 7,
+      "classe": "Procedimento Comum Cível",
+      "assuntos": [
+        "Seguro"
+      ],
+      "assuntosTxt": "Seguro",
+      "orgao": "Vara Judicial",
+      "sistema": "Eproc",
+      "ajuizadoBR": "19/08/2026",
+      "ajuizadoSort": "20260819",
+      "ultMov": "Gratuidade da Justiça",
+      "ultMovData": "2026-09-23",
+      "transito": false,
+      "frentes": [
+        "seguros"
+      ],
+      "trilha": "Seguros",
+      "prioridade": false,
+      "fase": "Conhecimento",
+      "score": 44
+    },
+    {
+      "numero": "57826475820268090172",
+      "numeroFmt": "5782647-58.2026.8.09.0172",
+      "tribunal": "TJGO",
+      "tribunalLabel": "Goiás · TJGO",
+      "uf": "GO",
+      "justica": "Estadual",
+      "grau": "G1",
+      "classeCod": 7,
+      "classe": "Procedimento Comum Cível",
+      "assuntos": [
+        "Seguro"
+      ],
+      "assuntosTxt": "Seguro",
+      "orgao": "Vara Judicial",
+      "sistema": "Eproc",
+      "ajuizadoBR": "19/08/2026",
+      "ajuizadoSort": "20260819",
+      "ultMov": "Confirmada",
+      "ultMovData": "2026-09-22",
+      "transito": false,
+      "frentes": [
+        "seguros"
+      ],
+      "trilha": "Seguros",
+      "prioridade": false,
+      "fase": "Conhecimento",
+      "score": 44
+    },
+    {
+      "numero": "57825244320268090113",
+      "numeroFmt": "5782524-43.2026.8.09.0113",
+      "tribunal": "TJGO",
+      "tribunalLabel": "Goiás · TJGO",
+      "uf": "GO",
+      "justica": "Estadual",
+      "grau": "G1",
+      "classeCod": 7,
+      "classe": "Procedimento Comum Cível",
+      "assuntos": [
+        "Seguro",
+        "Desconto em folha de pagamento",
+        "Repetição do Indébito"
+      ],
+      "assuntosTxt": "Seguro; Desconto em folha de pagamento; Repetição do Indébito",
+      "orgao": "Vara Cível e Juizado Especial Cível",
+      "sistema": "Eproc",
+      "ajuizadoBR": "19/08/2026",
+      "ajuizadoSort": "20260819",
+      "ultMov": "Confirmada",
+      "ultMovData": "2026-08-26",
+      "transito": false,
+      "frentes": [
+        "seguros"
+      ],
+      "trilha": "Seguros",
+      "prioridade": false,
+      "fase": "Conhecimento",
+      "score": 44
+    },
+    {
+      "numero": "57821441220268090051",
+      "numeroFmt": "5782144-12.2026.8.09.0051",
+      "tribunal": "TJGO",
+      "tribunalLabel": "Goiás · TJGO",
+      "uf": "GO",
+      "justica": "Estadual",
+      "grau": "G1",
+      "classeCod": 7,
+      "classe": "Procedimento Comum Cível",
+      "assuntos": [
+        "Seguro",
+        "Indenização por Dano Moral",
+        "Práticas Abusivas"
+      ],
+      "assuntosTxt": "Seguro; Indenização por Dano Moral; Práticas Abusivas",
+      "orgao": "25ª Vara Cível",
+      "sistema": "Eproc",
+      "ajuizadoBR": "19/08/2026",
+      "ajuizadoSort": "20260819",
+      "ultMov": "Confirmada",
+      "ultMovData": "2026-08-25",
+      "transito": false,
+      "frentes": [
+        "seguros"
+      ],
+      "trilha": "Seguros",
+      "prioridade": false,
+      "fase": "Conhecimento",
+      "score": 44
+    },
+    {
+      "numero": "57796792720268090149",
+      "numeroFmt": "5779679-27.2026.8.09.0149",
+      "tribunal": "TJGO",
+      "tribunalLabel": "Goiás · TJGO",
+      "uf": "GO",
+      "justica": "Estadual",
+      "grau": "G1",
+      "classeCod": 7,
+      "classe": "Procedimento Comum Cível",
+      "assuntos": [
+        "Seguro"
+      ],
+      "assuntosTxt": "Seguro",
+      "orgao": "2ª Vara Cível e Ambiental",
+      "sistema": "Eproc",
+      "ajuizadoBR": "19/08/2026",
+      "ajuizadoSort": "20260819",
+      "ultMov": "Conclusão",
+      "ultMovData": "2026-09-24",
+      "transito": false,
+      "frentes": [
+        "seguros"
+      ],
+      "trilha": "Seguros",
+      "prioridade": false,
+      "fase": "Conhecimento",
+      "score": 44
+    },
+    {
+      "numero": "57767728220268090051",
+      "numeroFmt": "5776772-82.2026.8.09.0051",
+      "tribunal": "TJGO",
+      "tribunalLabel": "Goiás · TJGO",
+      "uf": "GO",
+      "justica": "Estadual",
+      "grau": "G1",
+      "classeCod": 7,
+      "classe": "Procedimento Comum Cível",
+      "assuntos": [
+        "Seguro"
+      ],
+      "assuntosTxt": "Seguro",
+      "orgao": "5ª Vara Cível",
+      "sistema": "Eproc",
+      "ajuizadoBR": "18/08/2026",
+      "ajuizadoSort": "20260818",
+      "ultMov": "Confirmada",
+      "ultMovData": "2026-09-29",
+      "transito": false,
+      "frentes": [
+        "seguros"
+      ],
+      "trilha": "Seguros",
+      "prioridade": false,
+      "fase": "Conhecimento",
+      "score": 44
+    },
+    {
+      "numero": "57765935120268090051",
+      "numeroFmt": "5776593-51.2026.8.09.0051",
+      "tribunal": "TJGO",
+      "tribunalLabel": "Goiás · TJGO",
+      "uf": "GO",
+      "justica": "Estadual",
+      "grau": "G1",
+      "classeCod": 7,
+      "classe": "Procedimento Comum Cível",
+      "assuntos": [
+        "Seguro"
+      ],
+      "assuntosTxt": "Seguro",
+      "orgao": "22ª Vara Cível",
+      "sistema": "Eproc",
+      "ajuizadoBR": "18/08/2026",
+      "ajuizadoSort": "20260818",
+      "ultMov": "Confirmada",
+      "ultMovData": "2026-09-22",
+      "transito": false,
+      "frentes": [
+        "seguros"
+      ],
+      "trilha": "Seguros",
+      "prioridade": false,
+      "fase": "Conhecimento",
+      "score": 44
+    },
+    {
+      "numero": "57764177220268090051",
+      "numeroFmt": "5776417-72.2026.8.09.0051",
+      "tribunal": "TJGO",
+      "tribunalLabel": "Goiás · TJGO",
+      "uf": "GO",
+      "justica": "Estadual",
+      "grau": "G1",
+      "classeCod": 7,
+      "classe": "Procedimento Comum Cível",
+      "assuntos": [
+        "Seguro"
+      ],
+      "assuntosTxt": "Seguro",
+      "orgao": "18ª Vara Cível e Ambiental",
+      "sistema": "Eproc",
+      "ajuizadoBR": "18/08/2026",
+      "ajuizadoSort": "20260818",
+      "ultMov": "Confirmada",
+      "ultMovData": "2026-09-29",
+      "transito": false,
+      "frentes": [
+        "seguros"
+      ],
+      "trilha": "Seguros",
+      "prioridade": false,
+      "fase": "Conhecimento",
+      "score": 44
+    },
+    {
+      "numero": "57752323620268090071",
+      "numeroFmt": "5775232-36.2026.8.09.0071",
+      "tribunal": "TJGO",
+      "tribunalLabel": "Goiás · TJGO",
+      "uf": "GO",
+      "justica": "Estadual",
+      "grau": "G1",
+      "classeCod": 7,
+      "classe": "Procedimento Comum Cível",
+      "assuntos": [
+        "Seguro"
+      ],
+      "assuntosTxt": "Seguro",
+      "orgao": "1ª Vara Judicial (Família e Sucessões, Infância e Juventude, Cível e Juizado Especial Cível)",
+      "sistema": "Eproc",
+      "ajuizadoBR": "18/08/2026",
+      "ajuizadoSort": "20260818",
+      "ultMov": "Expedição de documento",
+      "ultMovData": "2026-08-31",
+      "transito": false,
+      "frentes": [
+        "seguros"
+      ],
+      "trilha": "Seguros",
+      "prioridade": false,
+      "fase": "Conhecimento",
+      "score": 44
+    },
+    {
+      "numero": "57741176520268090172",
+      "numeroFmt": "5774117-65.2026.8.09.0172",
+      "tribunal": "TJGO",
+      "tribunalLabel": "Goiás · TJGO",
+      "uf": "GO",
+      "justica": "Estadual",
+      "grau": "G1",
+      "classeCod": 7,
+      "classe": "Procedimento Comum Cível",
+      "assuntos": [
+        "Seguro"
+      ],
+      "assuntosTxt": "Seguro",
+      "orgao": "Vara Judicial",
+      "sistema": "Eproc",
+      "ajuizadoBR": "18/08/2026",
+      "ajuizadoSort": "20260818",
+      "ultMov": "Confirmada",
+      "ultMovData": "2026-09-22",
+      "transito": false,
+      "frentes": [
+        "seguros"
+      ],
+      "trilha": "Seguros",
+      "prioridade": false,
+      "fase": "Conhecimento",
+      "score": 44
+    },
+    {
+      "numero": "57733155520268090176",
+      "numeroFmt": "5773315-55.2026.8.09.0176",
+      "tribunal": "TJGO",
+      "tribunalLabel": "Goiás · TJGO",
+      "uf": "GO",
+      "justica": "Estadual",
+      "grau": "G1",
+      "classeCod": 7,
+      "classe": "Procedimento Comum Cível",
+      "assuntos": [
+        "Seguro"
+      ],
+      "assuntosTxt": "Seguro",
+      "orgao": "Vara Judicial",
+      "sistema": "Eproc",
+      "ajuizadoBR": "17/08/2026",
+      "ajuizadoSort": "20260817",
+      "ultMov": "Confirmada",
+      "ultMovData": "2026-09-06",
+      "transito": false,
+      "frentes": [
+        "seguros"
+      ],
+      "trilha": "Seguros",
+      "prioridade": false,
+      "fase": "Conhecimento",
+      "score": 44
+    },
+    {
+      "numero": "57722025320268090051",
+      "numeroFmt": "5772202-53.2026.8.09.0051",
+      "tribunal": "TJGO",
+      "tribunalLabel": "Goiás · TJGO",
+      "uf": "GO",
+      "justica": "Estadual",
+      "grau": "G1",
+      "classeCod": 7,
+      "classe": "Procedimento Comum Cível",
+      "assuntos": [
+        "Seguro"
+      ],
+      "assuntosTxt": "Seguro",
+      "orgao": "24ª Vara Cível e de Arbitragem",
+      "sistema": "Eproc",
+      "ajuizadoBR": "17/08/2026",
+      "ajuizadoSort": "20260817",
+      "ultMov": "Confirmada",
+      "ultMovData": "2026-09-29",
+      "transito": false,
+      "frentes": [
+        "seguros"
+      ],
+      "trilha": "Seguros",
+      "prioridade": false,
+      "fase": "Conhecimento",
+      "score": 44
+    },
+    {
+      "numero": "57702815920268090051",
+      "numeroFmt": "5770281-59.2026.8.09.0051",
+      "tribunal": "TJGO",
+      "tribunalLabel": "Goiás · TJGO",
+      "uf": "GO",
+      "justica": "Estadual",
+      "grau": "G1",
+      "classeCod": 7,
+      "classe": "Procedimento Comum Cível",
+      "assuntos": [
+        "Seguro"
+      ],
+      "assuntosTxt": "Seguro",
+      "orgao": "4ª Vara Cível",
+      "sistema": "Eproc",
+      "ajuizadoBR": "17/08/2026",
+      "ajuizadoSort": "20260817",
+      "ultMov": "Expedida/Certificada",
+      "ultMovData": "2026-09-23",
+      "transito": false,
+      "frentes": [
+        "seguros"
+      ],
+      "trilha": "Seguros",
+      "prioridade": false,
+      "fase": "Conhecimento",
+      "score": 44
+    },
+    {
+      "numero": "57692173920268090172",
+      "numeroFmt": "5769217-39.2026.8.09.0172",
+      "tribunal": "TJGO",
+      "tribunalLabel": "Goiás · TJGO",
+      "uf": "GO",
+      "justica": "Estadual",
+      "grau": "JE",
+      "classeCod": 436,
+      "classe": "Procedimento do Juizado Especial Cível",
+      "assuntos": [
+        "Seguro"
+      ],
+      "assuntosTxt": "Seguro",
+      "orgao": "Vara Judicial",
+      "sistema": "Eproc",
+      "ajuizadoBR": "17/08/2026",
+      "ajuizadoSort": "20260817",
+      "ultMov": "Petição",
+      "ultMovData": "2026-09-10",
+      "transito": false,
+      "frentes": [
+        "seguros"
+      ],
+      "trilha": "Seguros",
+      "prioridade": false,
+      "fase": "Conhecimento",
+      "score": 44
+    },
+    {
+      "numero": "57671424920268090100",
+      "numeroFmt": "5767142-49.2026.8.09.0100",
+      "tribunal": "TJGO",
+      "tribunalLabel": "Goiás · TJGO",
+      "uf": "GO",
+      "justica": "Estadual",
+      "grau": "G1",
+      "classeCod": 7,
+      "classe": "Procedimento Comum Cível",
+      "assuntos": [
+        "Seguro",
+        "Produto Impróprio"
+      ],
+      "assuntosTxt": "Seguro; Produto Impróprio",
+      "orgao": "1ª Vara (Cível e da Faz. Púb. Estadual)",
+      "sistema": "Eproc",
+      "ajuizadoBR": "14/08/2026",
+      "ajuizadoSort": "20260814",
+      "ultMov": "Confirmada",
+      "ultMovData": "2026-09-12",
+      "transito": false,
+      "frentes": [
+        "seguros"
+      ],
+      "trilha": "Seguros",
+      "prioridade": false,
+      "fase": "Conhecimento",
+      "score": 44
+    },
+    {
+      "numero": "57671407920268090100",
+      "numeroFmt": "5767140-79.2026.8.09.0100",
+      "tribunal": "TJGO",
+      "tribunalLabel": "Goiás · TJGO",
+      "uf": "GO",
+      "justica": "Estadual",
+      "grau": "G1",
+      "classeCod": 7,
+      "classe": "Procedimento Comum Cível",
+      "assuntos": [
+        "Seguro",
+        "Produto Impróprio"
+      ],
+      "assuntosTxt": "Seguro; Produto Impróprio",
+      "orgao": "1ª Vara (Cível e da Faz. Púb. Estadual)",
+      "sistema": "Eproc",
+      "ajuizadoBR": "14/08/2026",
+      "ajuizadoSort": "20260814",
+      "ultMov": "Confirmada",
+      "ultMovData": "2026-09-12",
+      "transito": false,
+      "frentes": [
+        "seguros"
+      ],
+      "trilha": "Seguros",
+      "prioridade": false,
+      "fase": "Conhecimento",
+      "score": 44
+    },
+    {
+      "numero": "57661508520268090101",
+      "numeroFmt": "5766150-85.2026.8.09.0101",
+      "tribunal": "TJGO",
+      "tribunalLabel": "Goiás · TJGO",
+      "uf": "GO",
+      "justica": "Estadual",
+      "grau": "JE",
+      "classeCod": 436,
+      "classe": "Procedimento do Juizado Especial Cível",
+      "assuntos": [
+        "Seguro",
+        "Indenização por Dano Moral",
+        "Repetição do Indébito"
+      ],
+      "assuntosTxt": "Seguro; Indenização por Dano Moral; Repetição do Indébito",
+      "orgao": "Juizado Especial Cível e Criminal",
+      "sistema": "Eproc",
+      "ajuizadoBR": "14/08/2026",
+      "ajuizadoSort": "20260814",
+      "ultMov": "Confirmada",
+      "ultMovData": "2026-09-25",
+      "transito": false,
+      "frentes": [
+        "seguros"
+      ],
+      "trilha": "Seguros",
+      "prioridade": false,
+      "fase": "Conhecimento",
+      "score": 44
+    },
+    {
+      "numero": "57642401220268090137",
+      "numeroFmt": "5764240-12.2026.8.09.0137",
+      "tribunal": "TJGO",
+      "tribunalLabel": "Goiás · TJGO",
+      "uf": "GO",
+      "justica": "Estadual",
+      "grau": "G1",
+      "classeCod": 7,
+      "classe": "Procedimento Comum Cível",
+      "assuntos": [
+        "Seguro"
+      ],
+      "assuntosTxt": "Seguro",
+      "orgao": "3ª Vara Cível",
+      "sistema": "Eproc",
+      "ajuizadoBR": "14/08/2026",
+      "ajuizadoSort": "20260814",
+      "ultMov": "Confirmada",
+      "ultMovData": "2026-09-30",
+      "transito": false,
+      "frentes": [
+        "seguros"
+      ],
+      "trilha": "Seguros",
+      "prioridade": false,
+      "fase": "Conhecimento",
+      "score": 44
+    },
+    {
+      "numero": "57622851020268090051",
+      "numeroFmt": "5762285-10.2026.8.09.0051",
+      "tribunal": "TJGO",
+      "tribunalLabel": "Goiás · TJGO",
+      "uf": "GO",
+      "justica": "Estadual",
+      "grau": "G1",
+      "classeCod": 7,
+      "classe": "Procedimento Comum Cível",
+      "assuntos": [
+        "Seguro"
+      ],
+      "assuntosTxt": "Seguro",
+      "orgao": "27ª Vara Cível",
+      "sistema": "Eproc",
+      "ajuizadoBR": "14/08/2026",
+      "ajuizadoSort": "20260814",
+      "ultMov": "Petição",
+      "ultMovData": "2026-09-24",
+      "transito": false,
+      "frentes": [
+        "seguros"
+      ],
+      "trilha": "Seguros",
+      "prioridade": false,
+      "fase": "Conhecimento",
+      "score": 44
+    },
+    {
+      "numero": "57599947020268090137",
+      "numeroFmt": "5759994-70.2026.8.09.0137",
+      "tribunal": "TJGO",
+      "tribunalLabel": "Goiás · TJGO",
+      "uf": "GO",
+      "justica": "Estadual",
+      "grau": "G1",
+      "classeCod": 7,
+      "classe": "Procedimento Comum Cível",
+      "assuntos": [
+        "Seguro"
+      ],
+      "assuntosTxt": "Seguro",
+      "orgao": "2ª Vara Cível",
+      "sistema": "Eproc",
+      "ajuizadoBR": "13/08/2026",
+      "ajuizadoSort": "20260813",
+      "ultMov": "Confirmada",
+      "ultMovData": "2026-08-28",
+      "transito": false,
+      "frentes": [
+        "seguros"
+      ],
+      "trilha": "Seguros",
+      "prioridade": false,
+      "fase": "Conhecimento",
+      "score": 44
+    },
+    {
+      "numero": "57598864120268090137",
+      "numeroFmt": "5759886-41.2026.8.09.0137",
+      "tribunal": "TJGO",
+      "tribunalLabel": "Goiás · TJGO",
+      "uf": "GO",
+      "justica": "Estadual",
+      "grau": "G1",
+      "classeCod": 7,
+      "classe": "Procedimento Comum Cível",
+      "assuntos": [
+        "Seguro"
+      ],
+      "assuntosTxt": "Seguro",
+      "orgao": "1ª Vara Cível",
+      "sistema": "Eproc",
+      "ajuizadoBR": "13/08/2026",
+      "ajuizadoSort": "20260813",
+      "ultMov": "Confirmada",
+      "ultMovData": "2026-09-30",
+      "transito": false,
+      "frentes": [
+        "seguros"
+      ],
+      "trilha": "Seguros",
+      "prioridade": false,
+      "fase": "Conhecimento",
+      "score": 44
+    },
+    {
+      "numero": "57591261120268090067",
+      "numeroFmt": "5759126-11.2026.8.09.0067",
+      "tribunal": "TJGO",
+      "tribunalLabel": "Goiás · TJGO",
+      "uf": "GO",
+      "justica": "Estadual",
+      "grau": "G1",
+      "classeCod": 7,
+      "classe": "Procedimento Comum Cível",
+      "assuntos": [
+        "Seguro",
+        "Indenização por Dano Moral",
+        "Indenização por Dano Material",
+        "Seguro",
+        "Dever de Informação",
+        "Práticas Abusivas"
+      ],
+      "assuntosTxt": "Seguro; Indenização por Dano Moral; Indenização por Dano Material; Seguro; Dever de Informação; Práticas Abusivas",
+      "orgao": "3ª Vara Civel",
+      "sistema": "Eproc",
+      "ajuizadoBR": "13/08/2026",
+      "ajuizadoSort": "20260813",
+      "ultMov": "Petição",
+      "ultMovData": "2026-09-23",
+      "transito": false,
+      "frentes": [
+        "seguros"
+      ],
+      "trilha": "Seguros",
+      "prioridade": false,
+      "fase": "Conhecimento",
+      "score": 44
+    },
+    {
+      "numero": "57563372020268090041",
+      "numeroFmt": "5756337-20.2026.8.09.0041",
+      "tribunal": "TJGO",
+      "tribunalLabel": "Goiás · TJGO",
+      "uf": "GO",
+      "justica": "Estadual",
+      "grau": "G1",
+      "classeCod": 7,
+      "classe": "Procedimento Comum Cível",
+      "assuntos": [
+        "Seguro"
+      ],
+      "assuntosTxt": "Seguro",
+      "orgao": "Vara Judicial",
+      "sistema": "Eproc",
+      "ajuizadoBR": "12/08/2026",
+      "ajuizadoSort": "20260812",
+      "ultMov": "Confirmada",
+      "ultMovData": "2026-09-23",
+      "transito": false,
+      "frentes": [
+        "seguros"
+      ],
+      "trilha": "Seguros",
+      "prioridade": false,
+      "fase": "Conhecimento",
+      "score": 44
     },
     {
       "numero": "00037306920268272721",
