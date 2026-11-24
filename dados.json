@@ -1,9 +1,10 @@
 {
   "meta": {
-    "geradoEm": "23/11/2026, 11:22:50",
+    "geradoEm": "24/11/2026, 11:19:10",
     "total": 256,
     "prioritarios": 218,
     "tribunaisVazios": [
+      "TJGO",
       "TJTO",
       "TRF1"
     ],
@@ -53,7 +54,8 @@
       "trilha": "Servidores estaduais",
       "prioridade": true,
       "fase": "Execução (coletiva)",
-      "score": 414
+      "score": 414,
+      "stale": true
     },
     {
       "numero": "59869718220268090051",
@@ -83,7 +85,8 @@
       "trilha": "Servidores estaduais",
       "prioridade": true,
       "fase": "Execução (coletiva)",
-      "score": 414
+      "score": 414,
+      "stale": true
     },
     {
       "numero": "59868566120268090051",
@@ -113,7 +116,8 @@
       "trilha": "Servidores estaduais",
       "prioridade": true,
       "fase": "Execução (coletiva)",
-      "score": 414
+      "score": 414,
+      "stale": true
     },
     {
       "numero": "59868003420268090049",
@@ -142,7 +146,8 @@
       "trilha": "Servidores estaduais",
       "prioridade": true,
       "fase": "Execução (coletiva)",
-      "score": 414
+      "score": 414,
+      "stale": true
     },
     {
       "numero": "59865387820268090051",
@@ -171,7 +176,8 @@
       "trilha": "Servidores estaduais",
       "prioridade": true,
       "fase": "Execução (coletiva)",
-      "score": 414
+      "score": 414,
+      "stale": true
     },
     {
       "numero": "59861966720268090051",
@@ -200,7 +206,8 @@
       "trilha": "Servidores estaduais",
       "prioridade": true,
       "fase": "Execução (coletiva)",
-      "score": 414
+      "score": 414,
+      "stale": true
     },
     {
       "numero": "59855228920268090051",
@@ -230,7 +237,8 @@
       "trilha": "Servidores estaduais",
       "prioridade": true,
       "fase": "Execução (coletiva)",
-      "score": 414
+      "score": 414,
+      "stale": true
     },
     {
       "numero": "59848014020268090051",
@@ -260,7 +268,8 @@
       "trilha": "Servidores estaduais",
       "prioridade": true,
       "fase": "Execução (coletiva)",
-      "score": 414
+      "score": 414,
+      "stale": true
     },
     {
       "numero": "59845725120268090093",
@@ -289,7 +298,8 @@
       "trilha": "Servidores estaduais",
       "prioridade": true,
       "fase": "Execução (coletiva)",
-      "score": 414
+      "score": 414,
+      "stale": true
     },
     {
       "numero": "59837266320268090051",
@@ -320,7 +330,8 @@
       "trilha": "Servidores estaduais",
       "prioridade": true,
       "fase": "Execução (coletiva)",
-      "score": 414
+      "score": 414,
+      "stale": true
     },
     {
       "numero": "59833570220268090138",
@@ -349,7 +360,8 @@
       "trilha": "Servidores estaduais",
       "prioridade": true,
       "fase": "Execução (coletiva)",
-      "score": 414
+      "score": 414,
+      "stale": true
     },
     {
       "numero": "59831377120268090051",
@@ -379,7 +391,8 @@
       "trilha": "Servidores estaduais",
       "prioridade": true,
       "fase": "Execução (coletiva)",
-      "score": 414
+      "score": 414,
+      "stale": true
     },
     {
       "numero": "59830849020268090051",
@@ -409,7 +422,8 @@
       "trilha": "Servidores estaduais",
       "prioridade": true,
       "fase": "Execução (coletiva)",
-      "score": 414
+      "score": 414,
+      "stale": true
     },
     {
       "numero": "59826950820268090051",
@@ -438,7 +452,8 @@
       "trilha": "Servidores estaduais",
       "prioridade": true,
       "fase": "Execução (coletiva)",
-      "score": 414
+      "score": 414,
+      "stale": true
     },
     {
       "numero": "59821901720268090051",
@@ -468,7 +483,8 @@
       "trilha": "Servidores estaduais",
       "prioridade": true,
       "fase": "Execução (coletiva)",
-      "score": 414
+      "score": 414,
+      "stale": true
     },
     {
       "numero": "59818671220268090051",
@@ -498,7 +514,8 @@
       "trilha": "Servidores estaduais",
       "prioridade": true,
       "fase": "Execução (coletiva)",
-      "score": 414
+      "score": 414,
+      "stale": true
     },
     {
       "numero": "59813795720268090051",
@@ -527,7 +544,8 @@
       "trilha": "Servidores estaduais",
       "prioridade": true,
       "fase": "Execução (coletiva)",
-      "score": 414
+      "score": 414,
+      "stale": true
     },
     {
       "numero": "59808495320268090051",
@@ -557,7 +575,8 @@
       "trilha": "Servidores estaduais",
       "prioridade": true,
       "fase": "Execução (coletiva)",
-      "score": 414
+      "score": 414,
+      "stale": true
     },
     {
       "numero": "59807569020268090051",
@@ -587,7 +606,8 @@
       "trilha": "Servidores estaduais",
       "prioridade": true,
       "fase": "Execução (coletiva)",
-      "score": 414
+      "score": 414,
+      "stale": true
     },
     {
       "numero": "59807655220268090051",
@@ -616,7 +636,8 @@
       "trilha": "Servidores estaduais",
       "prioridade": true,
       "fase": "Execução (coletiva)",
-      "score": 414
+      "score": 414,
+      "stale": true
     },
     {
       "numero": "59806260320268090051",
@@ -646,7 +667,8 @@
       "trilha": "Servidores estaduais",
       "prioridade": true,
       "fase": "Execução (coletiva)",
-      "score": 414
+      "score": 414,
+      "stale": true
     },
     {
       "numero": "59805143420268090051",
@@ -676,7 +698,8 @@
       "trilha": "Servidores estaduais",
       "prioridade": true,
       "fase": "Execução (coletiva)",
-      "score": 414
+      "score": 414,
+      "stale": true
     },
     {
       "numero": "59804598320268090051",
@@ -706,7 +729,8 @@
       "trilha": "Servidores estaduais",
       "prioridade": true,
       "fase": "Execução (coletiva)",
-      "score": 414
+      "score": 414,
+      "stale": true
     },
     {
       "numero": "59803662320268090051",
@@ -736,7 +760,8 @@
       "trilha": "Servidores estaduais",
       "prioridade": true,
       "fase": "Execução (coletiva)",
-      "score": 414
+      "score": 414,
+      "stale": true
     },
     {
       "numero": "59803446220268090051",
@@ -765,7 +790,8 @@
       "trilha": "Servidores estaduais",
       "prioridade": true,
       "fase": "Execução (coletiva)",
-      "score": 414
+      "score": 414,
+      "stale": true
     },
     {
       "numero": "59803117220268090051",
@@ -795,7 +821,8 @@
       "trilha": "Servidores estaduais",
       "prioridade": true,
       "fase": "Execução (coletiva)",
-      "score": 414
+      "score": 414,
+      "stale": true
     },
     {
       "numero": "59802216420268090051",
@@ -826,7 +853,8 @@
       "trilha": "Servidores estaduais",
       "prioridade": true,
       "fase": "Execução (coletiva)",
-      "score": 414
+      "score": 414,
+      "stale": true
     },
     {
       "numero": "59800553220268090051",
@@ -856,7 +884,8 @@
       "trilha": "Servidores estaduais",
       "prioridade": true,
       "fase": "Execução (coletiva)",
-      "score": 414
+      "score": 414,
+      "stale": true
     },
     {
       "numero": "59792091520268090051",
@@ -886,7 +915,8 @@
       "trilha": "Servidores estaduais",
       "prioridade": true,
       "fase": "Execução (coletiva)",
-      "score": 414
+      "score": 414,
+      "stale": true
     },
     {
       "numero": "59791737020268090051",
@@ -916,7 +946,8 @@
       "trilha": "Servidores estaduais",
       "prioridade": true,
       "fase": "Execução (coletiva)",
-      "score": 414
+      "score": 414,
+      "stale": true
     },
     {
       "numero": "59786635720268090051",
@@ -946,7 +977,8 @@
       "trilha": "Servidores estaduais",
       "prioridade": true,
       "fase": "Execução (coletiva)",
-      "score": 414
+      "score": 414,
+      "stale": true
     },
     {
       "numero": "59784106920268090051",
@@ -975,7 +1007,8 @@
       "trilha": "Servidores estaduais",
       "prioridade": true,
       "fase": "Execução (coletiva)",
-      "score": 414
+      "score": 414,
+      "stale": true
     },
     {
       "numero": "59783344520268090051",
@@ -1006,7 +1039,8 @@
       "trilha": "Servidores estaduais",
       "prioridade": true,
       "fase": "Execução (coletiva)",
-      "score": 414
+      "score": 414,
+      "stale": true
     },
     {
       "numero": "59780469720268090051",
@@ -1036,7 +1070,8 @@
       "trilha": "Servidores estaduais",
       "prioridade": true,
       "fase": "Execução (coletiva)",
-      "score": 414
+      "score": 414,
+      "stale": true
     },
     {
       "numero": "59780149220268090051",
@@ -1066,7 +1101,8 @@
       "trilha": "Servidores estaduais",
       "prioridade": true,
       "fase": "Execução (coletiva)",
-      "score": 414
+      "score": 414,
+      "stale": true
     },
     {
       "numero": "59780097020268090051",
@@ -1096,7 +1132,8 @@
       "trilha": "Servidores estaduais",
       "prioridade": true,
       "fase": "Execução (coletiva)",
-      "score": 414
+      "score": 414,
+      "stale": true
     },
     {
       "numero": "59777342420268090051",
@@ -1125,7 +1162,8 @@
       "trilha": "Servidores estaduais",
       "prioridade": true,
       "fase": "Execução (coletiva)",
-      "score": 414
+      "score": 414,
+      "stale": true
     },
     {
       "numero": "59776170420268090093",
@@ -1155,7 +1193,8 @@
       "trilha": "Servidores estaduais",
       "prioridade": true,
       "fase": "Execução (coletiva)",
-      "score": 414
+      "score": 414,
+      "stale": true
     },
     {
       "numero": "59749481320268090049",
@@ -1184,7 +1223,8 @@
       "trilha": "Servidores estaduais",
       "prioridade": true,
       "fase": "Execução (coletiva)",
-      "score": 414
+      "score": 414,
+      "stale": true
     },
     {
       "numero": "59748043320268090051",
@@ -1214,7 +1254,8 @@
       "trilha": "Servidores estaduais",
       "prioridade": true,
       "fase": "Execução (coletiva)",
-      "score": 414
+      "score": 414,
+      "stale": true
     },
     {
       "numero": "59747194720268090051",
@@ -1244,7 +1285,8 @@
       "trilha": "Servidores estaduais",
       "prioridade": true,
       "fase": "Execução (coletiva)",
-      "score": 414
+      "score": 414,
+      "stale": true
     },
     {
       "numero": "59729881620268090051",
@@ -1274,7 +1316,8 @@
       "trilha": "Servidores estaduais",
       "prioridade": true,
       "fase": "Execução (coletiva)",
-      "score": 414
+      "score": 414,
+      "stale": true
     },
     {
       "numero": "59726348820268090051",
@@ -1304,7 +1347,8 @@
       "trilha": "Servidores estaduais",
       "prioridade": true,
       "fase": "Execução (coletiva)",
-      "score": 414
+      "score": 414,
+      "stale": true
     },
     {
       "numero": "59725871720268090051",
@@ -1334,7 +1378,8 @@
       "trilha": "Servidores estaduais",
       "prioridade": true,
       "fase": "Execução (coletiva)",
-      "score": 414
+      "score": 414,
+      "stale": true
     },
     {
       "numero": "59724478020268090051",
@@ -1364,7 +1409,8 @@
       "trilha": "Servidores estaduais",
       "prioridade": true,
       "fase": "Execução (coletiva)",
-      "score": 414
+      "score": 414,
+      "stale": true
     },
     {
       "numero": "59724572720268090051",
@@ -1394,7 +1440,8 @@
       "trilha": "Servidores estaduais",
       "prioridade": true,
       "fase": "Execução (coletiva)",
-      "score": 414
+      "score": 414,
+      "stale": true
     },
     {
       "numero": "59724348120268090051",
@@ -1423,7 +1470,8 @@
       "trilha": "Servidores estaduais",
       "prioridade": true,
       "fase": "Execução (coletiva)",
-      "score": 414
+      "score": 414,
+      "stale": true
     },
     {
       "numero": "59724278920268090051",
@@ -1453,7 +1501,8 @@
       "trilha": "Servidores estaduais",
       "prioridade": true,
       "fase": "Execução (coletiva)",
-      "score": 414
+      "score": 414,
+      "stale": true
     },
     {
       "numero": "59724243720268090051",
@@ -1483,7 +1532,8 @@
       "trilha": "Servidores estaduais",
       "prioridade": true,
       "fase": "Execução (coletiva)",
-      "score": 414
+      "score": 414,
+      "stale": true
     },
     {
       "numero": "59723871020268090051",
@@ -1512,7 +1562,8 @@
       "trilha": "Servidores estaduais",
       "prioridade": true,
       "fase": "Execução (coletiva)",
-      "score": 414
+      "score": 414,
+      "stale": true
     },
     {
       "numero": "59723732620268090051",
@@ -1541,7 +1592,8 @@
       "trilha": "Servidores estaduais",
       "prioridade": true,
       "fase": "Execução (coletiva)",
-      "score": 414
+      "score": 414,
+      "stale": true
     },
     {
       "numero": "59723118320268090051",
@@ -1570,7 +1622,8 @@
       "trilha": "Servidores estaduais",
       "prioridade": true,
       "fase": "Execução (coletiva)",
-      "score": 414
+      "score": 414,
+      "stale": true
     },
     {
       "numero": "59708499120268090051",
@@ -1599,7 +1652,8 @@
       "trilha": "Servidores estaduais",
       "prioridade": true,
       "fase": "Execução (coletiva)",
-      "score": 414
+      "score": 414,
+      "stale": true
     },
     {
       "numero": "59704600920268090051",
@@ -1629,7 +1683,8 @@
       "trilha": "Servidores estaduais",
       "prioridade": true,
       "fase": "Execução (coletiva)",
-      "score": 414
+      "score": 414,
+      "stale": true
     },
     {
       "numero": "59695195920268090051",
@@ -1659,7 +1714,8 @@
       "trilha": "Servidores estaduais",
       "prioridade": true,
       "fase": "Execução (coletiva)",
-      "score": 414
+      "score": 414,
+      "stale": true
     },
     {
       "numero": "59694667820268090051",
@@ -1688,7 +1744,8 @@
       "trilha": "Servidores estaduais",
       "prioridade": true,
       "fase": "Execução (coletiva)",
-      "score": 414
+      "score": 414,
+      "stale": true
     },
     {
       "numero": "59694208920268090051",
@@ -1717,7 +1774,8 @@
       "trilha": "Servidores estaduais",
       "prioridade": true,
       "fase": "Execução (coletiva)",
-      "score": 414
+      "score": 414,
+      "stale": true
     },
     {
       "numero": "59693532720268090051",
@@ -1746,7 +1804,8 @@
       "trilha": "Servidores estaduais",
       "prioridade": true,
       "fase": "Execução (coletiva)",
-      "score": 414
+      "score": 414,
+      "stale": true
     },
     {
       "numero": "59693723320268090051",
@@ -1775,7 +1834,8 @@
       "trilha": "Servidores estaduais",
       "prioridade": true,
       "fase": "Execução (coletiva)",
-      "score": 414
+      "score": 414,
+      "stale": true
     },
     {
       "numero": "59689566520268090051",
@@ -1805,7 +1865,8 @@
       "trilha": "Servidores estaduais",
       "prioridade": true,
       "fase": "Execução (coletiva)",
-      "score": 414
+      "score": 414,
+      "stale": true
     },
     {
       "numero": "59680463820268090051",
@@ -1834,7 +1895,8 @@
       "trilha": "Servidores estaduais",
       "prioridade": true,
       "fase": "Execução (coletiva)",
-      "score": 414
+      "score": 414,
+      "stale": true
     },
     {
       "numero": "59678766620268090051",
@@ -1864,7 +1926,8 @@
       "trilha": "Servidores estaduais",
       "prioridade": true,
       "fase": "Execução (coletiva)",
-      "score": 414
+      "score": 414,
+      "stale": true
     },
     {
       "numero": "59678827320268090051",
@@ -1893,7 +1956,8 @@
       "trilha": "Servidores estaduais",
       "prioridade": true,
       "fase": "Execução (coletiva)",
-      "score": 414
+      "score": 414,
+      "stale": true
     },
     {
       "numero": "59677692220268090051",
@@ -1922,7 +1986,8 @@
       "trilha": "Servidores estaduais",
       "prioridade": true,
       "fase": "Execução (coletiva)",
-      "score": 414
+      "score": 414,
+      "stale": true
     },
     {
       "numero": "59677865820268090051",
@@ -1952,7 +2017,8 @@
       "trilha": "Consórcio",
       "prioridade": true,
       "fase": "Execução (coletiva)",
-      "score": 414
+      "score": 414,
+      "stale": true
     },
     {
       "numero": "59677241820268090051",
@@ -1982,7 +2048,8 @@
       "trilha": "Servidores estaduais",
       "prioridade": true,
       "fase": "Execução (coletiva)",
-      "score": 414
+      "score": 414,
+      "stale": true
     },
     {
       "numero": "59676107920268090051",
@@ -2011,7 +2078,8 @@
       "trilha": "Servidores estaduais",
       "prioridade": true,
       "fase": "Execução (coletiva)",
-      "score": 414
+      "score": 414,
+      "stale": true
     },
     {
       "numero": "59673604620268090051",
@@ -2041,7 +2109,8 @@
       "trilha": "Servidores estaduais",
       "prioridade": true,
       "fase": "Execução (coletiva)",
-      "score": 414
+      "score": 414,
+      "stale": true
     },
     {
       "numero": "59663766220268090051",
@@ -2071,7 +2140,8 @@
       "trilha": "Servidores estaduais",
       "prioridade": true,
       "fase": "Execução (coletiva)",
-      "score": 414
+      "score": 414,
+      "stale": true
     },
     {
       "numero": "59662752520268090051",
@@ -2101,7 +2171,8 @@
       "trilha": "Servidores estaduais",
       "prioridade": true,
       "fase": "Execução (coletiva)",
-      "score": 414
+      "score": 414,
+      "stale": true
     },
     {
       "numero": "59658023920268090051",
@@ -2131,7 +2202,8 @@
       "trilha": "Servidores estaduais",
       "prioridade": true,
       "fase": "Execução (coletiva)",
-      "score": 414
+      "score": 414,
+      "stale": true
     },
     {
       "numero": "59656854820268090051",
@@ -2161,7 +2233,8 @@
       "trilha": "Servidores estaduais",
       "prioridade": true,
       "fase": "Execução (coletiva)",
-      "score": 414
+      "score": 414,
+      "stale": true
     },
     {
       "numero": "59656283020268090051",
@@ -2191,7 +2264,8 @@
       "trilha": "Servidores estaduais",
       "prioridade": true,
       "fase": "Execução (coletiva)",
-      "score": 414
+      "score": 414,
+      "stale": true
     },
     {
       "numero": "59656249020268090051",
@@ -2222,7 +2296,8 @@
       "trilha": "Servidores estaduais",
       "prioridade": true,
       "fase": "Execução (coletiva)",
-      "score": 414
+      "score": 414,
+      "stale": true
     },
     {
       "numero": "59655798620268090051",
@@ -2252,7 +2327,8 @@
       "trilha": "Servidores estaduais",
       "prioridade": true,
       "fase": "Execução (coletiva)",
-      "score": 414
+      "score": 414,
+      "stale": true
     },
     {
       "numero": "59625632720268090051",
@@ -2282,7 +2358,8 @@
       "trilha": "Servidores estaduais",
       "prioridade": true,
       "fase": "Execução (coletiva)",
-      "score": 414
+      "score": 414,
+      "stale": true
     },
     {
       "numero": "59619276120268090051",
@@ -2312,7 +2389,8 @@
       "trilha": "Servidores estaduais",
       "prioridade": true,
       "fase": "Execução (coletiva)",
-      "score": 414
+      "score": 414,
+      "stale": true
     },
     {
       "numero": "59607506220268090051",
@@ -2342,7 +2420,8 @@
       "trilha": "Servidores estaduais",
       "prioridade": true,
       "fase": "Execução (coletiva)",
-      "score": 414
+      "score": 414,
+      "stale": true
     },
     {
       "numero": "59604422620268090051",
@@ -2372,7 +2451,8 @@
       "trilha": "Servidores estaduais",
       "prioridade": true,
       "fase": "Execução (coletiva)",
-      "score": 414
+      "score": 414,
+      "stale": true
     },
     {
       "numero": "59601634020268090051",
@@ -2402,7 +2482,8 @@
       "trilha": "Servidores estaduais",
       "prioridade": true,
       "fase": "Execução (coletiva)",
-      "score": 414
+      "score": 414,
+      "stale": true
     },
     {
       "numero": "59600915320268090051",
@@ -2431,7 +2512,8 @@
       "trilha": "Servidores estaduais",
       "prioridade": true,
       "fase": "Execução (coletiva)",
-      "score": 414
+      "score": 414,
+      "stale": true
     },
     {
       "numero": "59600733220268090051",
@@ -2461,7 +2543,8 @@
       "trilha": "Servidores estaduais",
       "prioridade": true,
       "fase": "Execução (coletiva)",
-      "score": 414
+      "score": 414,
+      "stale": true
     },
     {
       "numero": "59600672520268090051",
@@ -2490,7 +2573,8 @@
       "trilha": "Servidores estaduais",
       "prioridade": true,
       "fase": "Execução (coletiva)",
-      "score": 414
+      "score": 414,
+      "stale": true
     },
     {
       "numero": "59600785420268090051",
@@ -2519,7 +2603,8 @@
       "trilha": "Servidores estaduais",
       "prioridade": true,
       "fase": "Execução (coletiva)",
-      "score": 414
+      "score": 414,
+      "stale": true
     },
     {
       "numero": "59600647020268090051",
@@ -2548,7 +2633,8 @@
       "trilha": "Servidores estaduais",
       "prioridade": true,
       "fase": "Execução (coletiva)",
-      "score": 414
+      "score": 414,
+      "stale": true
     },
     {
       "numero": "59600620320268090051",
@@ -2577,7 +2663,8 @@
       "trilha": "Servidores estaduais",
       "prioridade": true,
       "fase": "Execução (coletiva)",
-      "score": 414
+      "score": 414,
+      "stale": true
     },
     {
       "numero": "59593008420268090051",
@@ -2607,7 +2694,8 @@
       "trilha": "Servidores estaduais",
       "prioridade": true,
       "fase": "Execução (coletiva)",
-      "score": 414
+      "score": 414,
+      "stale": true
     },
     {
       "numero": "59591223820268090051",
@@ -2637,7 +2725,8 @@
       "trilha": "Servidores estaduais",
       "prioridade": true,
       "fase": "Execução (coletiva)",
-      "score": 414
+      "score": 414,
+      "stale": true
     },
     {
       "numero": "59589067720268090051",
@@ -2666,7 +2755,8 @@
       "trilha": "Servidores estaduais",
       "prioridade": true,
       "fase": "Execução (coletiva)",
-      "score": 414
+      "score": 414,
+      "stale": true
     },
     {
       "numero": "59584320920268090051",
@@ -2695,7 +2785,8 @@
       "trilha": "Servidores estaduais",
       "prioridade": true,
       "fase": "Execução (coletiva)",
-      "score": 414
+      "score": 414,
+      "stale": true
     },
     {
       "numero": "59583662920268090051",
@@ -2724,7 +2815,8 @@
       "trilha": "Servidores estaduais",
       "prioridade": true,
       "fase": "Execução (coletiva)",
-      "score": 414
+      "score": 414,
+      "stale": true
     },
     {
       "numero": "59582510820268090051",
@@ -2753,7 +2845,8 @@
       "trilha": "Servidores estaduais",
       "prioridade": true,
       "fase": "Execução (coletiva)",
-      "score": 414
+      "score": 414,
+      "stale": true
     },
     {
       "numero": "59582164820268090051",
@@ -2782,7 +2875,8 @@
       "trilha": "Servidores estaduais",
       "prioridade": true,
       "fase": "Execução (coletiva)",
-      "score": 414
+      "score": 414,
+      "stale": true
     },
     {
       "numero": "59581922020268090051",
@@ -2812,7 +2906,8 @@
       "trilha": "Servidores estaduais",
       "prioridade": true,
       "fase": "Execução (coletiva)",
-      "score": 414
+      "score": 414,
+      "stale": true
     },
     {
       "numero": "59580268520268090051",
@@ -2841,7 +2936,8 @@
       "trilha": "Servidores estaduais",
       "prioridade": true,
       "fase": "Execução (coletiva)",
-      "score": 414
+      "score": 414,
+      "stale": true
     },
     {
       "numero": "59579921320268090051",
@@ -2870,7 +2966,8 @@
       "trilha": "Servidores estaduais",
       "prioridade": true,
       "fase": "Execução (coletiva)",
-      "score": 414
+      "score": 414,
+      "stale": true
     },
     {
       "numero": "59579757420268090051",
@@ -2899,7 +2996,8 @@
       "trilha": "Servidores estaduais",
       "prioridade": true,
       "fase": "Execução (coletiva)",
-      "score": 414
+      "score": 414,
+      "stale": true
     },
     {
       "numero": "59579237820268090051",
@@ -2928,7 +3026,8 @@
       "trilha": "Servidores estaduais",
       "prioridade": true,
       "fase": "Execução (coletiva)",
-      "score": 414
+      "score": 414,
+      "stale": true
     },
     {
       "numero": "59578978020268090051",
@@ -2958,7 +3057,8 @@
       "trilha": "Servidores estaduais",
       "prioridade": true,
       "fase": "Execução (coletiva)",
-      "score": 414
+      "score": 414,
+      "stale": true
     },
     {
       "numero": "00447882820268272729",
@@ -6061,7 +6161,8 @@
       "trilha": "Servidores estaduais",
       "prioridade": true,
       "fase": "Conhecimento",
-      "score": 344
+      "score": 344,
+      "stale": true
     },
     {
       "numero": "10205719720264014300",
