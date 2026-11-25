@@ -1,10 +1,9 @@
 {
   "meta": {
-    "geradoEm": "24/11/2026, 11:19:10",
+    "geradoEm": "25/11/2026, 11:24:08",
     "total": 256,
     "prioritarios": 218,
     "tribunaisVazios": [
-      "TJGO",
       "TJTO",
       "TRF1"
     ],
@@ -14,21 +13,20 @@
       "TRF1": 137
     },
     "porTrilha": {
-      "Servidores estaduais": 99,
-      "Consórcio": 4,
+      "Consórcio": 103,
       "Servidores federais": 115,
       "Consumidor": 16,
       "Outros": 22
     },
     "porFase": {
-      "Execução (coletiva)": 195,
-      "Conhecimento": 61
+      "Execução (coletiva)": 196,
+      "Conhecimento": 60
     }
   },
   "registros": [
     {
-      "numero": "59871589020268090051",
-      "numeroFmt": "5987158-90.2026.8.09.0051",
+      "numero": "59815138420268090051",
+      "numeroFmt": "5981513-84.2026.8.09.0051",
       "tribunal": "TJGO",
       "tribunalLabel": "Goiás · TJGO",
       "uf": "GO",
@@ -37,440 +35,10 @@
       "classeCod": 15160,
       "classe": "Cumprimento de Sentença de Ações Coletivas",
       "assuntos": [
-        "Piso Salarial",
-        "Fazenda Pública"
+        "Consórcio"
       ],
-      "assuntosTxt": "Piso Salarial; Fazenda Pública",
-      "orgao": "4ª Vara da Fazenda Pública Estadual",
-      "sistema": "Eproc",
-      "ajuizadoBR": "30/09/2026",
-      "ajuizadoSort": "20260930",
-      "ultMov": "Documento",
-      "ultMovData": "2026-09-30",
-      "transito": false,
-      "frentes": [
-        "servidores"
-      ],
-      "trilha": "Servidores estaduais",
-      "prioridade": true,
-      "fase": "Execução (coletiva)",
-      "score": 414,
-      "stale": true
-    },
-    {
-      "numero": "59869718220268090051",
-      "numeroFmt": "5986971-82.2026.8.09.0051",
-      "tribunal": "TJGO",
-      "tribunalLabel": "Goiás · TJGO",
-      "uf": "GO",
-      "justica": "Estadual",
-      "grau": "G1",
-      "classeCod": 15160,
-      "classe": "Cumprimento de Sentença de Ações Coletivas",
-      "assuntos": [
-        "Piso Salarial",
-        "Fazenda Pública"
-      ],
-      "assuntosTxt": "Piso Salarial; Fazenda Pública",
-      "orgao": "8ª Vara da Fazenda Pública Estadual",
-      "sistema": "Eproc",
-      "ajuizadoBR": "30/09/2026",
-      "ajuizadoSort": "20260930",
-      "ultMov": "Documento",
-      "ultMovData": "2026-09-30",
-      "transito": false,
-      "frentes": [
-        "servidores"
-      ],
-      "trilha": "Servidores estaduais",
-      "prioridade": true,
-      "fase": "Execução (coletiva)",
-      "score": 414,
-      "stale": true
-    },
-    {
-      "numero": "59868566120268090051",
-      "numeroFmt": "5986856-61.2026.8.09.0051",
-      "tribunal": "TJGO",
-      "tribunalLabel": "Goiás · TJGO",
-      "uf": "GO",
-      "justica": "Estadual",
-      "grau": "G1",
-      "classeCod": 15160,
-      "classe": "Cumprimento de Sentença de Ações Coletivas",
-      "assuntos": [
-        "Piso Salarial",
-        "Fazenda Pública"
-      ],
-      "assuntosTxt": "Piso Salarial; Fazenda Pública",
-      "orgao": "4ª Vara da Fazenda Pública Estadual",
-      "sistema": "Eproc",
-      "ajuizadoBR": "30/09/2026",
-      "ajuizadoSort": "20260930",
-      "ultMov": "Documento",
-      "ultMovData": "2026-09-30",
-      "transito": false,
-      "frentes": [
-        "servidores"
-      ],
-      "trilha": "Servidores estaduais",
-      "prioridade": true,
-      "fase": "Execução (coletiva)",
-      "score": 414,
-      "stale": true
-    },
-    {
-      "numero": "59868003420268090049",
-      "numeroFmt": "5986800-34.2026.8.09.0049",
-      "tribunal": "TJGO",
-      "tribunalLabel": "Goiás · TJGO",
-      "uf": "GO",
-      "justica": "Estadual",
-      "grau": "G1",
-      "classeCod": 15160,
-      "classe": "Cumprimento de Sentença de Ações Coletivas",
-      "assuntos": [
-        "Adicional de Insalubridade"
-      ],
-      "assuntosTxt": "Adicional de Insalubridade",
-      "orgao": "Vara das Fazendas Públicas e Registros Públicos",
-      "sistema": "Eproc",
-      "ajuizadoBR": "30/09/2026",
-      "ajuizadoSort": "20260930",
-      "ultMov": "Documento",
-      "ultMovData": "2026-09-30",
-      "transito": false,
-      "frentes": [
-        "servidores"
-      ],
-      "trilha": "Servidores estaduais",
-      "prioridade": true,
-      "fase": "Execução (coletiva)",
-      "score": 414,
-      "stale": true
-    },
-    {
-      "numero": "59865387820268090051",
-      "numeroFmt": "5986538-78.2026.8.09.0051",
-      "tribunal": "TJGO",
-      "tribunalLabel": "Goiás · TJGO",
-      "uf": "GO",
-      "justica": "Estadual",
-      "grau": "G1",
-      "classeCod": 15160,
-      "classe": "Cumprimento de Sentença de Ações Coletivas",
-      "assuntos": [
-        "Piso Salarial"
-      ],
-      "assuntosTxt": "Piso Salarial",
-      "orgao": "8ª Vara da Fazenda Pública Estadual",
-      "sistema": "Eproc",
-      "ajuizadoBR": "30/09/2026",
-      "ajuizadoSort": "20260930",
-      "ultMov": "Documento",
-      "ultMovData": "2026-09-30",
-      "transito": false,
-      "frentes": [
-        "servidores"
-      ],
-      "trilha": "Servidores estaduais",
-      "prioridade": true,
-      "fase": "Execução (coletiva)",
-      "score": 414,
-      "stale": true
-    },
-    {
-      "numero": "59861966720268090051",
-      "numeroFmt": "5986196-67.2026.8.09.0051",
-      "tribunal": "TJGO",
-      "tribunalLabel": "Goiás · TJGO",
-      "uf": "GO",
-      "justica": "Estadual",
-      "grau": "G1",
-      "classeCod": 15160,
-      "classe": "Cumprimento de Sentença de Ações Coletivas",
-      "assuntos": [
-        "ICMS/ Imposto sobre Circulação de Mercadorias"
-      ],
-      "assuntosTxt": "ICMS/ Imposto sobre Circulação de Mercadorias",
-      "orgao": "4ª Vara da Fazenda Pública Estadual",
-      "sistema": "Eproc",
-      "ajuizadoBR": "30/09/2026",
-      "ajuizadoSort": "20260930",
-      "ultMov": "Documento",
-      "ultMovData": "2026-09-30",
-      "transito": false,
-      "frentes": [
-        "servidores"
-      ],
-      "trilha": "Servidores estaduais",
-      "prioridade": true,
-      "fase": "Execução (coletiva)",
-      "score": 414,
-      "stale": true
-    },
-    {
-      "numero": "59855228920268090051",
-      "numeroFmt": "5985522-89.2026.8.09.0051",
-      "tribunal": "TJGO",
-      "tribunalLabel": "Goiás · TJGO",
-      "uf": "GO",
-      "justica": "Estadual",
-      "grau": "G1",
-      "classeCod": 15160,
-      "classe": "Cumprimento de Sentença de Ações Coletivas",
-      "assuntos": [
-        "Piso Salarial",
-        "Fazenda Pública"
-      ],
-      "assuntosTxt": "Piso Salarial; Fazenda Pública",
-      "orgao": "8ª Vara da Fazenda Pública Estadual",
-      "sistema": "Eproc",
-      "ajuizadoBR": "30/09/2026",
-      "ajuizadoSort": "20260930",
-      "ultMov": "Documento",
-      "ultMovData": "2026-09-30",
-      "transito": false,
-      "frentes": [
-        "servidores"
-      ],
-      "trilha": "Servidores estaduais",
-      "prioridade": true,
-      "fase": "Execução (coletiva)",
-      "score": 414,
-      "stale": true
-    },
-    {
-      "numero": "59848014020268090051",
-      "numeroFmt": "5984801-40.2026.8.09.0051",
-      "tribunal": "TJGO",
-      "tribunalLabel": "Goiás · TJGO",
-      "uf": "GO",
-      "justica": "Estadual",
-      "grau": "G1",
-      "classeCod": 15160,
-      "classe": "Cumprimento de Sentença de Ações Coletivas",
-      "assuntos": [
-        "Piso Salarial",
-        "Fazenda Pública"
-      ],
-      "assuntosTxt": "Piso Salarial; Fazenda Pública",
-      "orgao": "4ª Vara da Fazenda Pública Estadual",
-      "sistema": "Eproc",
-      "ajuizadoBR": "30/09/2026",
-      "ajuizadoSort": "20260930",
-      "ultMov": "Documento",
-      "ultMovData": "2026-09-30",
-      "transito": false,
-      "frentes": [
-        "servidores"
-      ],
-      "trilha": "Servidores estaduais",
-      "prioridade": true,
-      "fase": "Execução (coletiva)",
-      "score": 414,
-      "stale": true
-    },
-    {
-      "numero": "59845725120268090093",
-      "numeroFmt": "5984572-51.2026.8.09.0093",
-      "tribunal": "TJGO",
-      "tribunalLabel": "Goiás · TJGO",
-      "uf": "GO",
-      "justica": "Estadual",
-      "grau": "G1",
-      "classeCod": 15160,
-      "classe": "Cumprimento de Sentença de Ações Coletivas",
-      "assuntos": [
-        "Piso Salarial"
-      ],
-      "assuntosTxt": "Piso Salarial",
-      "orgao": "Vara de Fazendas Públicas, Registros Públicos e Infância e Juventude",
-      "sistema": "Eproc",
-      "ajuizadoBR": "30/09/2026",
-      "ajuizadoSort": "20260930",
-      "ultMov": "Conclusão",
-      "ultMovData": "2026-09-30",
-      "transito": false,
-      "frentes": [
-        "servidores"
-      ],
-      "trilha": "Servidores estaduais",
-      "prioridade": true,
-      "fase": "Execução (coletiva)",
-      "score": 414,
-      "stale": true
-    },
-    {
-      "numero": "59837266320268090051",
-      "numeroFmt": "5983726-63.2026.8.09.0051",
-      "tribunal": "TJGO",
-      "tribunalLabel": "Goiás · TJGO",
-      "uf": "GO",
-      "justica": "Estadual",
-      "grau": "G1",
-      "classeCod": 15160,
-      "classe": "Cumprimento de Sentença de Ações Coletivas",
-      "assuntos": [
-        "Piso Salarial",
-        "Horas Extras ",
-        "Fazenda Pública"
-      ],
-      "assuntosTxt": "Piso Salarial; Horas Extras ; Fazenda Pública",
-      "orgao": "8ª Vara da Fazenda Pública Estadual",
-      "sistema": "Eproc",
-      "ajuizadoBR": "30/09/2026",
-      "ajuizadoSort": "20260930",
-      "ultMov": "Documento",
-      "ultMovData": "2026-09-30",
-      "transito": false,
-      "frentes": [
-        "servidores"
-      ],
-      "trilha": "Servidores estaduais",
-      "prioridade": true,
-      "fase": "Execução (coletiva)",
-      "score": 414,
-      "stale": true
-    },
-    {
-      "numero": "59833570220268090138",
-      "numeroFmt": "5983357-02.2026.8.09.0138",
-      "tribunal": "TJGO",
-      "tribunalLabel": "Goiás · TJGO",
-      "uf": "GO",
-      "justica": "Estadual",
-      "grau": "G1",
-      "classeCod": 15160,
-      "classe": "Cumprimento de Sentença de Ações Coletivas",
-      "assuntos": [
-        "Piso Salarial"
-      ],
-      "assuntosTxt": "Piso Salarial",
-      "orgao": "Vara das Faz. Púb., de Reg. Púb. e Amb.",
-      "sistema": "Eproc",
-      "ajuizadoBR": "29/09/2026",
-      "ajuizadoSort": "20260929",
-      "ultMov": "Conclusão",
-      "ultMovData": "2026-09-30",
-      "transito": false,
-      "frentes": [
-        "servidores"
-      ],
-      "trilha": "Servidores estaduais",
-      "prioridade": true,
-      "fase": "Execução (coletiva)",
-      "score": 414,
-      "stale": true
-    },
-    {
-      "numero": "59831377120268090051",
-      "numeroFmt": "5983137-71.2026.8.09.0051",
-      "tribunal": "TJGO",
-      "tribunalLabel": "Goiás · TJGO",
-      "uf": "GO",
-      "justica": "Estadual",
-      "grau": "G1",
-      "classeCod": 15160,
-      "classe": "Cumprimento de Sentença de Ações Coletivas",
-      "assuntos": [
-        "Piso Salarial",
-        "Fazenda Pública"
-      ],
-      "assuntosTxt": "Piso Salarial; Fazenda Pública",
-      "orgao": "8ª Vara da Fazenda Pública Estadual",
-      "sistema": "Eproc",
-      "ajuizadoBR": "29/09/2026",
-      "ajuizadoSort": "20260929",
-      "ultMov": "Documento",
-      "ultMovData": "2026-09-30",
-      "transito": false,
-      "frentes": [
-        "servidores"
-      ],
-      "trilha": "Servidores estaduais",
-      "prioridade": true,
-      "fase": "Execução (coletiva)",
-      "score": 414,
-      "stale": true
-    },
-    {
-      "numero": "59830849020268090051",
-      "numeroFmt": "5983084-90.2026.8.09.0051",
-      "tribunal": "TJGO",
-      "tribunalLabel": "Goiás · TJGO",
-      "uf": "GO",
-      "justica": "Estadual",
-      "grau": "G1",
-      "classeCod": 15160,
-      "classe": "Cumprimento de Sentença de Ações Coletivas",
-      "assuntos": [
-        "Piso Salarial",
-        "Fazenda Pública"
-      ],
-      "assuntosTxt": "Piso Salarial; Fazenda Pública",
-      "orgao": "4ª Vara da Fazenda Pública Estadual",
-      "sistema": "Eproc",
-      "ajuizadoBR": "29/09/2026",
-      "ajuizadoSort": "20260929",
-      "ultMov": "Documento",
-      "ultMovData": "2026-09-30",
-      "transito": false,
-      "frentes": [
-        "servidores"
-      ],
-      "trilha": "Servidores estaduais",
-      "prioridade": true,
-      "fase": "Execução (coletiva)",
-      "score": 414,
-      "stale": true
-    },
-    {
-      "numero": "59826950820268090051",
-      "numeroFmt": "5982695-08.2026.8.09.0051",
-      "tribunal": "TJGO",
-      "tribunalLabel": "Goiás · TJGO",
-      "uf": "GO",
-      "justica": "Estadual",
-      "grau": "G1",
-      "classeCod": 15160,
-      "classe": "Cumprimento de Sentença de Ações Coletivas",
-      "assuntos": [
-        "Piso Salarial"
-      ],
-      "assuntosTxt": "Piso Salarial",
-      "orgao": "2ª Vara da Fazenda Pública Estadual",
-      "sistema": "Eproc",
-      "ajuizadoBR": "29/09/2026",
-      "ajuizadoSort": "20260929",
-      "ultMov": "Incompetência",
-      "ultMovData": "2026-09-30",
-      "transito": false,
-      "frentes": [
-        "servidores"
-      ],
-      "trilha": "Servidores estaduais",
-      "prioridade": true,
-      "fase": "Execução (coletiva)",
-      "score": 414,
-      "stale": true
-    },
-    {
-      "numero": "59821901720268090051",
-      "numeroFmt": "5982190-17.2026.8.09.0051",
-      "tribunal": "TJGO",
-      "tribunalLabel": "Goiás · TJGO",
-      "uf": "GO",
-      "justica": "Estadual",
-      "grau": "G1",
-      "classeCod": 15160,
-      "classe": "Cumprimento de Sentença de Ações Coletivas",
-      "assuntos": [
-        "Piso Salarial",
-        "Fazenda Pública"
-      ],
-      "assuntosTxt": "Piso Salarial; Fazenda Pública",
-      "orgao": "4ª Vara da Fazenda Pública Estadual",
+      "assuntosTxt": "Consórcio",
+      "orgao": "13ª Vara Cível e Ambiental",
       "sistema": "Eproc",
       "ajuizadoBR": "29/09/2026",
       "ajuizadoSort": "20260929",
@@ -478,1516 +46,12 @@
       "ultMovData": "2026-09-30",
       "transito": false,
       "frentes": [
-        "servidores"
+        "consumidor"
       ],
-      "trilha": "Servidores estaduais",
+      "trilha": "Consórcio",
       "prioridade": true,
       "fase": "Execução (coletiva)",
-      "score": 414,
-      "stale": true
-    },
-    {
-      "numero": "59818671220268090051",
-      "numeroFmt": "5981867-12.2026.8.09.0051",
-      "tribunal": "TJGO",
-      "tribunalLabel": "Goiás · TJGO",
-      "uf": "GO",
-      "justica": "Estadual",
-      "grau": "G1",
-      "classeCod": 15160,
-      "classe": "Cumprimento de Sentença de Ações Coletivas",
-      "assuntos": [
-        "Piso Salarial",
-        "Fazenda Pública"
-      ],
-      "assuntosTxt": "Piso Salarial; Fazenda Pública",
-      "orgao": "8ª Vara da Fazenda Pública Estadual",
-      "sistema": "Eproc",
-      "ajuizadoBR": "29/09/2026",
-      "ajuizadoSort": "20260929",
-      "ultMov": "Confirmada",
-      "ultMovData": "2026-09-30",
-      "transito": false,
-      "frentes": [
-        "servidores"
-      ],
-      "trilha": "Servidores estaduais",
-      "prioridade": true,
-      "fase": "Execução (coletiva)",
-      "score": 414,
-      "stale": true
-    },
-    {
-      "numero": "59813795720268090051",
-      "numeroFmt": "5981379-57.2026.8.09.0051",
-      "tribunal": "TJGO",
-      "tribunalLabel": "Goiás · TJGO",
-      "uf": "GO",
-      "justica": "Estadual",
-      "grau": "G1",
-      "classeCod": 15160,
-      "classe": "Cumprimento de Sentença de Ações Coletivas",
-      "assuntos": [
-        "Piso Salarial"
-      ],
-      "assuntosTxt": "Piso Salarial",
-      "orgao": "8ª Vara da Fazenda Pública Estadual",
-      "sistema": "Eproc",
-      "ajuizadoBR": "29/09/2026",
-      "ajuizadoSort": "20260929",
-      "ultMov": "Conclusão",
-      "ultMovData": "2026-09-30",
-      "transito": false,
-      "frentes": [
-        "servidores"
-      ],
-      "trilha": "Servidores estaduais",
-      "prioridade": true,
-      "fase": "Execução (coletiva)",
-      "score": 414,
-      "stale": true
-    },
-    {
-      "numero": "59808495320268090051",
-      "numeroFmt": "5980849-53.2026.8.09.0051",
-      "tribunal": "TJGO",
-      "tribunalLabel": "Goiás · TJGO",
-      "uf": "GO",
-      "justica": "Estadual",
-      "grau": "G1",
-      "classeCod": 15160,
-      "classe": "Cumprimento de Sentença de Ações Coletivas",
-      "assuntos": [
-        "Piso Salarial",
-        "Fazenda Pública"
-      ],
-      "assuntosTxt": "Piso Salarial; Fazenda Pública",
-      "orgao": "4ª Vara da Fazenda Pública Estadual",
-      "sistema": "Eproc",
-      "ajuizadoBR": "29/09/2026",
-      "ajuizadoSort": "20260929",
-      "ultMov": "Conclusão",
-      "ultMovData": "2026-09-30",
-      "transito": false,
-      "frentes": [
-        "servidores"
-      ],
-      "trilha": "Servidores estaduais",
-      "prioridade": true,
-      "fase": "Execução (coletiva)",
-      "score": 414,
-      "stale": true
-    },
-    {
-      "numero": "59807569020268090051",
-      "numeroFmt": "5980756-90.2026.8.09.0051",
-      "tribunal": "TJGO",
-      "tribunalLabel": "Goiás · TJGO",
-      "uf": "GO",
-      "justica": "Estadual",
-      "grau": "G1",
-      "classeCod": 15160,
-      "classe": "Cumprimento de Sentença de Ações Coletivas",
-      "assuntos": [
-        "Piso Salarial",
-        "Fazenda Pública"
-      ],
-      "assuntosTxt": "Piso Salarial; Fazenda Pública",
-      "orgao": "4ª Vara da Fazenda Pública Estadual",
-      "sistema": "Eproc",
-      "ajuizadoBR": "29/09/2026",
-      "ajuizadoSort": "20260929",
-      "ultMov": "Conclusão",
-      "ultMovData": "2026-09-30",
-      "transito": false,
-      "frentes": [
-        "servidores"
-      ],
-      "trilha": "Servidores estaduais",
-      "prioridade": true,
-      "fase": "Execução (coletiva)",
-      "score": 414,
-      "stale": true
-    },
-    {
-      "numero": "59807655220268090051",
-      "numeroFmt": "5980765-52.2026.8.09.0051",
-      "tribunal": "TJGO",
-      "tribunalLabel": "Goiás · TJGO",
-      "uf": "GO",
-      "justica": "Estadual",
-      "grau": "G1",
-      "classeCod": 15161,
-      "classe": "Cumprimento Provisório de Sentença de Ações Coletivas",
-      "assuntos": [
-        "Piso Salarial"
-      ],
-      "assuntosTxt": "Piso Salarial",
-      "orgao": "4ª Vara da Fazenda Pública Estadual",
-      "sistema": "Eproc",
-      "ajuizadoBR": "29/09/2026",
-      "ajuizadoSort": "20260929",
-      "ultMov": "Conclusão",
-      "ultMovData": "2026-09-30",
-      "transito": false,
-      "frentes": [
-        "servidores"
-      ],
-      "trilha": "Servidores estaduais",
-      "prioridade": true,
-      "fase": "Execução (coletiva)",
-      "score": 414,
-      "stale": true
-    },
-    {
-      "numero": "59806260320268090051",
-      "numeroFmt": "5980626-03.2026.8.09.0051",
-      "tribunal": "TJGO",
-      "tribunalLabel": "Goiás · TJGO",
-      "uf": "GO",
-      "justica": "Estadual",
-      "grau": "G1",
-      "classeCod": 15160,
-      "classe": "Cumprimento de Sentença de Ações Coletivas",
-      "assuntos": [
-        "Piso Salarial",
-        "Fazenda Pública"
-      ],
-      "assuntosTxt": "Piso Salarial; Fazenda Pública",
-      "orgao": "4ª Vara da Fazenda Pública Estadual",
-      "sistema": "Eproc",
-      "ajuizadoBR": "29/09/2026",
-      "ajuizadoSort": "20260929",
-      "ultMov": "Confirmada",
-      "ultMovData": "2026-09-30",
-      "transito": false,
-      "frentes": [
-        "servidores"
-      ],
-      "trilha": "Servidores estaduais",
-      "prioridade": true,
-      "fase": "Execução (coletiva)",
-      "score": 414,
-      "stale": true
-    },
-    {
-      "numero": "59805143420268090051",
-      "numeroFmt": "5980514-34.2026.8.09.0051",
-      "tribunal": "TJGO",
-      "tribunalLabel": "Goiás · TJGO",
-      "uf": "GO",
-      "justica": "Estadual",
-      "grau": "G1",
-      "classeCod": 15160,
-      "classe": "Cumprimento de Sentença de Ações Coletivas",
-      "assuntos": [
-        "Piso Salarial",
-        "Fazenda Pública"
-      ],
-      "assuntosTxt": "Piso Salarial; Fazenda Pública",
-      "orgao": "8ª Vara da Fazenda Pública Estadual",
-      "sistema": "Eproc",
-      "ajuizadoBR": "29/09/2026",
-      "ajuizadoSort": "20260929",
-      "ultMov": "Confirmada",
-      "ultMovData": "2026-09-30",
-      "transito": false,
-      "frentes": [
-        "servidores"
-      ],
-      "trilha": "Servidores estaduais",
-      "prioridade": true,
-      "fase": "Execução (coletiva)",
-      "score": 414,
-      "stale": true
-    },
-    {
-      "numero": "59804598320268090051",
-      "numeroFmt": "5980459-83.2026.8.09.0051",
-      "tribunal": "TJGO",
-      "tribunalLabel": "Goiás · TJGO",
-      "uf": "GO",
-      "justica": "Estadual",
-      "grau": "G1",
-      "classeCod": 15160,
-      "classe": "Cumprimento de Sentença de Ações Coletivas",
-      "assuntos": [
-        "Piso Salarial",
-        "Fazenda Pública"
-      ],
-      "assuntosTxt": "Piso Salarial; Fazenda Pública",
-      "orgao": "8ª Vara da Fazenda Pública Estadual",
-      "sistema": "Eproc",
-      "ajuizadoBR": "29/09/2026",
-      "ajuizadoSort": "20260929",
-      "ultMov": "Confirmada",
-      "ultMovData": "2026-09-30",
-      "transito": false,
-      "frentes": [
-        "servidores"
-      ],
-      "trilha": "Servidores estaduais",
-      "prioridade": true,
-      "fase": "Execução (coletiva)",
-      "score": 414,
-      "stale": true
-    },
-    {
-      "numero": "59803662320268090051",
-      "numeroFmt": "5980366-23.2026.8.09.0051",
-      "tribunal": "TJGO",
-      "tribunalLabel": "Goiás · TJGO",
-      "uf": "GO",
-      "justica": "Estadual",
-      "grau": "G1",
-      "classeCod": 15160,
-      "classe": "Cumprimento de Sentença de Ações Coletivas",
-      "assuntos": [
-        "Piso Salarial",
-        "Fazenda Pública"
-      ],
-      "assuntosTxt": "Piso Salarial; Fazenda Pública",
-      "orgao": "4ª Vara da Fazenda Pública Estadual",
-      "sistema": "Eproc",
-      "ajuizadoBR": "29/09/2026",
-      "ajuizadoSort": "20260929",
-      "ultMov": "Confirmada",
-      "ultMovData": "2026-09-30",
-      "transito": false,
-      "frentes": [
-        "servidores"
-      ],
-      "trilha": "Servidores estaduais",
-      "prioridade": true,
-      "fase": "Execução (coletiva)",
-      "score": 414,
-      "stale": true
-    },
-    {
-      "numero": "59803446220268090051",
-      "numeroFmt": "5980344-62.2026.8.09.0051",
-      "tribunal": "TJGO",
-      "tribunalLabel": "Goiás · TJGO",
-      "uf": "GO",
-      "justica": "Estadual",
-      "grau": "G1",
-      "classeCod": 15160,
-      "classe": "Cumprimento de Sentença de Ações Coletivas",
-      "assuntos": [
-        "Piso Salarial"
-      ],
-      "assuntosTxt": "Piso Salarial",
-      "orgao": "8ª Vara da Fazenda Pública Estadual",
-      "sistema": "Eproc",
-      "ajuizadoBR": "29/09/2026",
-      "ajuizadoSort": "20260929",
-      "ultMov": "Conclusão",
-      "ultMovData": "2026-09-30",
-      "transito": false,
-      "frentes": [
-        "servidores"
-      ],
-      "trilha": "Servidores estaduais",
-      "prioridade": true,
-      "fase": "Execução (coletiva)",
-      "score": 414,
-      "stale": true
-    },
-    {
-      "numero": "59803117220268090051",
-      "numeroFmt": "5980311-72.2026.8.09.0051",
-      "tribunal": "TJGO",
-      "tribunalLabel": "Goiás · TJGO",
-      "uf": "GO",
-      "justica": "Estadual",
-      "grau": "G1",
-      "classeCod": 15160,
-      "classe": "Cumprimento de Sentença de Ações Coletivas",
-      "assuntos": [
-        "Piso Salarial",
-        "Fazenda Pública"
-      ],
-      "assuntosTxt": "Piso Salarial; Fazenda Pública",
-      "orgao": "8ª Vara da Fazenda Pública Estadual",
-      "sistema": "Eproc",
-      "ajuizadoBR": "29/09/2026",
-      "ajuizadoSort": "20260929",
-      "ultMov": "Confirmada",
-      "ultMovData": "2026-09-30",
-      "transito": false,
-      "frentes": [
-        "servidores"
-      ],
-      "trilha": "Servidores estaduais",
-      "prioridade": true,
-      "fase": "Execução (coletiva)",
-      "score": 414,
-      "stale": true
-    },
-    {
-      "numero": "59802216420268090051",
-      "numeroFmt": "5980221-64.2026.8.09.0051",
-      "tribunal": "TJGO",
-      "tribunalLabel": "Goiás · TJGO",
-      "uf": "GO",
-      "justica": "Estadual",
-      "grau": "G1",
-      "classeCod": 15160,
-      "classe": "Cumprimento de Sentença de Ações Coletivas",
-      "assuntos": [
-        "Piso Salarial",
-        "Horas Extras ",
-        "Fazenda Pública"
-      ],
-      "assuntosTxt": "Piso Salarial; Horas Extras ; Fazenda Pública",
-      "orgao": "4ª Vara da Fazenda Pública Estadual",
-      "sistema": "Eproc",
-      "ajuizadoBR": "29/09/2026",
-      "ajuizadoSort": "20260929",
-      "ultMov": "Confirmada",
-      "ultMovData": "2026-09-30",
-      "transito": false,
-      "frentes": [
-        "servidores"
-      ],
-      "trilha": "Servidores estaduais",
-      "prioridade": true,
-      "fase": "Execução (coletiva)",
-      "score": 414,
-      "stale": true
-    },
-    {
-      "numero": "59800553220268090051",
-      "numeroFmt": "5980055-32.2026.8.09.0051",
-      "tribunal": "TJGO",
-      "tribunalLabel": "Goiás · TJGO",
-      "uf": "GO",
-      "justica": "Estadual",
-      "grau": "G1",
-      "classeCod": 15160,
-      "classe": "Cumprimento de Sentença de Ações Coletivas",
-      "assuntos": [
-        "Piso Salarial",
-        "Fazenda Pública"
-      ],
-      "assuntosTxt": "Piso Salarial; Fazenda Pública",
-      "orgao": "8ª Vara da Fazenda Pública Estadual",
-      "sistema": "Eproc",
-      "ajuizadoBR": "29/09/2026",
-      "ajuizadoSort": "20260929",
-      "ultMov": "Confirmada",
-      "ultMovData": "2026-09-30",
-      "transito": false,
-      "frentes": [
-        "servidores"
-      ],
-      "trilha": "Servidores estaduais",
-      "prioridade": true,
-      "fase": "Execução (coletiva)",
-      "score": 414,
-      "stale": true
-    },
-    {
-      "numero": "59792091520268090051",
-      "numeroFmt": "5979209-15.2026.8.09.0051",
-      "tribunal": "TJGO",
-      "tribunalLabel": "Goiás · TJGO",
-      "uf": "GO",
-      "justica": "Estadual",
-      "grau": "G1",
-      "classeCod": 15160,
-      "classe": "Cumprimento de Sentença de Ações Coletivas",
-      "assuntos": [
-        "Piso Salarial",
-        "Fazenda Pública"
-      ],
-      "assuntosTxt": "Piso Salarial; Fazenda Pública",
-      "orgao": "4ª Vara da Fazenda Pública Estadual",
-      "sistema": "Eproc",
-      "ajuizadoBR": "29/09/2026",
-      "ajuizadoSort": "20260929",
-      "ultMov": "Conclusão",
-      "ultMovData": "2026-09-30",
-      "transito": false,
-      "frentes": [
-        "servidores"
-      ],
-      "trilha": "Servidores estaduais",
-      "prioridade": true,
-      "fase": "Execução (coletiva)",
-      "score": 414,
-      "stale": true
-    },
-    {
-      "numero": "59791737020268090051",
-      "numeroFmt": "5979173-70.2026.8.09.0051",
-      "tribunal": "TJGO",
-      "tribunalLabel": "Goiás · TJGO",
-      "uf": "GO",
-      "justica": "Estadual",
-      "grau": "G1",
-      "classeCod": 15160,
-      "classe": "Cumprimento de Sentença de Ações Coletivas",
-      "assuntos": [
-        "Piso Salarial",
-        "Fazenda Pública"
-      ],
-      "assuntosTxt": "Piso Salarial; Fazenda Pública",
-      "orgao": "8ª Vara da Fazenda Pública Estadual",
-      "sistema": "Eproc",
-      "ajuizadoBR": "29/09/2026",
-      "ajuizadoSort": "20260929",
-      "ultMov": "Conclusão",
-      "ultMovData": "2026-09-30",
-      "transito": false,
-      "frentes": [
-        "servidores"
-      ],
-      "trilha": "Servidores estaduais",
-      "prioridade": true,
-      "fase": "Execução (coletiva)",
-      "score": 414,
-      "stale": true
-    },
-    {
-      "numero": "59786635720268090051",
-      "numeroFmt": "5978663-57.2026.8.09.0051",
-      "tribunal": "TJGO",
-      "tribunalLabel": "Goiás · TJGO",
-      "uf": "GO",
-      "justica": "Estadual",
-      "grau": "G1",
-      "classeCod": 15160,
-      "classe": "Cumprimento de Sentença de Ações Coletivas",
-      "assuntos": [
-        "Piso Salarial",
-        "Fazenda Pública"
-      ],
-      "assuntosTxt": "Piso Salarial; Fazenda Pública",
-      "orgao": "8ª Vara da Fazenda Pública Estadual",
-      "sistema": "Eproc",
-      "ajuizadoBR": "29/09/2026",
-      "ajuizadoSort": "20260929",
-      "ultMov": "Confirmada",
-      "ultMovData": "2026-09-30",
-      "transito": false,
-      "frentes": [
-        "servidores"
-      ],
-      "trilha": "Servidores estaduais",
-      "prioridade": true,
-      "fase": "Execução (coletiva)",
-      "score": 414,
-      "stale": true
-    },
-    {
-      "numero": "59784106920268090051",
-      "numeroFmt": "5978410-69.2026.8.09.0051",
-      "tribunal": "TJGO",
-      "tribunalLabel": "Goiás · TJGO",
-      "uf": "GO",
-      "justica": "Estadual",
-      "grau": "G1",
-      "classeCod": 15160,
-      "classe": "Cumprimento de Sentença de Ações Coletivas",
-      "assuntos": [
-        "Fazenda Pública"
-      ],
-      "assuntosTxt": "Fazenda Pública",
-      "orgao": "8ª Vara da Fazenda Pública Estadual",
-      "sistema": "Eproc",
-      "ajuizadoBR": "29/09/2026",
-      "ajuizadoSort": "20260929",
-      "ultMov": "Confirmada",
-      "ultMovData": "2026-09-30",
-      "transito": false,
-      "frentes": [
-        "servidores"
-      ],
-      "trilha": "Servidores estaduais",
-      "prioridade": true,
-      "fase": "Execução (coletiva)",
-      "score": 414,
-      "stale": true
-    },
-    {
-      "numero": "59783344520268090051",
-      "numeroFmt": "5978334-45.2026.8.09.0051",
-      "tribunal": "TJGO",
-      "tribunalLabel": "Goiás · TJGO",
-      "uf": "GO",
-      "justica": "Estadual",
-      "grau": "G1",
-      "classeCod": 15160,
-      "classe": "Cumprimento de Sentença de Ações Coletivas",
-      "assuntos": [
-        "Piso Salarial",
-        "Horas Extras ",
-        "Fazenda Pública"
-      ],
-      "assuntosTxt": "Piso Salarial; Horas Extras ; Fazenda Pública",
-      "orgao": "4ª Vara da Fazenda Pública Estadual",
-      "sistema": "Eproc",
-      "ajuizadoBR": "29/09/2026",
-      "ajuizadoSort": "20260929",
-      "ultMov": "Confirmada",
-      "ultMovData": "2026-09-30",
-      "transito": false,
-      "frentes": [
-        "servidores"
-      ],
-      "trilha": "Servidores estaduais",
-      "prioridade": true,
-      "fase": "Execução (coletiva)",
-      "score": 414,
-      "stale": true
-    },
-    {
-      "numero": "59780469720268090051",
-      "numeroFmt": "5978046-97.2026.8.09.0051",
-      "tribunal": "TJGO",
-      "tribunalLabel": "Goiás · TJGO",
-      "uf": "GO",
-      "justica": "Estadual",
-      "grau": "G1",
-      "classeCod": 15160,
-      "classe": "Cumprimento de Sentença de Ações Coletivas",
-      "assuntos": [
-        "Piso Salarial",
-        "Fazenda Pública"
-      ],
-      "assuntosTxt": "Piso Salarial; Fazenda Pública",
-      "orgao": "8ª Vara da Fazenda Pública Estadual",
-      "sistema": "Eproc",
-      "ajuizadoBR": "29/09/2026",
-      "ajuizadoSort": "20260929",
-      "ultMov": "Confirmada",
-      "ultMovData": "2026-09-30",
-      "transito": false,
-      "frentes": [
-        "servidores"
-      ],
-      "trilha": "Servidores estaduais",
-      "prioridade": true,
-      "fase": "Execução (coletiva)",
-      "score": 414,
-      "stale": true
-    },
-    {
-      "numero": "59780149220268090051",
-      "numeroFmt": "5978014-92.2026.8.09.0051",
-      "tribunal": "TJGO",
-      "tribunalLabel": "Goiás · TJGO",
-      "uf": "GO",
-      "justica": "Estadual",
-      "grau": "G1",
-      "classeCod": 15160,
-      "classe": "Cumprimento de Sentença de Ações Coletivas",
-      "assuntos": [
-        "Piso Salarial",
-        "Fazenda Pública"
-      ],
-      "assuntosTxt": "Piso Salarial; Fazenda Pública",
-      "orgao": "8ª Vara da Fazenda Pública Estadual",
-      "sistema": "Eproc",
-      "ajuizadoBR": "29/09/2026",
-      "ajuizadoSort": "20260929",
-      "ultMov": "Confirmada",
-      "ultMovData": "2026-09-30",
-      "transito": false,
-      "frentes": [
-        "servidores"
-      ],
-      "trilha": "Servidores estaduais",
-      "prioridade": true,
-      "fase": "Execução (coletiva)",
-      "score": 414,
-      "stale": true
-    },
-    {
-      "numero": "59780097020268090051",
-      "numeroFmt": "5978009-70.2026.8.09.0051",
-      "tribunal": "TJGO",
-      "tribunalLabel": "Goiás · TJGO",
-      "uf": "GO",
-      "justica": "Estadual",
-      "grau": "G1",
-      "classeCod": 15160,
-      "classe": "Cumprimento de Sentença de Ações Coletivas",
-      "assuntos": [
-        "Piso Salarial",
-        "Fazenda Pública"
-      ],
-      "assuntosTxt": "Piso Salarial; Fazenda Pública",
-      "orgao": "4ª Vara da Fazenda Pública Estadual",
-      "sistema": "Eproc",
-      "ajuizadoBR": "29/09/2026",
-      "ajuizadoSort": "20260929",
-      "ultMov": "Confirmada",
-      "ultMovData": "2026-09-30",
-      "transito": false,
-      "frentes": [
-        "servidores"
-      ],
-      "trilha": "Servidores estaduais",
-      "prioridade": true,
-      "fase": "Execução (coletiva)",
-      "score": 414,
-      "stale": true
-    },
-    {
-      "numero": "59777342420268090051",
-      "numeroFmt": "5977734-24.2026.8.09.0051",
-      "tribunal": "TJGO",
-      "tribunalLabel": "Goiás · TJGO",
-      "uf": "GO",
-      "justica": "Estadual",
-      "grau": "G1",
-      "classeCod": 15161,
-      "classe": "Cumprimento Provisório de Sentença de Ações Coletivas",
-      "assuntos": [
-        "Piso Salarial"
-      ],
-      "assuntosTxt": "Piso Salarial",
-      "orgao": "4ª Vara da Fazenda Pública Estadual",
-      "sistema": "Eproc",
-      "ajuizadoBR": "28/09/2026",
-      "ajuizadoSort": "20260928",
-      "ultMov": "Documento",
-      "ultMovData": "2026-09-29",
-      "transito": false,
-      "frentes": [
-        "servidores"
-      ],
-      "trilha": "Servidores estaduais",
-      "prioridade": true,
-      "fase": "Execução (coletiva)",
-      "score": 414,
-      "stale": true
-    },
-    {
-      "numero": "59776170420268090093",
-      "numeroFmt": "5977617-04.2026.8.09.0093",
-      "tribunal": "TJGO",
-      "tribunalLabel": "Goiás · TJGO",
-      "uf": "GO",
-      "justica": "Estadual",
-      "grau": "G1",
-      "classeCod": 15160,
-      "classe": "Cumprimento de Sentença de Ações Coletivas",
-      "assuntos": [
-        "Causas Supervenientes à Sentença",
-        "Piso Salarial"
-      ],
-      "assuntosTxt": "Causas Supervenientes à Sentença; Piso Salarial",
-      "orgao": "Vara de Fazendas Públicas, Registros Públicos e Infância e Juventude",
-      "sistema": "Eproc",
-      "ajuizadoBR": "28/09/2026",
-      "ajuizadoSort": "20260928",
-      "ultMov": "Conclusão",
-      "ultMovData": "2026-09-29",
-      "transito": false,
-      "frentes": [
-        "servidores"
-      ],
-      "trilha": "Servidores estaduais",
-      "prioridade": true,
-      "fase": "Execução (coletiva)",
-      "score": 414,
-      "stale": true
-    },
-    {
-      "numero": "59749481320268090049",
-      "numeroFmt": "5974948-13.2026.8.09.0049",
-      "tribunal": "TJGO",
-      "tribunalLabel": "Goiás · TJGO",
-      "uf": "GO",
-      "justica": "Estadual",
-      "grau": "G1",
-      "classeCod": 15160,
-      "classe": "Cumprimento de Sentença de Ações Coletivas",
-      "assuntos": [
-        "Gratificações Municipais Específicas"
-      ],
-      "assuntosTxt": "Gratificações Municipais Específicas",
-      "orgao": "Vara das Fazendas Públicas e Registros Públicos",
-      "sistema": "Eproc",
-      "ajuizadoBR": "28/09/2026",
-      "ajuizadoSort": "20260928",
-      "ultMov": "Documento",
-      "ultMovData": "2026-09-28",
-      "transito": false,
-      "frentes": [
-        "servidores"
-      ],
-      "trilha": "Servidores estaduais",
-      "prioridade": true,
-      "fase": "Execução (coletiva)",
-      "score": 414,
-      "stale": true
-    },
-    {
-      "numero": "59748043320268090051",
-      "numeroFmt": "5974804-33.2026.8.09.0051",
-      "tribunal": "TJGO",
-      "tribunalLabel": "Goiás · TJGO",
-      "uf": "GO",
-      "justica": "Estadual",
-      "grau": "G1",
-      "classeCod": 15160,
-      "classe": "Cumprimento de Sentença de Ações Coletivas",
-      "assuntos": [
-        "Piso Salarial",
-        "Fazenda Pública"
-      ],
-      "assuntosTxt": "Piso Salarial; Fazenda Pública",
-      "orgao": "4ª Vara da Fazenda Pública Estadual",
-      "sistema": "Eproc",
-      "ajuizadoBR": "28/09/2026",
-      "ajuizadoSort": "20260928",
-      "ultMov": "Petição",
-      "ultMovData": "2026-09-29",
-      "transito": false,
-      "frentes": [
-        "servidores"
-      ],
-      "trilha": "Servidores estaduais",
-      "prioridade": true,
-      "fase": "Execução (coletiva)",
-      "score": 414,
-      "stale": true
-    },
-    {
-      "numero": "59747194720268090051",
-      "numeroFmt": "5974719-47.2026.8.09.0051",
-      "tribunal": "TJGO",
-      "tribunalLabel": "Goiás · TJGO",
-      "uf": "GO",
-      "justica": "Estadual",
-      "grau": "G1",
-      "classeCod": 15160,
-      "classe": "Cumprimento de Sentença de Ações Coletivas",
-      "assuntos": [
-        "Piso Salarial",
-        "Fazenda Pública"
-      ],
-      "assuntosTxt": "Piso Salarial; Fazenda Pública",
-      "orgao": "8ª Vara da Fazenda Pública Estadual",
-      "sistema": "Eproc",
-      "ajuizadoBR": "28/09/2026",
-      "ajuizadoSort": "20260928",
-      "ultMov": "Petição",
-      "ultMovData": "2026-09-29",
-      "transito": false,
-      "frentes": [
-        "servidores"
-      ],
-      "trilha": "Servidores estaduais",
-      "prioridade": true,
-      "fase": "Execução (coletiva)",
-      "score": 414,
-      "stale": true
-    },
-    {
-      "numero": "59729881620268090051",
-      "numeroFmt": "5972988-16.2026.8.09.0051",
-      "tribunal": "TJGO",
-      "tribunalLabel": "Goiás · TJGO",
-      "uf": "GO",
-      "justica": "Estadual",
-      "grau": "G1",
-      "classeCod": 15160,
-      "classe": "Cumprimento de Sentença de Ações Coletivas",
-      "assuntos": [
-        "Piso Salarial",
-        "Fazenda Pública"
-      ],
-      "assuntosTxt": "Piso Salarial; Fazenda Pública",
-      "orgao": "4ª Vara da Fazenda Pública Estadual",
-      "sistema": "Eproc",
-      "ajuizadoBR": "28/09/2026",
-      "ajuizadoSort": "20260928",
-      "ultMov": "Conclusão",
-      "ultMovData": "2026-09-30",
-      "transito": false,
-      "frentes": [
-        "servidores"
-      ],
-      "trilha": "Servidores estaduais",
-      "prioridade": true,
-      "fase": "Execução (coletiva)",
-      "score": 414,
-      "stale": true
-    },
-    {
-      "numero": "59726348820268090051",
-      "numeroFmt": "5972634-88.2026.8.09.0051",
-      "tribunal": "TJGO",
-      "tribunalLabel": "Goiás · TJGO",
-      "uf": "GO",
-      "justica": "Estadual",
-      "grau": "G1",
-      "classeCod": 15160,
-      "classe": "Cumprimento de Sentença de Ações Coletivas",
-      "assuntos": [
-        "Piso Salarial",
-        "Fazenda Pública"
-      ],
-      "assuntosTxt": "Piso Salarial; Fazenda Pública",
-      "orgao": "4ª Vara da Fazenda Pública Estadual",
-      "sistema": "Eproc",
-      "ajuizadoBR": "28/09/2026",
-      "ajuizadoSort": "20260928",
-      "ultMov": "Conclusão",
-      "ultMovData": "2026-09-30",
-      "transito": false,
-      "frentes": [
-        "servidores"
-      ],
-      "trilha": "Servidores estaduais",
-      "prioridade": true,
-      "fase": "Execução (coletiva)",
-      "score": 414,
-      "stale": true
-    },
-    {
-      "numero": "59725871720268090051",
-      "numeroFmt": "5972587-17.2026.8.09.0051",
-      "tribunal": "TJGO",
-      "tribunalLabel": "Goiás · TJGO",
-      "uf": "GO",
-      "justica": "Estadual",
-      "grau": "G1",
-      "classeCod": 15160,
-      "classe": "Cumprimento de Sentença de Ações Coletivas",
-      "assuntos": [
-        "Piso Salarial",
-        "Fazenda Pública"
-      ],
-      "assuntosTxt": "Piso Salarial; Fazenda Pública",
-      "orgao": "4ª Vara da Fazenda Pública Estadual",
-      "sistema": "Eproc",
-      "ajuizadoBR": "28/09/2026",
-      "ajuizadoSort": "20260928",
-      "ultMov": "Conclusão",
-      "ultMovData": "2026-09-30",
-      "transito": false,
-      "frentes": [
-        "servidores"
-      ],
-      "trilha": "Servidores estaduais",
-      "prioridade": true,
-      "fase": "Execução (coletiva)",
-      "score": 414,
-      "stale": true
-    },
-    {
-      "numero": "59724478020268090051",
-      "numeroFmt": "5972447-80.2026.8.09.0051",
-      "tribunal": "TJGO",
-      "tribunalLabel": "Goiás · TJGO",
-      "uf": "GO",
-      "justica": "Estadual",
-      "grau": "G1",
-      "classeCod": 15160,
-      "classe": "Cumprimento de Sentença de Ações Coletivas",
-      "assuntos": [
-        "Piso Salarial",
-        "Fazenda Pública"
-      ],
-      "assuntosTxt": "Piso Salarial; Fazenda Pública",
-      "orgao": "4ª Vara da Fazenda Pública Estadual",
-      "sistema": "Eproc",
-      "ajuizadoBR": "28/09/2026",
-      "ajuizadoSort": "20260928",
-      "ultMov": "Conclusão",
-      "ultMovData": "2026-09-30",
-      "transito": false,
-      "frentes": [
-        "servidores"
-      ],
-      "trilha": "Servidores estaduais",
-      "prioridade": true,
-      "fase": "Execução (coletiva)",
-      "score": 414,
-      "stale": true
-    },
-    {
-      "numero": "59724572720268090051",
-      "numeroFmt": "5972457-27.2026.8.09.0051",
-      "tribunal": "TJGO",
-      "tribunalLabel": "Goiás · TJGO",
-      "uf": "GO",
-      "justica": "Estadual",
-      "grau": "G1",
-      "classeCod": 15160,
-      "classe": "Cumprimento de Sentença de Ações Coletivas",
-      "assuntos": [
-        "Piso Salarial",
-        "Fazenda Pública"
-      ],
-      "assuntosTxt": "Piso Salarial; Fazenda Pública",
-      "orgao": "8ª Vara da Fazenda Pública Estadual",
-      "sistema": "Eproc",
-      "ajuizadoBR": "28/09/2026",
-      "ajuizadoSort": "20260928",
-      "ultMov": "Petição",
-      "ultMovData": "2026-09-30",
-      "transito": false,
-      "frentes": [
-        "servidores"
-      ],
-      "trilha": "Servidores estaduais",
-      "prioridade": true,
-      "fase": "Execução (coletiva)",
-      "score": 414,
-      "stale": true
-    },
-    {
-      "numero": "59724348120268090051",
-      "numeroFmt": "5972434-81.2026.8.09.0051",
-      "tribunal": "TJGO",
-      "tribunalLabel": "Goiás · TJGO",
-      "uf": "GO",
-      "justica": "Estadual",
-      "grau": "G1",
-      "classeCod": 15160,
-      "classe": "Cumprimento de Sentença de Ações Coletivas",
-      "assuntos": [
-        "Piso Salarial"
-      ],
-      "assuntosTxt": "Piso Salarial",
-      "orgao": "4ª Vara da Fazenda Pública Estadual",
-      "sistema": "Eproc",
-      "ajuizadoBR": "28/09/2026",
-      "ajuizadoSort": "20260928",
-      "ultMov": "Conclusão",
-      "ultMovData": "2026-09-30",
-      "transito": false,
-      "frentes": [
-        "servidores"
-      ],
-      "trilha": "Servidores estaduais",
-      "prioridade": true,
-      "fase": "Execução (coletiva)",
-      "score": 414,
-      "stale": true
-    },
-    {
-      "numero": "59724278920268090051",
-      "numeroFmt": "5972427-89.2026.8.09.0051",
-      "tribunal": "TJGO",
-      "tribunalLabel": "Goiás · TJGO",
-      "uf": "GO",
-      "justica": "Estadual",
-      "grau": "G1",
-      "classeCod": 15160,
-      "classe": "Cumprimento de Sentença de Ações Coletivas",
-      "assuntos": [
-        "Piso Salarial",
-        "Fazenda Pública"
-      ],
-      "assuntosTxt": "Piso Salarial; Fazenda Pública",
-      "orgao": "8ª Vara da Fazenda Pública Estadual",
-      "sistema": "Eproc",
-      "ajuizadoBR": "28/09/2026",
-      "ajuizadoSort": "20260928",
-      "ultMov": "Conclusão",
-      "ultMovData": "2026-09-30",
-      "transito": false,
-      "frentes": [
-        "servidores"
-      ],
-      "trilha": "Servidores estaduais",
-      "prioridade": true,
-      "fase": "Execução (coletiva)",
-      "score": 414,
-      "stale": true
-    },
-    {
-      "numero": "59724243720268090051",
-      "numeroFmt": "5972424-37.2026.8.09.0051",
-      "tribunal": "TJGO",
-      "tribunalLabel": "Goiás · TJGO",
-      "uf": "GO",
-      "justica": "Estadual",
-      "grau": "G1",
-      "classeCod": 15160,
-      "classe": "Cumprimento de Sentença de Ações Coletivas",
-      "assuntos": [
-        "Piso Salarial",
-        "Fazenda Pública"
-      ],
-      "assuntosTxt": "Piso Salarial; Fazenda Pública",
-      "orgao": "4ª Vara da Fazenda Pública Estadual",
-      "sistema": "Eproc",
-      "ajuizadoBR": "28/09/2026",
-      "ajuizadoSort": "20260928",
-      "ultMov": "Confirmada",
-      "ultMovData": "2026-09-29",
-      "transito": false,
-      "frentes": [
-        "servidores"
-      ],
-      "trilha": "Servidores estaduais",
-      "prioridade": true,
-      "fase": "Execução (coletiva)",
-      "score": 414,
-      "stale": true
-    },
-    {
-      "numero": "59723871020268090051",
-      "numeroFmt": "5972387-10.2026.8.09.0051",
-      "tribunal": "TJGO",
-      "tribunalLabel": "Goiás · TJGO",
-      "uf": "GO",
-      "justica": "Estadual",
-      "grau": "G1",
-      "classeCod": 15160,
-      "classe": "Cumprimento de Sentença de Ações Coletivas",
-      "assuntos": [
-        "Piso Salarial"
-      ],
-      "assuntosTxt": "Piso Salarial",
-      "orgao": "4ª Vara da Fazenda Pública Estadual",
-      "sistema": "Eproc",
-      "ajuizadoBR": "27/09/2026",
-      "ajuizadoSort": "20260927",
-      "ultMov": "Conclusão",
-      "ultMovData": "2026-09-29",
-      "transito": false,
-      "frentes": [
-        "servidores"
-      ],
-      "trilha": "Servidores estaduais",
-      "prioridade": true,
-      "fase": "Execução (coletiva)",
-      "score": 414,
-      "stale": true
-    },
-    {
-      "numero": "59723732620268090051",
-      "numeroFmt": "5972373-26.2026.8.09.0051",
-      "tribunal": "TJGO",
-      "tribunalLabel": "Goiás · TJGO",
-      "uf": "GO",
-      "justica": "Estadual",
-      "grau": "G1",
-      "classeCod": 15160,
-      "classe": "Cumprimento de Sentença de Ações Coletivas",
-      "assuntos": [
-        "Piso Salarial"
-      ],
-      "assuntosTxt": "Piso Salarial",
-      "orgao": "4ª Vara da Fazenda Pública Estadual",
-      "sistema": "Eproc",
-      "ajuizadoBR": "27/09/2026",
-      "ajuizadoSort": "20260927",
-      "ultMov": "Confirmada",
-      "ultMovData": "2026-09-29",
-      "transito": false,
-      "frentes": [
-        "servidores"
-      ],
-      "trilha": "Servidores estaduais",
-      "prioridade": true,
-      "fase": "Execução (coletiva)",
-      "score": 414,
-      "stale": true
-    },
-    {
-      "numero": "59723118320268090051",
-      "numeroFmt": "5972311-83.2026.8.09.0051",
-      "tribunal": "TJGO",
-      "tribunalLabel": "Goiás · TJGO",
-      "uf": "GO",
-      "justica": "Estadual",
-      "grau": "G1",
-      "classeCod": 15160,
-      "classe": "Cumprimento de Sentença de Ações Coletivas",
-      "assuntos": [
-        "Piso Salarial"
-      ],
-      "assuntosTxt": "Piso Salarial",
-      "orgao": "8ª Vara da Fazenda Pública Estadual",
-      "sistema": "Eproc",
-      "ajuizadoBR": "27/09/2026",
-      "ajuizadoSort": "20260927",
-      "ultMov": "Petição",
-      "ultMovData": "2026-09-30",
-      "transito": false,
-      "frentes": [
-        "servidores"
-      ],
-      "trilha": "Servidores estaduais",
-      "prioridade": true,
-      "fase": "Execução (coletiva)",
-      "score": 414,
-      "stale": true
-    },
-    {
-      "numero": "59708499120268090051",
-      "numeroFmt": "5970849-91.2026.8.09.0051",
-      "tribunal": "TJGO",
-      "tribunalLabel": "Goiás · TJGO",
-      "uf": "GO",
-      "justica": "Estadual",
-      "grau": "G1",
-      "classeCod": 15160,
-      "classe": "Cumprimento de Sentença de Ações Coletivas",
-      "assuntos": [
-        "Fazenda Pública"
-      ],
-      "assuntosTxt": "Fazenda Pública",
-      "orgao": "4ª Vara da Fazenda Pública Estadual",
-      "sistema": "Eproc",
-      "ajuizadoBR": "26/09/2026",
-      "ajuizadoSort": "20260926",
-      "ultMov": "Documento",
-      "ultMovData": "2026-09-26",
-      "transito": false,
-      "frentes": [
-        "servidores"
-      ],
-      "trilha": "Servidores estaduais",
-      "prioridade": true,
-      "fase": "Execução (coletiva)",
-      "score": 414,
-      "stale": true
-    },
-    {
-      "numero": "59704600920268090051",
-      "numeroFmt": "5970460-09.2026.8.09.0051",
-      "tribunal": "TJGO",
-      "tribunalLabel": "Goiás · TJGO",
-      "uf": "GO",
-      "justica": "Estadual",
-      "grau": "G1",
-      "classeCod": 15160,
-      "classe": "Cumprimento de Sentença de Ações Coletivas",
-      "assuntos": [
-        "SIMPLES",
-        "Exclusão - ICMS"
-      ],
-      "assuntosTxt": "SIMPLES; Exclusão - ICMS",
-      "orgao": "8ª Vara da Fazenda Pública Estadual",
-      "sistema": "Eproc",
-      "ajuizadoBR": "25/09/2026",
-      "ajuizadoSort": "20260925",
-      "ultMov": "Conclusão",
-      "ultMovData": "2026-09-30",
-      "transito": false,
-      "frentes": [
-        "servidores"
-      ],
-      "trilha": "Servidores estaduais",
-      "prioridade": true,
-      "fase": "Execução (coletiva)",
-      "score": 414,
-      "stale": true
-    },
-    {
-      "numero": "59695195920268090051",
-      "numeroFmt": "5969519-59.2026.8.09.0051",
-      "tribunal": "TJGO",
-      "tribunalLabel": "Goiás · TJGO",
-      "uf": "GO",
-      "justica": "Estadual",
-      "grau": "G1",
-      "classeCod": 15160,
-      "classe": "Cumprimento de Sentença de Ações Coletivas",
-      "assuntos": [
-        "Piso Salarial",
-        "Fazenda Pública"
-      ],
-      "assuntosTxt": "Piso Salarial; Fazenda Pública",
-      "orgao": "8ª Vara da Fazenda Pública Estadual",
-      "sistema": "Eproc",
-      "ajuizadoBR": "25/09/2026",
-      "ajuizadoSort": "20260925",
-      "ultMov": "Documento",
-      "ultMovData": "2026-09-29",
-      "transito": false,
-      "frentes": [
-        "servidores"
-      ],
-      "trilha": "Servidores estaduais",
-      "prioridade": true,
-      "fase": "Execução (coletiva)",
-      "score": 414,
-      "stale": true
-    },
-    {
-      "numero": "59694667820268090051",
-      "numeroFmt": "5969466-78.2026.8.09.0051",
-      "tribunal": "TJGO",
-      "tribunalLabel": "Goiás · TJGO",
-      "uf": "GO",
-      "justica": "Estadual",
-      "grau": "G1",
-      "classeCod": 15160,
-      "classe": "Cumprimento de Sentença de Ações Coletivas",
-      "assuntos": [
-        "Revisão Geral Anual (Mora do Executivo - inciso X, art. 37, CF 1988)"
-      ],
-      "assuntosTxt": "Revisão Geral Anual (Mora do Executivo - inciso X, art. 37, CF 1988)",
-      "orgao": "4ª Vara da Fazenda Pública Estadual",
-      "sistema": "Eproc",
-      "ajuizadoBR": "25/09/2026",
-      "ajuizadoSort": "20260925",
-      "ultMov": "Confirmada",
-      "ultMovData": "2026-09-30",
-      "transito": false,
-      "frentes": [
-        "servidores"
-      ],
-      "trilha": "Servidores estaduais",
-      "prioridade": true,
-      "fase": "Execução (coletiva)",
-      "score": 414,
-      "stale": true
-    },
-    {
-      "numero": "59694208920268090051",
-      "numeroFmt": "5969420-89.2026.8.09.0051",
-      "tribunal": "TJGO",
-      "tribunalLabel": "Goiás · TJGO",
-      "uf": "GO",
-      "justica": "Estadual",
-      "grau": "G1",
-      "classeCod": 15160,
-      "classe": "Cumprimento de Sentença de Ações Coletivas",
-      "assuntos": [
-        "Revisão Geral Anual (Mora do Executivo - inciso X, art. 37, CF 1988)"
-      ],
-      "assuntosTxt": "Revisão Geral Anual (Mora do Executivo - inciso X, art. 37, CF 1988)",
-      "orgao": "4ª Vara da Fazenda Pública Estadual",
-      "sistema": "Eproc",
-      "ajuizadoBR": "25/09/2026",
-      "ajuizadoSort": "20260925",
-      "ultMov": "Confirmada",
-      "ultMovData": "2026-09-30",
-      "transito": false,
-      "frentes": [
-        "servidores"
-      ],
-      "trilha": "Servidores estaduais",
-      "prioridade": true,
-      "fase": "Execução (coletiva)",
-      "score": 414,
-      "stale": true
-    },
-    {
-      "numero": "59693532720268090051",
-      "numeroFmt": "5969353-27.2026.8.09.0051",
-      "tribunal": "TJGO",
-      "tribunalLabel": "Goiás · TJGO",
-      "uf": "GO",
-      "justica": "Estadual",
-      "grau": "G1",
-      "classeCod": 15160,
-      "classe": "Cumprimento de Sentença de Ações Coletivas",
-      "assuntos": [
-        "Revisão Geral Anual (Mora do Executivo - inciso X, art. 37, CF 1988)"
-      ],
-      "assuntosTxt": "Revisão Geral Anual (Mora do Executivo - inciso X, art. 37, CF 1988)",
-      "orgao": "4ª Vara da Fazenda Pública Estadual",
-      "sistema": "Eproc",
-      "ajuizadoBR": "25/09/2026",
-      "ajuizadoSort": "20260925",
-      "ultMov": "Confirmada",
-      "ultMovData": "2026-09-30",
-      "transito": false,
-      "frentes": [
-        "servidores"
-      ],
-      "trilha": "Servidores estaduais",
-      "prioridade": true,
-      "fase": "Execução (coletiva)",
-      "score": 414,
-      "stale": true
-    },
-    {
-      "numero": "59693723320268090051",
-      "numeroFmt": "5969372-33.2026.8.09.0051",
-      "tribunal": "TJGO",
-      "tribunalLabel": "Goiás · TJGO",
-      "uf": "GO",
-      "justica": "Estadual",
-      "grau": "G1",
-      "classeCod": 15160,
-      "classe": "Cumprimento de Sentença de Ações Coletivas",
-      "assuntos": [
-        "Gratificações Municipais Específicas"
-      ],
-      "assuntosTxt": "Gratificações Municipais Específicas",
-      "orgao": "3ª Vara da Faz. Púb. Mun. e de Reg. Púb.",
-      "sistema": "Eproc",
-      "ajuizadoBR": "25/09/2026",
-      "ajuizadoSort": "20260925",
-      "ultMov": "Conclusão",
-      "ultMovData": "2026-09-30",
-      "transito": false,
-      "frentes": [
-        "servidores"
-      ],
-      "trilha": "Servidores estaduais",
-      "prioridade": true,
-      "fase": "Execução (coletiva)",
-      "score": 414,
-      "stale": true
-    },
-    {
-      "numero": "59689566520268090051",
-      "numeroFmt": "5968956-65.2026.8.09.0051",
-      "tribunal": "TJGO",
-      "tribunalLabel": "Goiás · TJGO",
-      "uf": "GO",
-      "justica": "Estadual",
-      "grau": "G1",
-      "classeCod": 15160,
-      "classe": "Cumprimento de Sentença de Ações Coletivas",
-      "assuntos": [
-        "Piso Salarial",
-        "Fazenda Pública"
-      ],
-      "assuntosTxt": "Piso Salarial; Fazenda Pública",
-      "orgao": "8ª Vara da Fazenda Pública Estadual",
-      "sistema": "Eproc",
-      "ajuizadoBR": "25/09/2026",
-      "ajuizadoSort": "20260925",
-      "ultMov": "Confirmada",
-      "ultMovData": "2026-09-30",
-      "transito": false,
-      "frentes": [
-        "servidores"
-      ],
-      "trilha": "Servidores estaduais",
-      "prioridade": true,
-      "fase": "Execução (coletiva)",
-      "score": 414,
-      "stale": true
-    },
-    {
-      "numero": "59680463820268090051",
-      "numeroFmt": "5968046-38.2026.8.09.0051",
-      "tribunal": "TJGO",
-      "tribunalLabel": "Goiás · TJGO",
-      "uf": "GO",
-      "justica": "Estadual",
-      "grau": "G1",
-      "classeCod": 15161,
-      "classe": "Cumprimento Provisório de Sentença de Ações Coletivas",
-      "assuntos": [
-        "Piso Salarial"
-      ],
-      "assuntosTxt": "Piso Salarial",
-      "orgao": "5ª Vara da Fazenda Pública Estadual",
-      "sistema": "Eproc",
-      "ajuizadoBR": "25/09/2026",
-      "ajuizadoSort": "20260925",
-      "ultMov": "Definitivo",
-      "ultMovData": "2026-09-28",
-      "transito": false,
-      "frentes": [
-        "servidores"
-      ],
-      "trilha": "Servidores estaduais",
-      "prioridade": true,
-      "fase": "Execução (coletiva)",
-      "score": 414,
-      "stale": true
-    },
-    {
-      "numero": "59678766620268090051",
-      "numeroFmt": "5967876-66.2026.8.09.0051",
-      "tribunal": "TJGO",
-      "tribunalLabel": "Goiás · TJGO",
-      "uf": "GO",
-      "justica": "Estadual",
-      "grau": "G1",
-      "classeCod": 15160,
-      "classe": "Cumprimento de Sentença de Ações Coletivas",
-      "assuntos": [
-        "Piso Salarial",
-        "Fazenda Pública"
-      ],
-      "assuntosTxt": "Piso Salarial; Fazenda Pública",
-      "orgao": "4ª Vara da Fazenda Pública Estadual",
-      "sistema": "Eproc",
-      "ajuizadoBR": "25/09/2026",
-      "ajuizadoSort": "20260925",
-      "ultMov": "Petição",
-      "ultMovData": "2026-09-30",
-      "transito": false,
-      "frentes": [
-        "servidores"
-      ],
-      "trilha": "Servidores estaduais",
-      "prioridade": true,
-      "fase": "Execução (coletiva)",
-      "score": 414,
-      "stale": true
-    },
-    {
-      "numero": "59678827320268090051",
-      "numeroFmt": "5967882-73.2026.8.09.0051",
-      "tribunal": "TJGO",
-      "tribunalLabel": "Goiás · TJGO",
-      "uf": "GO",
-      "justica": "Estadual",
-      "grau": "G1",
-      "classeCod": 15161,
-      "classe": "Cumprimento Provisório de Sentença de Ações Coletivas",
-      "assuntos": [
-        "Piso Salarial"
-      ],
-      "assuntosTxt": "Piso Salarial",
-      "orgao": "8ª Vara da Fazenda Pública Estadual",
-      "sistema": "Eproc",
-      "ajuizadoBR": "25/09/2026",
-      "ajuizadoSort": "20260925",
-      "ultMov": "Confirmada",
-      "ultMovData": "2026-09-29",
-      "transito": false,
-      "frentes": [
-        "servidores"
-      ],
-      "trilha": "Servidores estaduais",
-      "prioridade": true,
-      "fase": "Execução (coletiva)",
-      "score": 414,
-      "stale": true
-    },
-    {
-      "numero": "59677692220268090051",
-      "numeroFmt": "5967769-22.2026.8.09.0051",
-      "tribunal": "TJGO",
-      "tribunalLabel": "Goiás · TJGO",
-      "uf": "GO",
-      "justica": "Estadual",
-      "grau": "G1",
-      "classeCod": 15160,
-      "classe": "Cumprimento de Sentença de Ações Coletivas",
-      "assuntos": [
-        "Piso Salarial"
-      ],
-      "assuntosTxt": "Piso Salarial",
-      "orgao": "8ª Vara da Fazenda Pública Estadual",
-      "sistema": "Eproc",
-      "ajuizadoBR": "25/09/2026",
-      "ajuizadoSort": "20260925",
-      "ultMov": "Confirmada",
-      "ultMovData": "2026-09-30",
-      "transito": false,
-      "frentes": [
-        "servidores"
-      ],
-      "trilha": "Servidores estaduais",
-      "prioridade": true,
-      "fase": "Execução (coletiva)",
-      "score": 414,
-      "stale": true
+      "score": 414
     },
     {
       "numero": "59677865820268090051",
@@ -2011,18 +75,16 @@
       "ultMovData": "2026-09-28",
       "transito": false,
       "frentes": [
-        "servidores",
         "consumidor"
       ],
       "trilha": "Consórcio",
       "prioridade": true,
       "fase": "Execução (coletiva)",
-      "score": 414,
-      "stale": true
+      "score": 414
     },
     {
-      "numero": "59677241820268090051",
-      "numeroFmt": "5967724-18.2026.8.09.0051",
+      "numero": "59603643220268090051",
+      "numeroFmt": "5960364-32.2026.8.09.0051",
       "tribunal": "TJGO",
       "tribunalLabel": "Goiás · TJGO",
       "uf": "GO",
@@ -2031,339 +93,27 @@
       "classeCod": 15160,
       "classe": "Cumprimento de Sentença de Ações Coletivas",
       "assuntos": [
-        "Piso Salarial",
-        "Fazenda Pública"
+        "Consórcio"
       ],
-      "assuntosTxt": "Piso Salarial; Fazenda Pública",
-      "orgao": "4ª Vara da Fazenda Pública Estadual",
-      "sistema": "Eproc",
-      "ajuizadoBR": "25/09/2026",
-      "ajuizadoSort": "20260925",
-      "ultMov": "Confirmada",
-      "ultMovData": "2026-09-29",
-      "transito": false,
-      "frentes": [
-        "servidores"
-      ],
-      "trilha": "Servidores estaduais",
-      "prioridade": true,
-      "fase": "Execução (coletiva)",
-      "score": 414,
-      "stale": true
-    },
-    {
-      "numero": "59676107920268090051",
-      "numeroFmt": "5967610-79.2026.8.09.0051",
-      "tribunal": "TJGO",
-      "tribunalLabel": "Goiás · TJGO",
-      "uf": "GO",
-      "justica": "Estadual",
-      "grau": "G1",
-      "classeCod": 15160,
-      "classe": "Cumprimento de Sentença de Ações Coletivas",
-      "assuntos": [
-        "Piso Salarial"
-      ],
-      "assuntosTxt": "Piso Salarial",
-      "orgao": "8ª Vara da Fazenda Pública Estadual",
-      "sistema": "Eproc",
-      "ajuizadoBR": "25/09/2026",
-      "ajuizadoSort": "20260925",
-      "ultMov": "Confirmada",
-      "ultMovData": "2026-09-29",
-      "transito": false,
-      "frentes": [
-        "servidores"
-      ],
-      "trilha": "Servidores estaduais",
-      "prioridade": true,
-      "fase": "Execução (coletiva)",
-      "score": 414,
-      "stale": true
-    },
-    {
-      "numero": "59673604620268090051",
-      "numeroFmt": "5967360-46.2026.8.09.0051",
-      "tribunal": "TJGO",
-      "tribunalLabel": "Goiás · TJGO",
-      "uf": "GO",
-      "justica": "Estadual",
-      "grau": "G1",
-      "classeCod": 15160,
-      "classe": "Cumprimento de Sentença de Ações Coletivas",
-      "assuntos": [
-        "Piso Salarial",
-        "Fazenda Pública"
-      ],
-      "assuntosTxt": "Piso Salarial; Fazenda Pública",
-      "orgao": "8ª Vara da Fazenda Pública Estadual",
-      "sistema": "Eproc",
-      "ajuizadoBR": "25/09/2026",
-      "ajuizadoSort": "20260925",
-      "ultMov": "Confirmada",
-      "ultMovData": "2026-09-30",
-      "transito": false,
-      "frentes": [
-        "servidores"
-      ],
-      "trilha": "Servidores estaduais",
-      "prioridade": true,
-      "fase": "Execução (coletiva)",
-      "score": 414,
-      "stale": true
-    },
-    {
-      "numero": "59663766220268090051",
-      "numeroFmt": "5966376-62.2026.8.09.0051",
-      "tribunal": "TJGO",
-      "tribunalLabel": "Goiás · TJGO",
-      "uf": "GO",
-      "justica": "Estadual",
-      "grau": "G1",
-      "classeCod": 15160,
-      "classe": "Cumprimento de Sentença de Ações Coletivas",
-      "assuntos": [
-        "Piso Salarial",
-        "Fazenda Pública"
-      ],
-      "assuntosTxt": "Piso Salarial; Fazenda Pública",
-      "orgao": "4ª Vara da Fazenda Pública Estadual",
-      "sistema": "Eproc",
-      "ajuizadoBR": "25/09/2026",
-      "ajuizadoSort": "20260925",
-      "ultMov": "Confirmada",
-      "ultMovData": "2026-09-30",
-      "transito": false,
-      "frentes": [
-        "servidores"
-      ],
-      "trilha": "Servidores estaduais",
-      "prioridade": true,
-      "fase": "Execução (coletiva)",
-      "score": 414,
-      "stale": true
-    },
-    {
-      "numero": "59662752520268090051",
-      "numeroFmt": "5966275-25.2026.8.09.0051",
-      "tribunal": "TJGO",
-      "tribunalLabel": "Goiás · TJGO",
-      "uf": "GO",
-      "justica": "Estadual",
-      "grau": "G1",
-      "classeCod": 15160,
-      "classe": "Cumprimento de Sentença de Ações Coletivas",
-      "assuntos": [
-        "Piso Salarial",
-        "Fazenda Pública"
-      ],
-      "assuntosTxt": "Piso Salarial; Fazenda Pública",
-      "orgao": "4ª Vara da Fazenda Pública Estadual",
-      "sistema": "Eproc",
-      "ajuizadoBR": "25/09/2026",
-      "ajuizadoSort": "20260925",
-      "ultMov": "Confirmada",
-      "ultMovData": "2026-09-30",
-      "transito": false,
-      "frentes": [
-        "servidores"
-      ],
-      "trilha": "Servidores estaduais",
-      "prioridade": true,
-      "fase": "Execução (coletiva)",
-      "score": 414,
-      "stale": true
-    },
-    {
-      "numero": "59658023920268090051",
-      "numeroFmt": "5965802-39.2026.8.09.0051",
-      "tribunal": "TJGO",
-      "tribunalLabel": "Goiás · TJGO",
-      "uf": "GO",
-      "justica": "Estadual",
-      "grau": "G1",
-      "classeCod": 15160,
-      "classe": "Cumprimento de Sentença de Ações Coletivas",
-      "assuntos": [
-        "Piso Salarial",
-        "Fazenda Pública"
-      ],
-      "assuntosTxt": "Piso Salarial; Fazenda Pública",
-      "orgao": "8ª Vara da Fazenda Pública Estadual",
-      "sistema": "Eproc",
-      "ajuizadoBR": "25/09/2026",
-      "ajuizadoSort": "20260925",
-      "ultMov": "Confirmada",
-      "ultMovData": "2026-09-30",
-      "transito": false,
-      "frentes": [
-        "servidores"
-      ],
-      "trilha": "Servidores estaduais",
-      "prioridade": true,
-      "fase": "Execução (coletiva)",
-      "score": 414,
-      "stale": true
-    },
-    {
-      "numero": "59656854820268090051",
-      "numeroFmt": "5965685-48.2026.8.09.0051",
-      "tribunal": "TJGO",
-      "tribunalLabel": "Goiás · TJGO",
-      "uf": "GO",
-      "justica": "Estadual",
-      "grau": "G1",
-      "classeCod": 15160,
-      "classe": "Cumprimento de Sentença de Ações Coletivas",
-      "assuntos": [
-        "Piso Salarial",
-        "Fazenda Pública"
-      ],
-      "assuntosTxt": "Piso Salarial; Fazenda Pública",
-      "orgao": "8ª Vara da Fazenda Pública Estadual",
-      "sistema": "Eproc",
-      "ajuizadoBR": "25/09/2026",
-      "ajuizadoSort": "20260925",
-      "ultMov": "Confirmada",
-      "ultMovData": "2026-09-30",
-      "transito": false,
-      "frentes": [
-        "servidores"
-      ],
-      "trilha": "Servidores estaduais",
-      "prioridade": true,
-      "fase": "Execução (coletiva)",
-      "score": 414,
-      "stale": true
-    },
-    {
-      "numero": "59656283020268090051",
-      "numeroFmt": "5965628-30.2026.8.09.0051",
-      "tribunal": "TJGO",
-      "tribunalLabel": "Goiás · TJGO",
-      "uf": "GO",
-      "justica": "Estadual",
-      "grau": "G1",
-      "classeCod": 15160,
-      "classe": "Cumprimento de Sentença de Ações Coletivas",
-      "assuntos": [
-        "Piso Salarial",
-        "Fazenda Pública"
-      ],
-      "assuntosTxt": "Piso Salarial; Fazenda Pública",
-      "orgao": "4ª Vara da Fazenda Pública Estadual",
-      "sistema": "Eproc",
-      "ajuizadoBR": "25/09/2026",
-      "ajuizadoSort": "20260925",
-      "ultMov": "Confirmada",
-      "ultMovData": "2026-09-30",
-      "transito": false,
-      "frentes": [
-        "servidores"
-      ],
-      "trilha": "Servidores estaduais",
-      "prioridade": true,
-      "fase": "Execução (coletiva)",
-      "score": 414,
-      "stale": true
-    },
-    {
-      "numero": "59656249020268090051",
-      "numeroFmt": "5965624-90.2026.8.09.0051",
-      "tribunal": "TJGO",
-      "tribunalLabel": "Goiás · TJGO",
-      "uf": "GO",
-      "justica": "Estadual",
-      "grau": "G1",
-      "classeCod": 15160,
-      "classe": "Cumprimento de Sentença de Ações Coletivas",
-      "assuntos": [
-        "Piso Salarial",
-        "Horas Extras ",
-        "Fazenda Pública"
-      ],
-      "assuntosTxt": "Piso Salarial; Horas Extras ; Fazenda Pública",
-      "orgao": "4ª Vara da Fazenda Pública Estadual",
-      "sistema": "Eproc",
-      "ajuizadoBR": "25/09/2026",
-      "ajuizadoSort": "20260925",
-      "ultMov": "Confirmada",
-      "ultMovData": "2026-09-30",
-      "transito": false,
-      "frentes": [
-        "servidores"
-      ],
-      "trilha": "Servidores estaduais",
-      "prioridade": true,
-      "fase": "Execução (coletiva)",
-      "score": 414,
-      "stale": true
-    },
-    {
-      "numero": "59655798620268090051",
-      "numeroFmt": "5965579-86.2026.8.09.0051",
-      "tribunal": "TJGO",
-      "tribunalLabel": "Goiás · TJGO",
-      "uf": "GO",
-      "justica": "Estadual",
-      "grau": "G1",
-      "classeCod": 15160,
-      "classe": "Cumprimento de Sentença de Ações Coletivas",
-      "assuntos": [
-        "Piso Salarial",
-        "Fazenda Pública"
-      ],
-      "assuntosTxt": "Piso Salarial; Fazenda Pública",
-      "orgao": "4ª Vara da Fazenda Pública Estadual",
-      "sistema": "Eproc",
-      "ajuizadoBR": "25/09/2026",
-      "ajuizadoSort": "20260925",
-      "ultMov": "Confirmada",
-      "ultMovData": "2026-09-29",
-      "transito": false,
-      "frentes": [
-        "servidores"
-      ],
-      "trilha": "Servidores estaduais",
-      "prioridade": true,
-      "fase": "Execução (coletiva)",
-      "score": 414,
-      "stale": true
-    },
-    {
-      "numero": "59625632720268090051",
-      "numeroFmt": "5962563-27.2026.8.09.0051",
-      "tribunal": "TJGO",
-      "tribunalLabel": "Goiás · TJGO",
-      "uf": "GO",
-      "justica": "Estadual",
-      "grau": "G1",
-      "classeCod": 15160,
-      "classe": "Cumprimento de Sentença de Ações Coletivas",
-      "assuntos": [
-        "Piso Salarial",
-        "Fazenda Pública"
-      ],
-      "assuntosTxt": "Piso Salarial; Fazenda Pública",
-      "orgao": "8ª Vara da Fazenda Pública Estadual",
+      "assuntosTxt": "Consórcio",
+      "orgao": "18ª Vara Cível e Ambiental",
       "sistema": "Eproc",
       "ajuizadoBR": "24/09/2026",
       "ajuizadoSort": "20260924",
-      "ultMov": "Confirmada",
+      "ultMov": "Conclusão",
       "ultMovData": "2026-09-29",
       "transito": false,
       "frentes": [
-        "servidores"
+        "consumidor"
       ],
-      "trilha": "Servidores estaduais",
+      "trilha": "Consórcio",
       "prioridade": true,
       "fase": "Execução (coletiva)",
-      "score": 414,
-      "stale": true
+      "score": 414
     },
     {
-      "numero": "59619276120268090051",
-      "numeroFmt": "5961927-61.2026.8.09.0051",
+      "numero": "59433893220268090051",
+      "numeroFmt": "5943389-32.2026.8.09.0051",
       "tribunal": "TJGO",
       "tribunalLabel": "Goiás · TJGO",
       "uf": "GO",
@@ -2372,29 +122,695 @@
       "classeCod": 15160,
       "classe": "Cumprimento de Sentença de Ações Coletivas",
       "assuntos": [
-        "Piso Salarial",
-        "Fazenda Pública"
+        "Consórcio"
       ],
-      "assuntosTxt": "Piso Salarial; Fazenda Pública",
-      "orgao": "4ª Vara da Fazenda Pública Estadual",
+      "assuntosTxt": "Consórcio",
+      "orgao": "20ª Vara Cível",
       "sistema": "Eproc",
-      "ajuizadoBR": "24/09/2026",
-      "ajuizadoSort": "20260924",
-      "ultMov": "Documento",
+      "ajuizadoBR": "22/09/2026",
+      "ajuizadoSort": "20260922",
+      "ultMov": "Conclusão",
+      "ultMovData": "2026-09-25",
+      "transito": false,
+      "frentes": [
+        "consumidor"
+      ],
+      "trilha": "Consórcio",
+      "prioridade": true,
+      "fase": "Execução (coletiva)",
+      "score": 414
+    },
+    {
+      "numero": "59370834720268090051",
+      "numeroFmt": "5937083-47.2026.8.09.0051",
+      "tribunal": "TJGO",
+      "tribunalLabel": "Goiás · TJGO",
+      "uf": "GO",
+      "justica": "Estadual",
+      "grau": "G1",
+      "classeCod": 15160,
+      "classe": "Cumprimento de Sentença de Ações Coletivas",
+      "assuntos": [
+        "Consórcio"
+      ],
+      "assuntosTxt": "Consórcio",
+      "orgao": "Gabinete da Central de Cumprimento de Sentença Cível - Juiz 2",
+      "sistema": "Eproc",
+      "ajuizadoBR": "21/09/2026",
+      "ajuizadoSort": "20260921",
+      "ultMov": "Remessa",
+      "ultMovData": "2026-09-29",
+      "transito": false,
+      "frentes": [
+        "consumidor"
+      ],
+      "trilha": "Consórcio",
+      "prioridade": true,
+      "fase": "Execução (coletiva)",
+      "score": 414
+    },
+    {
+      "numero": "59352170420268090051",
+      "numeroFmt": "5935217-04.2026.8.09.0051",
+      "tribunal": "TJGO",
+      "tribunalLabel": "Goiás · TJGO",
+      "uf": "GO",
+      "justica": "Estadual",
+      "grau": "G1",
+      "classeCod": 15160,
+      "classe": "Cumprimento de Sentença de Ações Coletivas",
+      "assuntos": [
+        "Consórcio"
+      ],
+      "assuntosTxt": "Consórcio",
+      "orgao": "Gabinete da Central de Cumprimento de Sentença Cível - Juiz 1",
+      "sistema": "Eproc",
+      "ajuizadoBR": "21/09/2026",
+      "ajuizadoSort": "20260921",
+      "ultMov": "Remessa",
+      "ultMovData": "2026-09-30",
+      "transito": false,
+      "frentes": [
+        "consumidor"
+      ],
+      "trilha": "Consórcio",
+      "prioridade": true,
+      "fase": "Execução (coletiva)",
+      "score": 414
+    },
+    {
+      "numero": "59351191920268090051",
+      "numeroFmt": "5935119-19.2026.8.09.0051",
+      "tribunal": "TJGO",
+      "tribunalLabel": "Goiás · TJGO",
+      "uf": "GO",
+      "justica": "Estadual",
+      "grau": "G1",
+      "classeCod": 15160,
+      "classe": "Cumprimento de Sentença de Ações Coletivas",
+      "assuntos": [
+        "Consórcio"
+      ],
+      "assuntosTxt": "Consórcio",
+      "orgao": "20ª Vara Cível",
+      "sistema": "Eproc",
+      "ajuizadoBR": "21/09/2026",
+      "ajuizadoSort": "20260921",
+      "ultMov": "Confirmada",
+      "ultMovData": "2026-09-25",
+      "transito": false,
+      "frentes": [
+        "consumidor"
+      ],
+      "trilha": "Consórcio",
+      "prioridade": true,
+      "fase": "Execução (coletiva)",
+      "score": 414
+    },
+    {
+      "numero": "59283716820268090051",
+      "numeroFmt": "5928371-68.2026.8.09.0051",
+      "tribunal": "TJGO",
+      "tribunalLabel": "Goiás · TJGO",
+      "uf": "GO",
+      "justica": "Estadual",
+      "grau": "G1",
+      "classeCod": 15160,
+      "classe": "Cumprimento de Sentença de Ações Coletivas",
+      "assuntos": [
+        "Consórcio"
+      ],
+      "assuntosTxt": "Consórcio",
+      "orgao": "6ª Vara Cível",
+      "sistema": "Eproc",
+      "ajuizadoBR": "18/09/2026",
+      "ajuizadoSort": "20260918",
+      "ultMov": "Confirmada",
+      "ultMovData": "2026-09-24",
+      "transito": false,
+      "frentes": [
+        "consumidor"
+      ],
+      "trilha": "Consórcio",
+      "prioridade": true,
+      "fase": "Execução (coletiva)",
+      "score": 414
+    },
+    {
+      "numero": "59229872720268090051",
+      "numeroFmt": "5922987-27.2026.8.09.0051",
+      "tribunal": "TJGO",
+      "tribunalLabel": "Goiás · TJGO",
+      "uf": "GO",
+      "justica": "Estadual",
+      "grau": "G1",
+      "classeCod": 15160,
+      "classe": "Cumprimento de Sentença de Ações Coletivas",
+      "assuntos": [
+        "Consórcio"
+      ],
+      "assuntosTxt": "Consórcio",
+      "orgao": "26ª Vara Cível",
+      "sistema": "Eproc",
+      "ajuizadoBR": "18/09/2026",
+      "ajuizadoSort": "20260918",
+      "ultMov": "Confirmada",
+      "ultMovData": "2026-09-25",
+      "transito": false,
+      "frentes": [
+        "consumidor"
+      ],
+      "trilha": "Consórcio",
+      "prioridade": true,
+      "fase": "Execução (coletiva)",
+      "score": 414
+    },
+    {
+      "numero": "59223187120268090051",
+      "numeroFmt": "5922318-71.2026.8.09.0051",
+      "tribunal": "TJGO",
+      "tribunalLabel": "Goiás · TJGO",
+      "uf": "GO",
+      "justica": "Estadual",
+      "grau": "G1",
+      "classeCod": 15160,
+      "classe": "Cumprimento de Sentença de Ações Coletivas",
+      "assuntos": [
+        "Consórcio"
+      ],
+      "assuntosTxt": "Consórcio",
+      "orgao": "Gabinete da Central de Cumprimento de Sentença Cível - Juiz 1",
+      "sistema": "Eproc",
+      "ajuizadoBR": "18/09/2026",
+      "ajuizadoSort": "20260918",
+      "ultMov": "Confirmada",
+      "ultMovData": "2026-09-29",
+      "transito": false,
+      "frentes": [
+        "consumidor"
+      ],
+      "trilha": "Consórcio",
+      "prioridade": true,
+      "fase": "Execução (coletiva)",
+      "score": 414
+    },
+    {
+      "numero": "59189063520268090051",
+      "numeroFmt": "5918906-35.2026.8.09.0051",
+      "tribunal": "TJGO",
+      "tribunalLabel": "Goiás · TJGO",
+      "uf": "GO",
+      "justica": "Estadual",
+      "grau": "G1",
+      "classeCod": 15160,
+      "classe": "Cumprimento de Sentença de Ações Coletivas",
+      "assuntos": [
+        "Consórcio"
+      ],
+      "assuntosTxt": "Consórcio",
+      "orgao": "3ª Vara Cível",
+      "sistema": "Eproc",
+      "ajuizadoBR": "17/09/2026",
+      "ajuizadoSort": "20260917",
+      "ultMov": "Redistribuição",
+      "ultMovData": "2026-09-24",
+      "transito": false,
+      "frentes": [
+        "consumidor"
+      ],
+      "trilha": "Consórcio",
+      "prioridade": true,
+      "fase": "Execução (coletiva)",
+      "score": 414
+    },
+    {
+      "numero": "59149873820268090051",
+      "numeroFmt": "5914987-38.2026.8.09.0051",
+      "tribunal": "TJGO",
+      "tribunalLabel": "Goiás · TJGO",
+      "uf": "GO",
+      "justica": "Estadual",
+      "grau": "G1",
+      "classeCod": 15160,
+      "classe": "Cumprimento de Sentença de Ações Coletivas",
+      "assuntos": [
+        "Consórcio"
+      ],
+      "assuntosTxt": "Consórcio",
+      "orgao": "19ª Vara Cível e Ambiental",
+      "sistema": "Eproc",
+      "ajuizadoBR": "17/09/2026",
+      "ajuizadoSort": "20260917",
+      "ultMov": "Outras Decisões",
+      "ultMovData": "2026-09-21",
+      "transito": false,
+      "frentes": [
+        "consumidor"
+      ],
+      "trilha": "Consórcio",
+      "prioridade": true,
+      "fase": "Execução (coletiva)",
+      "score": 414
+    },
+    {
+      "numero": "59080096820268090011",
+      "numeroFmt": "5908009-68.2026.8.09.0011",
+      "tribunal": "TJGO",
+      "tribunalLabel": "Goiás · TJGO",
+      "uf": "GO",
+      "justica": "Estadual",
+      "grau": "G1",
+      "classeCod": 15160,
+      "classe": "Cumprimento de Sentença de Ações Coletivas",
+      "assuntos": [
+        "Consórcio"
+      ],
+      "assuntosTxt": "Consórcio",
+      "orgao": "5ª Vara Cível",
+      "sistema": "Eproc",
+      "ajuizadoBR": "16/09/2026",
+      "ajuizadoSort": "20260916",
+      "ultMov": "Expedida/Certificada",
+      "ultMovData": "2026-09-25",
+      "transito": false,
+      "frentes": [
+        "consumidor"
+      ],
+      "trilha": "Consórcio",
+      "prioridade": true,
+      "fase": "Execução (coletiva)",
+      "score": 414
+    },
+    {
+      "numero": "58843925620268090051",
+      "numeroFmt": "5884392-56.2026.8.09.0051",
+      "tribunal": "TJGO",
+      "tribunalLabel": "Goiás · TJGO",
+      "uf": "GO",
+      "justica": "Estadual",
+      "grau": "G1",
+      "classeCod": 15160,
+      "classe": "Cumprimento de Sentença de Ações Coletivas",
+      "assuntos": [
+        "Consórcio",
+        "Competência dos Juizados Especiais"
+      ],
+      "assuntosTxt": "Consórcio; Competência dos Juizados Especiais",
+      "orgao": "4ª Vara Cível",
+      "sistema": "Eproc",
+      "ajuizadoBR": "14/09/2026",
+      "ajuizadoSort": "20260914",
+      "ultMov": "Conclusão",
+      "ultMovData": "2026-09-21",
+      "transito": false,
+      "frentes": [
+        "consumidor"
+      ],
+      "trilha": "Consórcio",
+      "prioridade": true,
+      "fase": "Execução (coletiva)",
+      "score": 414
+    },
+    {
+      "numero": "58725143720268090051",
+      "numeroFmt": "5872514-37.2026.8.09.0051",
+      "tribunal": "TJGO",
+      "tribunalLabel": "Goiás · TJGO",
+      "uf": "GO",
+      "justica": "Estadual",
+      "grau": "G1",
+      "classeCod": 15160,
+      "classe": "Cumprimento de Sentença de Ações Coletivas",
+      "assuntos": [
+        "Consórcio"
+      ],
+      "assuntosTxt": "Consórcio",
+      "orgao": "Gabinete da Central de Cumprimento de Sentença Cível - Juiz 6",
+      "sistema": "Eproc",
+      "ajuizadoBR": "11/09/2026",
+      "ajuizadoSort": "20260911",
+      "ultMov": "Confirmada",
+      "ultMovData": "2026-09-24",
+      "transito": false,
+      "frentes": [
+        "consumidor"
+      ],
+      "trilha": "Consórcio",
+      "prioridade": true,
+      "fase": "Execução (coletiva)",
+      "score": 414
+    },
+    {
+      "numero": "58674929520268090051",
+      "numeroFmt": "5867492-95.2026.8.09.0051",
+      "tribunal": "TJGO",
+      "tribunalLabel": "Goiás · TJGO",
+      "uf": "GO",
+      "justica": "Estadual",
+      "grau": "G1",
+      "classeCod": 15160,
+      "classe": "Cumprimento de Sentença de Ações Coletivas",
+      "assuntos": [
+        "Consórcio"
+      ],
+      "assuntosTxt": "Consórcio",
+      "orgao": "23ª Vara Cível",
+      "sistema": "Eproc",
+      "ajuizadoBR": "11/09/2026",
+      "ajuizadoSort": "20260911",
+      "ultMov": "Confirmada",
+      "ultMovData": "2026-09-16",
+      "transito": false,
+      "frentes": [
+        "consumidor"
+      ],
+      "trilha": "Consórcio",
+      "prioridade": true,
+      "fase": "Execução (coletiva)",
+      "score": 414
+    },
+    {
+      "numero": "58668303420268090051",
+      "numeroFmt": "5866830-34.2026.8.09.0051",
+      "tribunal": "TJGO",
+      "tribunalLabel": "Goiás · TJGO",
+      "uf": "GO",
+      "justica": "Estadual",
+      "grau": "G1",
+      "classeCod": 15160,
+      "classe": "Cumprimento de Sentença de Ações Coletivas",
+      "assuntos": [
+        "Consórcio"
+      ],
+      "assuntosTxt": "Consórcio",
+      "orgao": "19ª Vara Cível e Ambiental",
+      "sistema": "Eproc",
+      "ajuizadoBR": "11/09/2026",
+      "ajuizadoSort": "20260911",
+      "ultMov": "Outras Decisões",
+      "ultMovData": "2026-09-16",
+      "transito": false,
+      "frentes": [
+        "consumidor"
+      ],
+      "trilha": "Consórcio",
+      "prioridade": true,
+      "fase": "Execução (coletiva)",
+      "score": 414
+    },
+    {
+      "numero": "58529446520268090051",
+      "numeroFmt": "5852944-65.2026.8.09.0051",
+      "tribunal": "TJGO",
+      "tribunalLabel": "Goiás · TJGO",
+      "uf": "GO",
+      "justica": "Estadual",
+      "grau": "G1",
+      "classeCod": 15160,
+      "classe": "Cumprimento de Sentença de Ações Coletivas",
+      "assuntos": [
+        "Consórcio"
+      ],
+      "assuntosTxt": "Consórcio",
+      "orgao": "Gabinete da Central de Cumprimento de Sentença Cível - Juiz 5",
+      "sistema": "Eproc",
+      "ajuizadoBR": "08/09/2026",
+      "ajuizadoSort": "20260908",
+      "ultMov": "Conclusão",
+      "ultMovData": "2026-09-22",
+      "transito": false,
+      "frentes": [
+        "consumidor"
+      ],
+      "trilha": "Consórcio",
+      "prioridade": true,
+      "fase": "Execução (coletiva)",
+      "score": 414
+    },
+    {
+      "numero": "58443636120268090051",
+      "numeroFmt": "5844363-61.2026.8.09.0051",
+      "tribunal": "TJGO",
+      "tribunalLabel": "Goiás · TJGO",
+      "uf": "GO",
+      "justica": "Estadual",
+      "grau": "G1",
+      "classeCod": 15160,
+      "classe": "Cumprimento de Sentença de Ações Coletivas",
+      "assuntos": [
+        "Consórcio"
+      ],
+      "assuntosTxt": "Consórcio",
+      "orgao": "Gabinete da Central de Cumprimento de Sentença Cível - Juiz 3",
+      "sistema": "Eproc",
+      "ajuizadoBR": "04/09/2026",
+      "ajuizadoSort": "20260904",
+      "ultMov": "Expedida/certificada",
+      "ultMovData": "2026-09-18",
+      "transito": false,
+      "frentes": [
+        "consumidor"
+      ],
+      "trilha": "Consórcio",
+      "prioridade": true,
+      "fase": "Execução (coletiva)",
+      "score": 414
+    },
+    {
+      "numero": "58439219520268090051",
+      "numeroFmt": "5843921-95.2026.8.09.0051",
+      "tribunal": "TJGO",
+      "tribunalLabel": "Goiás · TJGO",
+      "uf": "GO",
+      "justica": "Estadual",
+      "grau": "G1",
+      "classeCod": 15160,
+      "classe": "Cumprimento de Sentença de Ações Coletivas",
+      "assuntos": [
+        "Consórcio"
+      ],
+      "assuntosTxt": "Consórcio",
+      "orgao": "3ª Vara Cível",
+      "sistema": "Eproc",
+      "ajuizadoBR": "04/09/2026",
+      "ajuizadoSort": "20260904",
+      "ultMov": "Conclusão",
+      "ultMovData": "2026-09-14",
+      "transito": false,
+      "frentes": [
+        "consumidor"
+      ],
+      "trilha": "Consórcio",
+      "prioridade": true,
+      "fase": "Execução (coletiva)",
+      "score": 414
+    },
+    {
+      "numero": "58437235820268090051",
+      "numeroFmt": "5843723-58.2026.8.09.0051",
+      "tribunal": "TJGO",
+      "tribunalLabel": "Goiás · TJGO",
+      "uf": "GO",
+      "justica": "Estadual",
+      "grau": "G1",
+      "classeCod": 15160,
+      "classe": "Cumprimento de Sentença de Ações Coletivas",
+      "assuntos": [
+        "Consórcio"
+      ],
+      "assuntosTxt": "Consórcio",
+      "orgao": "Gabinete da Central de Cumprimento de Sentença Cível - Juiz 2",
+      "sistema": "Eproc",
+      "ajuizadoBR": "04/09/2026",
+      "ajuizadoSort": "20260904",
+      "ultMov": "Confirmada",
+      "ultMovData": "2026-09-16",
+      "transito": false,
+      "frentes": [
+        "consumidor"
+      ],
+      "trilha": "Consórcio",
+      "prioridade": true,
+      "fase": "Execução (coletiva)",
+      "score": 414
+    },
+    {
+      "numero": "58415713720268090051",
+      "numeroFmt": "5841571-37.2026.8.09.0051",
+      "tribunal": "TJGO",
+      "tribunalLabel": "Goiás · TJGO",
+      "uf": "GO",
+      "justica": "Estadual",
+      "grau": "G1",
+      "classeCod": 15160,
+      "classe": "Cumprimento de Sentença de Ações Coletivas",
+      "assuntos": [
+        "Consórcio"
+      ],
+      "assuntosTxt": "Consórcio",
+      "orgao": "12ª Vara Cível",
+      "sistema": "Eproc",
+      "ajuizadoBR": "03/09/2026",
+      "ajuizadoSort": "20260903",
+      "ultMov": "Confirmada",
+      "ultMovData": "2026-09-15",
+      "transito": false,
+      "frentes": [
+        "consumidor"
+      ],
+      "trilha": "Consórcio",
+      "prioridade": true,
+      "fase": "Execução (coletiva)",
+      "score": 414
+    },
+    {
+      "numero": "58411098020268090051",
+      "numeroFmt": "5841109-80.2026.8.09.0051",
+      "tribunal": "TJGO",
+      "tribunalLabel": "Goiás · TJGO",
+      "uf": "GO",
+      "justica": "Estadual",
+      "grau": "G1",
+      "classeCod": 15160,
+      "classe": "Cumprimento de Sentença de Ações Coletivas",
+      "assuntos": [
+        "Consórcio"
+      ],
+      "assuntosTxt": "Consórcio",
+      "orgao": "Gabinete da Central de Cumprimento de Sentença Cível - Juiz 1",
+      "sistema": "Eproc",
+      "ajuizadoBR": "03/09/2026",
+      "ajuizadoSort": "20260903",
+      "ultMov": "Confirmada",
+      "ultMovData": "2026-09-21",
+      "transito": false,
+      "frentes": [
+        "consumidor"
+      ],
+      "trilha": "Consórcio",
+      "prioridade": true,
+      "fase": "Execução (coletiva)",
+      "score": 414
+    },
+    {
+      "numero": "58405485620268090051",
+      "numeroFmt": "5840548-56.2026.8.09.0051",
+      "tribunal": "TJGO",
+      "tribunalLabel": "Goiás · TJGO",
+      "uf": "GO",
+      "justica": "Estadual",
+      "grau": "G1",
+      "classeCod": 15160,
+      "classe": "Cumprimento de Sentença de Ações Coletivas",
+      "assuntos": [
+        "Consórcio"
+      ],
+      "assuntosTxt": "Consórcio",
+      "orgao": "Gabinete da Central de Cumprimento de Sentença Cível - Juiz 6",
+      "sistema": "Eproc",
+      "ajuizadoBR": "03/09/2026",
+      "ajuizadoSort": "20260903",
+      "ultMov": "Confirmada",
+      "ultMovData": "2026-09-25",
+      "transito": false,
+      "frentes": [
+        "consumidor"
+      ],
+      "trilha": "Consórcio",
+      "prioridade": true,
+      "fase": "Execução (coletiva)",
+      "score": 414
+    },
+    {
+      "numero": "58397352920268090051",
+      "numeroFmt": "5839735-29.2026.8.09.0051",
+      "tribunal": "TJGO",
+      "tribunalLabel": "Goiás · TJGO",
+      "uf": "GO",
+      "justica": "Estadual",
+      "grau": "G1",
+      "classeCod": 15160,
+      "classe": "Cumprimento de Sentença de Ações Coletivas",
+      "assuntos": [
+        "Consórcio"
+      ],
+      "assuntosTxt": "Consórcio",
+      "orgao": "Gabinete da Central de Cumprimento de Sentenca Civel - Juiz 8",
+      "sistema": "Eproc",
+      "ajuizadoBR": "03/09/2026",
+      "ajuizadoSort": "20260903",
+      "ultMov": "Expedida/certificada",
+      "ultMovData": "2026-09-21",
+      "transito": false,
+      "frentes": [
+        "consumidor"
+      ],
+      "trilha": "Consórcio",
+      "prioridade": true,
+      "fase": "Execução (coletiva)",
+      "score": 414
+    },
+    {
+      "numero": "58389861220268090051",
+      "numeroFmt": "5838986-12.2026.8.09.0051",
+      "tribunal": "TJGO",
+      "tribunalLabel": "Goiás · TJGO",
+      "uf": "GO",
+      "justica": "Estadual",
+      "grau": "G1",
+      "classeCod": 15160,
+      "classe": "Cumprimento de Sentença de Ações Coletivas",
+      "assuntos": [
+        "Consórcio"
+      ],
+      "assuntosTxt": "Consórcio",
+      "orgao": "Gabinete da Central de Cumprimento de Sentença Cível - Juiz 3",
+      "sistema": "Eproc",
+      "ajuizadoBR": "03/09/2026",
+      "ajuizadoSort": "20260903",
+      "ultMov": "Confirmada",
+      "ultMovData": "2026-09-22",
+      "transito": false,
+      "frentes": [
+        "consumidor"
+      ],
+      "trilha": "Consórcio",
+      "prioridade": true,
+      "fase": "Execução (coletiva)",
+      "score": 414
+    },
+    {
+      "numero": "58389619620268090051",
+      "numeroFmt": "5838961-96.2026.8.09.0051",
+      "tribunal": "TJGO",
+      "tribunalLabel": "Goiás · TJGO",
+      "uf": "GO",
+      "justica": "Estadual",
+      "grau": "G1",
+      "classeCod": 15160,
+      "classe": "Cumprimento de Sentença de Ações Coletivas",
+      "assuntos": [
+        "Consórcio"
+      ],
+      "assuntosTxt": "Consórcio",
+      "orgao": "27ª Vara Cível",
+      "sistema": "Eproc",
+      "ajuizadoBR": "03/09/2026",
+      "ajuizadoSort": "20260903",
+      "ultMov": "Mero expediente",
       "ultMovData": "2026-09-28",
       "transito": false,
       "frentes": [
-        "servidores"
+        "consumidor"
       ],
-      "trilha": "Servidores estaduais",
+      "trilha": "Consórcio",
       "prioridade": true,
       "fase": "Execução (coletiva)",
-      "score": 414,
-      "stale": true
+      "score": 414
     },
     {
-      "numero": "59607506220268090051",
-      "numeroFmt": "5960750-62.2026.8.09.0051",
+      "numero": "58257750620268090051",
+      "numeroFmt": "5825775-06.2026.8.09.0051",
       "tribunal": "TJGO",
       "tribunalLabel": "Goiás · TJGO",
       "uf": "GO",
@@ -2403,29 +819,520 @@
       "classeCod": 15160,
       "classe": "Cumprimento de Sentença de Ações Coletivas",
       "assuntos": [
-        "Piso Salarial",
-        "Fazenda Pública"
+        "Consórcio"
       ],
-      "assuntosTxt": "Piso Salarial; Fazenda Pública",
-      "orgao": "4ª Vara da Fazenda Pública Estadual",
+      "assuntosTxt": "Consórcio",
+      "orgao": "2ª Vara Cível",
       "sistema": "Eproc",
-      "ajuizadoBR": "24/09/2026",
-      "ajuizadoSort": "20260924",
+      "ajuizadoBR": "31/08/2026",
+      "ajuizadoSort": "20260831",
+      "ultMov": "Conclusão",
+      "ultMovData": "2026-09-23",
+      "transito": false,
+      "frentes": [
+        "consumidor"
+      ],
+      "trilha": "Consórcio",
+      "prioridade": true,
+      "fase": "Execução (coletiva)",
+      "score": 414
+    },
+    {
+      "numero": "58188586820268090051",
+      "numeroFmt": "5818858-68.2026.8.09.0051",
+      "tribunal": "TJGO",
+      "tribunalLabel": "Goiás · TJGO",
+      "uf": "GO",
+      "justica": "Estadual",
+      "grau": "G1",
+      "classeCod": 15160,
+      "classe": "Cumprimento de Sentença de Ações Coletivas",
+      "assuntos": [
+        "Consórcio"
+      ],
+      "assuntosTxt": "Consórcio",
+      "orgao": "Gabinete da Central de Cumprimento de Sentença Cível - Juiz 2",
+      "sistema": "Eproc",
+      "ajuizadoBR": "28/08/2026",
+      "ajuizadoSort": "20260828",
+      "ultMov": "Conclusão",
+      "ultMovData": "2026-09-24",
+      "transito": false,
+      "frentes": [
+        "consumidor"
+      ],
+      "trilha": "Consórcio",
+      "prioridade": true,
+      "fase": "Execução (coletiva)",
+      "score": 414
+    },
+    {
+      "numero": "58000440820268090051",
+      "numeroFmt": "5800044-08.2026.8.09.0051",
+      "tribunal": "TJGO",
+      "tribunalLabel": "Goiás · TJGO",
+      "uf": "GO",
+      "justica": "Estadual",
+      "grau": "G1",
+      "classeCod": 15160,
+      "classe": "Cumprimento de Sentença de Ações Coletivas",
+      "assuntos": [
+        "Consórcio"
+      ],
+      "assuntosTxt": "Consórcio",
+      "orgao": "5ª Vara Cível e de Arbitragem",
+      "sistema": "Eproc",
+      "ajuizadoBR": "24/08/2026",
+      "ajuizadoSort": "20260824",
+      "ultMov": "Conclusão",
+      "ultMovData": "2026-09-22",
+      "transito": false,
+      "frentes": [
+        "consumidor"
+      ],
+      "trilha": "Consórcio",
+      "prioridade": true,
+      "fase": "Execução (coletiva)",
+      "score": 414
+    },
+    {
+      "numero": "57980807720268090051",
+      "numeroFmt": "5798080-77.2026.8.09.0051",
+      "tribunal": "TJGO",
+      "tribunalLabel": "Goiás · TJGO",
+      "uf": "GO",
+      "justica": "Estadual",
+      "grau": "G1",
+      "classeCod": 15160,
+      "classe": "Cumprimento de Sentença de Ações Coletivas",
+      "assuntos": [
+        "Consórcio"
+      ],
+      "assuntosTxt": "Consórcio",
+      "orgao": "Gabinete da Central de Cumprimento de Sentença Cível - Juiz 2",
+      "sistema": "Eproc",
+      "ajuizadoBR": "24/08/2026",
+      "ajuizadoSort": "20260824",
+      "ultMov": "Expedida/Certificada",
+      "ultMovData": "2026-09-23",
+      "transito": false,
+      "frentes": [
+        "consumidor"
+      ],
+      "trilha": "Consórcio",
+      "prioridade": true,
+      "fase": "Execução (coletiva)",
+      "score": 414
+    },
+    {
+      "numero": "57956721620268090051",
+      "numeroFmt": "5795672-16.2026.8.09.0051",
+      "tribunal": "TJGO",
+      "tribunalLabel": "Goiás · TJGO",
+      "uf": "GO",
+      "justica": "Estadual",
+      "grau": "G1",
+      "classeCod": 15160,
+      "classe": "Cumprimento de Sentença de Ações Coletivas",
+      "assuntos": [
+        "Consórcio"
+      ],
+      "assuntosTxt": "Consórcio",
+      "orgao": "4ª Vara Cível, Família e Sucessões",
+      "sistema": "Eproc",
+      "ajuizadoBR": "24/08/2026",
+      "ajuizadoSort": "20260824",
+      "ultMov": "Conclusão",
+      "ultMovData": "2026-08-31",
+      "transito": false,
+      "frentes": [
+        "consumidor"
+      ],
+      "trilha": "Consórcio",
+      "prioridade": true,
+      "fase": "Execução (coletiva)",
+      "score": 414
+    },
+    {
+      "numero": "57850255920268090051",
+      "numeroFmt": "5785025-59.2026.8.09.0051",
+      "tribunal": "TJGO",
+      "tribunalLabel": "Goiás · TJGO",
+      "uf": "GO",
+      "justica": "Estadual",
+      "grau": "G1",
+      "classeCod": 15160,
+      "classe": "Cumprimento de Sentença de Ações Coletivas",
+      "assuntos": [
+        "Consórcio"
+      ],
+      "assuntosTxt": "Consórcio",
+      "orgao": "Gabinete da Central de Cumprimento de Sentença Cível - Juiz 1",
+      "sistema": "Eproc",
+      "ajuizadoBR": "20/08/2026",
+      "ajuizadoSort": "20260820",
+      "ultMov": "Conclusão",
+      "ultMovData": "2026-09-18",
+      "transito": false,
+      "frentes": [
+        "consumidor"
+      ],
+      "trilha": "Consórcio",
+      "prioridade": true,
+      "fase": "Execução (coletiva)",
+      "score": 414
+    },
+    {
+      "numero": "57818107520268090051",
+      "numeroFmt": "5781810-75.2026.8.09.0051",
+      "tribunal": "TJGO",
+      "tribunalLabel": "Goiás · TJGO",
+      "uf": "GO",
+      "justica": "Estadual",
+      "grau": "G1",
+      "classeCod": 15160,
+      "classe": "Cumprimento de Sentença de Ações Coletivas",
+      "assuntos": [
+        "Consórcio"
+      ],
+      "assuntosTxt": "Consórcio",
+      "orgao": "Gabinete da Central de Cumprimento de Sentença Cível - Juiz 4",
+      "sistema": "Eproc",
+      "ajuizadoBR": "19/08/2026",
+      "ajuizadoSort": "20260819",
+      "ultMov": "Confirmada",
+      "ultMovData": "2026-09-28",
+      "transito": false,
+      "frentes": [
+        "consumidor"
+      ],
+      "trilha": "Consórcio",
+      "prioridade": true,
+      "fase": "Execução (coletiva)",
+      "score": 414
+    },
+    {
+      "numero": "57801868820268090051",
+      "numeroFmt": "5780186-88.2026.8.09.0051",
+      "tribunal": "TJGO",
+      "tribunalLabel": "Goiás · TJGO",
+      "uf": "GO",
+      "justica": "Estadual",
+      "grau": "G1",
+      "classeCod": 15160,
+      "classe": "Cumprimento de Sentença de Ações Coletivas",
+      "assuntos": [
+        "Consórcio"
+      ],
+      "assuntosTxt": "Consórcio",
+      "orgao": "Gabinete da Central de Cumprimento de Sentenca Civel - Juiz 8",
+      "sistema": "Eproc",
+      "ajuizadoBR": "19/08/2026",
+      "ajuizadoSort": "20260819",
+      "ultMov": "Confirmada",
+      "ultMovData": "2026-09-25",
+      "transito": false,
+      "frentes": [
+        "consumidor"
+      ],
+      "trilha": "Consórcio",
+      "prioridade": true,
+      "fase": "Execução (coletiva)",
+      "score": 414
+    },
+    {
+      "numero": "57801626020268090051",
+      "numeroFmt": "5780162-60.2026.8.09.0051",
+      "tribunal": "TJGO",
+      "tribunalLabel": "Goiás · TJGO",
+      "uf": "GO",
+      "justica": "Estadual",
+      "grau": "G1",
+      "classeCod": 15160,
+      "classe": "Cumprimento de Sentença de Ações Coletivas",
+      "assuntos": [
+        "Consórcio"
+      ],
+      "assuntosTxt": "Consórcio",
+      "orgao": "Gabinete da Central de Cumprimento de Sentença Cível - Juiz 2",
+      "sistema": "Eproc",
+      "ajuizadoBR": "19/08/2026",
+      "ajuizadoSort": "20260819",
+      "ultMov": "Confirmada",
+      "ultMovData": "2026-08-26",
+      "transito": false,
+      "frentes": [
+        "consumidor"
+      ],
+      "trilha": "Consórcio",
+      "prioridade": true,
+      "fase": "Execução (coletiva)",
+      "score": 414
+    },
+    {
+      "numero": "57776240920268090051",
+      "numeroFmt": "5777624-09.2026.8.09.0051",
+      "tribunal": "TJGO",
+      "tribunalLabel": "Goiás · TJGO",
+      "uf": "GO",
+      "justica": "Estadual",
+      "grau": "G1",
+      "classeCod": 15160,
+      "classe": "Cumprimento de Sentença de Ações Coletivas",
+      "assuntos": [
+        "Consórcio"
+      ],
+      "assuntosTxt": "Consórcio",
+      "orgao": "5ª Vara Cível",
+      "sistema": "Eproc",
+      "ajuizadoBR": "18/08/2026",
+      "ajuizadoSort": "20260818",
+      "ultMov": "Conclusão",
+      "ultMovData": "2026-09-29",
+      "transito": false,
+      "frentes": [
+        "consumidor"
+      ],
+      "trilha": "Consórcio",
+      "prioridade": true,
+      "fase": "Execução (coletiva)",
+      "score": 414
+    },
+    {
+      "numero": "57764462520268090051",
+      "numeroFmt": "5776446-25.2026.8.09.0051",
+      "tribunal": "TJGO",
+      "tribunalLabel": "Goiás · TJGO",
+      "uf": "GO",
+      "justica": "Estadual",
+      "grau": "G1",
+      "classeCod": 15160,
+      "classe": "Cumprimento de Sentença de Ações Coletivas",
+      "assuntos": [
+        "Consórcio"
+      ],
+      "assuntosTxt": "Consórcio",
+      "orgao": "Gabinete da Central de Cumprimento de Sentença Cível - Juiz 1",
+      "sistema": "Eproc",
+      "ajuizadoBR": "18/08/2026",
+      "ajuizadoSort": "20260818",
+      "ultMov": "Confirmada",
+      "ultMovData": "2026-08-26",
+      "transito": false,
+      "frentes": [
+        "consumidor"
+      ],
+      "trilha": "Consórcio",
+      "prioridade": true,
+      "fase": "Execução (coletiva)",
+      "score": 414
+    },
+    {
+      "numero": "57746777920268090051",
+      "numeroFmt": "5774677-79.2026.8.09.0051",
+      "tribunal": "TJGO",
+      "tribunalLabel": "Goiás · TJGO",
+      "uf": "GO",
+      "justica": "Estadual",
+      "grau": "G1",
+      "classeCod": 15160,
+      "classe": "Cumprimento de Sentença de Ações Coletivas",
+      "assuntos": [
+        "Consórcio"
+      ],
+      "assuntosTxt": "Consórcio",
+      "orgao": "Gabinete da Central de Cumprimento de Sentença Cível - Juiz 7",
+      "sistema": "Eproc",
+      "ajuizadoBR": "18/08/2026",
+      "ajuizadoSort": "20260818",
+      "ultMov": "Petição",
+      "ultMovData": "2026-09-24",
+      "transito": false,
+      "frentes": [
+        "consumidor"
+      ],
+      "trilha": "Consórcio",
+      "prioridade": true,
+      "fase": "Execução (coletiva)",
+      "score": 414
+    },
+    {
+      "numero": "57743053320268090051",
+      "numeroFmt": "5774305-33.2026.8.09.0051",
+      "tribunal": "TJGO",
+      "tribunalLabel": "Goiás · TJGO",
+      "uf": "GO",
+      "justica": "Estadual",
+      "grau": "G1",
+      "classeCod": 15160,
+      "classe": "Cumprimento de Sentença de Ações Coletivas",
+      "assuntos": [
+        "Consórcio"
+      ],
+      "assuntosTxt": "Consórcio",
+      "orgao": "Gabinete da Central de Cumprimento de Sentença Cível - Juiz 6",
+      "sistema": "Eproc",
+      "ajuizadoBR": "18/08/2026",
+      "ajuizadoSort": "20260818",
+      "ultMov": "Confirmada",
+      "ultMovData": "2026-09-23",
+      "transito": false,
+      "frentes": [
+        "consumidor"
+      ],
+      "trilha": "Consórcio",
+      "prioridade": true,
+      "fase": "Execução (coletiva)",
+      "score": 414
+    },
+    {
+      "numero": "57740499020268090051",
+      "numeroFmt": "5774049-90.2026.8.09.0051",
+      "tribunal": "TJGO",
+      "tribunalLabel": "Goiás · TJGO",
+      "uf": "GO",
+      "justica": "Estadual",
+      "grau": "G1",
+      "classeCod": 15160,
+      "classe": "Cumprimento de Sentença de Ações Coletivas",
+      "assuntos": [
+        "Consórcio"
+      ],
+      "assuntosTxt": "Consórcio",
+      "orgao": "Gabinete da Central de Cumprimento de Sentença Cível - Juiz 1",
+      "sistema": "Eproc",
+      "ajuizadoBR": "18/08/2026",
+      "ajuizadoSort": "20260818",
+      "ultMov": "Conclusão",
+      "ultMovData": "2026-09-28",
+      "transito": false,
+      "frentes": [
+        "consumidor"
+      ],
+      "trilha": "Consórcio",
+      "prioridade": true,
+      "fase": "Execução (coletiva)",
+      "score": 414
+    },
+    {
+      "numero": "57740281720268090051",
+      "numeroFmt": "5774028-17.2026.8.09.0051",
+      "tribunal": "TJGO",
+      "tribunalLabel": "Goiás · TJGO",
+      "uf": "GO",
+      "justica": "Estadual",
+      "grau": "G1",
+      "classeCod": 15160,
+      "classe": "Cumprimento de Sentença de Ações Coletivas",
+      "assuntos": [
+        "Consórcio"
+      ],
+      "assuntosTxt": "Consórcio",
+      "orgao": "Gabinete da Central de Cumprimento de Sentença Cível - Juiz 6",
+      "sistema": "Eproc",
+      "ajuizadoBR": "18/08/2026",
+      "ajuizadoSort": "20260818",
+      "ultMov": "Confirmada",
+      "ultMovData": "2026-09-24",
+      "transito": false,
+      "frentes": [
+        "consumidor"
+      ],
+      "trilha": "Consórcio",
+      "prioridade": true,
+      "fase": "Execução (coletiva)",
+      "score": 414
+    },
+    {
+      "numero": "57712897120268090051",
+      "numeroFmt": "5771289-71.2026.8.09.0051",
+      "tribunal": "TJGO",
+      "tribunalLabel": "Goiás · TJGO",
+      "uf": "GO",
+      "justica": "Estadual",
+      "grau": "G1",
+      "classeCod": 15160,
+      "classe": "Cumprimento de Sentença de Ações Coletivas",
+      "assuntos": [
+        "Consórcio"
+      ],
+      "assuntosTxt": "Consórcio",
+      "orgao": "13ª Vara Cível e Ambiental",
+      "sistema": "Eproc",
+      "ajuizadoBR": "17/08/2026",
+      "ajuizadoSort": "20260817",
+      "ultMov": "Documento",
+      "ultMovData": "2026-09-23",
+      "transito": false,
+      "frentes": [
+        "consumidor"
+      ],
+      "trilha": "Consórcio",
+      "prioridade": true,
+      "fase": "Execução (coletiva)",
+      "score": 414
+    },
+    {
+      "numero": "57705968720268090051",
+      "numeroFmt": "5770596-87.2026.8.09.0051",
+      "tribunal": "TJGO",
+      "tribunalLabel": "Goiás · TJGO",
+      "uf": "GO",
+      "justica": "Estadual",
+      "grau": "G1",
+      "classeCod": 15160,
+      "classe": "Cumprimento de Sentença de Ações Coletivas",
+      "assuntos": [
+        "Consórcio"
+      ],
+      "assuntosTxt": "Consórcio",
+      "orgao": "Gabinete da Central de Cumprimento de Sentença Cível - Juiz 5",
+      "sistema": "Eproc",
+      "ajuizadoBR": "17/08/2026",
+      "ajuizadoSort": "20260817",
+      "ultMov": "Confirmada",
+      "ultMovData": "2026-09-24",
+      "transito": false,
+      "frentes": [
+        "consumidor"
+      ],
+      "trilha": "Consórcio",
+      "prioridade": true,
+      "fase": "Execução (coletiva)",
+      "score": 414
+    },
+    {
+      "numero": "57705751420268090051",
+      "numeroFmt": "5770575-14.2026.8.09.0051",
+      "tribunal": "TJGO",
+      "tribunalLabel": "Goiás · TJGO",
+      "uf": "GO",
+      "justica": "Estadual",
+      "grau": "G1",
+      "classeCod": 15160,
+      "classe": "Cumprimento de Sentença de Ações Coletivas",
+      "assuntos": [
+        "Consórcio"
+      ],
+      "assuntosTxt": "Consórcio",
+      "orgao": "Gabinete da Central de Cumprimento de Sentença Cível - Juiz 7",
+      "sistema": "Eproc",
+      "ajuizadoBR": "17/08/2026",
+      "ajuizadoSort": "20260817",
       "ultMov": "Confirmada",
       "ultMovData": "2026-09-30",
       "transito": false,
       "frentes": [
-        "servidores"
+        "consumidor"
       ],
-      "trilha": "Servidores estaduais",
+      "trilha": "Consórcio",
       "prioridade": true,
       "fase": "Execução (coletiva)",
-      "score": 414,
-      "stale": true
+      "score": 414
     },
     {
-      "numero": "59604422620268090051",
-      "numeroFmt": "5960442-26.2026.8.09.0051",
+      "numero": "57705154120268090051",
+      "numeroFmt": "5770515-41.2026.8.09.0051",
       "tribunal": "TJGO",
       "tribunalLabel": "Goiás · TJGO",
       "uf": "GO",
@@ -2434,29 +1341,259 @@
       "classeCod": 15160,
       "classe": "Cumprimento de Sentença de Ações Coletivas",
       "assuntos": [
-        "Piso Salarial",
-        "Fazenda Pública"
+        "Consórcio"
       ],
-      "assuntosTxt": "Piso Salarial; Fazenda Pública",
-      "orgao": "4ª Vara da Fazenda Pública Estadual",
+      "assuntosTxt": "Consórcio",
+      "orgao": "Gabinete da Central de Cumprimento de Sentença Cível - Juiz 4",
       "sistema": "Eproc",
-      "ajuizadoBR": "24/09/2026",
-      "ajuizadoSort": "20260924",
+      "ajuizadoBR": "17/08/2026",
+      "ajuizadoSort": "20260817",
+      "ultMov": "Petição",
+      "ultMovData": "2026-09-30",
+      "transito": false,
+      "frentes": [
+        "consumidor"
+      ],
+      "trilha": "Consórcio",
+      "prioridade": true,
+      "fase": "Execução (coletiva)",
+      "score": 414
+    },
+    {
+      "numero": "57704998720268090051",
+      "numeroFmt": "5770499-87.2026.8.09.0051",
+      "tribunal": "TJGO",
+      "tribunalLabel": "Goiás · TJGO",
+      "uf": "GO",
+      "justica": "Estadual",
+      "grau": "G1",
+      "classeCod": 15160,
+      "classe": "Cumprimento de Sentença de Ações Coletivas",
+      "assuntos": [
+        "Consórcio"
+      ],
+      "assuntosTxt": "Consórcio",
+      "orgao": "Gabinete da Central de Cumprimento de Sentença Cível - Juiz 2",
+      "sistema": "Eproc",
+      "ajuizadoBR": "17/08/2026",
+      "ajuizadoSort": "20260817",
+      "ultMov": "Confirmada",
+      "ultMovData": "2026-09-22",
+      "transito": false,
+      "frentes": [
+        "consumidor"
+      ],
+      "trilha": "Consórcio",
+      "prioridade": true,
+      "fase": "Execução (coletiva)",
+      "score": 414
+    },
+    {
+      "numero": "57704609020268090051",
+      "numeroFmt": "5770460-90.2026.8.09.0051",
+      "tribunal": "TJGO",
+      "tribunalLabel": "Goiás · TJGO",
+      "uf": "GO",
+      "justica": "Estadual",
+      "grau": "G1",
+      "classeCod": 15160,
+      "classe": "Cumprimento de Sentença de Ações Coletivas",
+      "assuntos": [
+        "Consórcio"
+      ],
+      "assuntosTxt": "Consórcio",
+      "orgao": "Gabinete da Central de Cumprimento de Sentença Cível - Juiz 4",
+      "sistema": "Eproc",
+      "ajuizadoBR": "17/08/2026",
+      "ajuizadoSort": "20260817",
+      "ultMov": "Petição",
+      "ultMovData": "2026-09-29",
+      "transito": false,
+      "frentes": [
+        "consumidor"
+      ],
+      "trilha": "Consórcio",
+      "prioridade": true,
+      "fase": "Execução (coletiva)",
+      "score": 414
+    },
+    {
+      "numero": "57692189620268090051",
+      "numeroFmt": "5769218-96.2026.8.09.0051",
+      "tribunal": "TJGO",
+      "tribunalLabel": "Goiás · TJGO",
+      "uf": "GO",
+      "justica": "Estadual",
+      "grau": "G1",
+      "classeCod": 15160,
+      "classe": "Cumprimento de Sentença de Ações Coletivas",
+      "assuntos": [
+        "Consórcio"
+      ],
+      "assuntosTxt": "Consórcio",
+      "orgao": "Gabinete da Central de Cumprimento de Sentença Cível - Juiz 6",
+      "sistema": "Eproc",
+      "ajuizadoBR": "17/08/2026",
+      "ajuizadoSort": "20260817",
+      "ultMov": "Confirmada",
+      "ultMovData": "2026-09-24",
+      "transito": false,
+      "frentes": [
+        "consumidor"
+      ],
+      "trilha": "Consórcio",
+      "prioridade": true,
+      "fase": "Execução (coletiva)",
+      "score": 414
+    },
+    {
+      "numero": "57643914220268090051",
+      "numeroFmt": "5764391-42.2026.8.09.0051",
+      "tribunal": "TJGO",
+      "tribunalLabel": "Goiás · TJGO",
+      "uf": "GO",
+      "justica": "Estadual",
+      "grau": "G1",
+      "classeCod": 15160,
+      "classe": "Cumprimento de Sentença de Ações Coletivas",
+      "assuntos": [
+        "Consórcio"
+      ],
+      "assuntosTxt": "Consórcio",
+      "orgao": "Gabinete da Central de Cumprimento de Sentença Cível - Juiz 7",
+      "sistema": "Eproc",
+      "ajuizadoBR": "14/08/2026",
+      "ajuizadoSort": "20260814",
+      "ultMov": "Petição",
+      "ultMovData": "2026-09-23",
+      "transito": false,
+      "frentes": [
+        "consumidor"
+      ],
+      "trilha": "Consórcio",
+      "prioridade": true,
+      "fase": "Execução (coletiva)",
+      "score": 414
+    },
+    {
+      "numero": "57634647620268090051",
+      "numeroFmt": "5763464-76.2026.8.09.0051",
+      "tribunal": "TJGO",
+      "tribunalLabel": "Goiás · TJGO",
+      "uf": "GO",
+      "justica": "Estadual",
+      "grau": "G1",
+      "classeCod": 15160,
+      "classe": "Cumprimento de Sentença de Ações Coletivas",
+      "assuntos": [
+        "Consórcio"
+      ],
+      "assuntosTxt": "Consórcio",
+      "orgao": "Gabinete da Central de Cumprimento de Sentença Cível - Juiz 7",
+      "sistema": "Eproc",
+      "ajuizadoBR": "14/08/2026",
+      "ajuizadoSort": "20260814",
+      "ultMov": "Confirmada",
+      "ultMovData": "2026-08-21",
+      "transito": false,
+      "frentes": [
+        "consumidor"
+      ],
+      "trilha": "Consórcio",
+      "prioridade": true,
+      "fase": "Execução (coletiva)",
+      "score": 414
+    },
+    {
+      "numero": "57625917620268090051",
+      "numeroFmt": "5762591-76.2026.8.09.0051",
+      "tribunal": "TJGO",
+      "tribunalLabel": "Goiás · TJGO",
+      "uf": "GO",
+      "justica": "Estadual",
+      "grau": "G1",
+      "classeCod": 15160,
+      "classe": "Cumprimento de Sentença de Ações Coletivas",
+      "assuntos": [
+        "Consórcio"
+      ],
+      "assuntosTxt": "Consórcio",
+      "orgao": "Gabinete da Central de Cumprimento de Sentença Cível - Juiz 1",
+      "sistema": "Eproc",
+      "ajuizadoBR": "14/08/2026",
+      "ajuizadoSort": "20260814",
+      "ultMov": "Conclusão",
+      "ultMovData": "2026-09-25",
+      "transito": false,
+      "frentes": [
+        "consumidor"
+      ],
+      "trilha": "Consórcio",
+      "prioridade": true,
+      "fase": "Execução (coletiva)",
+      "score": 414
+    },
+    {
+      "numero": "57624791020268090051",
+      "numeroFmt": "5762479-10.2026.8.09.0051",
+      "tribunal": "TJGO",
+      "tribunalLabel": "Goiás · TJGO",
+      "uf": "GO",
+      "justica": "Estadual",
+      "grau": "G1",
+      "classeCod": 15160,
+      "classe": "Cumprimento de Sentença de Ações Coletivas",
+      "assuntos": [
+        "Consórcio"
+      ],
+      "assuntosTxt": "Consórcio",
+      "orgao": "Gabinete da Central de Cumprimento de Sentença Cível - Juiz 4",
+      "sistema": "Eproc",
+      "ajuizadoBR": "14/08/2026",
+      "ajuizadoSort": "20260814",
+      "ultMov": "Petição",
+      "ultMovData": "2026-09-29",
+      "transito": false,
+      "frentes": [
+        "consumidor"
+      ],
+      "trilha": "Consórcio",
+      "prioridade": true,
+      "fase": "Execução (coletiva)",
+      "score": 414
+    },
+    {
+      "numero": "57542566820268090051",
+      "numeroFmt": "5754256-68.2026.8.09.0051",
+      "tribunal": "TJGO",
+      "tribunalLabel": "Goiás · TJGO",
+      "uf": "GO",
+      "justica": "Estadual",
+      "grau": "G1",
+      "classeCod": 15160,
+      "classe": "Cumprimento de Sentença de Ações Coletivas",
+      "assuntos": [
+        "Consórcio"
+      ],
+      "assuntosTxt": "Consórcio",
+      "orgao": "13ª Vara Cível e Ambiental",
+      "sistema": "Eproc",
+      "ajuizadoBR": "12/08/2026",
+      "ajuizadoSort": "20260812",
       "ultMov": "Confirmada",
       "ultMovData": "2026-09-30",
       "transito": false,
       "frentes": [
-        "servidores"
+        "consumidor"
       ],
-      "trilha": "Servidores estaduais",
+      "trilha": "Consórcio",
       "prioridade": true,
       "fase": "Execução (coletiva)",
-      "score": 414,
-      "stale": true
+      "score": 414
     },
     {
-      "numero": "59601634020268090051",
-      "numeroFmt": "5960163-40.2026.8.09.0051",
+      "numero": "57525955420268090051",
+      "numeroFmt": "5752595-54.2026.8.09.0051",
       "tribunal": "TJGO",
       "tribunalLabel": "Goiás · TJGO",
       "uf": "GO",
@@ -2465,29 +1602,201 @@
       "classeCod": 15160,
       "classe": "Cumprimento de Sentença de Ações Coletivas",
       "assuntos": [
-        "Piso Salarial",
-        "Fazenda Pública"
+        "Consórcio"
       ],
-      "assuntosTxt": "Piso Salarial; Fazenda Pública",
-      "orgao": "8ª Vara da Fazenda Pública Estadual",
+      "assuntosTxt": "Consórcio",
+      "orgao": "Gabinete da Central de Cumprimento de Sentenca Civel - Juiz 8",
       "sistema": "Eproc",
-      "ajuizadoBR": "24/09/2026",
-      "ajuizadoSort": "20260924",
+      "ajuizadoBR": "12/08/2026",
+      "ajuizadoSort": "20260812",
+      "ultMov": "Confirmada",
+      "ultMovData": "2026-09-12",
+      "transito": false,
+      "frentes": [
+        "consumidor"
+      ],
+      "trilha": "Consórcio",
+      "prioridade": true,
+      "fase": "Execução (coletiva)",
+      "score": 414
+    },
+    {
+      "numero": "57483353120268090051",
+      "numeroFmt": "5748335-31.2026.8.09.0051",
+      "tribunal": "TJGO",
+      "tribunalLabel": "Goiás · TJGO",
+      "uf": "GO",
+      "justica": "Estadual",
+      "grau": "G1",
+      "classeCod": 15160,
+      "classe": "Cumprimento de Sentença de Ações Coletivas",
+      "assuntos": [
+        "Consórcio"
+      ],
+      "assuntosTxt": "Consórcio",
+      "orgao": "Gabinete da Central de Cumprimento de Sentença Cível - Juiz 7",
+      "sistema": "Eproc",
+      "ajuizadoBR": "11/08/2026",
+      "ajuizadoSort": "20260811",
+      "ultMov": "Petição",
+      "ultMovData": "2026-09-30",
+      "transito": false,
+      "frentes": [
+        "consumidor"
+      ],
+      "trilha": "Consórcio",
+      "prioridade": true,
+      "fase": "Execução (coletiva)",
+      "score": 414
+    },
+    {
+      "numero": "57481421620268090051",
+      "numeroFmt": "5748142-16.2026.8.09.0051",
+      "tribunal": "TJGO",
+      "tribunalLabel": "Goiás · TJGO",
+      "uf": "GO",
+      "justica": "Estadual",
+      "grau": "G1",
+      "classeCod": 15160,
+      "classe": "Cumprimento de Sentença de Ações Coletivas",
+      "assuntos": [
+        "Consórcio"
+      ],
+      "assuntosTxt": "Consórcio",
+      "orgao": "Gabinete da Central de Cumprimento de Sentença Cível - Juiz 4",
+      "sistema": "Eproc",
+      "ajuizadoBR": "11/08/2026",
+      "ajuizadoSort": "20260811",
+      "ultMov": "Petição",
+      "ultMovData": "2026-09-29",
+      "transito": false,
+      "frentes": [
+        "consumidor"
+      ],
+      "trilha": "Consórcio",
+      "prioridade": true,
+      "fase": "Execução (coletiva)",
+      "score": 414
+    },
+    {
+      "numero": "57481031920268090051",
+      "numeroFmt": "5748103-19.2026.8.09.0051",
+      "tribunal": "TJGO",
+      "tribunalLabel": "Goiás · TJGO",
+      "uf": "GO",
+      "justica": "Estadual",
+      "grau": "G1",
+      "classeCod": 15160,
+      "classe": "Cumprimento de Sentença de Ações Coletivas",
+      "assuntos": [
+        "Consórcio"
+      ],
+      "assuntosTxt": "Consórcio",
+      "orgao": "Gabinete da Central de Cumprimento de Sentença Cível - Juiz 3",
+      "sistema": "Eproc",
+      "ajuizadoBR": "11/08/2026",
+      "ajuizadoSort": "20260811",
+      "ultMov": "Confirmada",
+      "ultMovData": "2026-09-21",
+      "transito": false,
+      "frentes": [
+        "consumidor"
+      ],
+      "trilha": "Consórcio",
+      "prioridade": true,
+      "fase": "Execução (coletiva)",
+      "score": 414
+    },
+    {
+      "numero": "57479785120268090051",
+      "numeroFmt": "5747978-51.2026.8.09.0051",
+      "tribunal": "TJGO",
+      "tribunalLabel": "Goiás · TJGO",
+      "uf": "GO",
+      "justica": "Estadual",
+      "grau": "G1",
+      "classeCod": 15160,
+      "classe": "Cumprimento de Sentença de Ações Coletivas",
+      "assuntos": [
+        "Consórcio"
+      ],
+      "assuntosTxt": "Consórcio",
+      "orgao": "Gabinete da Central de Cumprimento de Sentença Cível - Juiz 7",
+      "sistema": "Eproc",
+      "ajuizadoBR": "11/08/2026",
+      "ajuizadoSort": "20260811",
+      "ultMov": "Confirmada",
+      "ultMovData": "2026-09-21",
+      "transito": false,
+      "frentes": [
+        "consumidor"
+      ],
+      "trilha": "Consórcio",
+      "prioridade": true,
+      "fase": "Execução (coletiva)",
+      "score": 414
+    },
+    {
+      "numero": "57478867320268090051",
+      "numeroFmt": "5747886-73.2026.8.09.0051",
+      "tribunal": "TJGO",
+      "tribunalLabel": "Goiás · TJGO",
+      "uf": "GO",
+      "justica": "Estadual",
+      "grau": "G1",
+      "classeCod": 15160,
+      "classe": "Cumprimento de Sentença de Ações Coletivas",
+      "assuntos": [
+        "Consórcio"
+      ],
+      "assuntosTxt": "Consórcio",
+      "orgao": "5ª Vara Cível e de Arbitragem",
+      "sistema": "Eproc",
+      "ajuizadoBR": "11/08/2026",
+      "ajuizadoSort": "20260811",
+      "ultMov": "Definitivo",
+      "ultMovData": "2026-09-23",
+      "transito": false,
+      "frentes": [
+        "consumidor"
+      ],
+      "trilha": "Consórcio",
+      "prioridade": true,
+      "fase": "Execução (coletiva)",
+      "score": 414
+    },
+    {
+      "numero": "57439261220268090051",
+      "numeroFmt": "5743926-12.2026.8.09.0051",
+      "tribunal": "TJGO",
+      "tribunalLabel": "Goiás · TJGO",
+      "uf": "GO",
+      "justica": "Estadual",
+      "grau": "G1",
+      "classeCod": 15160,
+      "classe": "Cumprimento de Sentença de Ações Coletivas",
+      "assuntos": [
+        "Consórcio"
+      ],
+      "assuntosTxt": "Consórcio",
+      "orgao": "Gabinete da Central de Cumprimento de Sentenca Civel - Juiz 8",
+      "sistema": "Eproc",
+      "ajuizadoBR": "10/08/2026",
+      "ajuizadoSort": "20260810",
       "ultMov": "Confirmada",
       "ultMovData": "2026-09-30",
       "transito": false,
       "frentes": [
-        "servidores"
+        "consumidor"
       ],
-      "trilha": "Servidores estaduais",
+      "trilha": "Consórcio",
       "prioridade": true,
       "fase": "Execução (coletiva)",
-      "score": 414,
-      "stale": true
+      "score": 414
     },
     {
-      "numero": "59600915320268090051",
-      "numeroFmt": "5960091-53.2026.8.09.0051",
+      "numero": "57432921620268090051",
+      "numeroFmt": "5743292-16.2026.8.09.0051",
       "tribunal": "TJGO",
       "tribunalLabel": "Goiás · TJGO",
       "uf": "GO",
@@ -2496,59 +1805,27 @@
       "classeCod": 15160,
       "classe": "Cumprimento de Sentença de Ações Coletivas",
       "assuntos": [
-        "Piso Salarial"
+        "Consórcio"
       ],
-      "assuntosTxt": "Piso Salarial",
-      "orgao": "8ª Vara da Fazenda Pública Estadual",
+      "assuntosTxt": "Consórcio",
+      "orgao": "Gabinete da Central de Cumprimento de Sentença Cível - Juiz 2",
       "sistema": "Eproc",
-      "ajuizadoBR": "24/09/2026",
-      "ajuizadoSort": "20260924",
-      "ultMov": "Conclusão",
-      "ultMovData": "2026-09-29",
-      "transito": false,
-      "frentes": [
-        "servidores"
-      ],
-      "trilha": "Servidores estaduais",
-      "prioridade": true,
-      "fase": "Execução (coletiva)",
-      "score": 414,
-      "stale": true
-    },
-    {
-      "numero": "59600733220268090051",
-      "numeroFmt": "5960073-32.2026.8.09.0051",
-      "tribunal": "TJGO",
-      "tribunalLabel": "Goiás · TJGO",
-      "uf": "GO",
-      "justica": "Estadual",
-      "grau": "G1",
-      "classeCod": 15160,
-      "classe": "Cumprimento de Sentença de Ações Coletivas",
-      "assuntos": [
-        "Piso Salarial",
-        "Fazenda Pública"
-      ],
-      "assuntosTxt": "Piso Salarial; Fazenda Pública",
-      "orgao": "4ª Vara da Fazenda Pública Estadual",
-      "sistema": "Eproc",
-      "ajuizadoBR": "24/09/2026",
-      "ajuizadoSort": "20260924",
+      "ajuizadoBR": "10/08/2026",
+      "ajuizadoSort": "20260810",
       "ultMov": "Confirmada",
-      "ultMovData": "2026-09-29",
+      "ultMovData": "2026-09-18",
       "transito": false,
       "frentes": [
-        "servidores"
+        "consumidor"
       ],
-      "trilha": "Servidores estaduais",
+      "trilha": "Consórcio",
       "prioridade": true,
       "fase": "Execução (coletiva)",
-      "score": 414,
-      "stale": true
+      "score": 414
     },
     {
-      "numero": "59600672520268090051",
-      "numeroFmt": "5960067-25.2026.8.09.0051",
+      "numero": "57432567120268090051",
+      "numeroFmt": "5743256-71.2026.8.09.0051",
       "tribunal": "TJGO",
       "tribunalLabel": "Goiás · TJGO",
       "uf": "GO",
@@ -2557,28 +1834,27 @@
       "classeCod": 15160,
       "classe": "Cumprimento de Sentença de Ações Coletivas",
       "assuntos": [
-        "Piso Salarial"
+        "Consórcio"
       ],
-      "assuntosTxt": "Piso Salarial",
-      "orgao": "8ª Vara da Fazenda Pública Estadual",
+      "assuntosTxt": "Consórcio",
+      "orgao": "Gabinete da Central de Cumprimento de Sentença Cível - Juiz 4",
       "sistema": "Eproc",
-      "ajuizadoBR": "24/09/2026",
-      "ajuizadoSort": "20260924",
-      "ultMov": "Conclusão",
-      "ultMovData": "2026-09-29",
+      "ajuizadoBR": "10/08/2026",
+      "ajuizadoSort": "20260810",
+      "ultMov": "Petição",
+      "ultMovData": "2026-09-22",
       "transito": false,
       "frentes": [
-        "servidores"
+        "consumidor"
       ],
-      "trilha": "Servidores estaduais",
+      "trilha": "Consórcio",
       "prioridade": true,
       "fase": "Execução (coletiva)",
-      "score": 414,
-      "stale": true
+      "score": 414
     },
     {
-      "numero": "59600785420268090051",
-      "numeroFmt": "5960078-54.2026.8.09.0051",
+      "numero": "57392987720268090051",
+      "numeroFmt": "5739298-77.2026.8.09.0051",
       "tribunal": "TJGO",
       "tribunalLabel": "Goiás · TJGO",
       "uf": "GO",
@@ -2587,180 +1863,27 @@
       "classeCod": 15160,
       "classe": "Cumprimento de Sentença de Ações Coletivas",
       "assuntos": [
-        "Piso Salarial"
+        "Consórcio"
       ],
-      "assuntosTxt": "Piso Salarial",
-      "orgao": "8ª Vara da Fazenda Pública Estadual",
+      "assuntosTxt": "Consórcio",
+      "orgao": "Gabinete da Central de Cumprimento de Sentença Cível - Juiz 5",
       "sistema": "Eproc",
-      "ajuizadoBR": "24/09/2026",
-      "ajuizadoSort": "20260924",
-      "ultMov": "Conclusão",
-      "ultMovData": "2026-09-29",
-      "transito": false,
-      "frentes": [
-        "servidores"
-      ],
-      "trilha": "Servidores estaduais",
-      "prioridade": true,
-      "fase": "Execução (coletiva)",
-      "score": 414,
-      "stale": true
-    },
-    {
-      "numero": "59600647020268090051",
-      "numeroFmt": "5960064-70.2026.8.09.0051",
-      "tribunal": "TJGO",
-      "tribunalLabel": "Goiás · TJGO",
-      "uf": "GO",
-      "justica": "Estadual",
-      "grau": "G1",
-      "classeCod": 15161,
-      "classe": "Cumprimento Provisório de Sentença de Ações Coletivas",
-      "assuntos": [
-        "Piso Salarial"
-      ],
-      "assuntosTxt": "Piso Salarial",
-      "orgao": "8ª Vara da Fazenda Pública Estadual",
-      "sistema": "Eproc",
-      "ajuizadoBR": "24/09/2026",
-      "ajuizadoSort": "20260924",
-      "ultMov": "Confirmada",
-      "ultMovData": "2026-09-29",
-      "transito": false,
-      "frentes": [
-        "servidores"
-      ],
-      "trilha": "Servidores estaduais",
-      "prioridade": true,
-      "fase": "Execução (coletiva)",
-      "score": 414,
-      "stale": true
-    },
-    {
-      "numero": "59600620320268090051",
-      "numeroFmt": "5960062-03.2026.8.09.0051",
-      "tribunal": "TJGO",
-      "tribunalLabel": "Goiás · TJGO",
-      "uf": "GO",
-      "justica": "Estadual",
-      "grau": "G1",
-      "classeCod": 15160,
-      "classe": "Cumprimento de Sentença de Ações Coletivas",
-      "assuntos": [
-        "Piso Salarial"
-      ],
-      "assuntosTxt": "Piso Salarial",
-      "orgao": "8ª Vara da Fazenda Pública Estadual",
-      "sistema": "Eproc",
-      "ajuizadoBR": "24/09/2026",
-      "ajuizadoSort": "20260924",
-      "ultMov": "Confirmada",
-      "ultMovData": "2026-09-29",
-      "transito": false,
-      "frentes": [
-        "servidores"
-      ],
-      "trilha": "Servidores estaduais",
-      "prioridade": true,
-      "fase": "Execução (coletiva)",
-      "score": 414,
-      "stale": true
-    },
-    {
-      "numero": "59593008420268090051",
-      "numeroFmt": "5959300-84.2026.8.09.0051",
-      "tribunal": "TJGO",
-      "tribunalLabel": "Goiás · TJGO",
-      "uf": "GO",
-      "justica": "Estadual",
-      "grau": "G1",
-      "classeCod": 15160,
-      "classe": "Cumprimento de Sentença de Ações Coletivas",
-      "assuntos": [
-        "Piso Salarial",
-        "Fazenda Pública"
-      ],
-      "assuntosTxt": "Piso Salarial; Fazenda Pública",
-      "orgao": "8ª Vara da Fazenda Pública Estadual",
-      "sistema": "Eproc",
-      "ajuizadoBR": "23/09/2026",
-      "ajuizadoSort": "20260923",
-      "ultMov": "Conclusão",
-      "ultMovData": "2026-09-29",
-      "transito": false,
-      "frentes": [
-        "servidores"
-      ],
-      "trilha": "Servidores estaduais",
-      "prioridade": true,
-      "fase": "Execução (coletiva)",
-      "score": 414,
-      "stale": true
-    },
-    {
-      "numero": "59591223820268090051",
-      "numeroFmt": "5959122-38.2026.8.09.0051",
-      "tribunal": "TJGO",
-      "tribunalLabel": "Goiás · TJGO",
-      "uf": "GO",
-      "justica": "Estadual",
-      "grau": "G1",
-      "classeCod": 15160,
-      "classe": "Cumprimento de Sentença de Ações Coletivas",
-      "assuntos": [
-        "Piso Salarial",
-        "Fazenda Pública"
-      ],
-      "assuntosTxt": "Piso Salarial; Fazenda Pública",
-      "orgao": "8ª Vara da Fazenda Pública Estadual",
-      "sistema": "Eproc",
-      "ajuizadoBR": "23/09/2026",
-      "ajuizadoSort": "20260923",
-      "ultMov": "Conclusão",
-      "ultMovData": "2026-09-29",
-      "transito": false,
-      "frentes": [
-        "servidores"
-      ],
-      "trilha": "Servidores estaduais",
-      "prioridade": true,
-      "fase": "Execução (coletiva)",
-      "score": 414,
-      "stale": true
-    },
-    {
-      "numero": "59589067720268090051",
-      "numeroFmt": "5958906-77.2026.8.09.0051",
-      "tribunal": "TJGO",
-      "tribunalLabel": "Goiás · TJGO",
-      "uf": "GO",
-      "justica": "Estadual",
-      "grau": "G1",
-      "classeCod": 15160,
-      "classe": "Cumprimento de Sentença de Ações Coletivas",
-      "assuntos": [
-        "Fazenda Pública"
-      ],
-      "assuntosTxt": "Fazenda Pública",
-      "orgao": "8ª Vara da Fazenda Pública Estadual",
-      "sistema": "Eproc",
-      "ajuizadoBR": "23/09/2026",
-      "ajuizadoSort": "20260923",
-      "ultMov": "Desistência",
+      "ajuizadoBR": "07/08/2026",
+      "ajuizadoSort": "20260807",
+      "ultMov": "Petição",
       "ultMovData": "2026-09-30",
       "transito": false,
       "frentes": [
-        "servidores"
+        "consumidor"
       ],
-      "trilha": "Servidores estaduais",
+      "trilha": "Consórcio",
       "prioridade": true,
       "fase": "Execução (coletiva)",
-      "score": 414,
-      "stale": true
+      "score": 414
     },
     {
-      "numero": "59584320920268090051",
-      "numeroFmt": "5958432-09.2026.8.09.0051",
+      "numero": "57295952520268090051",
+      "numeroFmt": "5729595-25.2026.8.09.0051",
       "tribunal": "TJGO",
       "tribunalLabel": "Goiás · TJGO",
       "uf": "GO",
@@ -2769,28 +1892,27 @@
       "classeCod": 15160,
       "classe": "Cumprimento de Sentença de Ações Coletivas",
       "assuntos": [
-        "Revisão Geral Anual (Mora do Executivo - inciso X, art. 37, CF 1988)"
+        "Consórcio"
       ],
-      "assuntosTxt": "Revisão Geral Anual (Mora do Executivo - inciso X, art. 37, CF 1988)",
-      "orgao": "4ª Vara da Fazenda Pública Estadual",
+      "assuntosTxt": "Consórcio",
+      "orgao": "Gabinete da Central de Cumprimento de Sentença Cível - Juiz 1",
       "sistema": "Eproc",
-      "ajuizadoBR": "23/09/2026",
-      "ajuizadoSort": "20260923",
-      "ultMov": "Confirmada",
-      "ultMovData": "2026-09-29",
+      "ajuizadoBR": "05/08/2026",
+      "ajuizadoSort": "20260805",
+      "ultMov": "Conclusão",
+      "ultMovData": "2026-09-25",
       "transito": false,
       "frentes": [
-        "servidores"
+        "consumidor"
       ],
-      "trilha": "Servidores estaduais",
+      "trilha": "Consórcio",
       "prioridade": true,
       "fase": "Execução (coletiva)",
-      "score": 414,
-      "stale": true
+      "score": 414
     },
     {
-      "numero": "59583662920268090051",
-      "numeroFmt": "5958366-29.2026.8.09.0051",
+      "numero": "57166198320268090051",
+      "numeroFmt": "5716619-83.2026.8.09.0051",
       "tribunal": "TJGO",
       "tribunalLabel": "Goiás · TJGO",
       "uf": "GO",
@@ -2799,28 +1921,27 @@
       "classeCod": 15160,
       "classe": "Cumprimento de Sentença de Ações Coletivas",
       "assuntos": [
-        "Piso Salarial"
+        "Consórcio"
       ],
-      "assuntosTxt": "Piso Salarial",
-      "orgao": "8ª Vara da Fazenda Pública Estadual",
+      "assuntosTxt": "Consórcio",
+      "orgao": "20ª Vara Cível",
       "sistema": "Eproc",
-      "ajuizadoBR": "23/09/2026",
-      "ajuizadoSort": "20260923",
-      "ultMov": "Confirmada",
-      "ultMovData": "2026-09-29",
+      "ajuizadoBR": "03/08/2026",
+      "ajuizadoSort": "20260803",
+      "ultMov": "Expedida/Certificada",
+      "ultMovData": "2026-09-28",
       "transito": false,
       "frentes": [
-        "servidores"
+        "consumidor"
       ],
-      "trilha": "Servidores estaduais",
+      "trilha": "Consórcio",
       "prioridade": true,
       "fase": "Execução (coletiva)",
-      "score": 414,
-      "stale": true
+      "score": 414
     },
     {
-      "numero": "59582510820268090051",
-      "numeroFmt": "5958251-08.2026.8.09.0051",
+      "numero": "57073294420268090051",
+      "numeroFmt": "5707329-44.2026.8.09.0051",
       "tribunal": "TJGO",
       "tribunalLabel": "Goiás · TJGO",
       "uf": "GO",
@@ -2829,28 +1950,27 @@
       "classeCod": 15160,
       "classe": "Cumprimento de Sentença de Ações Coletivas",
       "assuntos": [
-        "Revisão Geral Anual (Mora do Executivo - inciso X, art. 37, CF 1988)"
+        "Consórcio"
       ],
-      "assuntosTxt": "Revisão Geral Anual (Mora do Executivo - inciso X, art. 37, CF 1988)",
-      "orgao": "4ª Vara da Fazenda Pública Estadual",
+      "assuntosTxt": "Consórcio",
+      "orgao": "Gabinete da Central de Cumprimento de Sentenca Civel - Juiz 8",
       "sistema": "Eproc",
-      "ajuizadoBR": "23/09/2026",
-      "ajuizadoSort": "20260923",
+      "ajuizadoBR": "30/07/2026",
+      "ajuizadoSort": "20260730",
       "ultMov": "Confirmada",
-      "ultMovData": "2026-09-29",
+      "ultMovData": "2026-09-24",
       "transito": false,
       "frentes": [
-        "servidores"
+        "consumidor"
       ],
-      "trilha": "Servidores estaduais",
+      "trilha": "Consórcio",
       "prioridade": true,
       "fase": "Execução (coletiva)",
-      "score": 414,
-      "stale": true
+      "score": 414
     },
     {
-      "numero": "59582164820268090051",
-      "numeroFmt": "5958216-48.2026.8.09.0051",
+      "numero": "57070600520268090051",
+      "numeroFmt": "5707060-05.2026.8.09.0051",
       "tribunal": "TJGO",
       "tribunalLabel": "Goiás · TJGO",
       "uf": "GO",
@@ -2859,28 +1979,27 @@
       "classeCod": 15160,
       "classe": "Cumprimento de Sentença de Ações Coletivas",
       "assuntos": [
-        "Revisão Geral Anual (Mora do Executivo - inciso X, art. 37, CF 1988)"
+        "Consórcio"
       ],
-      "assuntosTxt": "Revisão Geral Anual (Mora do Executivo - inciso X, art. 37, CF 1988)",
-      "orgao": "4ª Vara da Fazenda Pública Estadual",
+      "assuntosTxt": "Consórcio",
+      "orgao": "Gabinete da Central de Cumprimento de Sentença Cível - Juiz 5",
       "sistema": "Eproc",
-      "ajuizadoBR": "23/09/2026",
-      "ajuizadoSort": "20260923",
-      "ultMov": "Confirmada",
-      "ultMovData": "2026-09-29",
+      "ajuizadoBR": "30/07/2026",
+      "ajuizadoSort": "20260730",
+      "ultMov": "Petição",
+      "ultMovData": "2026-09-30",
       "transito": false,
       "frentes": [
-        "servidores"
+        "consumidor"
       ],
-      "trilha": "Servidores estaduais",
+      "trilha": "Consórcio",
       "prioridade": true,
       "fase": "Execução (coletiva)",
-      "score": 414,
-      "stale": true
+      "score": 414
     },
     {
-      "numero": "59581922020268090051",
-      "numeroFmt": "5958192-20.2026.8.09.0051",
+      "numero": "57070298220268090051",
+      "numeroFmt": "5707029-82.2026.8.09.0051",
       "tribunal": "TJGO",
       "tribunalLabel": "Goiás · TJGO",
       "uf": "GO",
@@ -2889,29 +2008,27 @@
       "classeCod": 15160,
       "classe": "Cumprimento de Sentença de Ações Coletivas",
       "assuntos": [
-        "Piso Salarial",
-        "Fazenda Pública"
+        "Consórcio"
       ],
-      "assuntosTxt": "Piso Salarial; Fazenda Pública",
-      "orgao": "8ª Vara da Fazenda Pública Estadual",
+      "assuntosTxt": "Consórcio",
+      "orgao": "Gabinete da Central de Cumprimento de Sentenca Civel - Juiz 8",
       "sistema": "Eproc",
-      "ajuizadoBR": "23/09/2026",
-      "ajuizadoSort": "20260923",
-      "ultMov": "Confirmada",
+      "ajuizadoBR": "30/07/2026",
+      "ajuizadoSort": "20260730",
+      "ultMov": "Expedida/Certificada",
       "ultMovData": "2026-09-29",
       "transito": false,
       "frentes": [
-        "servidores"
+        "consumidor"
       ],
-      "trilha": "Servidores estaduais",
+      "trilha": "Consórcio",
       "prioridade": true,
       "fase": "Execução (coletiva)",
-      "score": 414,
-      "stale": true
+      "score": 414
     },
     {
-      "numero": "59580268520268090051",
-      "numeroFmt": "5958026-85.2026.8.09.0051",
+      "numero": "57068920320268090051",
+      "numeroFmt": "5706892-03.2026.8.09.0051",
       "tribunal": "TJGO",
       "tribunalLabel": "Goiás · TJGO",
       "uf": "GO",
@@ -2920,28 +2037,27 @@
       "classeCod": 15160,
       "classe": "Cumprimento de Sentença de Ações Coletivas",
       "assuntos": [
-        "Revisão Geral Anual (Mora do Executivo - inciso X, art. 37, CF 1988)"
+        "Consórcio"
       ],
-      "assuntosTxt": "Revisão Geral Anual (Mora do Executivo - inciso X, art. 37, CF 1988)",
-      "orgao": "4ª Vara da Fazenda Pública Estadual",
+      "assuntosTxt": "Consórcio",
+      "orgao": "Gabinete da Central de Cumprimento de Sentença Cível - Juiz 3",
       "sistema": "Eproc",
-      "ajuizadoBR": "23/09/2026",
-      "ajuizadoSort": "20260923",
-      "ultMov": "Confirmada",
+      "ajuizadoBR": "30/07/2026",
+      "ajuizadoSort": "20260730",
+      "ultMov": "Petição",
       "ultMovData": "2026-09-29",
       "transito": false,
       "frentes": [
-        "servidores"
+        "consumidor"
       ],
-      "trilha": "Servidores estaduais",
+      "trilha": "Consórcio",
       "prioridade": true,
       "fase": "Execução (coletiva)",
-      "score": 414,
-      "stale": true
+      "score": 414
     },
     {
-      "numero": "59579921320268090051",
-      "numeroFmt": "5957992-13.2026.8.09.0051",
+      "numero": "57007317420268090051",
+      "numeroFmt": "5700731-74.2026.8.09.0051",
       "tribunal": "TJGO",
       "tribunalLabel": "Goiás · TJGO",
       "uf": "GO",
@@ -2950,28 +2066,27 @@
       "classeCod": 15160,
       "classe": "Cumprimento de Sentença de Ações Coletivas",
       "assuntos": [
-        "Piso Salarial"
+        "Consórcio"
       ],
-      "assuntosTxt": "Piso Salarial",
-      "orgao": "8ª Vara da Fazenda Pública Estadual",
+      "assuntosTxt": "Consórcio",
+      "orgao": "Gabinete da Central de Cumprimento de Sentença Cível - Juiz 5",
       "sistema": "Eproc",
-      "ajuizadoBR": "23/09/2026",
-      "ajuizadoSort": "20260923",
-      "ultMov": "Confirmada",
-      "ultMovData": "2026-09-29",
+      "ajuizadoBR": "29/07/2026",
+      "ajuizadoSort": "20260729",
+      "ultMov": "Conclusão",
+      "ultMovData": "2026-09-25",
       "transito": false,
       "frentes": [
-        "servidores"
+        "consumidor"
       ],
-      "trilha": "Servidores estaduais",
+      "trilha": "Consórcio",
       "prioridade": true,
       "fase": "Execução (coletiva)",
-      "score": 414,
-      "stale": true
+      "score": 414
     },
     {
-      "numero": "59579757420268090051",
-      "numeroFmt": "5957975-74.2026.8.09.0051",
+      "numero": "57006425120268090051",
+      "numeroFmt": "5700642-51.2026.8.09.0051",
       "tribunal": "TJGO",
       "tribunalLabel": "Goiás · TJGO",
       "uf": "GO",
@@ -2980,28 +2095,27 @@
       "classeCod": 15160,
       "classe": "Cumprimento de Sentença de Ações Coletivas",
       "assuntos": [
-        "Revisão Geral Anual (Mora do Executivo - inciso X, art. 37, CF 1988)"
+        "Consórcio"
       ],
-      "assuntosTxt": "Revisão Geral Anual (Mora do Executivo - inciso X, art. 37, CF 1988)",
-      "orgao": "4ª Vara da Fazenda Pública Estadual",
+      "assuntosTxt": "Consórcio",
+      "orgao": "Gabinete da Central de Cumprimento de Sentença Cível - Juiz 3",
       "sistema": "Eproc",
-      "ajuizadoBR": "23/09/2026",
-      "ajuizadoSort": "20260923",
-      "ultMov": "Confirmada",
+      "ajuizadoBR": "29/07/2026",
+      "ajuizadoSort": "20260729",
+      "ultMov": "Expedida/Certificada",
       "ultMovData": "2026-09-29",
       "transito": false,
       "frentes": [
-        "servidores"
+        "consumidor"
       ],
-      "trilha": "Servidores estaduais",
+      "trilha": "Consórcio",
       "prioridade": true,
       "fase": "Execução (coletiva)",
-      "score": 414,
-      "stale": true
+      "score": 414
     },
     {
-      "numero": "59579237820268090051",
-      "numeroFmt": "5957923-78.2026.8.09.0051",
+      "numero": "57001193920268090051",
+      "numeroFmt": "5700119-39.2026.8.09.0051",
       "tribunal": "TJGO",
       "tribunalLabel": "Goiás · TJGO",
       "uf": "GO",
@@ -3010,28 +2124,27 @@
       "classeCod": 15160,
       "classe": "Cumprimento de Sentença de Ações Coletivas",
       "assuntos": [
-        "Piso Salarial"
+        "Consórcio"
       ],
-      "assuntosTxt": "Piso Salarial",
-      "orgao": "8ª Vara da Fazenda Pública Estadual",
+      "assuntosTxt": "Consórcio",
+      "orgao": "13ª Vara Cível e Ambiental",
       "sistema": "Eproc",
-      "ajuizadoBR": "23/09/2026",
-      "ajuizadoSort": "20260923",
-      "ultMov": "Confirmada",
-      "ultMovData": "2026-09-29",
+      "ajuizadoBR": "29/07/2026",
+      "ajuizadoSort": "20260729",
+      "ultMov": "Documento",
+      "ultMovData": "2026-08-17",
       "transito": false,
       "frentes": [
-        "servidores"
+        "consumidor"
       ],
-      "trilha": "Servidores estaduais",
+      "trilha": "Consórcio",
       "prioridade": true,
       "fase": "Execução (coletiva)",
-      "score": 414,
-      "stale": true
+      "score": 414
     },
     {
-      "numero": "59578978020268090051",
-      "numeroFmt": "5957897-80.2026.8.09.0051",
+      "numero": "56999331620268090051",
+      "numeroFmt": "5699933-16.2026.8.09.0051",
       "tribunal": "TJGO",
       "tribunalLabel": "Goiás · TJGO",
       "uf": "GO",
@@ -3040,25 +2153,777 @@
       "classeCod": 15160,
       "classe": "Cumprimento de Sentença de Ações Coletivas",
       "assuntos": [
-        "Piso Salarial",
-        "Fazenda Pública"
+        "Consórcio"
       ],
-      "assuntosTxt": "Piso Salarial; Fazenda Pública",
-      "orgao": "8ª Vara da Fazenda Pública Estadual",
+      "assuntosTxt": "Consórcio",
+      "orgao": "Gabinete da Central de Cumprimento de Sentença Cível - Juiz 7",
       "sistema": "Eproc",
-      "ajuizadoBR": "23/09/2026",
-      "ajuizadoSort": "20260923",
+      "ajuizadoBR": "29/07/2026",
+      "ajuizadoSort": "20260729",
       "ultMov": "Confirmada",
       "ultMovData": "2026-09-29",
       "transito": false,
       "frentes": [
-        "servidores"
+        "consumidor"
       ],
-      "trilha": "Servidores estaduais",
+      "trilha": "Consórcio",
       "prioridade": true,
       "fase": "Execução (coletiva)",
-      "score": 414,
-      "stale": true
+      "score": 414
+    },
+    {
+      "numero": "56998656620268090051",
+      "numeroFmt": "5699865-66.2026.8.09.0051",
+      "tribunal": "TJGO",
+      "tribunalLabel": "Goiás · TJGO",
+      "uf": "GO",
+      "justica": "Estadual",
+      "grau": "G1",
+      "classeCod": 15160,
+      "classe": "Cumprimento de Sentença de Ações Coletivas",
+      "assuntos": [
+        "Consórcio"
+      ],
+      "assuntosTxt": "Consórcio",
+      "orgao": "Gabinete da Central de Cumprimento de Sentença Cível - Juiz 6",
+      "sistema": "Eproc",
+      "ajuizadoBR": "29/07/2026",
+      "ajuizadoSort": "20260729",
+      "ultMov": "Confirmada",
+      "ultMovData": "2026-09-25",
+      "transito": false,
+      "frentes": [
+        "consumidor"
+      ],
+      "trilha": "Consórcio",
+      "prioridade": true,
+      "fase": "Execução (coletiva)",
+      "score": 414
+    },
+    {
+      "numero": "56970518120268090051",
+      "numeroFmt": "5697051-81.2026.8.09.0051",
+      "tribunal": "TJGO",
+      "tribunalLabel": "Goiás · TJGO",
+      "uf": "GO",
+      "justica": "Estadual",
+      "grau": "G1",
+      "classeCod": 15160,
+      "classe": "Cumprimento de Sentença de Ações Coletivas",
+      "assuntos": [
+        "Consórcio"
+      ],
+      "assuntosTxt": "Consórcio",
+      "orgao": "Gabinete da Central de Cumprimento de Sentença Cível - Juiz 5",
+      "sistema": "Eproc",
+      "ajuizadoBR": "28/07/2026",
+      "ajuizadoSort": "20260728",
+      "ultMov": "Confirmada",
+      "ultMovData": "2026-09-08",
+      "transito": false,
+      "frentes": [
+        "consumidor"
+      ],
+      "trilha": "Consórcio",
+      "prioridade": true,
+      "fase": "Execução (coletiva)",
+      "score": 414
+    },
+    {
+      "numero": "56926746720268090051",
+      "numeroFmt": "5692674-67.2026.8.09.0051",
+      "tribunal": "TJGO",
+      "tribunalLabel": "Goiás · TJGO",
+      "uf": "GO",
+      "justica": "Estadual",
+      "grau": "G1",
+      "classeCod": 15160,
+      "classe": "Cumprimento de Sentença de Ações Coletivas",
+      "assuntos": [
+        "Consórcio"
+      ],
+      "assuntosTxt": "Consórcio",
+      "orgao": "Gabinete da Central de Cumprimento de Sentença Cível - Juiz 2",
+      "sistema": "Eproc",
+      "ajuizadoBR": "27/07/2026",
+      "ajuizadoSort": "20260727",
+      "ultMov": "Expedida/Certificada",
+      "ultMovData": "2026-09-29",
+      "transito": false,
+      "frentes": [
+        "consumidor"
+      ],
+      "trilha": "Consórcio",
+      "prioridade": true,
+      "fase": "Execução (coletiva)",
+      "score": 414
+    },
+    {
+      "numero": "56871031820268090051",
+      "numeroFmt": "5687103-18.2026.8.09.0051",
+      "tribunal": "TJGO",
+      "tribunalLabel": "Goiás · TJGO",
+      "uf": "GO",
+      "justica": "Estadual",
+      "grau": "G1",
+      "classeCod": 15160,
+      "classe": "Cumprimento de Sentença de Ações Coletivas",
+      "assuntos": [
+        "Consórcio"
+      ],
+      "assuntosTxt": "Consórcio",
+      "orgao": "18ª Vara Cível e Ambiental",
+      "sistema": "Eproc",
+      "ajuizadoBR": "24/07/2026",
+      "ajuizadoSort": "20260724",
+      "ultMov": "Devolvidos os autos",
+      "ultMovData": "2026-09-08",
+      "transito": false,
+      "frentes": [
+        "consumidor"
+      ],
+      "trilha": "Consórcio",
+      "prioridade": true,
+      "fase": "Execução (coletiva)",
+      "score": 414
+    },
+    {
+      "numero": "56870910420268090051",
+      "numeroFmt": "5687091-04.2026.8.09.0051",
+      "tribunal": "TJGO",
+      "tribunalLabel": "Goiás · TJGO",
+      "uf": "GO",
+      "justica": "Estadual",
+      "grau": "G1",
+      "classeCod": 15160,
+      "classe": "Cumprimento de Sentença de Ações Coletivas",
+      "assuntos": [
+        "Consórcio"
+      ],
+      "assuntosTxt": "Consórcio",
+      "orgao": "Gabinete da Central de Cumprimento de Sentença Cível - Juiz 7",
+      "sistema": "Eproc",
+      "ajuizadoBR": "24/07/2026",
+      "ajuizadoSort": "20260724",
+      "ultMov": "Petição",
+      "ultMovData": "2026-09-30",
+      "transito": false,
+      "frentes": [
+        "consumidor"
+      ],
+      "trilha": "Consórcio",
+      "prioridade": true,
+      "fase": "Execução (coletiva)",
+      "score": 414
+    },
+    {
+      "numero": "56848392820268090051",
+      "numeroFmt": "5684839-28.2026.8.09.0051",
+      "tribunal": "TJGO",
+      "tribunalLabel": "Goiás · TJGO",
+      "uf": "GO",
+      "justica": "Estadual",
+      "grau": "G1",
+      "classeCod": 15160,
+      "classe": "Cumprimento de Sentença de Ações Coletivas",
+      "assuntos": [
+        "Consórcio"
+      ],
+      "assuntosTxt": "Consórcio",
+      "orgao": "Gabinete da Central de Cumprimento de Sentença Cível - Juiz 2",
+      "sistema": "Eproc",
+      "ajuizadoBR": "24/07/2026",
+      "ajuizadoSort": "20260724",
+      "ultMov": "Documento",
+      "ultMovData": "2026-09-25",
+      "transito": false,
+      "frentes": [
+        "consumidor"
+      ],
+      "trilha": "Consórcio",
+      "prioridade": true,
+      "fase": "Execução (coletiva)",
+      "score": 414
+    },
+    {
+      "numero": "56847977620268090051",
+      "numeroFmt": "5684797-76.2026.8.09.0051",
+      "tribunal": "TJGO",
+      "tribunalLabel": "Goiás · TJGO",
+      "uf": "GO",
+      "justica": "Estadual",
+      "grau": "G1",
+      "classeCod": 15160,
+      "classe": "Cumprimento de Sentença de Ações Coletivas",
+      "assuntos": [
+        "Consórcio"
+      ],
+      "assuntosTxt": "Consórcio",
+      "orgao": "Gabinete da Central de Cumprimento de Sentenca Civel - Juiz 8",
+      "sistema": "Eproc",
+      "ajuizadoBR": "24/07/2026",
+      "ajuizadoSort": "20260724",
+      "ultMov": "Petição",
+      "ultMovData": "2026-09-24",
+      "transito": false,
+      "frentes": [
+        "consumidor"
+      ],
+      "trilha": "Consórcio",
+      "prioridade": true,
+      "fase": "Execução (coletiva)",
+      "score": 414
+    },
+    {
+      "numero": "56845170820268090051",
+      "numeroFmt": "5684517-08.2026.8.09.0051",
+      "tribunal": "TJGO",
+      "tribunalLabel": "Goiás · TJGO",
+      "uf": "GO",
+      "justica": "Estadual",
+      "grau": "G1",
+      "classeCod": 15160,
+      "classe": "Cumprimento de Sentença de Ações Coletivas",
+      "assuntos": [
+        "Consórcio"
+      ],
+      "assuntosTxt": "Consórcio",
+      "orgao": "Gabinete da Central de Cumprimento de Sentenca Civel - Juiz 8",
+      "sistema": "Eproc",
+      "ajuizadoBR": "24/07/2026",
+      "ajuizadoSort": "20260724",
+      "ultMov": "Expedida/certificada",
+      "ultMovData": "2026-09-29",
+      "transito": false,
+      "frentes": [
+        "consumidor"
+      ],
+      "trilha": "Consórcio",
+      "prioridade": true,
+      "fase": "Execução (coletiva)",
+      "score": 414
+    },
+    {
+      "numero": "56844877020268090051",
+      "numeroFmt": "5684487-70.2026.8.09.0051",
+      "tribunal": "TJGO",
+      "tribunalLabel": "Goiás · TJGO",
+      "uf": "GO",
+      "justica": "Estadual",
+      "grau": "G1",
+      "classeCod": 15160,
+      "classe": "Cumprimento de Sentença de Ações Coletivas",
+      "assuntos": [
+        "Consórcio"
+      ],
+      "assuntosTxt": "Consórcio",
+      "orgao": "Gabinete da Central de Cumprimento de Sentença Cível - Juiz 4",
+      "sistema": "Eproc",
+      "ajuizadoBR": "24/07/2026",
+      "ajuizadoSort": "20260724",
+      "ultMov": "Petição",
+      "ultMovData": "2026-09-30",
+      "transito": false,
+      "frentes": [
+        "consumidor"
+      ],
+      "trilha": "Consórcio",
+      "prioridade": true,
+      "fase": "Execução (coletiva)",
+      "score": 414
+    },
+    {
+      "numero": "56841715720268090051",
+      "numeroFmt": "5684171-57.2026.8.09.0051",
+      "tribunal": "TJGO",
+      "tribunalLabel": "Goiás · TJGO",
+      "uf": "GO",
+      "justica": "Estadual",
+      "grau": "G1",
+      "classeCod": 15160,
+      "classe": "Cumprimento de Sentença de Ações Coletivas",
+      "assuntos": [
+        "Consórcio"
+      ],
+      "assuntosTxt": "Consórcio",
+      "orgao": "Gabinete da Central de Cumprimento de Sentença Cível - Juiz 1",
+      "sistema": "Eproc",
+      "ajuizadoBR": "24/07/2026",
+      "ajuizadoSort": "20260724",
+      "ultMov": "Expedida/Certificada",
+      "ultMovData": "2026-09-29",
+      "transito": false,
+      "frentes": [
+        "consumidor"
+      ],
+      "trilha": "Consórcio",
+      "prioridade": true,
+      "fase": "Execução (coletiva)",
+      "score": 414
+    },
+    {
+      "numero": "56796852920268090051",
+      "numeroFmt": "5679685-29.2026.8.09.0051",
+      "tribunal": "TJGO",
+      "tribunalLabel": "Goiás · TJGO",
+      "uf": "GO",
+      "justica": "Estadual",
+      "grau": "G1",
+      "classeCod": 15160,
+      "classe": "Cumprimento de Sentença de Ações Coletivas",
+      "assuntos": [
+        "Consórcio"
+      ],
+      "assuntosTxt": "Consórcio",
+      "orgao": "Gabinete da Central de Cumprimento de Sentença Cível - Juiz 7",
+      "sistema": "Eproc",
+      "ajuizadoBR": "23/07/2026",
+      "ajuizadoSort": "20260723",
+      "ultMov": "Confirmada",
+      "ultMovData": "2026-08-25",
+      "transito": false,
+      "frentes": [
+        "consumidor"
+      ],
+      "trilha": "Consórcio",
+      "prioridade": true,
+      "fase": "Execução (coletiva)",
+      "score": 414
+    },
+    {
+      "numero": "56793613920268090051",
+      "numeroFmt": "5679361-39.2026.8.09.0051",
+      "tribunal": "TJGO",
+      "tribunalLabel": "Goiás · TJGO",
+      "uf": "GO",
+      "justica": "Estadual",
+      "grau": "G1",
+      "classeCod": 15160,
+      "classe": "Cumprimento de Sentença de Ações Coletivas",
+      "assuntos": [
+        "Consórcio"
+      ],
+      "assuntosTxt": "Consórcio",
+      "orgao": "Gabinete da Central de Cumprimento de Sentença Cível - Juiz 4",
+      "sistema": "Eproc",
+      "ajuizadoBR": "23/07/2026",
+      "ajuizadoSort": "20260723",
+      "ultMov": "Confirmada",
+      "ultMovData": "2026-09-28",
+      "transito": false,
+      "frentes": [
+        "consumidor"
+      ],
+      "trilha": "Consórcio",
+      "prioridade": true,
+      "fase": "Execução (coletiva)",
+      "score": 414
+    },
+    {
+      "numero": "56709466720268090051",
+      "numeroFmt": "5670946-67.2026.8.09.0051",
+      "tribunal": "TJGO",
+      "tribunalLabel": "Goiás · TJGO",
+      "uf": "GO",
+      "justica": "Estadual",
+      "grau": "G1",
+      "classeCod": 15160,
+      "classe": "Cumprimento de Sentença de Ações Coletivas",
+      "assuntos": [
+        "Consórcio"
+      ],
+      "assuntosTxt": "Consórcio",
+      "orgao": "Gabinete da Central de Cumprimento de Sentença Cível - Juiz 4",
+      "sistema": "Eproc",
+      "ajuizadoBR": "21/07/2026",
+      "ajuizadoSort": "20260721",
+      "ultMov": "Confirmada",
+      "ultMovData": "2026-09-28",
+      "transito": false,
+      "frentes": [
+        "consumidor"
+      ],
+      "trilha": "Consórcio",
+      "prioridade": true,
+      "fase": "Execução (coletiva)",
+      "score": 414
+    },
+    {
+      "numero": "56698199420268090051",
+      "numeroFmt": "5669819-94.2026.8.09.0051",
+      "tribunal": "TJGO",
+      "tribunalLabel": "Goiás · TJGO",
+      "uf": "GO",
+      "justica": "Estadual",
+      "grau": "G1",
+      "classeCod": 15160,
+      "classe": "Cumprimento de Sentença de Ações Coletivas",
+      "assuntos": [
+        "Consórcio"
+      ],
+      "assuntosTxt": "Consórcio",
+      "orgao": "Gabinete da Central de Cumprimento de Sentença Cível - Juiz 4",
+      "sistema": "Eproc",
+      "ajuizadoBR": "21/07/2026",
+      "ajuizadoSort": "20260721",
+      "ultMov": "Confirmada",
+      "ultMovData": "2026-09-28",
+      "transito": false,
+      "frentes": [
+        "consumidor"
+      ],
+      "trilha": "Consórcio",
+      "prioridade": true,
+      "fase": "Execução (coletiva)",
+      "score": 414
+    },
+    {
+      "numero": "56677101020268090051",
+      "numeroFmt": "5667710-10.2026.8.09.0051",
+      "tribunal": "TJGO",
+      "tribunalLabel": "Goiás · TJGO",
+      "uf": "GO",
+      "justica": "Estadual",
+      "grau": "G1",
+      "classeCod": 15160,
+      "classe": "Cumprimento de Sentença de Ações Coletivas",
+      "assuntos": [
+        "Consórcio"
+      ],
+      "assuntosTxt": "Consórcio",
+      "orgao": "Gabinete da Central de Cumprimento de Sentença Cível - Juiz 7",
+      "sistema": "Eproc",
+      "ajuizadoBR": "20/07/2026",
+      "ajuizadoSort": "20260720",
+      "ultMov": "Confirmada",
+      "ultMovData": "2026-09-08",
+      "transito": false,
+      "frentes": [
+        "consumidor"
+      ],
+      "trilha": "Consórcio",
+      "prioridade": true,
+      "fase": "Execução (coletiva)",
+      "score": 414
+    },
+    {
+      "numero": "56672320220268090051",
+      "numeroFmt": "5667232-02.2026.8.09.0051",
+      "tribunal": "TJGO",
+      "tribunalLabel": "Goiás · TJGO",
+      "uf": "GO",
+      "justica": "Estadual",
+      "grau": "G1",
+      "classeCod": 15160,
+      "classe": "Cumprimento de Sentença de Ações Coletivas",
+      "assuntos": [
+        "Consórcio"
+      ],
+      "assuntosTxt": "Consórcio",
+      "orgao": "Gabinete da Central de Cumprimento de Sentença Cível - Juiz 4",
+      "sistema": "Eproc",
+      "ajuizadoBR": "20/07/2026",
+      "ajuizadoSort": "20260720",
+      "ultMov": "Conclusão",
+      "ultMovData": "2026-08-25",
+      "transito": false,
+      "frentes": [
+        "consumidor"
+      ],
+      "trilha": "Consórcio",
+      "prioridade": true,
+      "fase": "Execução (coletiva)",
+      "score": 414
+    },
+    {
+      "numero": "56655830220268090051",
+      "numeroFmt": "5665583-02.2026.8.09.0051",
+      "tribunal": "TJGO",
+      "tribunalLabel": "Goiás · TJGO",
+      "uf": "GO",
+      "justica": "Estadual",
+      "grau": "G1",
+      "classeCod": 15160,
+      "classe": "Cumprimento de Sentença de Ações Coletivas",
+      "assuntos": [
+        "Consórcio"
+      ],
+      "assuntosTxt": "Consórcio",
+      "orgao": "Gabinete da Central de Cumprimento de Sentença Cível - Juiz 6",
+      "sistema": "Eproc",
+      "ajuizadoBR": "20/07/2026",
+      "ajuizadoSort": "20260720",
+      "ultMov": "Petição",
+      "ultMovData": "2026-09-23",
+      "transito": false,
+      "frentes": [
+        "consumidor"
+      ],
+      "trilha": "Consórcio",
+      "prioridade": true,
+      "fase": "Execução (coletiva)",
+      "score": 414
+    },
+    {
+      "numero": "56655561920268090051",
+      "numeroFmt": "5665556-19.2026.8.09.0051",
+      "tribunal": "TJGO",
+      "tribunalLabel": "Goiás · TJGO",
+      "uf": "GO",
+      "justica": "Estadual",
+      "grau": "G1",
+      "classeCod": 15160,
+      "classe": "Cumprimento de Sentença de Ações Coletivas",
+      "assuntos": [
+        "Consórcio"
+      ],
+      "assuntosTxt": "Consórcio",
+      "orgao": "Gabinete da Central de Cumprimento de Sentença Cível - Juiz 4",
+      "sistema": "Eproc",
+      "ajuizadoBR": "20/07/2026",
+      "ajuizadoSort": "20260720",
+      "ultMov": "Petição",
+      "ultMovData": "2026-09-30",
+      "transito": false,
+      "frentes": [
+        "consumidor"
+      ],
+      "trilha": "Consórcio",
+      "prioridade": true,
+      "fase": "Execução (coletiva)",
+      "score": 414
+    },
+    {
+      "numero": "56655328820268090051",
+      "numeroFmt": "5665532-88.2026.8.09.0051",
+      "tribunal": "TJGO",
+      "tribunalLabel": "Goiás · TJGO",
+      "uf": "GO",
+      "justica": "Estadual",
+      "grau": "G1",
+      "classeCod": 15160,
+      "classe": "Cumprimento de Sentença de Ações Coletivas",
+      "assuntos": [
+        "Consórcio"
+      ],
+      "assuntosTxt": "Consórcio",
+      "orgao": "Gabinete da Central de Cumprimento de Sentença Cível - Juiz 5",
+      "sistema": "Eproc",
+      "ajuizadoBR": "20/07/2026",
+      "ajuizadoSort": "20260720",
+      "ultMov": "Conclusão",
+      "ultMovData": "2026-09-29",
+      "transito": false,
+      "frentes": [
+        "consumidor"
+      ],
+      "trilha": "Consórcio",
+      "prioridade": true,
+      "fase": "Execução (coletiva)",
+      "score": 414
+    },
+    {
+      "numero": "56654340620268090051",
+      "numeroFmt": "5665434-06.2026.8.09.0051",
+      "tribunal": "TJGO",
+      "tribunalLabel": "Goiás · TJGO",
+      "uf": "GO",
+      "justica": "Estadual",
+      "grau": "G1",
+      "classeCod": 15160,
+      "classe": "Cumprimento de Sentença de Ações Coletivas",
+      "assuntos": [
+        "Consórcio"
+      ],
+      "assuntosTxt": "Consórcio",
+      "orgao": "Gabinete da Central de Cumprimento de Sentença Cível - Juiz 5",
+      "sistema": "Eproc",
+      "ajuizadoBR": "20/07/2026",
+      "ajuizadoSort": "20260720",
+      "ultMov": "Documento",
+      "ultMovData": "2026-09-16",
+      "transito": false,
+      "frentes": [
+        "consumidor"
+      ],
+      "trilha": "Consórcio",
+      "prioridade": true,
+      "fase": "Execução (coletiva)",
+      "score": 414
+    },
+    {
+      "numero": "56506623820268090051",
+      "numeroFmt": "5650662-38.2026.8.09.0051",
+      "tribunal": "TJGO",
+      "tribunalLabel": "Goiás · TJGO",
+      "uf": "GO",
+      "justica": "Estadual",
+      "grau": "G1",
+      "classeCod": 15160,
+      "classe": "Cumprimento de Sentença de Ações Coletivas",
+      "assuntos": [
+        "Consórcio"
+      ],
+      "assuntosTxt": "Consórcio",
+      "orgao": "Gabinete da Central de Cumprimento de Sentença Cível - Juiz 7",
+      "sistema": "Eproc",
+      "ajuizadoBR": "15/07/2026",
+      "ajuizadoSort": "20260715",
+      "ultMov": "Retificação de Classe Processual",
+      "ultMovData": "2026-09-29",
+      "transito": false,
+      "frentes": [
+        "consumidor"
+      ],
+      "trilha": "Consórcio",
+      "prioridade": true,
+      "fase": "Execução (coletiva)",
+      "score": 414
+    },
+    {
+      "numero": "56503826720268090051",
+      "numeroFmt": "5650382-67.2026.8.09.0051",
+      "tribunal": "TJGO",
+      "tribunalLabel": "Goiás · TJGO",
+      "uf": "GO",
+      "justica": "Estadual",
+      "grau": "G1",
+      "classeCod": 15160,
+      "classe": "Cumprimento de Sentença de Ações Coletivas",
+      "assuntos": [
+        "Consórcio"
+      ],
+      "assuntosTxt": "Consórcio",
+      "orgao": "5ª Vara Cível e de Arbitragem",
+      "sistema": "Eproc",
+      "ajuizadoBR": "15/07/2026",
+      "ajuizadoSort": "20260715",
+      "ultMov": "Conclusão",
+      "ultMovData": "2026-09-30",
+      "transito": false,
+      "frentes": [
+        "consumidor"
+      ],
+      "trilha": "Consórcio",
+      "prioridade": true,
+      "fase": "Execução (coletiva)",
+      "score": 414
+    },
+    {
+      "numero": "56332681820268090051",
+      "numeroFmt": "5633268-18.2026.8.09.0051",
+      "tribunal": "TJGO",
+      "tribunalLabel": "Goiás · TJGO",
+      "uf": "GO",
+      "justica": "Estadual",
+      "grau": "G1",
+      "classeCod": 15160,
+      "classe": "Cumprimento de Sentença de Ações Coletivas",
+      "assuntos": [
+        "Consórcio"
+      ],
+      "assuntosTxt": "Consórcio",
+      "orgao": "Gabinete da Central de Cumprimento de Sentença Cível - Juiz 7",
+      "sistema": "Eproc",
+      "ajuizadoBR": "10/07/2026",
+      "ajuizadoSort": "20260710",
+      "ultMov": "Petição",
+      "ultMovData": "2026-09-24",
+      "transito": false,
+      "frentes": [
+        "consumidor"
+      ],
+      "trilha": "Consórcio",
+      "prioridade": true,
+      "fase": "Execução (coletiva)",
+      "score": 414
+    },
+    {
+      "numero": "56254103320268090051",
+      "numeroFmt": "5625410-33.2026.8.09.0051",
+      "tribunal": "TJGO",
+      "tribunalLabel": "Goiás · TJGO",
+      "uf": "GO",
+      "justica": "Estadual",
+      "grau": "G1",
+      "classeCod": 15160,
+      "classe": "Cumprimento de Sentença de Ações Coletivas",
+      "assuntos": [
+        "Consórcio"
+      ],
+      "assuntosTxt": "Consórcio",
+      "orgao": "Gabinete da Central de Cumprimento de Sentença Cível - Juiz 5",
+      "sistema": "Eproc",
+      "ajuizadoBR": "08/07/2026",
+      "ajuizadoSort": "20260708",
+      "ultMov": "Expedida/certificada",
+      "ultMovData": "2026-09-30",
+      "transito": false,
+      "frentes": [
+        "consumidor"
+      ],
+      "trilha": "Consórcio",
+      "prioridade": true,
+      "fase": "Execução (coletiva)",
+      "score": 414
+    },
+    {
+      "numero": "56253531520268090051",
+      "numeroFmt": "5625353-15.2026.8.09.0051",
+      "tribunal": "TJGO",
+      "tribunalLabel": "Goiás · TJGO",
+      "uf": "GO",
+      "justica": "Estadual",
+      "grau": "G1",
+      "classeCod": 15160,
+      "classe": "Cumprimento de Sentença de Ações Coletivas",
+      "assuntos": [
+        "Consórcio"
+      ],
+      "assuntosTxt": "Consórcio",
+      "orgao": "Gabinete da Central de Cumprimento de Sentença Cível - Juiz 5",
+      "sistema": "Eproc",
+      "ajuizadoBR": "08/07/2026",
+      "ajuizadoSort": "20260708",
+      "ultMov": "Petição",
+      "ultMovData": "2026-09-25",
+      "transito": false,
+      "frentes": [
+        "consumidor"
+      ],
+      "trilha": "Consórcio",
+      "prioridade": true,
+      "fase": "Execução (coletiva)",
+      "score": 414
+    },
+    {
+      "numero": "56252431620268090051",
+      "numeroFmt": "5625243-16.2026.8.09.0051",
+      "tribunal": "TJGO",
+      "tribunalLabel": "Goiás · TJGO",
+      "uf": "GO",
+      "justica": "Estadual",
+      "grau": "G1",
+      "classeCod": 15160,
+      "classe": "Cumprimento de Sentença de Ações Coletivas",
+      "assuntos": [
+        "Consórcio"
+      ],
+      "assuntosTxt": "Consórcio",
+      "orgao": "Gabinete da Central de Cumprimento de Sentença Cível - Juiz 2",
+      "sistema": "Eproc",
+      "ajuizadoBR": "08/07/2026",
+      "ajuizadoSort": "20260708",
+      "ultMov": "Confirmada",
+      "ultMovData": "2026-09-12",
+      "transito": false,
+      "frentes": [
+        "consumidor"
+      ],
+      "trilha": "Consórcio",
+      "prioridade": true,
+      "fase": "Execução (coletiva)",
+      "score": 414
     },
     {
       "numero": "00447882820268272729",
@@ -6132,36 +5997,6 @@
       "prioridade": true,
       "fase": "Conhecimento",
       "score": 347,
-      "stale": true
-    },
-    {
-      "numero": "59834685320268090051",
-      "numeroFmt": "5983468-53.2026.8.09.0051",
-      "tribunal": "TJGO",
-      "tribunalLabel": "Goiás · TJGO",
-      "uf": "GO",
-      "justica": "Estadual",
-      "grau": "G1",
-      "classeCod": 119,
-      "classe": "Mandado de Segurança Coletivo",
-      "assuntos": [
-        "Classificação e/ou Preterição"
-      ],
-      "assuntosTxt": "Classificação e/ou Preterição",
-      "orgao": "4ª Vara da Faz. Púb. Mun. e de Reg. Púb.",
-      "sistema": "Eproc",
-      "ajuizadoBR": "29/09/2026",
-      "ajuizadoSort": "20260929",
-      "ultMov": "Documento",
-      "ultMovData": "2026-09-30",
-      "transito": false,
-      "frentes": [
-        "servidores"
-      ],
-      "trilha": "Servidores estaduais",
-      "prioridade": true,
-      "fase": "Conhecimento",
-      "score": 344,
       "stale": true
     },
     {
